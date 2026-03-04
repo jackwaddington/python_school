@@ -24,8 +24,8 @@ def ask_or_generate(question, prompt, llm):
 def main():
     print("Welcome to School Simulator!")
     print("-------------------------------")
-    host = input("Enter your Ollama address (e.g. localhost:11434): ")
-    model = input("Enter your model name (e.g. llama3.2, mistral): ")
+    host = input("Enter your Ollama address [localhost:11434]: ").strip() or "localhost:11434"
+    model = input("Enter your model name (e.g. mistral, llama3.2, phi3, gemma2:2b): ")
     llm = LLMClient(host, model)
     print(f"\nConnected to {model} at {host}")
 
@@ -91,14 +91,20 @@ def main():
         prompt += ' Format: [{"question": "...", "options": ["A) ...", "B) ...", "C) ...", "D) ..."], "answer": "A"}]'
     
         response = llm.generate(prompt)
+        response = response.strip()
+        response = response.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         print(repr(response))
 
         try:
             course.exam = json.loads(response)
             print(f"Generated exam for: {course.subject}")
         except json.JSONDecodeError:
-            print(f"Warning: could not parse exam JSON for {course.subject}, skipping")
-            course.exam = []
+            try:
+                course.exam = json.loads(response + "]")
+                print(f"Generated exam for: {course.subject} (fixed truncation)")
+            except json.JSONDecodeError:
+                print(f"Warning: could not parse exam JSON for {course.subject}, skipping")
+                course.exam = []
 
 # GENERATE STUDENTS
 
@@ -109,10 +115,15 @@ def main():
         prompt = "Generate 10 fictional students as a JSON array. Each student needs: first_name, last_name, pronouns, email, allergies, next_of_kin. "
         prompt += "Use realistic diverse names from different cultures. "
         prompt += f"Use {school.name.lower().replace(' ', '')}@school.com as email domain. "
-        prompt += "For allergies use None if no allergy. "
+        prompt += "For allergies use null if no allergy. "
         prompt += "Reply with ONLY the JSON array, no explanation, no markdown, no backticks."
 
         response = llm.generate(prompt)
+        response = response.strip()
+        response = response.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        response = response.replace(": None", ": null").replace(":None", ":null")
+
+        print(repr(response))
 
         try:
             students_data = json.loads(response)
