@@ -8,6 +8,7 @@ class School:
         self.description = description
         self.students = []
         self.courses = []
+        self.cohorts = []
         self.seats = seats
 
     def __str__(self):
