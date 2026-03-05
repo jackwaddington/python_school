@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Simulation output folders (timestamped) and loose output files
+[0-9]*/
+weekly_newsletters/
+monthly_newsletters/
+school_profile.txt
+students.csv
+weekly_stats.csv
