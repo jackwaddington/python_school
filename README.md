@@ -4,6 +4,8 @@ A terminal-based Python simulation of a school. A local LLM (Ollama) generates t
 
 Built as a learning project for OOP in Python, and a proof of concept that OOP can model surprisingly complex real-world logic.
 
+This project is complete. It expresses what I set out to explore — OOP, local LLMs, and newsletter design — and I'm moving on to other things. The remaining headroom is prompt optimisation, which isn't where my interest lies right now.
+
 ---
 
 ## Motivation
@@ -21,26 +23,40 @@ A second thread runs through this project: I've spent time making newsletters, a
 
 The approach here is to separate the two jobs cleanly: let the data tell you what happened (counts, sums, comparisons), then let the AI narrate it. The data comes first. The AI fills in the human voice around it.
 
-And hereforth we have a newsletter. You can tell your team to start their weekend early - the King is in town and the newsletter is scheduled to be sent.
+And hereforth we have a newsletter. You can tell your team to start their weekend early - the King is in town and the newsletter is scheduled to be sent, based on a bunch of stuff they did on Monday and Tuesday.
 
 ---
 
 ## Setup
 
-```bash
-cd ~/github/python_school
+### 1. Install Ollama and pull a model
 
-# Create and activate a virtual environment (first time only)
+```bash
+# Install Ollama (macOS)
+brew install ollama
+
+# Pull the recommended model (4.4GB)
+ollama pull mistral
+
+# Start the Ollama server
+ollama serve
+```
+
+### 2. Clone and run
+
+```bash
+git clone https://github.com/jackwaddington/python_school.git
+cd python_school
+
+# Create and activate a virtual environment
 python3 -m venv venv
 source venv/bin/activate
 pip install requests matplotlib pandas
 
-ollama serve   # if not already running
 python3 src/main.py
 ```
 
-**Tested with:** `mistral` (4.4GB). Other Ollama models (`llama3.2`, `phi3`, `gemma2:2b`) should work but are little tested.
-Ollama defaults to `localhost:11434`.
+Other models (`llama3.2`, `phi3`, `gemma2:2b`) should work but are little tested. Ollama defaults to `localhost:11434`.
 
 ---
 
