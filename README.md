@@ -119,7 +119,7 @@ Each run creates a timestamped folder:
 YYYYMMDD_HHMM_CitySchoolOfSubject/
     school_profile.txt
     weekly_stats.csv
-    graduates.csv
+    students.csv
     courses/
         Course_Name/
             material.txt
