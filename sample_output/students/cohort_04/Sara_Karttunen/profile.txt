@@ -1,0 +1,7 @@
+NAME:        Sara Karttunen
+PRONOUNS:    she/her
+EMAIL:       sara.karttunen@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juha', 'last_name': 'Karttunen'}

@@ -1,0 +1,7 @@
+NAME:        Sven Olsson
+PRONOUNS:    he/him
+EMAIL:       sven.olsson@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: Maria Olsson

@@ -1,0 +1,7 @@
+NAME:        Maria Rodriguez
+PRONOUNS:    she/her
+EMAIL:       maria.rodriguez@helsinkischooloftyrechanging.com
+COHORT:      4
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Juan Rodriguez

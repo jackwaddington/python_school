@@ -1,0 +1,7 @@
+NAME:        Emma Korkman
+PRONOUNS:    she/her
+EMAIL:       emma.korkman@helsinkischooloftyrechanging.com
+COHORT:      2
+ABILITY:     0.18
+ALLERGIES:   None
+NEXT OF KIN: Juha Korkman

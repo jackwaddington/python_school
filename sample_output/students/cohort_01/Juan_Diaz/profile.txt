@@ -1,0 +1,7 @@
+NAME:        Juan Diaz
+PRONOUNS:    he/him
+EMAIL:       juan.diaz@helsinkischooloftyrechanging.school.com
+COHORT:      1
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Carla Diaz

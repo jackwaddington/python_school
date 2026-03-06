@@ -1,0 +1,7 @@
+NAME:        Ana Santos
+PRONOUNS:    she/her
+EMAIL:       ana.santos@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Juan Santos

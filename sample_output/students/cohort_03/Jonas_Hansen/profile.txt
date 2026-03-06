@@ -1,0 +1,7 @@
+NAME:        Jonas Hansen
+PRONOUNS:    he/him
+EMAIL:       jonas.hansen@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: Anne Hansen

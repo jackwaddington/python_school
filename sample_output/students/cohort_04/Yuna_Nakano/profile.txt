@@ -1,0 +1,7 @@
+NAME:        Yuna Nakano
+PRONOUNS:    she/her
+EMAIL:       yuna.nakano@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Kazuhiko', 'last_name': 'Nakano'}

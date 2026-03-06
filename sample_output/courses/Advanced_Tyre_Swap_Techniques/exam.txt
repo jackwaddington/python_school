@@ -1,0 +1,17 @@
+EXAM: Advanced Tyre Swap Techniques
+────────────────────────────────────────
+
+Q1: What method allows a vehicle to continue driving safely after a puncture in a run-flat tire without an external air source?
+  A) Tire Mounting Machine Operation
+  B) TPMS Recalibration
+  C) Wheel Balancing Techniques
+  D) Run-Flat Tire Changeover Technique
+Answer: D
+
+Q2: Which step is necessary when replacing one or more tires on a vehicle equipped with TPMS?
+  A) Mounting the new tire onto the wheel
+  B) Using a diagnostic tool to program the new tire sensors
+  C) Inflating the new tire to its recommended pressure
+  D) Removing the old tire from the hub
+Answer: B
+

@@ -1,0 +1,7 @@
+NAME:        Yusuf Ali
+PRONOUNS:    he/him
+EMAIL:       yusuf.ali@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Hamida Ali

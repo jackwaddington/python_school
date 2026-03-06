@@ -1,0 +1,7 @@
+NAME:        Gustavo Ramirez
+PRONOUNS:    he/him
+EMAIL:       gustavo.ramirez@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mariana', 'last_name': 'Ramirez'}

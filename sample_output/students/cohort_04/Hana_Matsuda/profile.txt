@@ -1,0 +1,7 @@
+NAME:        Hana Matsuda
+PRONOUNS:    she/her
+EMAIL:       hana.matsuda@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Kenji', 'last_name': 'Matsuda'}

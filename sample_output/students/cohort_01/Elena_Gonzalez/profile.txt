@@ -1,0 +1,7 @@
+NAME:        Elena Gonzalez
+PRONOUNS:    she/her
+EMAIL:       elena.gonzalez@helsinkischooloftyrechanging.school.com
+COHORT:      1
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Juan Gonzalez

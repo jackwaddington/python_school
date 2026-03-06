@@ -1,0 +1,7 @@
+NAME:        Sofia Gonzalez
+PRONOUNS:    she/her
+EMAIL:       sofia.gonzalez@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: Juan Gonzalez

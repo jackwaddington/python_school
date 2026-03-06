@@ -1,0 +1,7 @@
+NAME:        Ana Rodríguez
+PRONOUNS:    she/her
+EMAIL:       ana.rodriguez@helsinkischooloftyrechanging.com
+COHORT:      2
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: Juan Rodríguez

@@ -1,0 +1,7 @@
+NAME:        Sara Khan
+PRONOUNS:    she/her
+EMAIL:       sara.khan@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Zain Khan

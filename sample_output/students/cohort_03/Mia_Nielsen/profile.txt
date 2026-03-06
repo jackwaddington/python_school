@@ -1,0 +1,7 @@
+NAME:        Mia Nielsen
+PRONOUNS:    she/her
+EMAIL:       mia.nielsen@helsinkischooloftyrechanging.com
+COHORT:      3
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Hans Nielsen

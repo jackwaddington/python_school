@@ -1,0 +1,7 @@
+NAME:        Sofia Lopez-Gonzalez
+PRONOUNS:    she/her
+EMAIL:       sofia.lopez-gonzalez@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Carlos', 'last_name': 'Lopez'}

@@ -1,0 +1,25 @@
+COURSE: Advanced Tyre Swap Techniques
+Required passes to complete: 4
+────────────────────────────────────────
+
+ Advanced Tyre Swap Techniques
+
+1. Run-Flat Tire Changeover Technique:
+   - Definition: A method to replace a punctured run-flat tire without the need for an external air source, allowing continued safe driving until the vehicle can be serviced.
+   - How it works: Run-flat tires have reinforced sidewalls that allow them to temporarily support the weight of the vehicle after a loss of air pressure. The wheel and tire are removed from the hub, the run-flat tire is deflated, and the new tire is mounted in its place without inflating it first. Once the wheel and new tire are in position, the tire is slowly inflated to the recommended pressure using an onboard inflation kit or a portable air compressor.
+   - Concrete example: In an emergency situation where a run-flat tire has been punctured, the vehicle's onboard tire-inflation kit is used to safely change the flat tire with a spare. After deflating the damaged run-flat tire and mounting the spare onto the wheel, the spare tire is gradually inflated until it reaches the recommended pressure.
+
+2. Tire Mounting Machine Operation:
+   - Definition: The use of specialized machinery to quickly and safely mount a new tire onto a wheel, ensuring accurate bead seating and proper alignment for optimal performance and safety.
+   - How it works: A tire mounting machine applies clamps to the rim of the wheel and the beads of the tire, stretching the tire over the rim using hydraulic force. The machine then inverts the wheel and tire assembly, seating the inner bead onto the rim before inflating the tire to its recommended pressure.
+   - Concrete example: During a routine tire change, a technician uses a tire mounting machine to quickly and safely install a new tire onto the vehicle's wheel, ensuring proper seating of the beads for efficient performance and reduced risk of air leaks or blowouts.
+
+3. TPMS (Tire Pressure Monitoring System) Recalibration:
+   - Definition: The process of updating tire pressure sensor data in a vehicle's TPMS to reflect new tire installations, ensuring accurate monitoring of tire pressures and temperature readings.
+   - How it works: After replacing one or more tires on a vehicle equipped with TPMS, the system must be recalibrated to recognize the new sensors and adjust sensor identifications as necessary. This is typically done using a diagnostic tool that communicates with the vehicle's onboard computer system.
+   - Concrete example: During a tire change, a technician recalibrates the TPMS on a vehicle by connecting a diagnostic tool to the OBD-II port, following the manufacturer's instructions to program the new tire sensors and ensure accurate monitoring of tire pressures and temperatures.
+
+4. Wheel Balancing Techniques:
+   - Definition: The process of ensuring that a wheel and tire assembly rotates evenly around its axle, reducing vibrations and improving ride comfort and tire life.
+   - How it works: A technician uses a wheel balancer to measure the weight distribution around the circumference of the tire and rim. The machine then adds or removes small weights to counteract any imbalances, ensuring even weight distribution and reduced vibration during operation.
+   - Concrete example: During a routine maintenance check-up, a technician uses a wheel balancer to measure the balance of a vehicle's tires and adds small weights to the rim as needed to eliminate any imbalances, improving ride comfort and reducing the risk of premature tire wear.
