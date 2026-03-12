@@ -1,0 +1,7 @@
+NAME:        Maya Gomez
+PRONOUNS:    she/her
+EMAIL:       maya.gomez@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.21
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Gomez', 'relationship': 'Father'}

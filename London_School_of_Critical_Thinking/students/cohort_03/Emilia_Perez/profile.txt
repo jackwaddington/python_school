@@ -1,0 +1,7 @@
+NAME:        Emilia Perez
+PRONOUNS:    she/her
+EMAIL:       emilia.perez@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: Juan Perez (Father), juan.perez@example.com

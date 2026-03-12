@@ -1,0 +1,7 @@
+NAME:        Oliver Li
+PRONOUNS:    he/him
+EMAIL:       oliverli@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Hui Li

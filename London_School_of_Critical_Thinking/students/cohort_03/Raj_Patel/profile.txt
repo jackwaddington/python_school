@@ -1,0 +1,7 @@
+NAME:        Raj Patel
+PRONOUNS:    he/him
+EMAIL:       raj.patel@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: Rina Patel (Mother), rina.patel@example.com

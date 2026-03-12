@@ -1,0 +1,7 @@
+NAME:        Oliver Wang
+PRONOUNS:    he/him
+EMAIL:       oliver.wang@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: Li Wang

@@ -1,0 +1,7 @@
+NAME:        Zara Lee
+PRONOUNS:    she/her
+EMAIL:       zaralee@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: David Lee

@@ -1,0 +1,7 @@
+NAME:        Emilia Lee
+PRONOUNS:    she/her
+EMAIL:       emilialee@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: James Lee (Father), jameslee@example.com

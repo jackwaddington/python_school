@@ -1,0 +1,7 @@
+NAME:        Mohammad Al-Said
+PRONOUNS:    he/him
+EMAIL:       mohammadasaid@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Aisha Al-Said (Mother) - aishasaid@example.com

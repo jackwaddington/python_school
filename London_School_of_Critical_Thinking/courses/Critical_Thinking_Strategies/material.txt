@@ -1,0 +1,25 @@
+COURSE: Critical Thinking Strategies
+Required passes to complete: 6
+────────────────────────────────────────
+
+ Critical Thinking Strategies
+
+1. Analysis: Breaking down complex arguments or situations into smaller parts to understand their structure, relationships, and validity.
+   - Definition: The process of separating a concept or an argument into its constituent parts to assess and evaluate them systematically.
+   - How it works: Analyzing involves identifying the main components (premises, conclusions, assumptions) of an argument and examining their relevance, logical consistency, and evidence supporting them.
+   - Concrete example: Consider a political advertisement that argues for stricter gun control laws based on statistics showing a correlation between increased gun ownership and crime rates. By critically analyzing this argument, a student would examine the premises (statistics), the conclusion (need for stricter gun control laws), and any potential flaws or biases in the evidence presented (e.g., whether other factors such as poverty levels or law enforcement resources could also influence crime rates).
+
+2. Evaluation: Judging the value, credibility, or merit of an argument based on its logical consistency, accuracy, and relevance to the problem at hand.
+   - Definition: The process of appraising the quality and validity of an argument or a claim by assessing its reasoning, evidence, and assumptions.
+   - How it works: Evaluating involves critically examining the strengths and weaknesses of an argument and determining whether it is persuasive, logically sound, and supported by reliable evidence.
+   - Concrete example: When evaluating a study on the effects of a new drug, a student would scrutinize the methods used (e.g., sample size, control group), the data collected, the statistical analysis performed, and any potential sources of bias or error in the research design. By doing so, they can form an informed opinion about the validity and reliability of the study's findings.
+
+3. Inference: Drawing logical conclusions based on available evidence and reasoning skills, while acknowledging the uncertainty and limitations of those conclusions.
+   - Definition: The process of deducing or inferring new information from existing data, while recognizing that the inferences may be tentative or subject to revision as additional information becomes available.
+   - How it works: Inferring involves making educated guesses or assumptions about unknown or unobserved facts based on known information and logical reasoning. This can help bridge gaps in evidence or make predictions about future events.
+   - Concrete example: If a student knows that the price of apples has increased over the past year, they might infer (based on the principles of supply and demand) that the demand for apples has likely also increased during that time. This inference is not definitive but can serve as a useful starting point for further investigation or analysis.
+
+4. Synthesis: Combining separate ideas, arguments, or pieces of information to create something new or more comprehensive than the original parts.
+   - Definition: The process of integrating multiple sources of information, perspectives, or ideas to generate a coherent whole that goes beyond the individual components.
+   - How it works: Synthesizing involves identifying connections and relationships among various pieces of information, evaluating their relevance and validity, and organizing them into a unified structure or argument.
+   - Concrete example: In writing a research paper on climate change, a student might synthesize data from numerous scientific studies, interviews with experts, and policy documents to develop a comprehensive understanding of the issue and propose effective solutions based on their findings. By integrating diverse perspectives and types of evidence, they can create a more robust and convincing argument than if they relied solely on a single source of information.

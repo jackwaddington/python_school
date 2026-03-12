@@ -1,0 +1,7 @@
+NAME:        Emma Patel
+PRONOUNS:    she/her
+EMAIL:       emmapatel@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Ramesh Patel (Father) - rameshpatel@example.com

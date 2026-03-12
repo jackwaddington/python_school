@@ -1,0 +1,7 @@
+NAME:        Ivan Petrov
+PRONOUNS:    he/him
+EMAIL:       ivan.petrov@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anna Petrova', 'relationship': 'Mother'}

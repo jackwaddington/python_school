@@ -1,0 +1,7 @@
+NAME:        Juan Perez
+PRONOUNS:    he/him
+EMAIL:       juancarlosperez@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: María Perez

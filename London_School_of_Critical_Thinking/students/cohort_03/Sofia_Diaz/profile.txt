@@ -1,0 +1,7 @@
+NAME:        Sofia Diaz
+PRONOUNS:    she/her
+EMAIL:       sofiamdiaz@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Juan Diaz

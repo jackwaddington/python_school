@@ -1,0 +1,7 @@
+NAME:        Leo Liu
+PRONOUNS:    he/him
+EMAIL:       leo.liu@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Xia Liu (Mother), xia.liu@example.com

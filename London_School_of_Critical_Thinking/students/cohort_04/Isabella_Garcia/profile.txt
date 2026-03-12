@@ -1,0 +1,7 @@
+NAME:        Isabella Garcia
+PRONOUNS:    she/her
+EMAIL:       isabellagarcia@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Juan Garcia

@@ -1,0 +1,7 @@
+NAME:        Oliver Lopez
+PRONOUNS:    he/him
+EMAIL:       oliverlopez@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: Maria Lopez (Mother) - marialopez@example.com

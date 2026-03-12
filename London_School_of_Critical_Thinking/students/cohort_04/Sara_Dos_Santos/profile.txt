@@ -1,0 +1,7 @@
+NAME:        Sara Dos Santos
+PRONOUNS:    she/her
+EMAIL:       saradosantos@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Jose Dos Santos (Father) - josedossantos@example.com

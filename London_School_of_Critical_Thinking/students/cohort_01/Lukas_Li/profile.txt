@@ -1,0 +1,7 @@
+NAME:        Lukas Li
+PRONOUNS:    he/him
+EMAIL:       lukasli@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Jian Li (Mother), jianli@example.com

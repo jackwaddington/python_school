@@ -1,0 +1,7 @@
+NAME:        Raphael García
+PRONOUNS:    he/him
+EMAIL:       raphaelsgarcia@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Maria García

@@ -1,0 +1,7 @@
+NAME:        Sofia Lopez
+PRONOUNS:    she/her
+EMAIL:       sofia.lopez@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Juan Lopez

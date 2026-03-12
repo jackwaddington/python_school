@@ -1,0 +1,131 @@
+London School of Critical Thinking
+Subject: Critical Thinking
+Seats: 20 | Courses to graduate: 3
+Intake every 52 weeks | Simulation: 200 weeks
+═══════════════════════════════════════════════════════
+
+COURSE: Philosophical Inquiry
+Required passes to complete: 8 weeks
+────────────────────────────────────────
+MATERIAL:
+ Title: Critical Thinking in Philosophical Inquiry
+
+1. Argument Analysis
+   - Definition: The systematic evaluation of arguments to determine their validity, strength, and weaknesses.
+   - Function: Helps identify fallacies, unsupported claims, missing premises, and biases within an argument.
+   - Example: John claims that all politicians are dishonest because his favorite politician is dishonest. Here, the argument lacks a universal premise (not all politicians are John's favorite), committing the fallacy of hasty generalization.
+
+2. Critical Reasoning
+   - Definition: The ability to construct and evaluate arguments based on evidence and logical reasoning.
+   - Function: Enables individuals to make sound judgments, solve problems, and make informed decisions.
+   - Example: If a student believes that studying in a quiet environment improves their learning, they can test this hypothesis by observing their own study habits and performance in different environments (e.g., library vs. noisy cafeteria).
+
+3. Deductive Reasoning
+   - Definition: A form of logical reasoning where the conclusion is determined to be true if the premises are true.
+   - Function: Helps arrive at certain or probable conclusions based on given facts and premises.
+   - Example: All men are mortal (premise). Socrates is a man (premise). Therefore, Socrates is mortal (conclusion).
+
+4. Inductive Reasoning
+   - Definition: A form of logical reasoning where specific observations are used to make broader generalizations about a population or concept.
+   - Function: Helps make predictions and form hypotheses based on available evidence.
+   - Example: If a student observes that all swans they have ever seen are white, they might hypothesize that all swans are white (until proven otherwise). This is an example of inductive reasoning.
+
+EXAM QUESTIONS:
+  Q1: Which of the following is an example of deductive reasoning?
+       A) All swans are white because I've only seen white swans.
+       B) If I study in a quiet environment, my learning improves.
+       C) Some politicians are honest because John's favorite politician is honest.
+       D) All men are mortal. Socrates is a man. Therefore, Socrates is mortal.
+  Answer: D
+
+  Q2: Which of the following arguments lacks a universal premise and commits the fallacy of hasty generalization?
+       A) If a student believes that studying in a quiet environment improves their learning, they can test this hypothesis by observing their own study habits and performance in different environments.
+       B) John claims that all politicians are dishonest because his favorite politician is dishonest.
+       C) If I always wear blue shirts on Wednesdays and it rains on a Wednesday, then it rained because I wore a blue shirt.
+       D) All cats have fur. Fluffy is a cat. Therefore, Fluffy has fur.
+  Answer: B
+
+═══════════════════════════════════════════════════════
+
+COURSE: Logic and Reasoning
+Required passes to complete: 4 weeks
+────────────────────────────────────────
+MATERIAL:
+ 1. **Deductive Reasoning**
+   - Definition: Deductive reasoning is a logical process that starts with general principles or premises and uses them to reach specific conclusions. If the premises are true and the logic is correct, the conclusion must also be true.
+   - How it works: If all men are mortal (premise 1) and Socrates is a man (premise 2), then it can be deduced that Socrates is mortal (conclusion).
+   - Example: All birds have feathers. A sparrow is a bird. Therefore, a sparrow has feathers.
+
+2. **Inductive Reasoning**
+   - Definition: Inductive reasoning is the logical process of making broad generalizations based on specific observations or evidence. The conclusions reached by inductive reasoning are not guaranteed to be true, but they can lead to useful predictions and theories.
+   - How it works: If every swan observed so far has been white (specific observations), it can be inferred that all swans are white (broad generalization). This conclusion is not certain, as new observations may reveal black swans.
+   - Example: All the apples I've ever eaten have been sweet. Therefore, all apples are sweet.
+
+3. **Abduction**
+   - Definition: Abduction is a form of logical inference that involves forming a plausible explanation for a given observation or set of observations. The explanation is not guaranteed to be the correct one, but it provides a starting point for further investigation and hypothesis testing.
+   - How it works: When you see smoke (observation), you might infer that there is a fire nearby (explanation). This explanation can lead to further investigations like checking if there are any fires in the area.
+   - Example: A dead body is found in a room with a broken window and a gun near it. The abduction might be: The murderer entered the room, broke the window to escape, and left the gun behind.
+
+4. **Causal Reasoning**
+   - Definition: Causal reasoning is the process of identifying the cause-effect relationships between events or phenomena. It helps us understand why things happen as they do and predict future events based on known causes.
+   - How it works: If you drop an object (event), and it falls to the ground (effect), we can say that gravity caused the object to fall (cause-effect relationship).
+   - Example: Smoking cigarettes regularly (cause) leads to lung cancer (effect). This causal relationship is supported by numerous studies and evidence.
+
+EXAM QUESTIONS:
+  Q1: Which logical reasoning is used when a conclusion is drawn from specific observations to make broad generalizations?
+       Deductive Reasoning
+       Inductive Reasoning
+       Abduction
+  Answer: Inductive Reasoning
+
+  Q2: What form of logical inference is used when a plausible explanation for a given observation or set of observations is formed?
+       Deductive Reasoning
+       Inductive Reasoning
+       Abduction
+  Answer: Abduction
+
+═══════════════════════════════════════════════════════
+
+COURSE: Critical Thinking Strategies
+Required passes to complete: 6 weeks
+────────────────────────────────────────
+MATERIAL:
+ Critical Thinking Strategies
+
+1. Analysis: Breaking down complex arguments or situations into smaller parts to understand their structure, relationships, and validity.
+   - Definition: The process of separating a concept or an argument into its constituent parts to assess and evaluate them systematically.
+   - How it works: Analyzing involves identifying the main components (premises, conclusions, assumptions) of an argument and examining their relevance, logical consistency, and evidence supporting them.
+   - Concrete example: Consider a political advertisement that argues for stricter gun control laws based on statistics showing a correlation between increased gun ownership and crime rates. By critically analyzing this argument, a student would examine the premises (statistics), the conclusion (need for stricter gun control laws), and any potential flaws or biases in the evidence presented (e.g., whether other factors such as poverty levels or law enforcement resources could also influence crime rates).
+
+2. Evaluation: Judging the value, credibility, or merit of an argument based on its logical consistency, accuracy, and relevance to the problem at hand.
+   - Definition: The process of appraising the quality and validity of an argument or a claim by assessing its reasoning, evidence, and assumptions.
+   - How it works: Evaluating involves critically examining the strengths and weaknesses of an argument and determining whether it is persuasive, logically sound, and supported by reliable evidence.
+   - Concrete example: When evaluating a study on the effects of a new drug, a student would scrutinize the methods used (e.g., sample size, control group), the data collected, the statistical analysis performed, and any potential sources of bias or error in the research design. By doing so, they can form an informed opinion about the validity and reliability of the study's findings.
+
+3. Inference: Drawing logical conclusions based on available evidence and reasoning skills, while acknowledging the uncertainty and limitations of those conclusions.
+   - Definition: The process of deducing or inferring new information from existing data, while recognizing that the inferences may be tentative or subject to revision as additional information becomes available.
+   - How it works: Inferring involves making educated guesses or assumptions about unknown or unobserved facts based on known information and logical reasoning. This can help bridge gaps in evidence or make predictions about future events.
+   - Concrete example: If a student knows that the price of apples has increased over the past year, they might infer (based on the principles of supply and demand) that the demand for apples has likely also increased during that time. This inference is not definitive but can serve as a useful starting point for further investigation or analysis.
+
+4. Synthesis: Combining separate ideas, arguments, or pieces of information to create something new or more comprehensive than the original parts.
+   - Definition: The process of integrating multiple sources of information, perspectives, or ideas to generate a coherent whole that goes beyond the individual components.
+   - How it works: Synthesizing involves identifying connections and relationships among various pieces of information, evaluating their relevance and validity, and organizing them into a unified structure or argument.
+   - Concrete example: In writing a research paper on climate change, a student might synthesize data from numerous scientific studies, interviews with experts, and policy documents to develop a comprehensive understanding of the issue and propose effective solutions based on their findings. By integrating diverse perspectives and types of evidence, they can create a more robust and convincing argument than if they relied solely on a single source of information.
+
+EXAM QUESTIONS:
+  Q1: Which critical thinking strategy involves breaking down complex arguments or situations into smaller parts to understand their structure, relationships, and validity?
+       A) Analysis
+       B) Evaluation
+       C) Inference
+       D) Synthesis
+  Answer: A
+
+  Q2: Which critical thinking strategy involves making educated guesses or assumptions about unknown or unobserved facts based on known information and logical reasoning?
+       A) Analysis
+       B) Evaluation
+       C) Inference
+       D) Synthesis
+  Answer: C
+
+═══════════════════════════════════════════════════════
+

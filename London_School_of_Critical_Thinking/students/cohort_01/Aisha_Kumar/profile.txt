@@ -1,0 +1,7 @@
+NAME:        Aisha Kumar
+PRONOUNS:    she/her
+EMAIL:       aishakumar@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Ram Kumar (Father), ramkumar@example.com

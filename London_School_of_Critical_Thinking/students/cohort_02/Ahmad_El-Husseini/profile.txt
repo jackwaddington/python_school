@@ -1,0 +1,7 @@
+NAME:        Ahmad El-Husseini
+PRONOUNS:    he/him
+EMAIL:       ahmad.el-husseini@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Nour El-Husseini', 'relationship': 'Mother'}

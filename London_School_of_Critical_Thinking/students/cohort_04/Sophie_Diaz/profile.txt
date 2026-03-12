@@ -1,0 +1,7 @@
+NAME:        Sophie Diaz
+PRONOUNS:    she/her
+EMAIL:       sophiediaz@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: Jose Diaz

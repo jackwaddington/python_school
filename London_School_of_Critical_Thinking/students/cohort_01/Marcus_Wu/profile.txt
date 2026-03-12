@@ -1,0 +1,7 @@
+NAME:        Marcus Wu
+PRONOUNS:    he/him
+EMAIL:       marcuswu@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Li Wu (Mother), liwu@example.com

@@ -1,0 +1,7 @@
+NAME:        Omar El-Bakri
+PRONOUNS:    he/him
+EMAIL:       omar.el-bakri@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Noura El-Bakri', 'relationship': 'Mother'}

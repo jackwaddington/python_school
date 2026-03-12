@@ -1,0 +1,7 @@
+NAME:        Lukas Santos
+PRONOUNS:    he/him
+EMAIL:       lukassantos@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Maria Santos

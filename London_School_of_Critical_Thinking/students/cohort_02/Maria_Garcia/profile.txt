@@ -1,0 +1,7 @@
+NAME:        Maria Garcia
+PRONOUNS:    she/her
+EMAIL:       mariagarcia@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.25
+ALLERGIES:   None
+NEXT OF KIN: Juan Garcia

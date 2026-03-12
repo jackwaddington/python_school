@@ -1,0 +1,7 @@
+NAME:        Meena Patel
+PRONOUNS:    she/her
+EMAIL:       meena.patel@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.1
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hitesh Patel', 'relationship': 'Father'}

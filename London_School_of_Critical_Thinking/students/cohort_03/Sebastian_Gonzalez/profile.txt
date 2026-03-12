@@ -1,0 +1,7 @@
+NAME:        Sebastian Gonzalez
+PRONOUNS:    he/him
+EMAIL:       sebastiangonzalez@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Carla Gonzalez

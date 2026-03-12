@@ -1,0 +1,7 @@
+NAME:        Amina Khan
+PRONOUNS:    she/her
+EMAIL:       amina.khan@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Khan (Father), ahamad.khan@example.com

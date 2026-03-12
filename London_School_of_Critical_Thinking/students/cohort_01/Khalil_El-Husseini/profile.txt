@@ -1,0 +1,7 @@
+NAME:        Khalil El-Husseini
+PRONOUNS:    he/him
+EMAIL:       khalil.el-husseini@londonschoolofcriticalthinking.school.com
+COHORT:      1
+ABILITY:     0.48
+ALLERGIES:   ['wheat']
+NEXT OF KIN: Nour El-Husseini

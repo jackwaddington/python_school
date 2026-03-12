@@ -1,0 +1,7 @@
+NAME:        Zuzana Nováková
+PRONOUNS:    she/her
+EMAIL:       zuzana.novakova@londonschoolofcriticalthinking.school.com
+COHORT:      1
+ABILITY:     0.59
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: Jan Novák

@@ -1,0 +1,7 @@
+NAME:        Lukas Müller
+PRONOUNS:    he/him
+EMAIL:       lukasmuller@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: Anna Müller (Mother) - annamuller@example.com

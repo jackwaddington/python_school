@@ -1,0 +1,7 @@
+NAME:        Nina O'Sullivan
+PRONOUNS:    she/her
+EMAIL:       ninaosullivan@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: John O'Sullivan (Father)

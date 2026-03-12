@@ -1,0 +1,7 @@
+NAME:        Nour Al-Said
+PRONOUNS:    she/her
+EMAIL:       nour.al-said@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Al-Said (Father), ahmed.al-said@example.com

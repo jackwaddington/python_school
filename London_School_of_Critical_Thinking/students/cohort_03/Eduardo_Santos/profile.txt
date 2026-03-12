@@ -1,0 +1,7 @@
+NAME:        Eduardo Santos
+PRONOUNS:    he/him
+EMAIL:       eduardosantos@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: Maria Santos

@@ -1,0 +1,7 @@
+NAME:        Gabriel Santos
+PRONOUNS:    he/him
+EMAIL:       gabriel.santos@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria da Silva Santos', 'relationship': 'Mother'}

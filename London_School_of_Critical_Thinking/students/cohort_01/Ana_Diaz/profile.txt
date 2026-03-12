@@ -1,0 +1,7 @@
+NAME:        Ana Diaz
+PRONOUNS:    she/her
+EMAIL:       anadiaz@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: Juan Diaz (Father), juandiaz@example.com

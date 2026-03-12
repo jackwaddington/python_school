@@ -1,0 +1,7 @@
+NAME:        Lukas Schmidt
+PRONOUNS:    he/him
+EMAIL:       lukasschmidt@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: Anna Schmidt

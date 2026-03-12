@@ -1,0 +1,7 @@
+NAME:        Amir Hussein
+PRONOUNS:    he/him
+EMAIL:       amir.hussein@londonschoolofcriticalthinking.school.com
+COHORT:      1
+ABILITY:     0.82
+ALLERGIES:   ['seafood']
+NEXT OF KIN: Noura Hussein

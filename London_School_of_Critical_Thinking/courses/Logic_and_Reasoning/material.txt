@@ -1,0 +1,23 @@
+COURSE: Logic and Reasoning
+Required passes to complete: 4
+────────────────────────────────────────
+
+ 1. **Deductive Reasoning**
+   - Definition: Deductive reasoning is a logical process that starts with general principles or premises and uses them to reach specific conclusions. If the premises are true and the logic is correct, the conclusion must also be true.
+   - How it works: If all men are mortal (premise 1) and Socrates is a man (premise 2), then it can be deduced that Socrates is mortal (conclusion).
+   - Example: All birds have feathers. A sparrow is a bird. Therefore, a sparrow has feathers.
+
+2. **Inductive Reasoning**
+   - Definition: Inductive reasoning is the logical process of making broad generalizations based on specific observations or evidence. The conclusions reached by inductive reasoning are not guaranteed to be true, but they can lead to useful predictions and theories.
+   - How it works: If every swan observed so far has been white (specific observations), it can be inferred that all swans are white (broad generalization). This conclusion is not certain, as new observations may reveal black swans.
+   - Example: All the apples I've ever eaten have been sweet. Therefore, all apples are sweet.
+
+3. **Abduction**
+   - Definition: Abduction is a form of logical inference that involves forming a plausible explanation for a given observation or set of observations. The explanation is not guaranteed to be the correct one, but it provides a starting point for further investigation and hypothesis testing.
+   - How it works: When you see smoke (observation), you might infer that there is a fire nearby (explanation). This explanation can lead to further investigations like checking if there are any fires in the area.
+   - Example: A dead body is found in a room with a broken window and a gun near it. The abduction might be: The murderer entered the room, broke the window to escape, and left the gun behind.
+
+4. **Causal Reasoning**
+   - Definition: Causal reasoning is the process of identifying the cause-effect relationships between events or phenomena. It helps us understand why things happen as they do and predict future events based on known causes.
+   - How it works: If you drop an object (event), and it falls to the ground (effect), we can say that gravity caused the object to fall (cause-effect relationship).
+   - Example: Smoking cigarettes regularly (cause) leads to lung cancer (effect). This causal relationship is supported by numerous studies and evidence.

@@ -1,0 +1,7 @@
+NAME:        Hassan Ahmed
+PRONOUNS:    he/him
+EMAIL:       hassanahmed@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Fadia Ahmed

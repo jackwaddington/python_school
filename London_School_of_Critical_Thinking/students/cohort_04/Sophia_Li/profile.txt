@@ -1,0 +1,7 @@
+NAME:        Sophia Li
+PRONOUNS:    she/her
+EMAIL:       sophiali@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: James Li

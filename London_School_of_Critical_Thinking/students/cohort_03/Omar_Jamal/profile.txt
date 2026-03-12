@@ -1,0 +1,7 @@
+NAME:        Omar Jamal
+PRONOUNS:    he/him
+EMAIL:       omar.jamal@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: Amina Jamal (Mother), amina.jamal@example.com

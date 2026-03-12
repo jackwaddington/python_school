@@ -1,0 +1,7 @@
+NAME:        Isabella Rodriguez
+PRONOUNS:    she/her
+EMAIL:       isabellarodriguez@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: Juan Rodriguez (Father)

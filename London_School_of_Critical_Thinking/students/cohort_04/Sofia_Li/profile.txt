@@ -1,0 +1,7 @@
+NAME:        Sofia Li
+PRONOUNS:    she/her
+EMAIL:       sofiali@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: Hong Li (Mother) - hongli@example.com

@@ -1,0 +1,15 @@
+EXAM: Logic and Reasoning
+────────────────────────────────────────
+
+Q1: Which logical reasoning is used when a conclusion is drawn from specific observations to make broad generalizations?
+  Deductive Reasoning
+  Inductive Reasoning
+  Abduction
+Answer: Inductive Reasoning
+
+Q2: What form of logical inference is used when a plausible explanation for a given observation or set of observations is formed?
+  Deductive Reasoning
+  Inductive Reasoning
+  Abduction
+Answer: Abduction
+

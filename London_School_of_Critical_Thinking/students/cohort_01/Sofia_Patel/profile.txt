@@ -1,0 +1,7 @@
+NAME:        Sofia Patel
+PRONOUNS:    she/her
+EMAIL:       sofiapatel@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Rakesh Patel (Father), rakeshpatel@example.com

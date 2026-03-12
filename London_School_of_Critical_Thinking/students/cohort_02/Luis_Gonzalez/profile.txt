@@ -1,0 +1,7 @@
+NAME:        Luis Gonzalez
+PRONOUNS:    he/him
+EMAIL:       luis.gonzalez@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzalez

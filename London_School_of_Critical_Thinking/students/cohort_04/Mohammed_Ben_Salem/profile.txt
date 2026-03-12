@@ -1,0 +1,7 @@
+NAME:        Mohammed Ben Salem
+PRONOUNS:    he/him
+EMAIL:       mohammedbensalem@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Fatima Ben Salem

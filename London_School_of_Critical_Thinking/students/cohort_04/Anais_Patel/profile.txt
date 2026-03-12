@@ -1,0 +1,7 @@
+NAME:        Anais Patel
+PRONOUNS:    she/her
+EMAIL:       anaispatel@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Ramesh Patel

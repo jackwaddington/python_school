@@ -1,0 +1,7 @@
+NAME:        Oliver Gonzalez
+PRONOUNS:    he/him
+EMAIL:       olivergonzalez@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Isabel González

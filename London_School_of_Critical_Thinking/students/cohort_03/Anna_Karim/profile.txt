@@ -1,0 +1,7 @@
+NAME:        Anna Karim
+PRONOUNS:    she/her
+EMAIL:       anna.karim@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: Hassan Karim (Father), hassan.karim@example.com

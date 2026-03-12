@@ -1,0 +1,7 @@
+NAME:        Nina Wang
+PRONOUNS:    she/her
+EMAIL:       ninawang@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Li Wang

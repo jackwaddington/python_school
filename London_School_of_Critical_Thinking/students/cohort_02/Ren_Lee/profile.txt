@@ -1,0 +1,7 @@
+NAME:        Ren Lee
+PRONOUNS:    she/her
+EMAIL:       ren.lee@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ji-Yeon Lee', 'relationship': 'Mother'}

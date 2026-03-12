@@ -1,0 +1,7 @@
+NAME:        Emily O'Sullivan
+PRONOUNS:    she/her
+EMAIL:       emily.o'sullivan@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: John O'Sullivan

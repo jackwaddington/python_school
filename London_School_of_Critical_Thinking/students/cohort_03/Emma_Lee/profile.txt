@@ -1,0 +1,7 @@
+NAME:        Emma Lee
+PRONOUNS:    she/her
+EMAIL:       emmalee@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: James Lee

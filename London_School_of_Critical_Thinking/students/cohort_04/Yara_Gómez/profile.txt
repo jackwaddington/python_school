@@ -1,0 +1,7 @@
+NAME:        Yara Gómez
+PRONOUNS:    she/her
+EMAIL:       yaragomez@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: Juan Gómez (Father) - juangomez@example.com

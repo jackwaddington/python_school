@@ -1,0 +1,7 @@
+NAME:        Ramesh Patel
+PRONOUNS:    he/him
+EMAIL:       ramesh.patel@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: Priya Patel

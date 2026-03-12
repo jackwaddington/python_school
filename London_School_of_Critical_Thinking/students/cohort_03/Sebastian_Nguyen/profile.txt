@@ -1,0 +1,7 @@
+NAME:        Sebastian Nguyen
+PRONOUNS:    he/him
+EMAIL:       sebastianduyen@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Hoang Nguyen

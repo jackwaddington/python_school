@@ -1,0 +1,7 @@
+NAME:        Lucas Ng
+PRONOUNS:    he/him
+EMAIL:       lucasng@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Siu-Wai Ng (Father) - siuwaing@example.com

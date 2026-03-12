@@ -1,0 +1,7 @@
+NAME:        Lukas O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       lukasosullivan@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Mary O'Sullivan

@@ -1,0 +1,7 @@
+NAME:        Juan Rodriguez
+PRONOUNS:    he/him
+EMAIL:       juanrodriguez@londonschoolofcriticalthinking@school.com
+COHORT:      4
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: María Rodríguez

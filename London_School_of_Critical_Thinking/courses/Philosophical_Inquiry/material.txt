@@ -1,0 +1,25 @@
+COURSE: Philosophical Inquiry
+Required passes to complete: 8
+────────────────────────────────────────
+
+ Title: Critical Thinking in Philosophical Inquiry
+
+1. Argument Analysis
+   - Definition: The systematic evaluation of arguments to determine their validity, strength, and weaknesses.
+   - Function: Helps identify fallacies, unsupported claims, missing premises, and biases within an argument.
+   - Example: John claims that all politicians are dishonest because his favorite politician is dishonest. Here, the argument lacks a universal premise (not all politicians are John's favorite), committing the fallacy of hasty generalization.
+
+2. Critical Reasoning
+   - Definition: The ability to construct and evaluate arguments based on evidence and logical reasoning.
+   - Function: Enables individuals to make sound judgments, solve problems, and make informed decisions.
+   - Example: If a student believes that studying in a quiet environment improves their learning, they can test this hypothesis by observing their own study habits and performance in different environments (e.g., library vs. noisy cafeteria).
+
+3. Deductive Reasoning
+   - Definition: A form of logical reasoning where the conclusion is determined to be true if the premises are true.
+   - Function: Helps arrive at certain or probable conclusions based on given facts and premises.
+   - Example: All men are mortal (premise). Socrates is a man (premise). Therefore, Socrates is mortal (conclusion).
+
+4. Inductive Reasoning
+   - Definition: A form of logical reasoning where specific observations are used to make broader generalizations about a population or concept.
+   - Function: Helps make predictions and form hypotheses based on available evidence.
+   - Example: If a student observes that all swans they have ever seen are white, they might hypothesize that all swans are white (until proven otherwise). This is an example of inductive reasoning.

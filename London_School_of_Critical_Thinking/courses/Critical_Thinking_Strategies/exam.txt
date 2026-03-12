@@ -1,0 +1,17 @@
+EXAM: Critical Thinking Strategies
+────────────────────────────────────────
+
+Q1: Which critical thinking strategy involves breaking down complex arguments or situations into smaller parts to understand their structure, relationships, and validity?
+  A) Analysis
+  B) Evaluation
+  C) Inference
+  D) Synthesis
+Answer: A
+
+Q2: Which critical thinking strategy involves making educated guesses or assumptions about unknown or unobserved facts based on known information and logical reasoning?
+  A) Analysis
+  B) Evaluation
+  C) Inference
+  D) Synthesis
+Answer: C
+

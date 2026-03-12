@@ -1,0 +1,7 @@
+NAME:        Noah Gomez
+PRONOUNS:    he/him
+EMAIL:       noahgomez@londonschoolofcriticalthinking@school.com
+COHORT:      1
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Luisa Gomez (Mother), luisagomez@example.com

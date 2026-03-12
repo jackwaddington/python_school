@@ -1,0 +1,17 @@
+EXAM: Philosophical Inquiry
+────────────────────────────────────────
+
+Q1: Which of the following is an example of deductive reasoning?
+  A) All swans are white because I've only seen white swans.
+  B) If I study in a quiet environment, my learning improves.
+  C) Some politicians are honest because John's favorite politician is honest.
+  D) All men are mortal. Socrates is a man. Therefore, Socrates is mortal.
+Answer: D
+
+Q2: Which of the following arguments lacks a universal premise and commits the fallacy of hasty generalization?
+  A) If a student believes that studying in a quiet environment improves their learning, they can test this hypothesis by observing their own study habits and performance in different environments.
+  B) John claims that all politicians are dishonest because his favorite politician is dishonest.
+  C) If I always wear blue shirts on Wednesdays and it rains on a Wednesday, then it rained because I wore a blue shirt.
+  D) All cats have fur. Fluffy is a cat. Therefore, Fluffy has fur.
+Answer: B
+

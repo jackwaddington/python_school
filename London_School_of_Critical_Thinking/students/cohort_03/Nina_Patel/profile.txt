@@ -1,0 +1,7 @@
+NAME:        Nina Patel
+PRONOUNS:    she/her
+EMAIL:       ninapatel@londonschoolofcriticalthinking@school.com
+COHORT:      3
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: Rahul Patel

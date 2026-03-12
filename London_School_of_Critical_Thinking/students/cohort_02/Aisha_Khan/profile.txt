@@ -1,0 +1,7 @@
+NAME:        Aisha Khan
+PRONOUNS:    she/her
+EMAIL:       aisha.khan@londonschoolofcriticalthinking@school.com
+COHORT:      2
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammed Ali Khan', 'relationship': 'Father'}
