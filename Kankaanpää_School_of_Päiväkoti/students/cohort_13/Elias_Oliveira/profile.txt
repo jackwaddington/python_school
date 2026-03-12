@@ -1,0 +1,7 @@
+NAME:        Elias Oliveira
+PRONOUNS:    he/him
+EMAIL:       elias.oliveira@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.52
+ALLERGIES:   ['seafood']
+NEXT OF KIN: {'name': 'Ana Oliveira', 'relationship': 'Mother', 'phone': '+55 1234-5678', 'email': 'ana.oliveira@kankaanpaaschoolofpaivakoti.com'}

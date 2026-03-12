@@ -1,0 +1,7 @@
+NAME:        Yoann N'Goua
+PRONOUNS:    he/him
+EMAIL:       yoann.ngoua@kankaanpaavakouluofpivakoti.school.com
+COHORT:      1
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: {'name': "Narcisse N'Goua", 'phone': '+358 40 3456 7890', 'relationship': 'Father'}

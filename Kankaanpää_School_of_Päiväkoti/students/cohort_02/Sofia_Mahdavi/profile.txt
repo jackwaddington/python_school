@@ -1,0 +1,7 @@
+NAME:        Sofia Mahdavi
+PRONOUNS:    she/her
+EMAIL:       sofia.mahdavi@kankaanpaavalipasila.school.com
+COHORT:      2
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ali Mahdavi', 'relationship': 'Father', 'phone': '+358 40 8901 2345', 'email': 'ali.mahdavi@example.com'}

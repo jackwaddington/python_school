@@ -1,0 +1,7 @@
+NAME:        Emma Kim
+PRONOUNS:    she/her
+EMAIL:       emma.kim@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.2
+ALLERGIES:   None
+NEXT OF KIN: Joon Kim (father), joon.kim@example.com

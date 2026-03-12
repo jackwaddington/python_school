@@ -1,0 +1,7 @@
+NAME:        Tomoya Takahashi
+PRONOUNS:    he/him
+EMAIL:       tomoya.takahashi@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Yui', 'last_name': 'Takahashi'}

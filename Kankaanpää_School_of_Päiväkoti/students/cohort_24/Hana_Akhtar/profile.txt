@@ -1,0 +1,7 @@
+NAME:        Hana Akhtar
+PRONOUNS:    she/her
+EMAIL:       hana.akhtar@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: Faisal Akhtar (father), faisal.akhtar@example.com

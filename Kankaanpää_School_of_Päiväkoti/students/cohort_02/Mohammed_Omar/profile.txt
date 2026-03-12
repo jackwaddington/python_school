@@ -1,0 +1,7 @@
+NAME:        Mohammed Omar
+PRONOUNS:    he/him
+EMAIL:       mohammed.omar@kankaanpaavakouluofpavikoti.school.com
+COHORT:      2
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: Nadia Omar

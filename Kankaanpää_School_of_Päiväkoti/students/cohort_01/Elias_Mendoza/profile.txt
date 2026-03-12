@@ -1,0 +1,7 @@
+NAME:        Elias Mendoza
+PRONOUNS:    he/him
+EMAIL:       elias.mendoza@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María Mendoza', 'relation': 'mother', 'phone': '+529876543210', 'email': 'mariamendoza@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Sofia Liang
+PRONOUNS:    she/her
+EMAIL:       sofia.liang@kankaanpaavakoulusopimiskoti.school.com
+COHORT:      18
+ABILITY:     0.43
+ALLERGIES:   ['nuts', 'shellfish']
+NEXT OF KIN: {'name': 'Yang Liang', 'relationship': 'Mother', 'phone': '+358-40-2345-6789'}

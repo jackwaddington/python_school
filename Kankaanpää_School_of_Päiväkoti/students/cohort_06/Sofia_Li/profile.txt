@@ -1,0 +1,7 @@
+NAME:        Sofia Li
+PRONOUNS:    she/her
+EMAIL:       sofia.li@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.9
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Qiang Li', 'relation': 'Father', 'phone': '+358-845678906', 'email': 'qiang.li@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Sanaa El-Bashir
+PRONOUNS:    she/her
+EMAIL:       sanaa.elbashir@kankaanpaavakouluopisto.school.com
+COHORT:      19
+ABILITY:     0.62
+ALLERGIES:   dairy, gluten
+NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'El-Bashir'}

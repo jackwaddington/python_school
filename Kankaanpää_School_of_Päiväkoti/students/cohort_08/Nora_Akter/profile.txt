@@ -1,0 +1,7 @@
+NAME:        Nora Akter
+PRONOUNS:    she/her
+EMAIL:       nora.akter@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammad Akter', 'phone': '+1-555-9876-5432', 'email': 'mohammad.akter@example.com'}

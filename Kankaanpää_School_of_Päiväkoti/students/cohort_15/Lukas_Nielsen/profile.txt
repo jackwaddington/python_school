@@ -1,0 +1,7 @@
+NAME:        Lukas Nielsen
+PRONOUNS:    he/him
+EMAIL:       lukas.nielsen@kankaanpaavakoulutuspaivakoti.school.com
+COHORT:      15
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maja', 'last_name': 'Nielsen'}

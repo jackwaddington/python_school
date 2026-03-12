@@ -1,0 +1,7 @@
+NAME:        Lukas Oliveira
+PRONOUNS:    he/him
+EMAIL:       lukasoliveira@kankaanpaaschoolofpaivakaoti.com
+COHORT:      15
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Maria Oliveira (Mother), maria.oliveira@example.com

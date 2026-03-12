@@ -1,0 +1,7 @@
+NAME:        Juan Ramirez
+PRONOUNS:    he/him
+EMAIL:       jramirez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: Maria Perez <mperez@example.com>

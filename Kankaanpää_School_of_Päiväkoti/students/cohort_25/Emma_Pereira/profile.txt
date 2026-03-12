@@ -1,0 +1,7 @@
+NAME:        Emma Pereira
+PRONOUNS:    she/her
+EMAIL:       emma.pereira@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Pedro Pereira', 'relationship': 'Father', 'phone': '+55-123-456-7890', 'email': 'pedro.pereira@example.com'}

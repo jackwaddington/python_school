@@ -1,0 +1,7 @@
+NAME:        Khalil El-Masri
+PRONOUNS:    he/him
+EMAIL:       khalil.el-masri@kankaanpaavakoulutuspaivakoti.school.com
+COHORT:      15
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'El-Masri'}

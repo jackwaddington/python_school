@@ -1,0 +1,25 @@
+COURSE: Advanced Strategies in Problem Solving
+Required passes to complete: 4
+────────────────────────────────────────
+
+ Advanced Strategies in Problem Solving
+
+1. Analogical Reasoning:
+   - Definition: Analogical reasoning is a cognitive process that involves using similarities between two seemingly different situations to solve problems.
+   - How it works: Identifying common structures, patterns or relationships between two problems and transferring the solution from one problem to another.
+   - Example: If a student understands Newton's laws of motion by comparing them to rolling a ball down an incline (real-world example), they can apply this understanding to solve similar physics problems involving different masses and speeds.
+
+2. Heuristic Search Algorithms:
+   - Definition: Heuristic search algorithms are problem-solving techniques that use heuristics (rules of thumb) to find a solution by exploring a graph, tree, or other search space.
+   - How it works: By evaluating the nodes in the search space and expanding the most promising ones based on the heuristics, these algorithms help find the optimal or an acceptable solution efficiently.
+   - Example: Dijkstra's algorithm is a heuristic search algorithm used to find the shortest path between two points in a weighted graph. For example, finding the quickest route from city A to city B considering road distances and traffic conditions.
+
+3. Metacognition:
+   - Definition: Metacognition refers to an individual's ability to think about their own thinking processes, monitor their understanding of a problem or situation, and adjust their strategies accordingly.
+   - How it works: Students learn to evaluate their problem-solving performance, plan their approach to problems, and adapt their strategies based on feedback and outcomes.
+   - Example: A student who identifies that they struggle with complex algebraic equations can learn to break down the problem into smaller, manageable parts (subproblems), and then solve each subproblem before combining the solutions to find the final answer (divide-and-conquer approach).
+
+4. Problem Decomposition:
+   - Definition: Problem decomposition is a strategy that breaks down complex problems into smaller, more manageable subproblems, which are easier to understand and solve individually.
+   - How it works: Solving each subproblem independently and then combining the solutions to obtain the overall solution to the original problem.
+   - Example: Finding the area of a circle with radius 5 can be decomposed into finding the area of a square that inscribes the circle, calculating the lost area due to the circular shape, and summing up the areas of both shapes (Pythagoras' theorem can help in this case).

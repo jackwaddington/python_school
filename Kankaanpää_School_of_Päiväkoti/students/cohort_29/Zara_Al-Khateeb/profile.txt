@@ -1,0 +1,7 @@
+NAME:        Zara Al-Khateeb
+PRONOUNS:    she/her
+EMAIL:       zara.alkhateeb@kankaanpaavakouluofpainikoti.school.com
+COHORT:      29
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ahmed Al-Khateeb', 'phone': '7890123456', 'relation': 'Father'}

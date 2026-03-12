@@ -1,0 +1,7 @@
+NAME:        Benjamin Santos
+PRONOUNS:    he/him
+EMAIL:       benjamin.santos@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jose Santos', 'phone': '+358-40-789013', 'relationship': 'Father'}

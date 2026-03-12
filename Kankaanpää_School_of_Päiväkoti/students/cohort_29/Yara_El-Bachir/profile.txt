@@ -1,0 +1,7 @@
+NAME:        Yara El-Bachir
+PRONOUNS:    they/them
+EMAIL:       yaraelbachir@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Samira', 'last_name': 'El-Hajj'}

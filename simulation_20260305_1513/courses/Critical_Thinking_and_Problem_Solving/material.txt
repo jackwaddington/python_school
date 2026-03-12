@@ -1,0 +1,25 @@
+COURSE: Critical Thinking and Problem Solving
+Required passes to complete: 2
+────────────────────────────────────────
+
+ Critical Thinking and Problem Solving: Core Concepts
+
+1. **Analytical Reasoning**
+   - Definition: Analytical reasoning is the ability to break down complex problems into smaller, manageable parts, identify relationships among them, and reach a logical conclusion.
+   - How it works: Break a problem down into its component parts, understand their relationships, and use that understanding to make informed decisions or find solutions.
+   - Example: Given the equation 2x + 3 = 7, analytical reasoning would involve isolating x by first subtracting 3 from both sides (2x = 4), then dividing both sides by 2 (x = 2).
+
+2. **Critical Thinking**
+   - Definition: Critical thinking is the active process of analyzing and evaluating information, considering multiple perspectives, and making reasoned judgments based on evidence.
+   - How it works: Evaluate the credibility of sources, consider multiple viewpoints, and make informed decisions or formulate solutions based on a thorough understanding of the problem and available data.
+   - Example: When presented with an argument for a controversial policy, critical thinking would involve evaluating the evidence provided, considering alternative perspectives, and making a reasoned judgment as to the validity of the argument.
+
+3. **Problem Solving Strategies**
+   - Definition: Problem solving strategies are methods used to approach and solve problems effectively and efficiently. Some common strategies include the analytical hierarchy process (AHP), decision tree analysis, and brainstorming.
+   - How they work: Each strategy has a specific process for breaking down a problem, evaluating solutions, and choosing the best course of action. AHP involves ranking alternatives based on their importance and relationships, while decision tree analysis uses a graphical representation to illustrate possible outcomes. Brainstorming is a group-based method that encourages creative thinking and free association.
+   - Example: Using brainstorming to solve a marketing problem for a new product, team members might generate a list of potential strategies (e.g., online advertising, partnerships with influencers, hosting events), evaluate their feasibility, and choose the most effective combination.
+
+4. **Creativity**
+   - Definition: Creativity is the ability to produce novel and valuable ideas or solutions. It involves thinking outside the box and considering unconventional approaches to problems.
+   - How it works: Encourage lateral thinking, challenge assumptions, and combine seemingly unrelated concepts to generate innovative solutions.
+   - Example: In the context of designing a new mobile app, creativity might involve combining elements from popular games with productivity features to create an engaging task management tool.

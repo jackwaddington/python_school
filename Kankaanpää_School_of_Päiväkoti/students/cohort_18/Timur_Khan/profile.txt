@@ -1,0 +1,7 @@
+NAME:        Timur Khan
+PRONOUNS:    he/him
+EMAIL:       timur.khan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      18
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Amina', 'last_name': 'Khan'}

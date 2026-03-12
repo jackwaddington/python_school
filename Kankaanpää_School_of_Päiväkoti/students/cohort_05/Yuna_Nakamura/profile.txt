@@ -1,0 +1,7 @@
+NAME:        Yuna Nakamura
+PRONOUNS:    she/her
+EMAIL:       yuna.nakamura@kankaanpaaschoolofpavikoti.com
+COHORT:      5
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Nakamura'}

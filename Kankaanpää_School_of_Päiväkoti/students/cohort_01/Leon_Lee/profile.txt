@@ -1,0 +1,7 @@
+NAME:        Leon Lee
+PRONOUNS:    he/him
+EMAIL:       leon.lee@kankaanpaavakouluofpivakoti.school.com
+COHORT:      1
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Min Jung Lee', 'phone': '+358 40 9012 3456', 'relationship': 'Mother'}

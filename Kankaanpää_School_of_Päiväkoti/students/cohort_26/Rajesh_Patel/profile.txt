@@ -1,0 +1,7 @@
+NAME:        Rajesh Patel
+PRONOUNS:    he/him
+EMAIL:       rpatel@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ritu Patel', 'phone': '+918876543210', 'email': 'rpatel_senior@example.com'}

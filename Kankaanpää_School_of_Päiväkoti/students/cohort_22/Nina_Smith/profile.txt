@@ -1,0 +1,7 @@
+NAME:        Nina Smith
+PRONOUNS:    she/her
+EMAIL:       ninasmit@kankaanpaaschoolofpavikoti.com
+COHORT:      22
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: Thomas Smith

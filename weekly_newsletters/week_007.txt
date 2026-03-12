@@ -1,0 +1,24 @@
+ WEEKLY NEWSLETTER — The Academy of Enlightened Ingenuity — Week 7 — 2026-02-16
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  13
+  Graduates:        1
+  Dropouts:         6
+  Cohorts:          2
+
+COURSE ENROLMENT
+  Python Fundamentals: 3 students
+  Advanced Python Programming: 4 students
+  Data Science with Python: 13 students
+
+THIS WEEK
+The Academy of Enlightened Ingenuity has continued to thrive, with our active student body steadily engaged in their respective courses. Notable achievements this week include the successful completion of a complex data analysis project in the Data Science with Python course, and the graduation of one student from Advanced Python Programming.
+
+MESSAGE FROM THE PRINCIPAL
+As we approach the halfway mark of the semester, I am immensely proud of the progress our students have made. While it is unfortunate to see six students decide to leave our esteemed institution, we remain committed to providing a nurturing and challenging environment for all. Congratulations to our graduates, and let's continue to strive for excellence in the weeks ahead!
+
+NEXT WEEK
+Next week, we will delve deeper into Python Fundamentals and Advanced Python Programming, while our Data Science with Python cohort will explore machine learning techniques. Let's keep pushing the boundaries of knowledge together!
+
+───────────────────────────────────────────────────────

@@ -1,0 +1,7 @@
+NAME:        Nadia Wang
+PRONOUNS:    she/her
+EMAIL:       nadiawang@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Wei', 'last_name': 'Wang'}

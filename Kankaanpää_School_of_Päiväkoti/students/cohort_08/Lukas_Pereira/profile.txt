@@ -1,0 +1,7 @@
+NAME:        Lukas Pereira
+PRONOUNS:    he/him
+EMAIL:       lukas.pereira@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Pereira', 'phone': '+1-555-9876-5432', 'email': 'maria.pereira@example.com'}

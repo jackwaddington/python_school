@@ -1,0 +1,7 @@
+NAME:        Youssef Nguyen
+PRONOUNS:    he/him
+EMAIL:       youssefnguyen@kankaanpaaschoolofpaivakaoti.com
+COHORT:      15
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: Hoa Nguyen (Mother), hoa.nguyen@example.com

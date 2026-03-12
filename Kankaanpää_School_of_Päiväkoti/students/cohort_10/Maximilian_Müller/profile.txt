@@ -1,0 +1,7 @@
+NAME:        Maximilian Müller
+PRONOUNS:    he/him
+EMAIL:       maximilian.muller@kankaanpaavakooliopaivakoti.school.com
+COHORT:      10
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Anna Müller

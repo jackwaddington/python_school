@@ -1,0 +1,7 @@
+NAME:        Lukas Tanaka
+PRONOUNS:    he/him
+EMAIL:       lukas.tanaka@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: Yumi Tanaka <yumi.tanaka@example.com>

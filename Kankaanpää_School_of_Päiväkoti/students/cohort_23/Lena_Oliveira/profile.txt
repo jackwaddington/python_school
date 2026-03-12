@@ -1,0 +1,7 @@
+NAME:        Lena Oliveira
+PRONOUNS:    she/her
+EMAIL:       lenaoliveirarecent@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      23
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'João', 'last_name': 'Oliveira'}

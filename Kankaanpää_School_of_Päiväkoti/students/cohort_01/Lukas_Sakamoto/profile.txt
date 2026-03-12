@@ -1,0 +1,7 @@
+NAME:        Lukas Sakamoto
+PRONOUNS:    he/him
+EMAIL:       lukas.sakamoto@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Yumi Sakamoto', 'relation': 'mother', 'phone': '+819012345678', 'email': 'yumi.sakamoto@example.com'}

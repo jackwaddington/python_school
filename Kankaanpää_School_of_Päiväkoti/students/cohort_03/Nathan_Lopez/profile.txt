@@ -1,0 +1,7 @@
+NAME:        Nathan Lopez
+PRONOUNS:    he/him
+EMAIL:       nathan.lopez@kankaanpaavakoulukeskus.school.com
+COHORT:      3
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Lopez'}

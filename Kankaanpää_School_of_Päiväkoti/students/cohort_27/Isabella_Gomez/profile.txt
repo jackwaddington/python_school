@@ -1,0 +1,7 @@
+NAME:        Isabella Gomez
+PRONOUNS:    she/her
+EMAIL:       isabella.gomez@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Carlos Gomez (father) - carlos.gomez@example.com

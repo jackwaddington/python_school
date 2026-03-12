@@ -1,0 +1,123 @@
+ Vanguard Academy of Intellect and Innovation
+Subject: problem solving
+Seats: 3 | Courses to graduate: 3
+Intake every 8 weeks | Simulation: 22 weeks
+═══════════════════════════════════════════════════════
+
+COURSE: Critical Thinking and Problem Solving
+Required passes to complete: 2 weeks
+────────────────────────────────────────
+MATERIAL:
+ Critical Thinking and Problem Solving: Core Concepts
+
+1. **Analytical Reasoning**
+   - Definition: Analytical reasoning is the ability to break down complex problems into smaller, manageable parts, identify relationships among them, and reach a logical conclusion.
+   - How it works: Break a problem down into its component parts, understand their relationships, and use that understanding to make informed decisions or find solutions.
+   - Example: Given the equation 2x + 3 = 7, analytical reasoning would involve isolating x by first subtracting 3 from both sides (2x = 4), then dividing both sides by 2 (x = 2).
+
+2. **Critical Thinking**
+   - Definition: Critical thinking is the active process of analyzing and evaluating information, considering multiple perspectives, and making reasoned judgments based on evidence.
+   - How it works: Evaluate the credibility of sources, consider multiple viewpoints, and make informed decisions or formulate solutions based on a thorough understanding of the problem and available data.
+   - Example: When presented with an argument for a controversial policy, critical thinking would involve evaluating the evidence provided, considering alternative perspectives, and making a reasoned judgment as to the validity of the argument.
+
+3. **Problem Solving Strategies**
+   - Definition: Problem solving strategies are methods used to approach and solve problems effectively and efficiently. Some common strategies include the analytical hierarchy process (AHP), decision tree analysis, and brainstorming.
+   - How they work: Each strategy has a specific process for breaking down a problem, evaluating solutions, and choosing the best course of action. AHP involves ranking alternatives based on their importance and relationships, while decision tree analysis uses a graphical representation to illustrate possible outcomes. Brainstorming is a group-based method that encourages creative thinking and free association.
+   - Example: Using brainstorming to solve a marketing problem for a new product, team members might generate a list of potential strategies (e.g., online advertising, partnerships with influencers, hosting events), evaluate their feasibility, and choose the most effective combination.
+
+4. **Creativity**
+   - Definition: Creativity is the ability to produce novel and valuable ideas or solutions. It involves thinking outside the box and considering unconventional approaches to problems.
+   - How it works: Encourage lateral thinking, challenge assumptions, and combine seemingly unrelated concepts to generate innovative solutions.
+   - Example: In the context of designing a new mobile app, creativity might involve combining elements from popular games with productivity features to create an engaging task management tool.
+
+EXAM QUESTIONS:
+  Q1: Which of the following best describes critical thinking?
+       A) The ability to break down complex problems into smaller, manageable parts and reach a logical conclusion.
+       B) A group-based method that encourages creative thinking and free association.
+       C) The active process of analyzing and evaluating information, considering multiple perspectives, and making reasoned judgments based on evidence.
+       D) Methods used to approach and solve problems effectively and efficiently.
+  Answer: C
+
+  Q2: Which strategy involves ranking alternatives based on their importance and relationships?
+       A) Analytical hierarchy process (AHP)
+       B) Decision tree analysis
+       C) Brainstorming
+       D) Lateral thinking
+  Answer: A
+
+═══════════════════════════════════════════════════════
+
+COURSE: Algorithmic Methods for Problem Solving
+Required passes to complete: 4 weeks
+────────────────────────────────────────
+MATERIAL:
+ Algorithmic Methods for Problem Solving
+
+1. **Divide and Conquer**
+   - Definition: A problem-solving approach that breaks down a complex problem into smaller sub-problems, solves each sub-problem recursively, and combines their solutions to solve the original problem.
+   - How it works: The process involves three main steps: divide (break down the problem), conquer (solve the sub-problems), and combine (combine the solutions of sub-problems to solve the original problem).
+   - Concrete example: QuickSort algorithm, which sorts an array by first picking a 'pivot' element from the array, partitioning the other elements into two sub-arrays according to whether they are less than or greater than the pivot, and then recursively sorting the sub-arrays.
+
+2. **Greedy Algorithms**
+   - Definition: A problem-solving approach that makes the locally optimal choice at each stage with the hope of finding a global optimum. It selects the best immediate solution without looking ahead.
+   - How it works: The algorithm makes the locally optimal choice in each step, hoping that this will lead to a globally optimal solution. However, it may not always find the optimal solution due to its short-sighted nature.
+   - Concrete example: Knapsack problem where we have a set of items with weights and values, and a knapsack with a limited capacity. The goal is to choose a subset of items that maximize total value without exceeding the knapsack's capacity. A greedy algorithm would select items in order of decreasing value-to-weight ratio until the knapsack is full.
+
+3. **Dynamic Programming**
+   - Definition: An algorithmic technique used for optimization problems, where a problem is broken down into smaller overlapping sub-problems, solutions to these sub-problems are stored in a table (called memoization), and the solutions to the original problem are derived using the stored solutions.
+   - How it works: The process involves two main steps: overlap (break down the problem into overlapping sub-problems) and store (memoize the solutions of sub-problems in a table).
+   - Concrete example: Fibonacci sequence problem where we want to find the nth Fibonacci number. A dynamic programming solution involves constructing a table where the i-th cell stores the i-th Fibonacci number, and filling the table from bottom-up starting from the first two cells (0 and 1).
+
+4. **Backtracking**
+   - Definition: An algorithmic technique for finding all solutions to a problem recursively by generating candidate solutions incrementally, then eliminating dead ends through backtracking when no further progress can be made.
+   - How it works: The algorithm starts with an initial solution and extends it in a systematic way, checking at each step if the current solution is still valid. If the current solution cannot be extended any further or if it violates some constraints, the algorithm backtracks to the previous step and explores a different branch.
+   - Concrete example: The 8 Queens problem where we want to place 8 queens on an 8x8 chessboard such that no two queens threaten each other (i.e., they do not share the same row, column, or diagonal). A backtracking algorithm would start by placing a queen in the first row, then recursively place the remaining queens while ensuring they are safe from attack by previously placed queens. If no valid solution is found during this process, the algorithm backtracks to the previous step and tries a different placement for the current queen.
+
+EXAM QUESTIONS:
+  Q1: Which of the following problem-solving approaches breaks down a complex problem into smaller sub-problems, solves each sub-problem recursively, and combines their solutions to solve the original problem?
+       A) Greedy Algorithms
+       B) Divide and Conquer
+       C) Dynamic Programming
+       D) Backtracking
+  Answer: B
+
+  Q2: The Knapsack problem can be solved using which of the following algorithmic techniques?
+       A) Divide and Conquer
+       B) Greedy Algorithms
+       C) Dynamic Programming
+       D) Backtracking
+  Answer: B
+
+═══════════════════════════════════════════════════════
+
+COURSE: Advanced Strategies in Problem Solving
+Required passes to complete: 4 weeks
+────────────────────────────────────────
+MATERIAL:
+ Advanced Strategies in Problem Solving
+
+1. Analogical Reasoning:
+   - Definition: Analogical reasoning is a cognitive process that involves using similarities between two seemingly different situations to solve problems.
+   - How it works: Identifying common structures, patterns or relationships between two problems and transferring the solution from one problem to another.
+   - Example: If a student understands Newton's laws of motion by comparing them to rolling a ball down an incline (real-world example), they can apply this understanding to solve similar physics problems involving different masses and speeds.
+
+2. Heuristic Search Algorithms:
+   - Definition: Heuristic search algorithms are problem-solving techniques that use heuristics (rules of thumb) to find a solution by exploring a graph, tree, or other search space.
+   - How it works: By evaluating the nodes in the search space and expanding the most promising ones based on the heuristics, these algorithms help find the optimal or an acceptable solution efficiently.
+   - Example: Dijkstra's algorithm is a heuristic search algorithm used to find the shortest path between two points in a weighted graph. For example, finding the quickest route from city A to city B considering road distances and traffic conditions.
+
+3. Metacognition:
+   - Definition: Metacognition refers to an individual's ability to think about their own thinking processes, monitor their understanding of a problem or situation, and adjust their strategies accordingly.
+   - How it works: Students learn to evaluate their problem-solving performance, plan their approach to problems, and adapt their strategies based on feedback and outcomes.
+   - Example: A student who identifies that they struggle with complex algebraic equations can learn to break down the problem into smaller, manageable parts (subproblems), and then solve each subproblem before combining the solutions to find the final answer (divide-and-conquer approach).
+
+4. Problem Decomposition:
+   - Definition: Problem decomposition is a strategy that breaks down complex problems into smaller, more manageable subproblems, which are easier to understand and solve individually.
+   - How it works: Solving each subproblem independently and then combining the solutions to obtain the overall solution to the original problem.
+   - Example: Finding the area of a circle with radius 5 can be decomposed into finding the area of a square that inscribes the circle, calculating the lost area due to the circular shape, and summing up the areas of both shapes (Pythagoras' theorem can help in this case).
+
+EXAM QUESTIONS:
+  Not generated.
+
+═══════════════════════════════════════════════════════
+

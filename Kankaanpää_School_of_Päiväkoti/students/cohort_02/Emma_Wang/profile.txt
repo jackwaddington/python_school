@@ -1,0 +1,7 @@
+NAME:        Emma Wang
+PRONOUNS:    she/her
+EMAIL:       emma.wang@kankaanpaavalipasila.school.com
+COHORT:      2
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wang', 'relationship': 'Father', 'phone': '+358 40 5678 9012', 'email': 'li.wang@example.com'}

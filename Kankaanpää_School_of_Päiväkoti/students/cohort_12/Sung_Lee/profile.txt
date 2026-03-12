@@ -1,0 +1,7 @@
+NAME:        Sung Lee
+PRONOUNS:    he/him
+EMAIL:       sung.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ji-Yeon', 'last_name': 'Lee', 'relationship': 'Mother'}

@@ -1,0 +1,7 @@
+NAME:        Ahmed Mohammed
+PRONOUNS:    he/him
+EMAIL:       ahmed.mohammed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'Mohammed'}

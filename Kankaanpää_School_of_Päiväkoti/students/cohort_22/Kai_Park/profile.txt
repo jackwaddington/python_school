@@ -1,0 +1,7 @@
+NAME:        Kai Park
+PRONOUNS:    they/them
+EMAIL:       kai.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: Minhee Park <minhee.park@example.com>

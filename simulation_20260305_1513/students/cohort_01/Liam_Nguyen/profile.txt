@@ -1,0 +1,7 @@
+NAME:        Liam Nguyen
+PRONOUNS:    he/him
+EMAIL:       liam.nguyen@vanguardacademyofintellectandinnovation.com
+COHORT:      1
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Thu Nguyen (Mother)

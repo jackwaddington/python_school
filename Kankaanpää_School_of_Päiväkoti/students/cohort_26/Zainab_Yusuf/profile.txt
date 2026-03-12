@@ -1,0 +1,7 @@
+NAME:        Zainab Yusuf
+PRONOUNS:    she/her
+EMAIL:       zainabyusuf@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima Yusuf', 'relationship': 'Mother'}

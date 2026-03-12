@@ -1,0 +1,7 @@
+NAME:        Emilia Lee
+PRONOUNS:    she/her
+EMAIL:       emilia.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      18
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

@@ -1,0 +1,25 @@
+COURSE: Infant and Toddler Care
+Required passes to complete: 20
+────────────────────────────────────────
+
+ Infant and Toddler Care in Päiväkoti: Core Concepts
+
+1. **Attachment Theory**
+   - Definition: Attachment theory is a concept that explains the emotional bond between an infant and their primary caregiver, shaping the child's behavior and emotional development.
+   - How it works: Infants form attachments to adults who consistently meet their needs for comfort, food, and safety. The quality of this attachment can influence a child's future relationships and emotional well-being.
+   - Example: A baby cries when separated from the primary caregiver (mother or daycare worker), indicating an attachment has been formed.
+
+2. **Developmentally Appropriate Practice (DAP)**
+   - Definition: Developmentally Appropriate Practice (DAP) is a framework that guides early childhood educators in planning and implementing activities, interactions, and environments that support children's development.
+   - How it works: DAP considers the individual needs, interests, and stages of development of each child, ensuring activities are challenging but achievable, and promote learning and growth.
+   - Example: A toddler play area with age-appropriate toys like blocks, balls, and ride-on cars allows children to explore, interact, and develop their physical, cognitive, and social skills.
+
+3. **Positive Guidance**
+   - Definition: Positive guidance is a method of guiding children's behavior through encouragement, praise, and redirection rather than punishment or criticism.
+   - How it works: Positive guidance helps children learn self-control, empathy, and responsible behavior by setting clear expectations, providing positive feedback for appropriate behavior, and guiding them towards more appropriate choices when necessary.
+   - Example: A toddler is pulling a plant from the ground. Instead of scolding the child, the caregiver gently explains that plants need to stay in the ground and shows the child an appropriate way to play nearby.
+
+4. **Early Childhood Environment Rating Scale (ECERS-3)**
+   - Definition: The Early Childhood Environment Rating Scale (ECERS-3) is a tool used to assess the quality of early childhood education and care environments.
+   - How it works: ECERS-3 evaluates the physical environment, interactions between adults and children, and activities provided based on developmentally appropriate practices. Scores can help identify areas for improvement in the care provided.
+   - Example: A daycare setting with a variety of age-appropriate toys, books, and materials arranged in learning centers (dramatic play, block area, art center, etc.), along with caregivers who regularly engage in positive interactions with children, would score higher on ECERS-3 than a chaotic environment with minimal resources.

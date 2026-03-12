@@ -1,0 +1,7 @@
+NAME:        Eva Park
+PRONOUNS:    she/her
+EMAIL:       eva.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Park'}

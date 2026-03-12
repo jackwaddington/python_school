@@ -1,0 +1,7 @@
+NAME:        Noam Benjamin
+PRONOUNS:    he/him
+EMAIL:       noam.benjamin@kankaanpaavakoulusopimukoti.school.com
+COHORT:      6
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: Miriam Cohen (mother) - miriam.cohen@gmail.com

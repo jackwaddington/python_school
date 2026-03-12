@@ -1,0 +1,7 @@
+NAME:        Sofia Patel
+PRONOUNS:    she/her
+EMAIL:       sofia.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      20
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: Rahul Patel

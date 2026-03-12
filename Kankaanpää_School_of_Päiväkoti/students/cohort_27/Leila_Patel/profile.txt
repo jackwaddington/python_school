@@ -1,0 +1,7 @@
+NAME:        Leila Patel
+PRONOUNS:    she/her
+EMAIL:       leila.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: Hari Patel (father) - hari.patel@example.com

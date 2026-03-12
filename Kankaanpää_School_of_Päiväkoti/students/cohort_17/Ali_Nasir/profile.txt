@@ -1,0 +1,7 @@
+NAME:        Ali Nasir
+PRONOUNS:    he/him
+EMAIL:       anasir@kankaanpaavapaivakoti.school.com
+COHORT:      17
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maryam Nasir', 'phone': '+971-4-1234-5678'}

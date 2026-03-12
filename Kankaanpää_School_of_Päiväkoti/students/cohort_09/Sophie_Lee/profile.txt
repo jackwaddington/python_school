@@ -1,0 +1,7 @@
+NAME:        Sophie Lee
+PRONOUNS:    she/her
+EMAIL:       sophielee@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'David', 'last_name': 'Lee'}

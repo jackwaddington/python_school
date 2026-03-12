@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academia Cognitus Excelsa — Week 52 — 2026-12-28
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  8
+  Graduates:        58
+  Dropouts:         4
+  Cohorts:          7
+
+COURSE ENROLMENT
+  Algorithmic Design: 3 students
+  Data Structures and Algorithms: 5 students
+  Full-Stack Web Development: 62 students
+
+THIS WEEK
+Over the past seven days, we have witnessed significant progress in various courses. In Algorithmic Design, students delved deeper into graph theory and dynamic programming. In Data Structures and Algorithms, students began exploring advanced topics such as sorting algorithms and Big O notation. The Full-Stack Web Development cohort completed their final project presentations, showcasing their impressive web applications.
+
+MESSAGE FROM THE PRINCIPAL
+We are proud to report that our student body continues to thrive, with 8 active students remaining, 58 graduates, and just 4 dropouts this term. The diversity in course offerings has fostered a collaborative learning environment where each student can excel. We look forward to another productive week ahead!
+
+NEXT WEEK
+Next week, we will begin preparing for our annual coding competition, inviting top companies to sponsor and attend. Additionally, the Algorithmic Design class will dive into knapsack problems while Data Structures and Algorithms students explore priority queues. The Full-Stack Web Development cohort will continue working on their final projects, refining their code for submission at the competition.

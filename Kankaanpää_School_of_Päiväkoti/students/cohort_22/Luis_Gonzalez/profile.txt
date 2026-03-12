@@ -1,0 +1,7 @@
+NAME:        Luis Gonzalez
+PRONOUNS:    he/him
+EMAIL:       luis.gonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Gonzalez', 'phone': '+358-2345678901', 'relation': 'Mother'}

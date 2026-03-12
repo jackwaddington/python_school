@@ -1,0 +1,7 @@
+NAME:        Zara Yang
+PRONOUNS:    she/her
+EMAIL:       zara.yang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      26
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Yang', 'relationship': 'Father'}

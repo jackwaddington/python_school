@@ -1,0 +1,7 @@
+NAME:        Sophie Li
+PRONOUNS:    she/her
+EMAIL:       sophie.li@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jack Li', 'phone': '+1-555-5678-9012', 'email': 'jack.li@example.com'}

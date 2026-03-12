@@ -1,0 +1,7 @@
+NAME:        Anika Mitra
+PRONOUNS:    she/her
+EMAIL:       anika.mitra@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Rajat', 'last_name': 'Mitra'}

@@ -1,0 +1,7 @@
+NAME:        Sara Mohammad
+PRONOUNS:    she/her
+EMAIL:       saramohammad@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Mohammad'}

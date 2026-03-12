@@ -1,0 +1,7 @@
+NAME:        Eva Mendez
+PRONOUNS:    she/her
+EMAIL:       eva.mendez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.55
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Juan Mendez', 'relation': 'Father', 'phone': '+358-445678902', 'email': 'juan.mendez@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Zara Youssef
+PRONOUNS:    she/her
+EMAIL:       zara.youssef@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      18
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'Youssef'}

@@ -1,0 +1,7 @@
+NAME:        Zara Wu
+PRONOUNS:    she/her
+EMAIL:       zara.wu@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.52
+ALLERGIES:   ['eggs']
+NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Wu'}

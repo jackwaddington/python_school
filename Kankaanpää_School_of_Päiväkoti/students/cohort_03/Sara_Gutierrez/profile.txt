@@ -1,0 +1,7 @@
+NAME:        Sara Gutierrez
+PRONOUNS:    she/her
+EMAIL:       sara.gutierrez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Gutierrez', 'phone': '+1-555-3456'}

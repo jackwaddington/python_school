@@ -1,0 +1,7 @@
+NAME:        Tamara Johnson
+PRONOUNS:    she/her
+EMAIL:       tamara.johnson@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Michael Johnson <michael.johnson@example.com>

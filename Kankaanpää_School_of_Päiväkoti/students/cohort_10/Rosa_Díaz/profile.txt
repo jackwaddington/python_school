@@ -1,0 +1,7 @@
+NAME:        Rosa Díaz
+PRONOUNS:    she/her
+EMAIL:       rosa.diaz@kankaanpaavaliskoulu.school.com
+COHORT:      10
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Díaz', 'phone': '+358406789012', 'email': 'juan.diaz@kankaanpaavaliskoulu.school.com'}

@@ -1,0 +1,7 @@
+NAME:        Manpreet Kumar
+PRONOUNS:    he/him
+EMAIL:       manpreet.kumar@kankaanpaaschoolofpavikoti.school.com
+COHORT:      11
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Sara Johnson <sarajohnson@example.com>

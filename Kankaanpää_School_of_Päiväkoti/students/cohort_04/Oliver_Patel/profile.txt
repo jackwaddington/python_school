@@ -1,0 +1,7 @@
+NAME:        Oliver Patel
+PRONOUNS:    he/him
+EMAIL:       oliver.patel@kankaanpaavakouluofpivakoti.school.com
+COHORT:      4
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Hitesh Patel (Father) - hitesh.patel@example.com

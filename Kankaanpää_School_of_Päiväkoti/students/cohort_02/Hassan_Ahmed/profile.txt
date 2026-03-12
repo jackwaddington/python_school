@@ -1,0 +1,7 @@
+NAME:        Hassan Ahmed
+PRONOUNS:    he/him
+EMAIL:       hassan.ahmed@kankaanpaavakouluofpavikoti.school.com
+COHORT:      2
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: Zainab Ahmed

@@ -1,0 +1,17 @@
+EXAM: Algorithmic Methods for Problem Solving
+────────────────────────────────────────
+
+Q1: Which of the following problem-solving approaches breaks down a complex problem into smaller sub-problems, solves each sub-problem recursively, and combines their solutions to solve the original problem?
+  A) Greedy Algorithms
+  B) Divide and Conquer
+  C) Dynamic Programming
+  D) Backtracking
+Answer: B
+
+Q2: The Knapsack problem can be solved using which of the following algorithmic techniques?
+  A) Divide and Conquer
+  B) Greedy Algorithms
+  C) Dynamic Programming
+  D) Backtracking
+Answer: B
+

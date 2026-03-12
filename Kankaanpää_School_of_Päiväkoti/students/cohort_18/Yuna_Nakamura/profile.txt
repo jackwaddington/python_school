@@ -1,0 +1,7 @@
+NAME:        Yuna Nakamura
+PRONOUNS:    she/her
+EMAIL:       yuna.nakamura@kankaanpaavakoulusopimiskoti.school.com
+COHORT:      18
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hiroshi Nakamura', 'relationship': 'Father', 'phone': '+358-40-6789-0123'}

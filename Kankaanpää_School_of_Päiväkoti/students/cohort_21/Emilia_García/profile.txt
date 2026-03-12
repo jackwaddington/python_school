@@ -1,0 +1,7 @@
+NAME:        Emilia García
+PRONOUNS:    she/her
+EMAIL:       emilia.garcia@kankaanpaaschoolofpavikoti.com
+COHORT:      21
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rafael García', 'relationship': 'Father'}

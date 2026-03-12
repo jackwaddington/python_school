@@ -1,0 +1,7 @@
+NAME:        Elias O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       elias.osullivan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisling', 'last_name': "O'Sullivan"}

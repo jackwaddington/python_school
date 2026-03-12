@@ -1,0 +1,7 @@
+NAME:        Maya Zhang
+PRONOUNS:    she/her
+EMAIL:       maya.zhang@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hong', 'last_name': 'Zhang'}

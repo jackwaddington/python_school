@@ -1,0 +1,7 @@
+NAME:        Ram Patel
+PRONOUNS:    he/him
+EMAIL:       rpatel@kankaanpaaschoolofpavikoti.com
+COHORT:      22
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: Sita Patel

@@ -1,0 +1,7 @@
+NAME:        Lincoln Li
+PRONOUNS:    he/him
+EMAIL:       lincoln.li@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Jenny Li <jenny.li@example.com>

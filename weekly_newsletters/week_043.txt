@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academia Cognitus Excelsa — Week 43 — 2026-10-26
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  5
+  Graduates:        51
+  Dropouts:         4
+  Cohorts:          6
+
+COURSE ENROLMENT
+  Algorithmic Design: 1 students
+  Data Structures and Algorithms: 4 students
+  Full-Stack Web Development: 55 students
+
+THIS WEEK
+The school community has been actively engaged in various coding projects, with students making significant progress in their respective courses. The Full-Stack Web Development cohort has started working on a group project that aims to develop an interactive e-learning platform for the school.
+
+MESSAGE FROM THE PRINCIPAL
+As we celebrate the achievements of our 51 graduates this week, I would like to express my gratitude to each and every one of our students for their hard work and dedication. To those who have recently joined us, welcome aboard! We are excited to see your progress as you embark on this transformative journey in technology.
+
+NEXT WEEK
+Next week, we will host a guest lecture featuring industry experts discussing the latest trends in software development and artificial intelligence. Don't miss out on this valuable opportunity for learning and networking!

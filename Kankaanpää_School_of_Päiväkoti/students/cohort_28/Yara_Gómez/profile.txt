@@ -1,0 +1,7 @@
+NAME:        Yara Gómez
+PRONOUNS:    she/her
+EMAIL:       yara.gomez@kankaanpaaschoolofpavikoti.com
+COHORT:      28
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Gómez'}

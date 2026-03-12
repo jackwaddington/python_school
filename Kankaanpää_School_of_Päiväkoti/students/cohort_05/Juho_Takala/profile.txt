@@ -1,0 +1,7 @@
+NAME:        Juho Takala
+PRONOUNS:    he/him
+EMAIL:       juho.takala@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: Liisa Takala

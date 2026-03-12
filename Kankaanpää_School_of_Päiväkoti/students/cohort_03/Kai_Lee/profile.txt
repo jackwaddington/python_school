@@ -1,0 +1,7 @@
+NAME:        Kai Lee
+PRONOUNS:    they/them
+EMAIL:       kai.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Linda Lee', 'phone': '+1-555-5678'}

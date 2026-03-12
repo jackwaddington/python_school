@@ -1,0 +1,7 @@
+NAME:        Ana Gomez
+PRONOUNS:    she/her
+EMAIL:       ana.gomez@kankaanpaaschoolofpavikoti.com
+COHORT:      20
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Pedro Gomez', 'relationship': 'Father', 'phone': '+358 40 8901 2345'}

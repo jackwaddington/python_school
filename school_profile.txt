@@ -1,0 +1,157 @@
+ The Academy of Enlightened Ingenuity
+Subject: python programming
+Seats: 2 | Courses to graduate: 3
+Intake every 4 weeks | Simulation: 10 weeks
+═══════════════════════════════════════════════════════
+
+COURSE: Python Fundamentals
+Required passes to complete: 1 weeks
+────────────────────────────────────────
+MATERIAL:
+ Python Fundamentals Course Material
+
+1. Introduction to Python Programming:
+   - Overview of Python
+     - History and uses
+     - Advantages of using Python
+   - Setting up the development environment
+     - Installation instructions for various operating systems
+     - Introduction to Integrated Development Environments (IDEs) like PyCharm, Jupyter Notebook, etc.
+
+2. Data Structures in Python:
+   - Lists
+     - Creating lists
+     - Accessing and modifying list elements
+     - List methods (append, extend, insert, remove, pop, etc.)
+   - Tuples
+     - Creating tuples
+     - Immutable nature of tuples
+   - Sets
+     - Creating sets
+     - Set operations (union, intersection, difference, etc.)
+   - Dictionaries
+     - Creating dictionaries
+     - Accessing and modifying dictionary elements
+
+3. Control Structures in Python:
+   - Conditional Statements
+     - if-else statements
+     - Multiple if-elif statements
+     - Nested if statements
+   - Loops
+     - for loop
+     - while loop
+     - break and continue statements
+
+4. Functions in Python:
+   - Defining functions
+     - Function parameters
+     - Returning values from functions
+   - Built-in functions
+     - len, min, max, abs, etc.
+   - Anonymous (lambda) functions
+
+5. Error Handling in Python:
+   - Exception handling using try-except blocks
+   - Raising custom exceptions
+   - The 'assert' statement for debugging
+
+EXAM QUESTIONS:
+  Q1: What is the primary advantage of using Python?
+       A) Speed
+       B) Ease of learning
+       C) Portability
+       D) Low memory usage
+  Answer: B
+
+  Q2: Which of the following is NOT a mutable data structure in Python?
+       A) List
+       B) Tuple
+       C) Set
+       D) Dictionary
+  Answer: B
+
+═══════════════════════════════════════════════════════
+
+COURSE: Advanced Python Programming
+Required passes to complete: 1 weeks
+────────────────────────────────────────
+MATERIAL:
+ Title: Advanced Python Programming
+
+Course Overview:
+This advanced Python programming course will delve deeper into the language, enabling you to create complex applications and systems. We will explore key concepts that are not typically covered in introductory courses.
+
+Key Topics:
+1. Generators and Iterators: Understand how to create and utilize generators for efficient memory usage and infinite sequences.
+2. Decorators: Learn how to use decorators to modify the functionality of functions, classes, and methods at runtime.
+3. Context Managers: Master the art of using context managers for efficient resource handling such as files, network connections, and locks.
+4. Concurrency with AsyncIO: Gain expertise in concurrent programming using Python's built-in asyncio library for writing high-performance, non-blocking I/O applications.
+
+Throughout the course, you will work on real-world projects to solidify your understanding of these advanced concepts and develop practical skills in Python programming.
+
+EXAM QUESTIONS:
+  Q1: In the context of Python programming, what are generators used for?
+       A) To create complex applications and systems
+       B) To modify the functionality of functions at runtime
+       C) To handle resources efficiently such as files, network connections, and locks
+       D) To manage concurrent programming using asyncio library
+  Answer: A
+
+  Q2: Which of the following is NOT a key topic covered in the Advanced Python Programming course?
+       A) Context Managers
+       B) Generators and Iterators
+       C) Decorators
+       D) Concurrency with AsyncIO
+  Answer: C
+
+═══════════════════════════════════════════════════════
+
+COURSE: Data Science with Python
+Required passes to complete: 2 weeks
+────────────────────────────────────────
+MATERIAL:
+ Course: Data Science with Python
+
+1. Introduction
+   - Overview of Python and its importance in Data Science
+   - Installing necessary libraries such as NumPy, pandas, Matplotlib, and Scikit-learn
+   - Basic Python syntax review (variables, data types, loops, functions)
+
+2. Data Manipulation with pandas
+   - Introduction to the pandas library
+   - Reading and writing data from various formats (CSV, Excel, SQL databases)
+   - Data cleaning techniques: handling missing values, merging, grouping, and reshaping data
+
+3. Exploratory Data Analysis (EDA) with pandas and Matplotlib
+   - Visualizing distributions and summaries of datasets
+   - Creating interactive visualizations using matplotlib
+   - Performing statistical analysis to gain insights into the data
+
+4. Machine Learning with Scikit-learn
+   - Supervised learning: classification, regression, and evaluation metrics
+   - Unsupervised learning: clustering and dimensionality reduction techniques
+   - Model tuning and hyperparameter optimization
+
+5. Advanced Topics (optional)
+   - Natural Language Processing using NLTK or spaCy libraries
+   - Time series analysis with pandas and Prophet library
+   - Deep Learning with TensorFlow or PyTorch
+
+EXAM QUESTIONS:
+  Q1: Which library is used for Data Manipulation in the 'Data Science with Python' course?
+       A) NumPy
+       B) pandas
+       C) Matplotlib
+       D) Scikit-learn
+  Answer: B
+
+  Q2: Which technique is used for handling missing values, merging, grouping, and reshaping data in the 'Data Science with Python' course?
+       A) Supervised learning
+       B) Unsupervised learning
+       C) Data cleaning techniques
+       D) Machine Learning with Scikit-learn
+  Answer: C
+
+═══════════════════════════════════════════════════════
+

@@ -1,0 +1,7 @@
+NAME:        Lucas Miller
+PRONOUNS:    he/him
+EMAIL:       lucas.miller@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      20
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: Anna Miller

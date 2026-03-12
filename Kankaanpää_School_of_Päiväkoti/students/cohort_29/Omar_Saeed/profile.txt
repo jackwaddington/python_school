@@ -1,0 +1,7 @@
+NAME:        Omar Saeed
+PRONOUNS:    he/him
+EMAIL:       omar.saeed@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Saeed'}

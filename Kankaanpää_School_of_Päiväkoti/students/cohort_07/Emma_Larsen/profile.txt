@@ -1,0 +1,7 @@
+NAME:        Emma Larsen
+PRONOUNS:    she/her
+EMAIL:       emma.larsen@kankaanpaavakoulunpivaikotilaskenta.school.com
+COHORT:      7
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Thomas Larsen

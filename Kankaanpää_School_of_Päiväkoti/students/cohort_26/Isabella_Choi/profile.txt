@@ -1,0 +1,7 @@
+NAME:        Isabella Choi
+PRONOUNS:    she/her
+EMAIL:       isabella.choi@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      26
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Choi', 'relationship': 'Mother'}

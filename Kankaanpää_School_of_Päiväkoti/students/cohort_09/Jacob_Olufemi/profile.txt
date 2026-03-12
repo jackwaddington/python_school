@@ -1,0 +1,7 @@
+NAME:        Jacob Olufemi
+PRONOUNS:    he/him
+EMAIL:       jacob.olufemi@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      9
+ABILITY:     0.26
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Tobi', 'last_name': 'Olugbenga'}

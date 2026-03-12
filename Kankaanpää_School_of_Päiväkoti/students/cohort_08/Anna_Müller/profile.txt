@@ -1,0 +1,7 @@
+NAME:        Anna Müller
+PRONOUNS:    she/her
+EMAIL:       anna.mueller@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Felix', 'last_name': 'Müller'}

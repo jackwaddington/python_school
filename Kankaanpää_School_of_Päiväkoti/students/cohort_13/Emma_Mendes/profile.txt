@@ -1,0 +1,7 @@
+NAME:        Emma Mendes
+PRONOUNS:    she/her
+EMAIL:       emma.mendes@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'José', 'last_name': 'Mendes'}

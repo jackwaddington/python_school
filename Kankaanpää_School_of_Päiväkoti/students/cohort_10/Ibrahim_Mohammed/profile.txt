@@ -1,0 +1,7 @@
+NAME:        Ibrahim Mohammed
+PRONOUNS:    he/him
+EMAIL:       ibrahim.mohammed@kankaanpaavakouluopistopolku.school.com
+COHORT:      10
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: Fatima Mohammed

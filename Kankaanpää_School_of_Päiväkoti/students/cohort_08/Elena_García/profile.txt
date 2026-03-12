@@ -1,0 +1,7 @@
+NAME:        Elena García
+PRONOUNS:    she/her
+EMAIL:       elena.garcia@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan García', 'relationship': 'Father', 'phone': '+358-40-9876-5435'}

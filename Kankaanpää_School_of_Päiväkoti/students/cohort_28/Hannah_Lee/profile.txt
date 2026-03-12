@@ -1,0 +1,7 @@
+NAME:        Hannah Lee
+PRONOUNS:    she/her
+EMAIL:       hlee@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      28
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

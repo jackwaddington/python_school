@@ -1,0 +1,7 @@
+NAME:        Michael Park
+PRONOUNS:    he/him
+EMAIL:       michael.park@kankaanpaavakouluofpainivaltakoti.school.com
+COHORT:      26
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'MinJi', 'last_name': 'Park'}

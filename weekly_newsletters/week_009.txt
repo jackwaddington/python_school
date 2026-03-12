@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academy of Enlightened Ingenuity — Week 9 — 2026-03-02
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  12
+  Graduates:        9
+  Dropouts:         9
+  Cohorts:          3
+
+COURSE ENROLMENT
+  Python Fundamentals: 5 students
+  Advanced Python Programming: 10 students
+  Data Science with Python: 15 students
+
+THIS WEEK
+The Academy witnessed a week of intense learning and collaboration, with students progressing in their respective courses. The Data Science with Python cohort engaged in a real-world data analysis project involving predictive modeling for climate change research.
+
+MESSAGE FROM THE PRINCIPAL
+We are proud to have 9 graduates this week, but we acknowledge the 9 dropouts and encourage those who may be facing challenges to reach out for support. We look forward to next week's continued growth and success.
+
+NEXT WEEK
+Next week, our Data Science with Python cohort will present their findings from the climate change project, while all students will participate in a guest lecture on machine learning algorithms.

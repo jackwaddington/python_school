@@ -1,0 +1,7 @@
+NAME:        Mohamed Ahmed
+PRONOUNS:    he/him
+EMAIL:       mohamed.ahmed@kankaanpaavaliskoulu.school.com
+COHORT:      10
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Amina Ahmed', 'phone': '+358407789013', 'email': 'amina.ahmed@kankaanpaavaliskoulu.school.com'}

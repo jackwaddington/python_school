@@ -1,0 +1,7 @@
+NAME:        Hassan Akhtar
+PRONOUNS:    he/him
+EMAIL:       hassan.akhtar@kankaanpaaschoolofpavikoti.com
+COHORT:      28
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Nargis', 'last_name': 'Akhtar'}

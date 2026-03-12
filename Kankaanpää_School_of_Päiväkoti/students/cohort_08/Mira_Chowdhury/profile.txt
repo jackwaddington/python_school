@@ -1,0 +1,7 @@
+NAME:        Mira Chowdhury
+PRONOUNS:    she/her
+EMAIL:       mira.chowdhury@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Shahriar', 'last_name': 'Chowdhury'}

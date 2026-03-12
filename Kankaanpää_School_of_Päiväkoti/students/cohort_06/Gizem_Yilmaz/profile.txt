@@ -1,0 +1,7 @@
+NAME:        Gizem Yilmaz
+PRONOUNS:    she/her
+EMAIL:       gizem.yilmaz@kankaanpaaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.3
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: Mehmet Yilmaz

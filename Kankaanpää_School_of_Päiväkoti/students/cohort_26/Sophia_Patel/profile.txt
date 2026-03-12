@@ -1,0 +1,7 @@
+NAME:        Sophia Patel
+PRONOUNS:    she/her
+EMAIL:       sophia.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      26
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Kavita Patel', 'relationship': 'Mother'}

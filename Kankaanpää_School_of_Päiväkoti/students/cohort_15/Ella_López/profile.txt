@@ -1,0 +1,7 @@
+NAME:        Ella López
+PRONOUNS:    she/her
+EMAIL:       ella.lopez@kankaanpaavakoulutuspaivakoti.school.com
+COHORT:      15
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Raul', 'last_name': 'López'}

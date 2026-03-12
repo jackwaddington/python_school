@@ -1,0 +1,7 @@
+NAME:        Nicholas Lee
+PRONOUNS:    he/him
+EMAIL:       nicholas.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jennifer Lee', 'relationship': 'Mother'}

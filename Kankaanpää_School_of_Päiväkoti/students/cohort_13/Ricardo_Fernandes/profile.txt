@@ -1,0 +1,7 @@
+NAME:        Ricardo Fernandes
+PRONOUNS:    he/him
+EMAIL:       ricardo.fernandes@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: Maria Fernandes <maria.fernandes@example.com>

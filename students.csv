@@ -1,0 +1,31 @@
+name,pronouns,email,cohort,ability,graduated,dropped_out,courses_completed,has_allergy
+Aisha Kumar (she/her),she/her,aishakumar@theacademyofenlightenedingenuity@school.com,1,0.37,True,False,2,False
+Juan Lee (he/him),he/him,juanlee@theacademyofenlightenedingenuity@school.com,1,0.52,False,True,2,False
+Yara Nguyen (she/her),she/her,yaranguyen@theacademyofenlightenedingenuity@school.com,1,0.51,True,False,2,False
+Oliver Gomez (he/him),he/him,olivergomez@theacademyofenlightenedingenuity@school.com,1,0.48,True,False,2,False
+Leila Patel (she/her),she/her,leilapatel@theacademyofenlightenedingenuity@school.com,1,0.57,False,True,0,False
+Sebastian Li (he/him),he/him,sebastianli@theacademyofenlightenedingenuity@school.com,1,0.63,True,False,2,False
+Sara Akter (she/her),she/her,saraakter@theacademyofenlightenedingenuity@school.com,1,0.35,False,True,0,False
+Noah Park (he/him),he/him,noahpark@theacademyofenlightenedingenuity@school.com,1,0.38,False,True,2,False
+Lina Diaz (she/her),she/her,linadiaz@theacademyofenlightenedingenuity@school.com,1,0.54,False,True,2,False
+Elias Wang (he/him),he/him,eliaswang@theacademyofenlightenedingenuity@school.com,1,0.71,False,True,1,False
+Aisha Kumar (she/her),she/her,aishakumar@theacademyofenlightenedingenuity@school.com,2,0.68,True,False,2,False
+Omar Alvarez (he/him),he/him,omaralvarez@theacademyofenlightenedingenuity@school.com,2,0.42,False,False,2,False
+Yara Nguyen (she/her),she/her,yaranguyen@theacademyofenlightenedingenuity@school.com,2,0.4,False,False,2,False
+Lukas O'Sullivan (he/him),he/him,lukasosullivan@theacademyofenlightenedingenuity@school.com,2,0.82,True,False,2,False
+Fátima Rodríguez (she/her),she/her,fatimarodriguez@theacademyofenlightenedingenuity@school.com,2,0.58,True,False,2,False
+Arjun Maharaj (he/him),he/him,arjunmaharaj@theacademyofenlightenedingenuity@school.com,2,0.85,True,False,2,False
+Emma Lee (she/her),she/her,emmalee@theacademyofenlightenedingenuity@school.com,2,0.83,False,True,1,False
+Ramy El-Assi (he/him),he/him,ramyelassi@theacademyofenlightenedingenuity@school.com,2,0.51,True,False,2,False
+Nina Pereira (she/her),she/her,ninapereira@theacademyofenlightenedingenuity@school.com,2,0.82,False,False,2,False
+Soumya Kapoor (she/her),she/her,soumyakapoor@theacademyofenlightenedingenuity@school.com,2,0.69,False,False,2,False
+Aisha Patel (she/her),she/her,aishapatel@theacademyofenlightenedingenuity@school.com,3,0.83,False,False,1,False
+Juan Diaz (he/him),he/him,juan diaz@theacademyofenlightenedingenuity@school.com,3,0.69,False,False,1,False
+Yara Kim (she/her),she/her,yarakim@theacademyofenlightenedingenuity@school.com,3,0.76,False,False,2,False
+Omar Nguyen (he/him),he/him,omarnguyen@theacademyofenlightenedingenuity@school.com,3,0.51,False,True,0,False
+Sofia Mendez (she/her),she/her,sofiamendez@theacademyofenlightenedingenuity@school.com,3,0.71,False,False,1,False
+Ahmed Li (he/him),he/him,ahmedli@theacademyofenlightenedingenuity@school.com,3,0.9,False,False,2,False
+Mia Park (she/her),she/her,miapark@theacademyofenlightenedingenuity@school.com,3,0.33,False,False,1,False
+Khalil Lee (he/him),he/him,khalillee@theacademyofenlightenedingenuity@school.com,3,0.37,False,True,0,False
+Zara Santos (she/her),she/her,zarasantos@theacademyofenlightenedingenuity@school.com,3,0.74,False,False,1,False
+Amir Wang (he/him),he/him,amirwang@theacademyofenlightenedingenuity@school.com,3,0.81,False,False,2,False

@@ -1,0 +1,7 @@
+NAME:        Sofia Park
+PRONOUNS:    she/her
+EMAIL:       sofia.park@vanguardacademyofintellectandinnovation.com
+COHORT:      1
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: James Park (Father)

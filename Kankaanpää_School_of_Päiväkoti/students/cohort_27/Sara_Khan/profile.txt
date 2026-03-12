@@ -1,0 +1,7 @@
+NAME:        Sara Khan
+PRONOUNS:    she/her
+EMAIL:       sara.khan@kankaanpaavakoulukoulutusindia.school.com
+COHORT:      27
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Zeeshan', 'last_name': 'Khan'}

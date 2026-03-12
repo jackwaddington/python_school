@@ -1,0 +1,7 @@
+NAME:        Ram Patel
+PRONOUNS:    he/him
+EMAIL:       ram.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      23
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sita Patel', 'phone': '+1-555-9012', 'relationship': 'Mother'}

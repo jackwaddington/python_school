@@ -1,0 +1,7 @@
+NAME:        Yusef Ben-Hassan
+PRONOUNS:    he/him
+EMAIL:       yusef.ben-hassan@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sara Ben-Hassan', 'relationship': 'Mother', 'phone': '+358-40-1234-567A'}

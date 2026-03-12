@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academy of Enlightened Ingenuity — Week 6 — 2026-02-09
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  15
+  Graduates:        0
+  Dropouts:         5
+  Cohorts:          2
+
+COURSE ENROLMENT
+  Python Fundamentals: 4 students
+  Advanced Python Programming: 5 students
+  Data Science with Python: 11 students
+
+THIS WEEK
+The Academy of Enlightened Ingenuity has experienced a productive week. Students have been diligently mastering various Python-based subjects, with a particular emphasis on data analysis and machine learning techniques. The school's Mentorship Program was also launched this week to help students tackle challenging concepts.
+
+MESSAGE FROM THE PRINCIPAL
+We are proud of our students for their hard work and dedication. With 15 active students remaining, we look forward to helping them reach their full potential. We will continue to focus on academic excellence while fostering a supportive learning environment.
+
+NEXT WEEK
+Next week, the Academy will host a guest lecture featuring renowned data scientist Dr. Jane Doe. Students are encouraged to attend and learn from her expertise in the field.

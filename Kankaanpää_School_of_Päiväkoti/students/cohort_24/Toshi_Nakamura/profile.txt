@@ -1,0 +1,7 @@
+NAME:        Toshi Nakamura
+PRONOUNS:    he/him
+EMAIL:       tnakamura@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Nakamura'}

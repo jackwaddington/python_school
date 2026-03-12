@@ -1,0 +1,7 @@
+NAME:        Aiden Lee
+PRONOUNS:    he/him
+EMAIL:       aiden.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'James Lee', 'relationship': 'Father', 'phone': '+190876543210', 'email': 'james.lee@yahoo.com'}

@@ -1,0 +1,7 @@
+NAME:        José Rodríguez
+PRONOUNS:    he/him
+EMAIL:       jrodriguez@kankaanpaaschoolofpavikoti.com
+COHORT:      22
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: Maria Rodríguez

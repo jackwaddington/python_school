@@ -1,0 +1,7 @@
+NAME:        Aya Takahashi
+PRONOUNS:    she/her
+EMAIL:       aya.takahashi@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Toshiro Takahashi', 'relationship': 'Father', 'phone': '+1345678901', 'email': 'toshiro.takahashi@example.com'}

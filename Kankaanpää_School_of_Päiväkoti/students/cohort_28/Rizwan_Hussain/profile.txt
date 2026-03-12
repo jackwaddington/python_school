@@ -1,0 +1,7 @@
+NAME:        Rizwan Hussain
+PRONOUNS:    he/him
+EMAIL:       rizwan.hussain@kankaanpaaschoolofpavikoti.com
+COHORT:      28
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: Farah Khan <farahkhan@example.com>

@@ -1,0 +1,7 @@
+NAME:        Emilia Jimenez
+PRONOUNS:    she/her
+EMAIL:       ejimenez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: Carlos Garcia <cgarcia@example.com>

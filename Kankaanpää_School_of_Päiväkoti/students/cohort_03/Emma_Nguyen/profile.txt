@@ -1,0 +1,7 @@
+NAME:        Emma Nguyen
+PRONOUNS:    she/her
+EMAIL:       emma.nguyen@kankaanpaavakoulukeskus.school.com
+COHORT:      3
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Thuan', 'last_name': 'Nguyen'}

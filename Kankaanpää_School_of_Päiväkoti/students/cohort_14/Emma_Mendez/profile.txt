@@ -1,0 +1,7 @@
+NAME:        Emma Mendez
+PRONOUNS:    she/her
+EMAIL:       emendez@kankaanpaavakoulu.school.com
+COHORT:      14
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: Pedro Mendez <pedromendez@example.com>

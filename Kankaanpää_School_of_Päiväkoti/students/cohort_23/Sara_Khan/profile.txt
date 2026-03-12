@@ -1,0 +1,7 @@
+NAME:        Sara Khan
+PRONOUNS:    she/her
+EMAIL:       sara.khan@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mohammed', 'last_name': 'Khan'}

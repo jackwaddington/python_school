@@ -1,0 +1,7 @@
+NAME:        Ricardo Gomez
+PRONOUNS:    he/him
+EMAIL:       ricardo.gomez@kankaanpaavakouluofpivakoti.school.com
+COHORT:      19
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: María Gómez (mother)

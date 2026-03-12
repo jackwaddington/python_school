@@ -1,0 +1,7 @@
+NAME:        Søren Jensen
+PRONOUNS:    he/him
+EMAIL:       soeren.jensen@kankaanpaaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.49
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Lone Jensen

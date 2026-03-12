@@ -1,0 +1,7 @@
+NAME:        Julian García
+PRONOUNS:    he/him
+EMAIL:       julian.garcia@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María García', 'relationship': 'Mother'}

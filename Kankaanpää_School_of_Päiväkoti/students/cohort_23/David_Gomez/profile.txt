@@ -1,0 +1,7 @@
+NAME:        David Gomez
+PRONOUNS:    he/him
+EMAIL:       david.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      23
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sofia Gomez', 'phone': '+1-555-6789', 'relationship': 'Mother'}

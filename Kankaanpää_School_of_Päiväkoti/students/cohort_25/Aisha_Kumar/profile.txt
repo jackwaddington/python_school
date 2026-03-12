@@ -1,0 +1,7 @@
+NAME:        Aisha Kumar
+PRONOUNS:    she/her
+EMAIL:       aishakumar@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: Raj Kumar (father) - rajkumar@example.com

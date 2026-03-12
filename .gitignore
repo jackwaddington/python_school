@@ -208,8 +208,8 @@ __marimo__/
 
 # Simulation output folders (timestamped) and loose output files
 [0-9]*/
-weekly_newsletters/
-monthly_newsletters/
-school_profile.txt
-students.csv
-weekly_stats.csv
+#weekly_newsletters/
+#monthly_newsletters/
+#school_profile.txt
+#students.csv
+#weekly_stats.csv

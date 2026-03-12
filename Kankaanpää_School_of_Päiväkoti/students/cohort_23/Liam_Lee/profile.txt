@@ -1,0 +1,7 @@
+NAME:        Liam Lee
+PRONOUNS:    he/him
+EMAIL:       liam.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Linda', 'last_name': 'Lee'}

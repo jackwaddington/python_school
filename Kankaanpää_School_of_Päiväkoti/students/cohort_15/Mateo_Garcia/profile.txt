@@ -1,0 +1,7 @@
+NAME:        Mateo Garcia
+PRONOUNS:    he/him
+EMAIL:       mateo.garcia@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.68
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Carlos Garcia', 'phone': '+358 40 3456 7890'}

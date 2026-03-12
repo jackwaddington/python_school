@@ -1,0 +1,7 @@
+NAME:        Sofia Li
+PRONOUNS:    she/her
+EMAIL:       sofia.li@kankaanpaavakoulukeskus.school.com
+COHORT:      3
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jin', 'last_name': 'Li'}

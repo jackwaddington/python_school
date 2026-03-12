@@ -1,0 +1,7 @@
+NAME:        Max Lee
+PRONOUNS:    he/him
+EMAIL:       max.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.19
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ming Lee', 'relationship': 'Mother', 'phone': '+852-123-456-7890', 'email': 'ming.lee@example.com'}

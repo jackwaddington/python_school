@@ -1,0 +1,7 @@
+NAME:        Sara El-Bishbishi
+PRONOUNS:    she/her
+EMAIL:       sara.el-bishbishi@kankaanpaavakouluofpivakoti.school.com
+COHORT:      11
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Hassan <ahmed.hassan@example.com>

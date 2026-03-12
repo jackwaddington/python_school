@@ -1,0 +1,7 @@
+NAME:        Zara Wang
+PRONOUNS:    she/her
+EMAIL:       zarawang@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Li', 'last_name': 'Wang'}

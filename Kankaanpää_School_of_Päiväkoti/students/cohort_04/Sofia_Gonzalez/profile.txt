@@ -1,0 +1,7 @@
+NAME:        Sofia Gonzalez
+PRONOUNS:    she/her
+EMAIL:       sofia.gonzalez@kankaanpaavakouluofpivakovki.school.com
+COHORT:      4
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: Juan Gonzalez

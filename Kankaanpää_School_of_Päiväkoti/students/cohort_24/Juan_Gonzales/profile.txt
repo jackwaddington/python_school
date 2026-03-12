@@ -1,0 +1,7 @@
+NAME:        Juan Gonzales
+PRONOUNS:    he/him
+EMAIL:       juan.gonzales@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María Gonzales', 'relationship': 'Mother'}

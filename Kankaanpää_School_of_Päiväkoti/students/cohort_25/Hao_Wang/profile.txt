@@ -1,0 +1,7 @@
+NAME:        Hao Wang
+PRONOUNS:    he/him
+EMAIL:       haowang@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: Li Wang (mother) - liwang@example.com

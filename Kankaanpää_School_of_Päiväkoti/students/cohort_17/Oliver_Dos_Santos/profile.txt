@@ -1,0 +1,7 @@
+NAME:        Oliver Dos Santos
+PRONOUNS:    he/him
+EMAIL:       oliver.dos-santos@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Dos Santos'}

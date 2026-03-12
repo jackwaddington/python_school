@@ -1,0 +1,7 @@
+NAME:        Emma Larsen
+PRONOUNS:    she/her
+EMAIL:       emma.larsen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      18
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: John Larsen

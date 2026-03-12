@@ -1,0 +1,7 @@
+NAME:        Tarek Moustafa
+PRONOUNS:    he/him
+EMAIL:       tarek.moustafa@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Nour Moustafa', 'relationship': 'Mother'}

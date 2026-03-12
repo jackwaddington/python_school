@@ -1,0 +1,7 @@
+NAME:        Juan Gonzales
+PRONOUNS:    he/him
+EMAIL:       jgonzales@kankaanpaavakouluofpainikoti.school.com
+COHORT:      12
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: María González

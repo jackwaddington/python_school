@@ -1,0 +1,7 @@
+NAME:        Anna Martinez
+PRONOUNS:    she/her
+EMAIL:       anna.martinez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      9
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Juan Martinez

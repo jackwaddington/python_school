@@ -1,0 +1,7 @@
+NAME:        Noah Ocampo
+PRONOUNS:    he/him
+EMAIL:       noah.ocampo@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: Maria Ocampo (mother), maria.ocampo@example.com

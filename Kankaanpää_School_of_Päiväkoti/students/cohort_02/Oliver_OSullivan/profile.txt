@@ -1,0 +1,7 @@
+NAME:        Oliver O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       oliver.osullivan@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Emily O'Sullivan

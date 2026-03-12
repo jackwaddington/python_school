@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academia Cognitus Excelsa — Week 11 — 2026-03-16
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  7
+  Graduates:        10
+  Dropouts:         3
+  Cohorts:          2
+
+COURSE ENROLMENT
+  Algorithmic Design: 2 students
+  Data Structures and Algorithms: 2 students
+  Full-Stack Web Development: 16 students
+
+THIS WEEK
+  The school hosted a guest lecture on Advanced Database Management, attended by students of Full-Stack Web Development. Additionally, the Data Structures and Algorithms cohort completed their midterm project presentations.
+
+MESSAGE FROM THE PRINCIPAL
+  A hearty congratulations to our graduates and those progressing in their studies! Your dedication is commendable. We encourage our remaining students to continue striving for excellence as we approach the final stretch of this academic year.
+
+NEXT WEEK
+  The Full-Stack Web Development cohort will commence a collaborative project on building a school management system, while Algorithmic Design and Data Structures and Algorithms students will receive feedback on their midterm assessments.

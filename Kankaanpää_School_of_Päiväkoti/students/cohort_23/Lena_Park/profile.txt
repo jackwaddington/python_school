@@ -1,0 +1,7 @@
+NAME:        Lena Park
+PRONOUNS:    she/her
+EMAIL:       lena.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      23
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ji Yeon Park', 'phone': '+1-555-5678', 'relationship': 'Mother'}

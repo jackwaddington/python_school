@@ -1,0 +1,7 @@
+NAME:        Sara Gonzalez
+PRONOUNS:    she/her
+EMAIL:       sgonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Gonzalez', 'phone': '+52789456123', 'email': 'jgonzalez_senior@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Lukas Thomas
+PRONOUNS:    he/him
+EMAIL:       lukas.thomas@kankaanpaavakouluofpainikoti.school.com
+COHORT:      29
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sophie Thomas', 'phone': '8901234567', 'relation': 'Mother'}

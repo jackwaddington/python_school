@@ -1,0 +1,7 @@
+NAME:        Emma O'Sullivan
+PRONOUNS:    she/her
+EMAIL:       emma.osullivan@kankaanpaavakouluofpainivaltakoti.school.com
+COHORT:      26
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Seán', 'last_name': "O'Sullivan"}

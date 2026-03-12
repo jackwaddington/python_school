@@ -1,0 +1,7 @@
+NAME:        Lukasz Wojciechowski
+PRONOUNS:    he/him
+EMAIL:       lukasz.wojciechowski@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: Anna Nowak <anna.nowak@example.com>

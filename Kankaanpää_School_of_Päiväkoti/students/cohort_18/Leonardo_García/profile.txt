@@ -1,0 +1,7 @@
+NAME:        Leonardo García
+PRONOUNS:    he/him
+EMAIL:       leonardo.garcia@kankaanpaavakoulusopimiskoti.school.com
+COHORT:      18
+ABILITY:     0.37
+ALLERGIES:   ['latex']
+NEXT OF KIN: {'name': 'María García', 'relationship': 'Mother', 'phone': '+358-40-7890-1234'}

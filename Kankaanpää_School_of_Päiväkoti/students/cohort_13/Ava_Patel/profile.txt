@@ -1,0 +1,7 @@
+NAME:        Ava Patel
+PRONOUNS:    she/her
+EMAIL:       ava.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hitesh', 'last_name': 'Patel'}

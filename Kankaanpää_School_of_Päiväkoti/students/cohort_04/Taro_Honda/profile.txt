@@ -1,0 +1,7 @@
+NAME:        Taro Honda
+PRONOUNS:    he/him
+EMAIL:       taro.honda@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Akiko Honda', 'relationship': 'Mother', 'phone': '+81 70 1234 5678'}

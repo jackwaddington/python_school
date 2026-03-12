@@ -1,0 +1,7 @@
+NAME:        Sanaa El-Bashir
+PRONOUNS:    she/her
+EMAIL:       sanaa.el-bashir@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.7
+ALLERGIES:   ['wheat']
+NEXT OF KIN: {'name': 'Abdulrahman El-Bashir', 'relationship': 'Father', 'phone': '+249 1234-5678', 'email': 'abdulrahman.el-bashir@kankaanpaaschoolofpaivakoti.com'}

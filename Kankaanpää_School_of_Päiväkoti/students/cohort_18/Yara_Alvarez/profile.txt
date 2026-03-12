@@ -1,0 +1,7 @@
+NAME:        Yara Alvarez
+PRONOUNS:    she/her
+EMAIL:       yara.alvarez@kankaanpaaschoolofpavikoti.com
+COHORT:      18
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Juan Alvarez (father), juan.alvarez@example.com

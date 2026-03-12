@@ -1,0 +1,7 @@
+NAME:        Nicolás García
+PRONOUNS:    he/him
+EMAIL:       nicolas.garcia@kankaanpaaschoolofpavikoti.com
+COHORT:      7
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: María García

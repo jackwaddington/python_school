@@ -1,0 +1,7 @@
+NAME:        Xiang Li
+PRONOUNS:    he/him
+EMAIL:       xli@kankaanpaavakoulukohtainen.school.com
+COHORT:      20
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Li'}

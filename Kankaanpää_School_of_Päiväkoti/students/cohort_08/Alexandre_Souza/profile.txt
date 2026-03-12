@@ -1,0 +1,7 @@
+NAME:        Alexandre Souza
+PRONOUNS:    he/him
+EMAIL:       alexandre.souza@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Souza', 'relationship': 'Father', 'phone': '+358-40-9876-5436'}

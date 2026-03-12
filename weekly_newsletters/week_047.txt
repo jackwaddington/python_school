@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academia Cognitus Excelsa — Week 47 — 2026-11-23
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  1
+  Graduates:        55
+  Dropouts:         4
+  Cohorts:          6
+
+COURSE ENROLMENT
+  Algorithmic Design: 1 students
+  Data Structures and Algorithms: 2 students
+  Full-Stack Web Development: 57 students
+
+THIS WEEK
+The school celebrated the graduation of fifty-five students from our Full-Stack Web Development program, while we welcomed one new student to our Algorithmic Design course. The Data Structures and Algorithms class continued their rigorous studies.
+
+MESSAGE FROM THE PRINCIPAL
+As we conclude this week, I am proud of the achievements of our graduating students and excited for the incoming student. We strive for excellence in everything we do, and this week's accomplishments are a testament to that commitment. Let's continue to inspire each other as we move forward!
+
+NEXT WEEK
+We look forward to the beginning of a new cohort in our Algorithmic Design course next week. We wish all students success in their studies, and we eagerly anticipate their contributions to the programming community.

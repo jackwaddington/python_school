@@ -1,0 +1,7 @@
+NAME:        Isabella Rodriguez
+PRONOUNS:    she/her
+EMAIL:       isabella.rodriguez@kankaanpaavakoulukeskus.school.com
+COHORT:      3
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Rodriguez'}

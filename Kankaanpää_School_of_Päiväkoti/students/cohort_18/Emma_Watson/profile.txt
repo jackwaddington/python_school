@@ -1,0 +1,7 @@
+NAME:        Emma Watson
+PRONOUNS:    she/her
+EMAIL:       emmawatson@kankaanpaaschoolofpaivakaoti.com
+COHORT:      18
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mark', 'last_name': 'Watson'}

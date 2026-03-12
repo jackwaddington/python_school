@@ -1,0 +1,7 @@
+NAME:        Mia Perez
+PRONOUNS:    she/her
+EMAIL:       mia.perez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Perez'}

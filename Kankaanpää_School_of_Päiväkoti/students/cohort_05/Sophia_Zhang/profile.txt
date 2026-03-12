@@ -1,0 +1,7 @@
+NAME:        Sophia Zhang
+PRONOUNS:    she/her
+EMAIL:       szhang@kankaanpaaschoolofpivakoti.com
+COHORT:      5
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: James Zhang (Father), james.zhang@example.com

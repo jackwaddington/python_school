@@ -1,0 +1,7 @@
+NAME:        Hina Khan
+PRONOUNS:    she/her
+EMAIL:       hina.khan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rizwan Khan', 'relation': 'father', 'phone': '+358-40-1234-5677', 'email': 'rizwan.khan@personal.com'}

@@ -1,0 +1,7 @@
+NAME:        Maximilian Olivier
+PRONOUNS:    he/him
+EMAIL:       maximilian.olivier@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Élodie', 'last_name': 'Olivier'}

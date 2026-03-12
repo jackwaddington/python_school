@@ -1,0 +1,7 @@
+NAME:        Raj Patel
+PRONOUNS:    he/him
+EMAIL:       raj.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rita Patel', 'relation': 'mother', 'phone': '+442012345678', 'email': 'ritapatel@example.com'}

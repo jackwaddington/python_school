@@ -1,0 +1,7 @@
+NAME:        Sarah Wu
+PRONOUNS:    she/her
+EMAIL:       sarah.wu@kankaanpaavakouluofpavikoti.school.com
+COHORT:      2
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: James Wu

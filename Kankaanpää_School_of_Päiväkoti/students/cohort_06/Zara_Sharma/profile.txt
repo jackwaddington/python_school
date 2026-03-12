@@ -1,0 +1,7 @@
+NAME:        Zara Sharma
+PRONOUNS:    she/her
+EMAIL:       zara.sharma@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Rajesh Sharma

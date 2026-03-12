@@ -1,0 +1,7 @@
+NAME:        Sofia Mendes
+PRONOUNS:    she/her
+EMAIL:       sofia.mendes@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: João Mendes <joao.mendes@example.com>

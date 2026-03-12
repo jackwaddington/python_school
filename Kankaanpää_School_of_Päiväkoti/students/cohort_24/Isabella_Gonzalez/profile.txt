@@ -1,0 +1,7 @@
+NAME:        Isabella Gonzalez
+PRONOUNS:    she/her
+EMAIL:       igonzalez@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Carlos', 'last_name': 'Gonzalez'}

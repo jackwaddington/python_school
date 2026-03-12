@@ -1,0 +1,7 @@
+NAME:        Sara El-Mansoury
+PRONOUNS:    she/her
+EMAIL:       selmansoury@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.61
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Hassan <ahassan@example.com>

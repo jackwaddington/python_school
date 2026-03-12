@@ -1,0 +1,7 @@
+NAME:        Anna Lee
+PRONOUNS:    she/her
+EMAIL:       alee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: James Lee <james.lee@example.com>

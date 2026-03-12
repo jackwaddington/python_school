@@ -1,0 +1,7 @@
+NAME:        Oliver Gómez
+PRONOUNS:    he/him
+EMAIL:       oliver.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      26
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Gómez', 'relationship': 'Father'}

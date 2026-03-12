@@ -1,0 +1,7 @@
+NAME:        Li Na Zhang
+PRONOUNS:    she/her
+EMAIL:       li.na.zhang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      21
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Li', 'last_name': 'Hu'}

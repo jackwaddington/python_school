@@ -1,0 +1,7 @@
+NAME:        Leila Kim
+PRONOUNS:    she/her
+EMAIL:       leila.kim@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Joon-ho', 'last_name': 'Kim'}

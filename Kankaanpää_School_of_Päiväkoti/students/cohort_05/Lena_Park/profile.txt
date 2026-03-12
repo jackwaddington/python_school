@@ -1,0 +1,7 @@
+NAME:        Lena Park
+PRONOUNS:    she/her
+EMAIL:       lena.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jung', 'last_name': 'Lee'}

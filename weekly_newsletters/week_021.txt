@@ -1,0 +1,22 @@
+ WEEKLY NEWSLETTER — The Academia Cognitus Excelsa — Week 21 — 2026-05-25
+═══════════════════════════════════════════════════════
+
+AT A GLANCE
+  Active students:  40
+  Graduates:        26
+  Dropouts:         3
+  Cohorts:          3
+
+COURSE ENROLMENT
+  Algorithmic Design:  1 student
+  Data Structures and Algorithms:  1 student
+  Full-Stack Web Development:  28 students
+
+THIS WEEK
+The week was marked by a series of insightful lectures on advanced data structures, as well as a practical session on server-side web development. Our graduates continue to impress with their innovative projects and strong industry readiness.
+
+MESSAGE FROM THE PRINCIPAL
+We are proud to announce our 26 new graduates this week! Their achievements underscore the strength of our curriculum and the dedication of our students. At the same time, we welcome four new students joining us for the Full-Stack Web Development course. Here's to another successful week at Academia Cognitus Excelsa.
+
+NEXT WEEK
+Next week, we look forward to a guest lecture from industry expert Dr. Ada Lovelace on the future of artificial intelligence. We also encourage our Full-Stack Web Development students to participate in the upcoming hackathon organized by TechX.

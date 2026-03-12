@@ -1,0 +1,7 @@
+NAME:        Yara El-Hajj
+PRONOUNS:    they/them
+EMAIL:       yara.el-hajj@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Farouk', 'last_name': 'El-Hajj'}

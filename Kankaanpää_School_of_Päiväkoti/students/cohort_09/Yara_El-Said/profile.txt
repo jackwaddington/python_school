@@ -1,0 +1,7 @@
+NAME:        Yara El-Said
+PRONOUNS:    she/her
+EMAIL:       yarael-said@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.19
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mohamed', 'last_name': 'El-Said'}

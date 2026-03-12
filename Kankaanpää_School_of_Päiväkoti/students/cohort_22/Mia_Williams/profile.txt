@@ -1,0 +1,7 @@
+NAME:        Mia Williams
+PRONOUNS:    she/her
+EMAIL:       mia.williams@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Laura Williams', 'phone': '+358-0456789019', 'relation': 'Mother'}

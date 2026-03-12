@@ -1,0 +1,7 @@
+NAME:        Yara El-Husseini
+PRONOUNS:    she/her
+EMAIL:       yara.el-husseini@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'El-Hussein'}

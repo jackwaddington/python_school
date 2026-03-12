@@ -1,0 +1,7 @@
+NAME:        Nina Morales
+PRONOUNS:    she/her
+EMAIL:       nina.morales@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Carlos Morales

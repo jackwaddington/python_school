@@ -1,0 +1,7 @@
+NAME:        Elias Ramírez
+PRONOUNS:    he/him
+EMAIL:       elias.ramirez@kankaanpaaschoolofpaivakoti.com
+COHORT:      20
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Ramírez', 'phone': '+358 40 8901 2345', 'relation': 'Father'}

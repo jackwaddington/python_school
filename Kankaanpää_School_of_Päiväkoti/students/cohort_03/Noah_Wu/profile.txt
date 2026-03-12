@@ -1,0 +1,7 @@
+NAME:        Noah Wu
+PRONOUNS:    he/him
+EMAIL:       noah.wu@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wu', 'relationship': 'Mother', 'phone': '+358 40 9012 3456'}

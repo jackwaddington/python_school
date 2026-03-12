@@ -1,0 +1,7 @@
+NAME:        Emilia Santos
+PRONOUNS:    she/her
+EMAIL:       emilia.santos@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Santos', 'relationship': 'Father', 'phone': '+34 67890 1234'}

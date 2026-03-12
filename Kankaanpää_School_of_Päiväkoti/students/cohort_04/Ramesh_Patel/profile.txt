@@ -1,0 +1,7 @@
+NAME:        Ramesh Patel
+PRONOUNS:    he/him
+EMAIL:       ramesh.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.35
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: Sita Patel <sita.patel@example.com>

@@ -1,0 +1,7 @@
+NAME:        Oliver Chen
+PRONOUNS:    he/him
+EMAIL:       oliver.chen@kankaanpaavakouluopistopolku.school.com
+COHORT:      10
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Li Chen

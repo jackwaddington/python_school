@@ -1,0 +1,7 @@
+NAME:        Oliver O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       oliver.osullivan@kankaanpaaschoolofpaivakoti.com
+COHORT:      20
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: {'name': "Fiona O'Sullivan", 'phone': '+358 40 4567 8901', 'relation': 'Mother'}

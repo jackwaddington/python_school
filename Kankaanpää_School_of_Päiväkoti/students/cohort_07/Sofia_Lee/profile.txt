@@ -1,0 +1,7 @@
+NAME:        Sofia Lee
+PRONOUNS:    she/her
+EMAIL:       sofia.lee@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'James Lee', 'phone': '+358-40-2345678', 'relationship': 'Mother'}

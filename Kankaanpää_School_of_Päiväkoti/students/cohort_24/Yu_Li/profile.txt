@@ -1,0 +1,7 @@
+NAME:        Yu Li
+PRONOUNS:    he/him
+EMAIL:       ylili@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Ling'}

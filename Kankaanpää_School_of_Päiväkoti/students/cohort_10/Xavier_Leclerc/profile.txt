@@ -1,0 +1,7 @@
+NAME:        Xavier Leclerc
+PRONOUNS:    he/him
+EMAIL:       xavier.leclerc@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Isabelle Leclerc', 'phone': '+33 6 1234 5678', 'relationship': 'Mother'}

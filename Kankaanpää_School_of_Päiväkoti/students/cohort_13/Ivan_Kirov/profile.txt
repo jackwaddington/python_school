@@ -1,0 +1,7 @@
+NAME:        Ivan Kirov
+PRONOUNS:    he/him
+EMAIL:       ivan.kirov@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Natalia Kirova <natalia.kirova@example.com>

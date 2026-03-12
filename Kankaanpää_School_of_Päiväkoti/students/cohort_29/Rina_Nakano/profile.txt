@@ -1,0 +1,7 @@
+NAME:        Rina Nakano
+PRONOUNS:    she/her
+EMAIL:       rina.nakano@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Nakano'}

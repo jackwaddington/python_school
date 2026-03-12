@@ -1,0 +1,7 @@
+NAME:        Rajat Sharma
+PRONOUNS:    he/him
+EMAIL:       rajat.sharma@kankaanpaavakoulutuspaivakoti.school.com
+COHORT:      15
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Meera', 'last_name': 'Sharma'}

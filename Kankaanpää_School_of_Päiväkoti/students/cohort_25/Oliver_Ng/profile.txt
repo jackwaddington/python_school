@@ -1,0 +1,7 @@
+NAME:        Oliver Ng
+PRONOUNS:    he/him
+EMAIL:       oliver.ng@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ling Ng', 'relationship': 'Mother', 'phone': '+65-123-456-7890', 'email': 'ling.ng@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Mehak Singh
+PRONOUNS:    she/her
+EMAIL:       mehak.singh@kankaanpaaschoolofpavikoti.com
+COHORT:      18
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Harpreet Singh (father), harpreet.singh@example.com

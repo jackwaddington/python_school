@@ -1,0 +1,7 @@
+NAME:        Nina Zhou
+PRONOUNS:    she/her
+EMAIL:       nina.zhou@kankaanpaaschoolofpavikoti.com
+COHORT:      18
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: Wei Zhou (mother), wei.zhou@example.com

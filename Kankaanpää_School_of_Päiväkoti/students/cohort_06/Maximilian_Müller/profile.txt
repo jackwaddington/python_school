@@ -1,0 +1,7 @@
+NAME:        Maximilian Müller
+PRONOUNS:    he/him
+EMAIL:       maximilian.mueller@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anna Müller', 'relation': 'Mother', 'phone': '+358-545678903', 'email': 'anna.mueller@example.com'}

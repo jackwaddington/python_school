@@ -1,0 +1,7 @@
+NAME:        Sofia Zhang
+PRONOUNS:    she/her
+EMAIL:       sofia.zhang@kankaanpaavakooliopaivakoti.school.com
+COHORT:      10
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: James Zhang

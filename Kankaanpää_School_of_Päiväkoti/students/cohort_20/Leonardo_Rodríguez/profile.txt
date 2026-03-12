@@ -1,0 +1,7 @@
+NAME:        Leonardo Rodríguez
+PRONOUNS:    he/him
+EMAIL:       lrodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      20
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: María Rodríguez <maria@example.com>

@@ -1,0 +1,7 @@
+NAME:        Zara Patel
+PRONOUNS:    she/her
+EMAIL:       zara.patel@kankaanpaaschoolofpäiväkoti.com
+COHORT:      10
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Raj Patel

@@ -1,0 +1,7 @@
+NAME:        Sofia Patel
+PRONOUNS:    she/her
+EMAIL:       sofia.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hitesh Patel', 'relationship': 'Father', 'phone': '+91-123-456-7890', 'email': 'hitesh.patel@example.com'}

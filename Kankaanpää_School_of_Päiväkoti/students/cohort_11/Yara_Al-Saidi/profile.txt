@@ -1,0 +1,7 @@
+NAME:        Yara Al-Saidi
+PRONOUNS:    she/her
+EMAIL:       yara.alsaidi@kankaanpaaschoolofpavikoti.school.com
+COHORT:      11
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: David Lee <davidlee@example.com>

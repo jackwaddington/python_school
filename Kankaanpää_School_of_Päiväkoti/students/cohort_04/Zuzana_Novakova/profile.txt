@@ -1,0 +1,7 @@
+NAME:        Zuzana Novakova
+PRONOUNS:    she/her
+EMAIL:       zuzana.novakova@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jaromir Novak', 'relationship': 'Father', 'phone': '+420 608 901 234'}

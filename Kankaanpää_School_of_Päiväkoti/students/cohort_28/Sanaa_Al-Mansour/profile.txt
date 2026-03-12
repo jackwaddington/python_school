@@ -1,0 +1,7 @@
+NAME:        Sanaa Al-Mansour
+PRONOUNS:    she/her
+EMAIL:       sanaa.al-mansour@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      28
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Al-Mansour (Father), ahmed.al-mansour@example.com

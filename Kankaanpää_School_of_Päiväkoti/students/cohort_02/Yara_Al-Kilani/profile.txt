@@ -1,0 +1,7 @@
+NAME:        Yara Al-Kilani
+PRONOUNS:    she/her
+EMAIL:       yara.al-kilani@kankaanpaavalipasila.school.com
+COHORT:      2
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammed Al-Kilani', 'relationship': 'Father', 'phone': '+358 40 3456 7890', 'email': 'mohammed.al-kilani@example.com'}

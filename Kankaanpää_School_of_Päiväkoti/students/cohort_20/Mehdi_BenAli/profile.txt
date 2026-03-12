@@ -1,0 +1,7 @@
+NAME:        Mehdi BenAli
+PRONOUNS:    he/him
+EMAIL:       mbenali@kankaanpaaschoolofpaivakoti.com
+COHORT:      20
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: Fatima BenAli <fatima@example.com>

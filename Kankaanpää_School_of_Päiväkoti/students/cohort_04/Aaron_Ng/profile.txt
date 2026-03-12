@@ -1,0 +1,7 @@
+NAME:        Aaron Ng
+PRONOUNS:    he/him
+EMAIL:       aaron.ng@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Lisa Ng', 'relationship': 'Mother', 'phone': '+65 9123 4567'}

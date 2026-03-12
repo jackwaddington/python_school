@@ -1,0 +1,7 @@
+NAME:        Hassan Ben-Amor
+PRONOUNS:    he/him
+EMAIL:       hassan.ben-amor@kankaanpaavakouluofpivakoti.school.com
+COHORT:      14
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fatima', 'last_name': 'Ben-Amor'}

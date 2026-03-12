@@ -1,0 +1,7 @@
+NAME:        Nguyen Tran
+PRONOUNS:    he/him
+EMAIL:       nguyen.tran@kankaanpaaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.75
+ALLERGIES:   ['eggs']
+NEXT OF KIN: Phuong Tran

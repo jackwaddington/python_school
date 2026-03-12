@@ -1,0 +1,7 @@
+NAME:        Juan Ramirez
+PRONOUNS:    he/him
+EMAIL:       juan.ramirez@kankaanpaaschoolofpavikoti.com
+COHORT:      5
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Ramirez'}

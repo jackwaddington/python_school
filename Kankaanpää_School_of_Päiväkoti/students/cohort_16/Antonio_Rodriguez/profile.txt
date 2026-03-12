@@ -1,0 +1,7 @@
+NAME:        Antonio Rodriguez
+PRONOUNS:    he/him
+EMAIL:       antonio.rodriguez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: Maria Rodriguez

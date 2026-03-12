@@ -1,0 +1,7 @@
+NAME:        Marcus Park
+PRONOUNS:    he/him
+EMAIL:       marcuspark@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Eunice', 'last_name': 'Park'}

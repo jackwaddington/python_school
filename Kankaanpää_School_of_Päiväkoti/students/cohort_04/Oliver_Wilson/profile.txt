@@ -1,0 +1,7 @@
+NAME:        Oliver Wilson
+PRONOUNS:    he/him
+EMAIL:       oliver.wilson@kankaanpaavakouluofpivakovki.school.com
+COHORT:      4
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: Emily Wilson

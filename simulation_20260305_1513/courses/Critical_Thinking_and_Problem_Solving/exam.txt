@@ -1,0 +1,17 @@
+EXAM: Critical Thinking and Problem Solving
+────────────────────────────────────────
+
+Q1: Which of the following best describes critical thinking?
+  A) The ability to break down complex problems into smaller, manageable parts and reach a logical conclusion.
+  B) A group-based method that encourages creative thinking and free association.
+  C) The active process of analyzing and evaluating information, considering multiple perspectives, and making reasoned judgments based on evidence.
+  D) Methods used to approach and solve problems effectively and efficiently.
+Answer: C
+
+Q2: Which strategy involves ranking alternatives based on their importance and relationships?
+  A) Analytical hierarchy process (AHP)
+  B) Decision tree analysis
+  C) Brainstorming
+  D) Lateral thinking
+Answer: A
+

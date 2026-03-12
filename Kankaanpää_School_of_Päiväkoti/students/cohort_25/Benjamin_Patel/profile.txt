@@ -1,0 +1,7 @@
+NAME:        Benjamin Patel
+PRONOUNS:    he/him
+EMAIL:       benjaminpatel@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.16
+ALLERGIES:   None
+NEXT OF KIN: Rekha Patel (mother) - rekhapatel@example.com

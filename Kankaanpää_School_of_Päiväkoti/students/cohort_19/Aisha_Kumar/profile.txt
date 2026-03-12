@@ -1,0 +1,7 @@
+NAME:        Aisha Kumar
+PRONOUNS:    she/her
+EMAIL:       aisha.kumar@kankaanpaavakouluopisto.school.com
+COHORT:      19
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Rajesh', 'last_name': 'Kumari'}

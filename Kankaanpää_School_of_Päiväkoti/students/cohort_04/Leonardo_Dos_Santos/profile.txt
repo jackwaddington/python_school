@@ -1,0 +1,7 @@
+NAME:        Leonardo Dos Santos
+PRONOUNS:    he/him
+EMAIL:       leonardo.dossantos@kankaanpaavakouluofpivakoti.school.com
+COHORT:      4
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: Maria Dos Santos (Mother) - maria.dossantos@example.com
