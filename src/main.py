@@ -3,6 +3,7 @@ import os
 import re
 import time
 
+from analysis import run_analysis
 from exam_runner import run_exam_for_user
 from export import save_csv, print_summary
 from setup import run_setup
@@ -58,6 +59,7 @@ Let's build a school.
 
     save_csv(school, graduates, weekly_stats, named_dir)
     print_summary(school, graduates, config["total_weeks"], elapsed)
+    run_analysis(named_dir)
 
     run_exam_for_user(school)
 

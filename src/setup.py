@@ -1,3 +1,4 @@
+import configparser
 import os
 import random
 
@@ -9,13 +10,24 @@ from records import create_course_files, create_student_file
 from school import School
 
 
+def _load_conf():
+    conf = configparser.ConfigParser()
+    conf_path = os.path.join(os.path.dirname(__file__), "..", "school.conf")
+    conf.read(conf_path)
+    return conf
+
+
 def run_setup(output_dir):
+    conf = _load_conf()
+    sim  = conf["simulation"] if "simulation" in conf else {}
+    oll  = conf["ollama"]     if "ollama"     in conf else {}
+
     # PHASE 1 — IDENTITY + TECHNICAL
     city = input("\nWhat city is your school in? [Helsinki]: ").strip() or "Helsinki"
 
     print("\nLocal AI connection:")
-    host = input("  Ollama address [localhost:11434]: ").strip() or "localhost:11434"
-    model = input("  Model [mistral]: ").strip() or "mistral"
+    host = input(f"  Ollama address [{oll.get('host', 'localhost:11434')}]: ").strip() or oll.get("host", "localhost:11434")
+    model = input(f"  Model [{oll.get('model', 'mistral')}]: ").strip() or oll.get("model", "mistral")
     llm = LLMClient(host, model)
     print(f"  Connected to {model} at {host}")
 
@@ -27,20 +39,25 @@ def run_setup(output_dir):
     print(f"  Subject: {subject}")
 
     # PHASE 2 — MODE
-    print("\nTime is money.")
-    mode = input("Full auto or semi-auto? [auto/semi]: ").strip().lower()
-    auto = mode != "semi"
-    if auto:
-        print("Full auto engaged. Sit back.")
+    conf_mode = sim.get("mode", "").lower()
+    if conf_mode == "auto":
+        auto = True
+        print("\nFull auto engaged. Sit back.")
+    else:
+        print("\nTime is money.")
+        mode = input("Full auto or semi-auto? [auto/semi]: ").strip().lower()
+        auto = mode != "semi"
+        if auto:
+            print("Full auto engaged. Sit back.")
 
     # PHASE 3 — STRUCTURE
-    seats           = ask_or_default("Seats",                      20,  auto)
-    num_courses     = ask_or_default("Number of courses",           3,  auto)
-    courses_to_grad = ask_or_default("Courses needed to graduate", num_courses, auto)
-    min_weeks       = ask_or_default("Min weeks per course",        4,  auto)
-    max_weeks       = ask_or_default("Max weeks per course",        12, auto)
-    intake_interval = ask_or_default("Intake interval (weeks)",    52,  auto)
-    total_weeks     = ask_or_default("Total weeks to simulate",   200,  auto)
+    seats           = ask_or_default("Seats",                      int(sim.get("seats",           20)),  auto)
+    num_courses     = ask_or_default("Number of courses",           int(sim.get("num_courses",      3)),  auto)
+    courses_to_grad = ask_or_default("Courses needed to graduate", int(sim.get("courses_to_graduate", num_courses)), auto)
+    min_weeks       = ask_or_default("Min weeks per course",        int(sim.get("min_weeks",         4)),  auto)
+    max_weeks       = ask_or_default("Max weeks per course",        int(sim.get("max_weeks",        12)),  auto)
+    intake_interval = ask_or_default("Intake interval (weeks)",    int(sim.get("intake_interval",  13)),  auto)
+    total_weeks     = ask_or_default("Total weeks to simulate",    int(sim.get("total_weeks",     200)),  auto)
 
     if auto:
         print(f"\n  {seats} seats  |  {num_courses} courses  |  graduate after {courses_to_grad}"
