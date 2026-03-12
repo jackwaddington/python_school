@@ -1,7 +1,0 @@
-NAME:        Isabella Mendez
-PRONOUNS:    she/her
-EMAIL:       isabella.mendez@kankaanpaaschoolofpaivakoti.com
-COHORT:      17
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: Rosa Mendez (mother)

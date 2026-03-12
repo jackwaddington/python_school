@@ -1,7 +1,0 @@
-NAME:        Yuna Nguyen
-PRONOUNS:    she/her
-EMAIL:       ynguyen@kankaanpaavakouluofpainikoti.school.com
-COHORT:      12
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Tran Nguyen

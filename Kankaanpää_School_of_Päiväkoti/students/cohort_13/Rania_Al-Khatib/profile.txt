@@ -1,7 +1,0 @@
-NAME:        Rania Al-Khatib
-PRONOUNS:    she/her
-EMAIL:       rania.alkhatib@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Mohammed Al-Khatib', 'relationship': 'Father', 'phone': '+962 1234-5678', 'email': 'mohammed.alkhatib@kankaanpaaschoolofpaivakoti.com'}

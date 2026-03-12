@@ -1,7 +1,0 @@
-NAME:        Mira Park
-PRONOUNS:    she/her
-EMAIL:       mira.park@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.75
-ALLERGIES:   None
-NEXT OF KIN: James Park <james.park@example.com>

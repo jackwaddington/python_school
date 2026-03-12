@@ -1,7 +1,0 @@
-NAME:        Sébastien Nguyen
-PRONOUNS:    he/him
-EMAIL:       sebastien.nguyen@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      26
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Tam Nguyen', 'relationship': 'Mother'}

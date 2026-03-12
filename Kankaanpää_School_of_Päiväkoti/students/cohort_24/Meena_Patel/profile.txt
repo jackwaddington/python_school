@@ -1,7 +1,0 @@
-NAME:        Meena Patel
-PRONOUNS:    she/her
-EMAIL:       mpatel@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Ramesh Patel

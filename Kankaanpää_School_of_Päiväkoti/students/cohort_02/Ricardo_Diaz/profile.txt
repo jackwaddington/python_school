@@ -1,7 +1,0 @@
-NAME:        Ricardo Diaz
-PRONOUNS:    he/him
-EMAIL:       ricardo.diaz@kankaanpaaschoolofpavikoti.com
-COHORT:      2
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: Maria Diaz

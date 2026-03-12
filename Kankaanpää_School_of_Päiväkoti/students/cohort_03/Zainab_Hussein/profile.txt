@@ -1,7 +1,0 @@
-NAME:        Zainab Hussein
-PRONOUNS:    she/her
-EMAIL:       zainab.hussein@kankaanpaavakoulukeskus.school.com
-COHORT:      3
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ahmed', 'last_name': 'Hussein'}

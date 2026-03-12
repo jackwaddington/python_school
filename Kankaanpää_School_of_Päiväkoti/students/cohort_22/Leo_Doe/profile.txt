@@ -1,7 +1,0 @@
-NAME:        Leo Doe
-PRONOUNS:    he/him
-EMAIL:       leo.doe@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'John Doe', 'phone': '+358-9456789018', 'relation': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Sophia Díaz
-PRONOUNS:    she/her
-EMAIL:       sophia.diaz@kankaanpaavakoulunpivaikotilaskenta.school.com
-COHORT:      7
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Juan Díaz

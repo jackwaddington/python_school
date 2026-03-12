@@ -1,7 +1,0 @@
-NAME:        Xavier Lopez
-PRONOUNS:    he/him
-EMAIL:       xavier.lopez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.27
-ALLERGIES:   None
-NEXT OF KIN: Isabella Lopez

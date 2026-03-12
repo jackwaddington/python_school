@@ -1,7 +1,0 @@
-NAME:        Ana Dos Santos
-PRONOUNS:    she/her
-EMAIL:       ana.dos-santos@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Pedro Dos Santos', 'relation': 'father', 'phone': '+358-40-1234-5681', 'email': 'pedro.dos-santos@personal.com'}

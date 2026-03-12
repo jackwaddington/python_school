@@ -1,7 +1,0 @@
-NAME:        Aya Kamala
-PRONOUNS:    she/her
-EMAIL:       aya.kamala@kankaanpaavakoulusopimukoti.school.com
-COHORT:      6
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: John Doe (father) - john.doe@gmail.com

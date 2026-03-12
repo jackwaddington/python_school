@@ -1,7 +1,0 @@
-NAME:        Yara Nasr
-PRONOUNS:    she/her
-EMAIL:       yara.nasr@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      12
-ABILITY:     0.37
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hany', 'last_name': 'Nasr', 'relationship': 'Father'}

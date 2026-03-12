@@ -1,7 +1,0 @@
-NAME:        Oliver Lee
-PRONOUNS:    he/him
-EMAIL:       oliver.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Joon Lee', 'relationship': 'Mother', 'phone': '+358-40-2222-3333'}

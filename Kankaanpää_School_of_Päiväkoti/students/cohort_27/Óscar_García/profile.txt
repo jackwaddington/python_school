@@ -1,7 +1,0 @@
-NAME:        Óscar García
-PRONOUNS:    he/him
-EMAIL:       ogarcia@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: María García

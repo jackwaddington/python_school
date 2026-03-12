@@ -1,7 +1,0 @@
-NAME:        Oliver Zhang
-PRONOUNS:    he/him
-EMAIL:       ozhang@kankaanpaavakoulu.school.com
-COHORT:      14
-ABILITY:     0.39
-ALLERGIES:   dairy
-NEXT OF KIN: Li Zhang <lizhang@example.com>

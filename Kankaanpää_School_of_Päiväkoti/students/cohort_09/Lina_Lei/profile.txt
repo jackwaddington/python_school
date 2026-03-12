@@ -1,7 +1,0 @@
-NAME:        Lina Lei
-PRONOUNS:    she/her
-EMAIL:       lina.lei@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.28
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Zhang', 'last_name': 'Li'}

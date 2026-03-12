@@ -1,7 +1,0 @@
-NAME:        Ayşe Yılmaz
-PRONOUNS:    she/her
-EMAIL:       ayilmaz@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.68
-ALLERGIES:   None
-NEXT OF KIN: Mehmet Yılmaz <mehmetyilmaz@example.com>

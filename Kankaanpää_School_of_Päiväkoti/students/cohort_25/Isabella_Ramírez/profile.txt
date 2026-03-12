@@ -1,7 +1,0 @@
-NAME:        Isabella Ramírez
-PRONOUNS:    she/her
-EMAIL:       iramirez@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.2
-ALLERGIES:   None
-NEXT OF KIN: Juan Ramírez

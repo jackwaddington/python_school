@@ -1,7 +1,0 @@
-NAME:        Lukas O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       lukas.osullivan@kankaanpaavakoulukoulutusirish.school.com
-COHORT:      27
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Siobhan', 'last_name': "O'Sullivan"}

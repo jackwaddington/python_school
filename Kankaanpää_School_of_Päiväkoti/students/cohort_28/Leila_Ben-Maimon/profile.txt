@@ -1,7 +1,0 @@
-NAME:        Leila Ben-Maimon
-PRONOUNS:    she/her
-EMAIL:       leila.ben-maimon@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'David', 'last_name': 'Ben-Maimon'}

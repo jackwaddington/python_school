@@ -1,7 +1,0 @@
-NAME:        Eva Petersson
-PRONOUNS:    she/her
-EMAIL:       eva.petersson@kankaanpaavakouluofpivakoti.school.com
-COHORT:      14
-ABILITY:     0.75
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Magnus', 'last_name': 'Petersson'}

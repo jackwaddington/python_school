@@ -1,7 +1,0 @@
-NAME:        Anas El-Assi
-PRONOUNS:    he/him
-EMAIL:       anas.elassi@kankaanpaavakoulukoulutussyria.school.com
-COHORT:      27
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'El-Assi'}

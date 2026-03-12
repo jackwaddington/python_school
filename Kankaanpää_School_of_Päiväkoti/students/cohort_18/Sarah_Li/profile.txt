@@ -1,7 +1,0 @@
-NAME:        Sarah Li
-PRONOUNS:    she/her
-EMAIL:       sarah.li@kankaanpaaschoolofpavikoti.com
-COHORT:      18
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Jack Li (father), jack.li@example.com

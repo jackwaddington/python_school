@@ -1,7 +1,0 @@
-NAME:        Leonardo Santos
-PRONOUNS:    he/him
-EMAIL:       leonardo.santos@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: Maria Santos (mother)

@@ -1,7 +1,0 @@
-NAME:        Lukas Oliveira
-PRONOUNS:    he/him
-EMAIL:       lukas.oliveira@kankaanpaaschoolofpavikoti.com
-COHORT:      20
-ABILITY:     0.64
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Maria Oliveira', 'relationship': 'Mother', 'phone': '+358 40 9876 1234'}

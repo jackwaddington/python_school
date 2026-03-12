@@ -1,7 +1,0 @@
-NAME:        Amina Khan
-PRONOUNS:    she/her
-EMAIL:       amina.khan@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Omar Khan', 'relationship': 'Father'}

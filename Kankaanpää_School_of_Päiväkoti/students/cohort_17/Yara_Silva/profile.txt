@@ -1,7 +1,0 @@
-NAME:        Yara Silva
-PRONOUNS:    she/her
-EMAIL:       yara.silva@kankaanpaavaschoolofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Pedro Silva', 'relationship': 'Father', 'phone': '+55 21 9876 5432'}

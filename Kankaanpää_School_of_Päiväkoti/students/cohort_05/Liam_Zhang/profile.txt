@@ -1,7 +1,0 @@
-NAME:        Liam Zhang
-PRONOUNS:    he/him
-EMAIL:       liam.zhang@kankaanpaaschoolofpavikoti.com
-COHORT:      5
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Xiaoqing', 'last_name': 'Zhang'}

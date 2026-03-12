@@ -1,7 +1,0 @@
-NAME:        Zara Alvarez
-PRONOUNS:    she/her
-EMAIL:       zaralvarez@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: Juan Alvarez (father) - juan.alvarez@example.com

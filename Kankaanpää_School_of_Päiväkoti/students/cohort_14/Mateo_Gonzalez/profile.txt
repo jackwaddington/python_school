@@ -1,7 +1,0 @@
-NAME:        Mateo Gonzalez
-PRONOUNS:    he/him
-EMAIL:       mateo.gonzalez@kankaanpaavakouluofpivakoti.school.com
-COHORT:      14
-ABILITY:     0.76
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'González'}

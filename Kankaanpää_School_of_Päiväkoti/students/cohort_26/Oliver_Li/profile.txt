@@ -1,7 +1,0 @@
-NAME:        Oliver Li
-PRONOUNS:    he/him
-EMAIL:       oliver.li@kankaanpaavakouluofpainivaltakoti.school.com
-COHORT:      26
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'LiNa', 'last_name': 'Li'}

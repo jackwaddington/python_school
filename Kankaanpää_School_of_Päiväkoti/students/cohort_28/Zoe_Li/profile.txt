@@ -1,7 +1,0 @@
-NAME:        Zoe Li
-PRONOUNS:    she/her
-EMAIL:       zoe.li@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: Yang Li

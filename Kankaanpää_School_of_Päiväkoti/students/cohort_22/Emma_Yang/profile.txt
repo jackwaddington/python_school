@@ -1,7 +1,0 @@
-NAME:        Emma Yang
-PRONOUNS:    she/her
-EMAIL:       emma.yang@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yi Yang', 'phone': '+358-8456789017', 'relation': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Yara El-Masri
-PRONOUNS:    she/her
-EMAIL:       yara.el-masri@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: Mohammed El-Masri

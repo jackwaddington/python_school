@@ -1,7 +1,0 @@
-NAME:        Emre Yılmaz
-PRONOUNS:    he/him
-EMAIL:       emre.yilmaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Aysel', 'last_name': 'Yılmaz'}

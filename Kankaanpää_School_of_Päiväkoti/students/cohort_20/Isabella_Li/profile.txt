@@ -1,7 +1,0 @@
-NAME:        Isabella Li
-PRONOUNS:    she/her
-EMAIL:       ili@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: Qing Li <qingli@example.com>

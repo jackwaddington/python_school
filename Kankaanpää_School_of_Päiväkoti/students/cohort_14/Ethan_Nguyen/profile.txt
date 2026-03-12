@@ -1,7 +1,0 @@
-NAME:        Ethan Nguyen
-PRONOUNS:    he/him
-EMAIL:       enguven@kankaanpaavakoulu.school.com
-COHORT:      14
-ABILITY:     0.5
-ALLERGIES:   seafood
-NEXT OF KIN: Hoa Nguyen <hoanguyen@example.com>

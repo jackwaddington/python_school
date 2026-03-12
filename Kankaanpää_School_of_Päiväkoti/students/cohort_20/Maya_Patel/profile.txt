@@ -1,7 +1,0 @@
-NAME:        Maya Patel
-PRONOUNS:    she/her
-EMAIL:       maya.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.53
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'Raj Patel', 'phone': '+358 40 5678 9012', 'relation': 'Father'}

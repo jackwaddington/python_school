@@ -1,7 +1,0 @@
-NAME:        Timothy Nguyen
-PRONOUNS:    he/him
-EMAIL:       timothy.nguyen@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      7
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Anh', 'last_name': 'Nguyen'}

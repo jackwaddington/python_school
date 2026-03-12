@@ -1,7 +1,0 @@
-NAME:        Noah Tanaka
-PRONOUNS:    he/him
-EMAIL:       noah.tanaka@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      7
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Hiroshi Tanaka', 'phone': '+358-40-910135', 'relationship': 'Father'}

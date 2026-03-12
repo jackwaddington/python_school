@@ -1,7 +1,0 @@
-NAME:        Lukas Olsen
-PRONOUNS:    he/him
-EMAIL:       lukas.olsen@kankaanpaavakoulukeskus.school.com
-COHORT:      3
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Anne', 'last_name': 'Olsen'}

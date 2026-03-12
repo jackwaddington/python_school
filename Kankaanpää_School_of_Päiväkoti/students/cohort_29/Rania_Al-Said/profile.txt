@@ -1,7 +1,0 @@
-NAME:        Rania Al-Said
-PRONOUNS:    she/her
-EMAIL:       raniaalsaid@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ahmed', 'last_name': 'Al-Saidi'}

@@ -1,7 +1,0 @@
-NAME:        Emma O'Sullivan
-PRONOUNS:    she/her
-EMAIL:       emma.osullivan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      22
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: Conor O'Sullivan <conor.osullivan@example.com>

@@ -1,7 +1,0 @@
-NAME:        Ricardo Gómez
-PRONOUNS:    he/him
-EMAIL:       ricardo.gomez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      8
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María Gómez', 'relationship': 'Mother', 'phone': '+358-40-1234-5679'}

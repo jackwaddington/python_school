@@ -1,7 +1,0 @@
-NAME:        Emilie Nguyen
-PRONOUNS:    she/her
-EMAIL:       emilie.nguyen@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Thanh Nguyen', 'phone': '+84-63-1234'}

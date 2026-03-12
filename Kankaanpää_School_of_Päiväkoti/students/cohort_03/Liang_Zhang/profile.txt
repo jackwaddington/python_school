@@ -1,7 +1,0 @@
-NAME:        Liang Zhang
-PRONOUNS:    he/him
-EMAIL:       liang.zhang@kankaanpaaschoolofpaivakoti.com
-COHORT:      3
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Zhang'}

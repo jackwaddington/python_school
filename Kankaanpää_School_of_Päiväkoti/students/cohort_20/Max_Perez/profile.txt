@@ -1,7 +1,0 @@
-NAME:        Max Perez
-PRONOUNS:    he/him
-EMAIL:       max.perez@kankaanpaaschoolofpavikoti.com
-COHORT:      20
-ABILITY:     0.63
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'Ana Perez', 'relationship': 'Mother', 'phone': '+358 40 5678 9012'}

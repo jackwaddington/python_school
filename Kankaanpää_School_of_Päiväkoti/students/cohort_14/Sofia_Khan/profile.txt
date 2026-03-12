@@ -1,7 +1,0 @@
-NAME:        Sofia Khan
-PRONOUNS:    she/her
-EMAIL:       sofiakhan@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Khan'}

@@ -1,7 +1,0 @@
-NAME:        Lucas Santos
-PRONOUNS:    he/him
-EMAIL:       lucas.santos@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Maria Santos

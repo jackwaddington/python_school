@@ -1,7 +1,0 @@
-NAME:        Zuzana Novotná
-PRONOUNS:    she/her
-EMAIL:       zuzana.novotna@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Jan', 'last_name': 'Novotný'}

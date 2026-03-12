@@ -1,7 +1,0 @@
-NAME:        Emilia Lee
-PRONOUNS:    she/her
-EMAIL:       emilia.lee@kankaanpaavakouluofpainikoti.school.com
-COHORT:      29
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'James Lee', 'phone': '5678901234', 'relation': 'Father'}

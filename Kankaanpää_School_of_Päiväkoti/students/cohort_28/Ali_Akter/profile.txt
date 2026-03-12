@@ -1,7 +1,0 @@
-NAME:        Ali Akter
-PRONOUNS:    she/her
-EMAIL:       ali.akter@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Akter

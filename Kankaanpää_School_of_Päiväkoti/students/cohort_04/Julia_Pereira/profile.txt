@@ -1,7 +1,0 @@
-NAME:        Julia Pereira
-PRONOUNS:    she/her
-EMAIL:       julia.pereira@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Maria Pereira', 'relationship': 'Mother', 'phone': '+55 21 9876 5432'}

@@ -1,7 +1,0 @@
-NAME:        Sara Al-Khalidi
-PRONOUNS:    she/her
-EMAIL:       sara.al-khalidi@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.16
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mohammad', 'last_name': 'Al-Khalidi'}

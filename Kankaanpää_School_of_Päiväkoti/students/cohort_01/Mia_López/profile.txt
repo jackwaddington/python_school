@@ -1,7 +1,0 @@
-NAME:        Mia López
-PRONOUNS:    she/her
-EMAIL:       mia.lopez@kankaanpaavakouluofpivakoti.school.com
-COHORT:      1
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan López', 'phone': '+358 40 4567 8901', 'relationship': 'Father'}

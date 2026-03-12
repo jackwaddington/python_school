@@ -1,7 +1,0 @@
-NAME:        Yusuf Ng'ang'a
-PRONOUNS:    he/him
-EMAIL:       yusuf.nganga@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.57
-ALLERGIES:   None
-NEXT OF KIN: Maria Ng'ang'a <maria.nganga@example.com>

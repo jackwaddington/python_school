@@ -1,7 +1,0 @@
-NAME:        Nadia Mustafa
-PRONOUNS:    she/her
-EMAIL:       nadia.mustafa@kankaanpaavakouluofpivakoti.school.com
-COHORT:      11
-ABILITY:     0.85
-ALLERGIES:   None
-NEXT OF KIN: Mehmet Ali <mehmet.ali@example.com>

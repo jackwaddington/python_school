@@ -1,7 +1,0 @@
-NAME:        Zainab Hassan
-PRONOUNS:    she/her
-EMAIL:       zainab.hassan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      29
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Hassan'}

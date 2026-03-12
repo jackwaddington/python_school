@@ -1,7 +1,0 @@
-NAME:        Mei-Li Wang
-PRONOUNS:    She/Her
-EMAIL:       meiliwang@kankaanpaaschoolofpaivakoti.com
-COHORT:      7
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: Li Wang (Father)

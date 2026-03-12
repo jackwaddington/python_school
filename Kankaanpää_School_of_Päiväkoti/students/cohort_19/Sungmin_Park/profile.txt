@@ -1,7 +1,0 @@
-NAME:        Sungmin Park
-PRONOUNS:    he/him
-EMAIL:       sungmin.park@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Ji-Yeon Park (mother)

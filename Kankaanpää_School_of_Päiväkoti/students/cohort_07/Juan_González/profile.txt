@@ -1,7 +1,0 @@
-NAME:        Juan González
-PRONOUNS:    he/him
-EMAIL:       juan.gonzalez@kankaanpaavakoulunpivaikotilaskenta.school.com
-COHORT:      7
-ABILITY:     0.57
-ALLERGIES:   None
-NEXT OF KIN: Maria González

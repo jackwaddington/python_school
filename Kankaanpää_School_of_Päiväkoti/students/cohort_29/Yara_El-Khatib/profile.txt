@@ -1,7 +1,0 @@
-NAME:        Yara El-Khatib
-PRONOUNS:    she/her
-EMAIL:       yara.el-khatib@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      29
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mohammad', 'last_name': 'El-Khatib'}

@@ -1,7 +1,0 @@
-NAME:        Yara Alvarez
-PRONOUNS:    she/her
-EMAIL:       yalvarez@kankaanpaaschoolofpivakoti.com
-COHORT:      5
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: Pablo Alvarez (Father), pablo.alvarez@example.com

@@ -1,7 +1,0 @@
-NAME:        Sofia Nguyen
-PRONOUNS:    she/her
-EMAIL:       sofia.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.61
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'name': 'Hoa Nguyen', 'phone': '+358 40 7890 1234', 'relation': 'Mother'}

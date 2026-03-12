@@ -1,7 +1,0 @@
-NAME:        Aya Nakamura
-PRONOUNS:    she/her
-EMAIL:       aya.nakamura@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.2
-ALLERGIES:   None
-NEXT OF KIN: Hiroshi Nakamura

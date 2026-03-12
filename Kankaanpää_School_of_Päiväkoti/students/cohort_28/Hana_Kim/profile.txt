@@ -1,7 +1,0 @@
-NAME:        Hana Kim
-PRONOUNS:    she/her
-EMAIL:       hana.kim@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: Ji-Yeon Park <jiyeonpark@example.com>

@@ -1,7 +1,0 @@
-NAME:        Liam Li
-PRONOUNS:    he/him
-EMAIL:       liam.li@kankaanpaaschoolofpavikoti.com
-COHORT:      2
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: James Li

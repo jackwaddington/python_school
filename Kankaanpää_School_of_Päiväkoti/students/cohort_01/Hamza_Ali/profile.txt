@@ -1,7 +1,0 @@
-NAME:        Hamza Ali
-PRONOUNS:    he/him
-EMAIL:       hamza.ali@kankaanpaavakouluofpivakoti.school.com
-COHORT:      1
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Amina Ali', 'phone': '+358 40 5678 9012', 'relationship': 'Mother'}

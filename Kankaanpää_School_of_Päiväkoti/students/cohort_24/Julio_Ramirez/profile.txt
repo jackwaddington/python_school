@@ -1,7 +1,0 @@
-NAME:        Julio Ramirez
-PRONOUNS:    he/him
-EMAIL:       jramirez@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: Josefa Ramirez

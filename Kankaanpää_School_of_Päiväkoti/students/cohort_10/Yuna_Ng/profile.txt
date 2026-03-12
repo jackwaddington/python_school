@@ -1,7 +1,0 @@
-NAME:        Yuna Ng
-PRONOUNS:    she/her
-EMAIL:       yuna.ng@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      10
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Kuan Ng', 'phone': '+65 9123 4567', 'relationship': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Noah Park
-PRONOUNS:    he/him
-EMAIL:       noah.park@kankaanpaaschoolofpavikoti.com
-COHORT:      5
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Minji', 'last_name': 'Park'}

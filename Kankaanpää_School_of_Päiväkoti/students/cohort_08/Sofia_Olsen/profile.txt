@@ -1,7 +1,0 @@
-NAME:        Sofia Olsen
-PRONOUNS:    she/her
-EMAIL:       sofia.olsen@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      8
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Maria Olsen', 'relationship': 'Father', 'phone': '+358-40-9876-5434'}

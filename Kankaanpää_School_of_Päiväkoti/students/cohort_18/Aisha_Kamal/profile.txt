@@ -1,7 +1,0 @@
-NAME:        Aisha Kamal
-PRONOUNS:    she/her
-EMAIL:       aisha.kamal@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.78
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ali Kamal', 'relationship': 'Father', 'phone': '+358-40-1234-5678'}

@@ -1,7 +1,0 @@
-NAME:        Yuna Nguyen
-PRONOUNS:    she/her
-EMAIL:       yuna.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Tuan Nguyen', 'phone': '+1-555-5678-9012', 'email': 'tuan.nguyen@example.com'}

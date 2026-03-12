@@ -1,7 +1,0 @@
-NAME:        Linus Zhang
-PRONOUNS:    he/him
-EMAIL:       linus.zhang@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Yue Zhang

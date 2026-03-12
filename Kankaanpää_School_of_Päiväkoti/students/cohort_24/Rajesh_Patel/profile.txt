@@ -1,7 +1,0 @@
-NAME:        Rajesh Patel
-PRONOUNS:    he/him
-EMAIL:       rajesh.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Priya Patel (wife), priya.patel@example.com

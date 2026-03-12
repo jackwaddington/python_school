@@ -1,7 +1,0 @@
-NAME:        Tomás García
-PRONOUNS:    he/him
-EMAIL:       tomas.garcia@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María García', 'phone': '+1-555-3456-7890', 'email': 'maria.garcia@example.com'}

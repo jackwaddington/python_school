@@ -1,7 +1,0 @@
-NAME:        Benjamin Kim
-PRONOUNS:    he/him
-EMAIL:       benjamin.kim@kankaanpaavakouluofpainivaltakoti.school.com
-COHORT:      26
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'JiYeon', 'last_name': 'Kim'}

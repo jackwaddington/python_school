@@ -1,7 +1,0 @@
-NAME:        Johannes Olufemi
-PRONOUNS:    he/him
-EMAIL:       johannes.olufemi@kankaanpaaschoolofpavikoti.com
-COHORT:      7
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: Funke Olufemi

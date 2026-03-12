@@ -1,7 +1,0 @@
-NAME:        Yara Awad
-PRONOUNS:    she/her
-EMAIL:       yaraawardistant@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'Awad'}

@@ -1,7 +1,0 @@
-NAME:        Juan Rodríguez
-PRONOUNS:    he/him
-EMAIL:       juan.rodriguez@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: Maria Rodríguez

@@ -1,7 +1,0 @@
-NAME:        Zainab Hussain
-PRONOUNS:    she/her
-EMAIL:       zainab.hussain@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: Ali Hussain

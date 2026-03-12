@@ -1,7 +1,0 @@
-NAME:        Nikhil Patel
-PRONOUNS:    he/him
-EMAIL:       nikhil.patel@kankaanpaavakoulu.school.com
-COHORT:      11
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Priya', 'last_name': 'Patel'}

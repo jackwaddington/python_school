@@ -1,7 +1,0 @@
-NAME:        Amina Khan
-PRONOUNS:    she/her
-EMAIL:       amina.khan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Muhammad Khan', 'relation': 'Father', 'phone': '+358 40 1234 5678', 'email': 'muhammad.khan@kankaanpaaschoolofpaivakoti.school.com'}

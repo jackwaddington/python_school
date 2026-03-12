@@ -1,7 +1,0 @@
-NAME:        Sofia Perez
-PRONOUNS:    she/her
-EMAIL:       sofia.perez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      15
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Perez', 'relationship': 'Father', 'phone': '+34612345678', 'email': 'juan.perez@hotmail.es'}

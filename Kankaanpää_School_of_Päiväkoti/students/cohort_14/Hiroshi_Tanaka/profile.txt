@@ -1,7 +1,0 @@
-NAME:        Hiroshi Tanaka
-PRONOUNS:    he/him
-EMAIL:       hiroshitanaka@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: Yumi Tanaka

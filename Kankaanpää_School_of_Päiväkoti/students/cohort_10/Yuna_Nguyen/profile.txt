@@ -1,7 +1,0 @@
-NAME:        Yuna Nguyen
-PRONOUNS:    she/her
-EMAIL:       yuna.nguyen@kankaanpaavakouluopistopolku.school.com
-COHORT:      10
-ABILITY:     0.78
-ALLERGIES:   None
-NEXT OF KIN: Hoang Nguyen

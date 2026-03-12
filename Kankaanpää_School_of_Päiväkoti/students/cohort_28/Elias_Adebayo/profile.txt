@@ -1,7 +1,0 @@
-NAME:        Elias Adebayo
-PRONOUNS:    he/him
-EMAIL:       elias.adebayo@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Michael Johnson <michaeljohnson@example.com>

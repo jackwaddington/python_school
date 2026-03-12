@@ -1,7 +1,0 @@
-NAME:        Yara Alvarez
-PRONOUNS:    she/her
-EMAIL:       yara.alvarez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Pedro Alvarez', 'phone': '+1-555-0987'}

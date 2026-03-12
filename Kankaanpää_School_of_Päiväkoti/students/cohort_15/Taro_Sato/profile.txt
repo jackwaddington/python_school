@@ -1,7 +1,0 @@
-NAME:        Taro Sato
-PRONOUNS:    he/him
-EMAIL:       taro.sato@kankaanpaaschoolofpaivakoti.com
-COHORT:      15
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yuki Sato', 'phone': '+358 40 5678 9012'}

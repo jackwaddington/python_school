@@ -1,7 +1,0 @@
-NAME:        Emma O'Sullivan
-PRONOUNS:    she/her
-EMAIL:       emma.o'sullivan@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: {'name': "Seán O'Sullivan", 'relationship': 'Father'}

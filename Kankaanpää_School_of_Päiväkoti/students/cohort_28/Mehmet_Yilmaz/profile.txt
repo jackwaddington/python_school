@@ -1,7 +1,0 @@
-NAME:        Mehmet Yilmaz
-PRONOUNS:    he/him
-EMAIL:       mehmet.yilmaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.68
-ALLERGIES:   None
-NEXT OF KIN: Zeynep Yilmaz (Mother), zeynep.yilmaz@example.com

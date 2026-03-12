@@ -1,7 +1,0 @@
-NAME:        Emma López
-PRONOUNS:    she/her
-EMAIL:       emma.lopez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Carlos', 'last_name': 'López'}

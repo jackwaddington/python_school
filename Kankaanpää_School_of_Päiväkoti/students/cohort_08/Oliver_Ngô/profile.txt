@@ -1,7 +1,0 @@
-NAME:        Oliver Ngô
-PRONOUNS:    he/him
-EMAIL:       oliver.ngo@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      8
-ABILITY:     0.37
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Thao Ngô', 'relationship': 'Mother', 'phone': '+358-40-1234-567B'}

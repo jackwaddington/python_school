@@ -1,7 +1,0 @@
-NAME:        Aisha Khan
-PRONOUNS:    she/her
-EMAIL:       aishakhan@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Omar', 'last_name': 'Ali'}

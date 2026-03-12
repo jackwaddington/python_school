@@ -1,7 +1,0 @@
-NAME:        Sophia Lee
-PRONOUNS:    she/her
-EMAIL:       sophia.lee@kankaanpaavakooliolosopaivakoti.school.com
-COHORT:      16
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: David Lee

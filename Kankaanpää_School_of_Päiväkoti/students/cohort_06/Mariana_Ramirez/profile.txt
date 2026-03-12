@@ -1,7 +1,0 @@
-NAME:        Mariana Ramirez
-PRONOUNS:    she/her
-EMAIL:       mariana.ramirez@kankaanpaaschoolofpaivakoti.com
-COHORT:      6
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Jose Ramirez

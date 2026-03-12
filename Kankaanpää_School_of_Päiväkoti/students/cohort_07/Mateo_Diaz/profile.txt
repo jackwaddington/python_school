@@ -1,7 +1,0 @@
-NAME:        Mateo Diaz
-PRONOUNS:    He/Him
-EMAIL:       mateodiaz@kankaanpaaschoolofpaivakoti.com
-COHORT:      7
-ABILITY:     0.47
-ALLERGIES:   None
-NEXT OF KIN: Carla Diaz (Mother)

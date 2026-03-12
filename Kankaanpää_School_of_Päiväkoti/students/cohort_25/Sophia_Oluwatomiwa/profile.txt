@@ -1,7 +1,0 @@
-NAME:        Sophia Oluwatomiwa
-PRONOUNS:    she/her
-EMAIL:       soluwatomiwa@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.15
-ALLERGIES:   None
-NEXT OF KIN: Adebayo Oluwatomiwa

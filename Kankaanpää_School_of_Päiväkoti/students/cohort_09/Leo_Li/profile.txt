@@ -1,7 +1,0 @@
-NAME:        Leo Li
-PRONOUNS:    he/him
-EMAIL:       leoli@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Li'}

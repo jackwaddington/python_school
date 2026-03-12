@@ -1,7 +1,0 @@
-NAME:        Mei Zhang
-PRONOUNS:    she/her
-EMAIL:       mei.zhang@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: Jun Zhang

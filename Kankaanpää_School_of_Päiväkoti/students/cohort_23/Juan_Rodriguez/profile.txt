@@ -1,7 +1,0 @@
-NAME:        Juan Rodriguez
-PRONOUNS:    he/him
-EMAIL:       juan.rodriguez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Maria Rodriguez', 'phone': '+1-555-7890', 'relationship': 'Mother'}

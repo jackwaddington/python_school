@@ -1,7 +1,0 @@
-NAME:        Ramesh Patel
-PRONOUNS:    he/him
-EMAIL:       ramesh.patel@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Sita', 'last_name': 'Patel'}

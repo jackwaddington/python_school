@@ -1,7 +1,0 @@
-NAME:        Mohammad Hassan
-PRONOUNS:    he/him
-EMAIL:       mohammad.hassan@kankaanpaavakouluofpainikoti.school.com
-COHORT:      29
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Farah Hassan', 'phone': '0123456789', 'relation': 'Mother'}

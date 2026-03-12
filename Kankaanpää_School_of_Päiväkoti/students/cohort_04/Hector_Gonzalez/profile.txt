@@ -1,7 +1,0 @@
-NAME:        Hector Gonzalez
-PRONOUNS:    he/him
-EMAIL:       hector.gonzalez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.31
-ALLERGIES:   ['nuts']
-NEXT OF KIN: Maria Rodriguez <maria.rodriguez@example.com>

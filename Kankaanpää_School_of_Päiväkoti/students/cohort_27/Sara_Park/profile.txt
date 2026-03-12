@@ -1,7 +1,0 @@
-NAME:        Sara Park
-PRONOUNS:    she/her
-EMAIL:       sara.park@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: James Park (father) - james.park@example.com

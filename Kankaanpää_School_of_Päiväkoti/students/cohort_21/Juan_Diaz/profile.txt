@@ -1,7 +1,0 @@
-NAME:        Juan Diaz
-PRONOUNS:    he/him
-EMAIL:       juan.diaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María Díaz', 'relation': 'Mother', 'phone': '+358 40 3456 7890', 'email': 'maria.diaz@kankaanpaaschoolofpaivakoti.school.com'}

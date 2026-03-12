@@ -1,7 +1,0 @@
-NAME:        Sofia Nguyen
-PRONOUNS:    she/her
-EMAIL:       sofianguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hoang', 'last_name': 'Nguyen'}

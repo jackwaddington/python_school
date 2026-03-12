@@ -1,7 +1,0 @@
-NAME:        Emilia Park
-PRONOUNS:    she/her
-EMAIL:       emiliaparkrecent@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Jin-Soo', 'last_name': 'Park'}

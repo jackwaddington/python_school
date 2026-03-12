@@ -1,7 +1,0 @@
-NAME:        Lukas Olivaw
-PRONOUNS:    he/him
-EMAIL:       lukas.olivaw@kankaanpaevakoti.school.com
-COHORT:      4
-ABILITY:     0.54
-ALLERGIES:   None
-NEXT OF KIN: Yvonne Olivaw (mother), mob: 234-5678901

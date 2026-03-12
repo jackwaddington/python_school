@@ -1,7 +1,0 @@
-NAME:        Benjamin Mendes
-PRONOUNS:    he/him
-EMAIL:       benjamin.mendes@kankaanpaavakouluofpivakoti.school.com
-COHORT:      1
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Catarina Mendes', 'phone': '+358 40 7890 1234', 'relationship': 'Mother'}

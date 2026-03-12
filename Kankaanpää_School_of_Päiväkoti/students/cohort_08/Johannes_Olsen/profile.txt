@@ -1,7 +1,0 @@
-NAME:        Johannes Olsen
-PRONOUNS:    he/him
-EMAIL:       johannes.olsen@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Anne-Marie', 'last_name': 'Olsen'}

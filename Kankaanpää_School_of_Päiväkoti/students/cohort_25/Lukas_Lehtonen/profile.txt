@@ -1,7 +1,0 @@
-NAME:        Lukas Lehtonen
-PRONOUNS:    he/him
-EMAIL:       lukas.lehtonen@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Anna Lehtonen

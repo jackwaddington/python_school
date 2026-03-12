@@ -1,7 +1,0 @@
-NAME:        Eva Pereira
-PRONOUNS:    she/her
-EMAIL:       epereira@kankaanpaaschoolofpaivakoti.com
-COHORT:      11
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: João Pereira

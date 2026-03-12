@@ -1,7 +1,0 @@
-NAME:        Zainab Ahmed
-PRONOUNS:    she/her
-EMAIL:       zainab.ahmed@kankaanpaavakouluofpivakoti.school.com
-COHORT:      14
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Usman', 'last_name': 'Ahmed'}

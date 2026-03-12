@@ -1,7 +1,0 @@
-NAME:        Sophie Leclerc
-PRONOUNS:    she/her
-EMAIL:       sleclerc@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.31
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'first_name': 'Philippe', 'last_name': 'Leclerc'}

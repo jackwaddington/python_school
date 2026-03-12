@@ -1,7 +1,0 @@
-NAME:        Zara Patel
-PRONOUNS:    she/her
-EMAIL:       zara.patel@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Hitesh Patel', 'phone': '+44-79-8765'}

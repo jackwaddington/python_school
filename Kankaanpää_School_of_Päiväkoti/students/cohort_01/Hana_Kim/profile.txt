@@ -1,7 +1,0 @@
-NAME:        Hana Kim
-PRONOUNS:    she/her
-EMAIL:       hana.kim@kankaanpaavakouluofpivakoti.school.com
-COHORT:      1
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Jong Kim', 'phone': '+358 40 6789 0123', 'relationship': 'Father'}

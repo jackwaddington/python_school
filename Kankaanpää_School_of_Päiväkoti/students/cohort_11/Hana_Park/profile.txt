@@ -1,7 +1,0 @@
-NAME:        Hana Park
-PRONOUNS:    she/her
-EMAIL:       hana.park@kankaanpaaschoolofpaivakoti.com
-COHORT:      11
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: Jun Park

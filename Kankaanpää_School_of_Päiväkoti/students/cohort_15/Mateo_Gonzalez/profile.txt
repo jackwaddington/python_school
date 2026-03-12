@@ -1,7 +1,0 @@
-NAME:        Mateo Gonzalez
-PRONOUNS:    he/him
-EMAIL:       mateo.gonzalez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      15
-ABILITY:     0.41
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María González', 'relationship': 'Mother', 'phone': '+521234567890', 'email': 'maria.gonzalez@hotmail.com'}

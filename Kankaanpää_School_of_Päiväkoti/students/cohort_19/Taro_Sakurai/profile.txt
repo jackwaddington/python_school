@@ -1,7 +1,0 @@
-NAME:        Taro Sakurai
-PRONOUNS:    he/him
-EMAIL:       taro.sakurai@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yumi Sakurai', 'relation': 'mother', 'phone': '+358-40-9876-5432', 'email': 'yumi.sakurai@personal.com'}

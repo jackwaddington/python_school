@@ -1,7 +1,0 @@
-NAME:        Omar El-Khatib
-PRONOUNS:    he/him
-EMAIL:       omar.elkhatib@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.34
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'Nadia El-Khatib', 'relationship': 'Mother', 'phone': '+358-40-5678-9012'}

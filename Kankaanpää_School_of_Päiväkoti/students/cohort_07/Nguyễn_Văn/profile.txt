@@ -1,7 +1,0 @@
-NAME:        Nguyễn Văn
-PRONOUNS:    he/him
-EMAIL:       nguyenvan@kankaanpaavakoulunpivaikotilaskenta.school.com
-COHORT:      7
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Phương Văn

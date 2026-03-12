@@ -1,7 +1,0 @@
-NAME:        Lena Olsson
-PRONOUNS:    she/her
-EMAIL:       lena.olsson@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      18
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Erik', 'last_name': 'Andersson'}

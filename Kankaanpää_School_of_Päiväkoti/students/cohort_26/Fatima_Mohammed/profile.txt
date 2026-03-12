@@ -1,7 +1,0 @@
-NAME:        Fatima Mohammed
-PRONOUNS:    she/her
-EMAIL:       fatima.mohammed@kankaanpaevakoti.school.com
-COHORT:      26
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: ahmed.mohammed@gmail.com

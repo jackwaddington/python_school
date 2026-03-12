@@ -1,7 +1,0 @@
-NAME:        Yara El-Assaad
-PRONOUNS:    she/her
-EMAIL:       yelassaad@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Ahmed El-Assaad <ahmed.elassaad@example.com>

@@ -1,7 +1,0 @@
-NAME:        Luis Gonzalez
-PRONOUNS:    he/him
-EMAIL:       luis.gonzalez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.41
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'González'}

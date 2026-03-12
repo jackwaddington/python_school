@@ -1,7 +1,0 @@
-NAME:        Felipe Santos
-PRONOUNS:    he/him
-EMAIL:       felipe.santos@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.65
-ALLERGIES:   ['wheat']
-NEXT OF KIN: Maria Santos <maria.santos@example.com>

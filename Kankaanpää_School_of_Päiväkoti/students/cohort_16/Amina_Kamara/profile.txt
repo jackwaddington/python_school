@@ -1,7 +1,0 @@
-NAME:        Amina Kamara
-PRONOUNS:    she/her
-EMAIL:       akamara@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: John Kamara <john.kamara@example.com>

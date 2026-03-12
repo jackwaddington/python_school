@@ -1,7 +1,0 @@
-NAME:        Miguel Gonzalez
-PRONOUNS:    he/him
-EMAIL:       miguel.gonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      6
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: Juan Gonzalez

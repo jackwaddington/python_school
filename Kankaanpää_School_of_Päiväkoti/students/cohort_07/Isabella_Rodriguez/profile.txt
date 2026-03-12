@@ -1,7 +1,0 @@
-NAME:        Isabella Rodriguez
-PRONOUNS:    She/Her
-EMAIL:       isabellarodriguez@kankaanpaaschoolofpaivakoti.com
-COHORT:      7
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: Juan Rodriguez (Father)

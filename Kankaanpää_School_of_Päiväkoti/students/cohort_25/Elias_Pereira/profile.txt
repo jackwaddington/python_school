@@ -1,7 +1,0 @@
-NAME:        Elias Pereira
-PRONOUNS:    he/him
-EMAIL:       eliaspereira@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.12
-ALLERGIES:   None
-NEXT OF KIN: Ana Pereira (mother) - anapereira@example.com

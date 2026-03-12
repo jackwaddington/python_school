@@ -1,7 +1,0 @@
-NAME:        Óscar Rodriguez
-PRONOUNS:    he/him
-EMAIL:       orodriguez@kankaanpaaschoolofpaivakoti.com
-COHORT:      11
-ABILITY:     0.65
-ALLERGIES:   None
-NEXT OF KIN: Elizabeth Rodriguez

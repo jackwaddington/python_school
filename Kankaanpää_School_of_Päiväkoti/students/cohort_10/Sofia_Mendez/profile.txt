@@ -1,7 +1,0 @@
-NAME:        Sofia Mendez
-PRONOUNS:    she/her
-EMAIL:       sofia.mendez@kankaanpaavaliskoulu.school.com
-COHORT:      10
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Carlos Mendez', 'phone': '+358409789015', 'email': 'carlos.mendez@kankaanpaavaliskoulu.school.com'}

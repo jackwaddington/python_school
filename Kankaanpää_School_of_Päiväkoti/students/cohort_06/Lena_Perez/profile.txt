@@ -1,7 +1,0 @@
-NAME:        Lena Perez
-PRONOUNS:    she/her
-EMAIL:       lena.perez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      6
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Carlos Perez', 'relation': 'Mother', 'phone': '+358-234567890', 'email': 'carlos.perez@example.com'}

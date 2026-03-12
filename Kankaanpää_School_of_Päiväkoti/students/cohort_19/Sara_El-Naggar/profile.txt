@@ -1,7 +1,0 @@
-NAME:        Sara El-Naggar
-PRONOUNS:    she/her
-EMAIL:       sara.el-naggar@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: Ahmed El-Naggar (father)

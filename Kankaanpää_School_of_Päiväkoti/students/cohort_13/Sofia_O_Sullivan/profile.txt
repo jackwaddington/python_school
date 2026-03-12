@@ -1,7 +1,0 @@
-NAME:        Sofia O' Sullivan
-PRONOUNS:    she/her
-EMAIL:       sofia.osullivan@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.42
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': "Sean O' Sullivan", 'relationship': 'Father', 'phone_number': '+353-98765432'}

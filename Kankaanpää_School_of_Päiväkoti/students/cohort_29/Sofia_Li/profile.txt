@@ -1,7 +1,0 @@
-NAME:        Sofia Li
-PRONOUNS:    she/her
-EMAIL:       sofia.li@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Lin', 'last_name': 'Li'}

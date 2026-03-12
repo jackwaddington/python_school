@@ -1,7 +1,0 @@
-NAME:        Emilia Kim
-PRONOUNS:    she/her
-EMAIL:       emilia.kim@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Jin Kim', 'relationship': 'Father', 'phone': '+1234567890', 'email': 'jin.kim@example.com'}

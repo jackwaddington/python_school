@@ -1,7 +1,0 @@
-NAME:        Mia Khan
-PRONOUNS:    she/her
-EMAIL:       miahan@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: Aamir Khan

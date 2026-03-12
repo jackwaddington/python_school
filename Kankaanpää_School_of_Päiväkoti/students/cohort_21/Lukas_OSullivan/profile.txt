@@ -1,7 +1,0 @@
-NAME:        Lukas O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       lukasosullivan@kankaanpaavaloschoolofpaivakoti.com
-COHORT:      21
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: Siobhan O'Sullivan

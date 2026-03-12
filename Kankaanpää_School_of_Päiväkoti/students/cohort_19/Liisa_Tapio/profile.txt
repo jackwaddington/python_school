@@ -1,7 +1,0 @@
-NAME:        Liisa Tapio
-PRONOUNS:    she/her
-EMAIL:       liisa.tapio@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: Marko Tapio (father)

@@ -1,7 +1,0 @@
-NAME:        Xiomara Gonzalez
-PRONOUNS:    she/her
-EMAIL:       xgonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: Juan Gonzalez <juangonzalez@example.com>

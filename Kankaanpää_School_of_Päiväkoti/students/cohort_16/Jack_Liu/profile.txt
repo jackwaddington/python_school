@@ -1,7 +1,0 @@
-NAME:        Jack Liu
-PRONOUNS:    he/him
-EMAIL:       jack.liu@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Hong Liu', 'relationship': 'Mother', 'phone': '+358-40-8888-9999'}

@@ -1,7 +1,0 @@
-NAME:        Isaac Benjamin
-PRONOUNS:    he/him
-EMAIL:       isaac.benjamin@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      6
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: Sarah Benjamin

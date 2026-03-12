@@ -1,7 +1,0 @@
-NAME:        Marcus Lee
-PRONOUNS:    he/him
-EMAIL:       marcus.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.65
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'Min Lee', 'phone': '+358404567891'}

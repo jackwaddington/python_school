@@ -1,7 +1,0 @@
-NAME:        Mohammed Ali
-PRONOUNS:    he/him
-EMAIL:       mohammedali@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Aisha Ali

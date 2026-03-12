@@ -1,7 +1,0 @@
-NAME:        Noah Zhao
-PRONOUNS:    he/him
-EMAIL:       noah.zhao@kankaanpaaschoolofpaivakoti.com
-COHORT:      1
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Zhao', 'relationship': 'Mother'}

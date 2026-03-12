@@ -1,7 +1,0 @@
-NAME:        Isabella Gomez
-PRONOUNS:    she/her
-EMAIL:       igomez@kankaanpaavakoulu.school.com
-COHORT:      14
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Juan Gomez <juangomez@example.com>

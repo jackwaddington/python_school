@@ -1,7 +1,0 @@
-NAME:        Mohammed Ali
-PRONOUNS:    he/him
-EMAIL:       mohammed.ali@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Fatima Ali', 'relationship': 'Mother', 'phone': '+1345678901', 'email': 'fatima.ali@example.com'}

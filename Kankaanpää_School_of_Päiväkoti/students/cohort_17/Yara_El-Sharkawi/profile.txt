@@ -1,7 +1,0 @@
-NAME:        Yara El-Sharkawi
-PRONOUNS:    she/her
-EMAIL:       yelsharkawi@kankaanpaavapaivakoti.school.com
-COHORT:      17
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ahmed El-Sharkawi', 'phone': '+20-10-1234-5678'}

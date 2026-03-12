@@ -1,7 +1,0 @@
-NAME:        Amina Khan
-PRONOUNS:    she/her
-EMAIL:       amina.khan@kankaanpaavakoulu.school.com
-COHORT:      11
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Faisal', 'last_name': 'Khan'}

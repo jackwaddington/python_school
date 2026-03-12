@@ -1,7 +1,0 @@
-NAME:        Miyu Sato
-PRONOUNS:    she/her
-EMAIL:       miyu.sato@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Toshi Sato', 'phone': '+81-90-1234'}

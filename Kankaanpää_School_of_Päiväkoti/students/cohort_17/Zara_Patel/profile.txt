@@ -1,7 +1,0 @@
-NAME:        Zara Patel
-PRONOUNS:    she/her
-EMAIL:       zpatel@kankaanpaavapaivakoti.school.com
-COHORT:      17
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Rohit Patel', 'phone': '+44-20-1234-5678'}

@@ -1,7 +1,0 @@
-NAME:        Yumi Sato
-PRONOUNS:    she/her
-EMAIL:       yumi.sato@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: Hiroshi Sato (father)

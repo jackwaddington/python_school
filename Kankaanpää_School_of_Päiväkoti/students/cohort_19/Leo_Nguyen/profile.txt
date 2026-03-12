@@ -1,7 +1,0 @@
-NAME:        Leo Nguyen
-PRONOUNS:    he/him
-EMAIL:       leo.nguyen@kankaanpaavakouluopisto.school.com
-COHORT:      19
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Phuc', 'last_name': 'Nguyen'}

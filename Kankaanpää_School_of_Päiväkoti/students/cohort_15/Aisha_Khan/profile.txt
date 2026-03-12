@@ -1,7 +1,0 @@
-NAME:        Aisha Khan
-PRONOUNS:    she/her
-EMAIL:       aishakhan@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Khan (Father), mohammed.khan@example.com

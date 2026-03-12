@@ -1,7 +1,0 @@
-NAME:        Emma Kim
-PRONOUNS:    she/her
-EMAIL:       emma.kim@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.33
-ALLERGIES:   ['seafood']
-NEXT OF KIN: {'name': 'Min Kim', 'relationship': 'Mother', 'phone_number': '+82-98765432'}

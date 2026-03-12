@@ -1,7 +1,0 @@
-NAME:        Emma Johnson
-PRONOUNS:    she/her
-EMAIL:       emmajohnson@kankaanpaaschoolofpavikoti.com
-COHORT:      25
-ABILITY:     0.25
-ALLERGIES:   None
-NEXT OF KIN: Mark Johnson (Father)

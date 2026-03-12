@@ -1,7 +1,0 @@
-NAME:        Sophia Lopez
-PRONOUNS:    she/her
-EMAIL:       sophia.lopez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: Juan Lopez

@@ -1,7 +1,0 @@
-NAME:        Zahra Rizvi
-PRONOUNS:    she/her
-EMAIL:       zahra.rizvi@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Rizvi'}

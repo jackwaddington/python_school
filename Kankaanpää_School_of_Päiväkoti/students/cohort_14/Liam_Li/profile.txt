@@ -1,7 +1,0 @@
-NAME:        Liam Li
-PRONOUNS:    he/him
-EMAIL:       llih@kankaanpaavakoulu.school.com
-COHORT:      14
-ABILITY:     0.73
-ALLERGIES:   nuts
-NEXT OF KIN: May Lee <maylee@example.com>

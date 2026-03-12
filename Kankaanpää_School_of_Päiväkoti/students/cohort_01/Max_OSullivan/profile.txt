@@ -1,7 +1,0 @@
-NAME:        Max O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       max.o'sullivan@kankaanpaaschoolofpaivakoti.com
-COHORT:      1
-ABILITY:     0.68
-ALLERGIES:   None
-NEXT OF KIN: {'name': "Maggie O'Sullivan", 'relationship': 'Mother'}

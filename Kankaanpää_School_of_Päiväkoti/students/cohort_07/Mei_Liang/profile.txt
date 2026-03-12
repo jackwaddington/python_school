@@ -1,7 +1,0 @@
-NAME:        Mei Liang
-PRONOUNS:    she/her
-EMAIL:       mei.liang@kankaanpaaschoolofpavikoti.com
-COHORT:      7
-ABILITY:     0.41
-ALLERGIES:   None
-NEXT OF KIN: Wei Liang

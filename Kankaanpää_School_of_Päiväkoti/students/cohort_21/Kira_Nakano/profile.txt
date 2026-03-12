@@ -1,7 +1,0 @@
-NAME:        Kira Nakano
-PRONOUNS:    she/her
-EMAIL:       kira.nakano@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Akihiko', 'last_name': 'Nakano'}

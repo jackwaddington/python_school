@@ -1,7 +1,0 @@
-NAME:        Isaac Kim
-PRONOUNS:    he/him
-EMAIL:       isaac.kim@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.81
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Min Kim', 'relationship': 'Mother'}

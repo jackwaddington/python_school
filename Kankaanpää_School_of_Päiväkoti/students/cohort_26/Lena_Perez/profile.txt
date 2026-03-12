@@ -1,7 +1,0 @@
-NAME:        Lena Perez
-PRONOUNS:    she/her
-EMAIL:       lena.perez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      26
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María Pérez', 'relationship': 'Mother'}

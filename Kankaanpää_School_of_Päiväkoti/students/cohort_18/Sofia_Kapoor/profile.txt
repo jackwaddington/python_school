@@ -1,7 +1,0 @@
-NAME:        Sofia Kapoor
-PRONOUNS:    she/her
-EMAIL:       sofia.kapoor@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Raj Kapoor', 'relationship': 'Father', 'phone': '+358-40-1234-5678'}

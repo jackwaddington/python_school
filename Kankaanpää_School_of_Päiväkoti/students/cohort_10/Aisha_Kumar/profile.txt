@@ -1,7 +1,0 @@
-NAME:        Aisha Kumar
-PRONOUNS:    she/her
-EMAIL:       aisha.kumar@kankaanpaavaliskoulu.school.com
-COHORT:      10
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Rajesh Kumar', 'phone': '+358401234567', 'email': 'rajesh.kumar@kankaanpaavaliskoulu.school.com'}

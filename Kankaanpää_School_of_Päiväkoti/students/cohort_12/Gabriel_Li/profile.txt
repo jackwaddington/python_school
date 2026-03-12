@@ -1,7 +1,0 @@
-NAME:        Gabriel Li
-PRONOUNS:    he/him
-EMAIL:       gabriel.li@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: Jia Li (mother)

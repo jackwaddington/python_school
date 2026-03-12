@@ -1,7 +1,0 @@
-NAME:        Isla Thompson
-PRONOUNS:    she/her
-EMAIL:       ithompson@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: Mark Thompson <markthompson@example.com>

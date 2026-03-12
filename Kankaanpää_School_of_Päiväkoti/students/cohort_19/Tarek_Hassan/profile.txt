@@ -1,7 +1,0 @@
-NAME:        Tarek Hassan
-PRONOUNS:    he/him
-EMAIL:       tarek.hassan@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Noura Hassan (mother)

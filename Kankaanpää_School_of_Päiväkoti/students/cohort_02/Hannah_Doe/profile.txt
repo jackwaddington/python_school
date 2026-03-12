@@ -1,7 +1,0 @@
-NAME:        Hannah Doe
-PRONOUNS:    she/her
-EMAIL:       hannah.doe@kankaanpaavalipasila.school.com
-COHORT:      2
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'John Doe', 'relationship': 'Father', 'phone': '+358 40 6789 0123', 'email': 'john.doe@example.com'}

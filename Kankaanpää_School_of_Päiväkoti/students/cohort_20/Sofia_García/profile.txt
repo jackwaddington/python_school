@@ -1,7 +1,0 @@
-NAME:        Sofia García
-PRONOUNS:    she/her
-EMAIL:       sgarcia@kankaanpaavakoulukohtainen.school.com
-COHORT:      20
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'García'}

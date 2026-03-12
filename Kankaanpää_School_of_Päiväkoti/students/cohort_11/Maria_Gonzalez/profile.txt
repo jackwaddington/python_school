@@ -1,7 +1,0 @@
-NAME:        Maria Gonzalez
-PRONOUNS:    she/her
-EMAIL:       mgonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      11
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: Juan Gonzalez

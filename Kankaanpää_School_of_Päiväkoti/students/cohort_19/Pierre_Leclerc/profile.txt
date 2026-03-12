@@ -1,7 +1,0 @@
-NAME:        Pierre Leclerc
-PRONOUNS:    he/him
-EMAIL:       pleclerc@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: Marie Dupont <mariedupont@example.com>

@@ -1,7 +1,0 @@
-NAME:        Benjamin Wang
-PRONOUNS:    he/him
-EMAIL:       benjamin.wang@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Wang', 'phone': '+358 40 2345 6789', 'relation': 'Mother'}

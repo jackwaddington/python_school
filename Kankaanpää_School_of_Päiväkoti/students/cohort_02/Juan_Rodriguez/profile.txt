@@ -1,7 +1,0 @@
-NAME:        Juan Rodriguez
-PRONOUNS:    he/him
-EMAIL:       juan.rodriguez@kankaanpaavalipasila.school.com
-COHORT:      2
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Maria Rodriguez', 'relationship': 'Mother', 'phone': '+358 40 7890 1234', 'email': 'maria.rodriguez@example.com'}

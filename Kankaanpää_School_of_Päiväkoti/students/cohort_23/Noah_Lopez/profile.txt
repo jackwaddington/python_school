@@ -1,7 +1,0 @@
-NAME:        Noah Lopez
-PRONOUNS:    he/him
-EMAIL:       noah.lopez@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ana Lopez', 'relationship': 'Mother', 'phone': '+1987654321', 'email': 'ana.lopez@example.com'}

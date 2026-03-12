@@ -1,7 +1,0 @@
-NAME:        Zoey Lee
-PRONOUNS:    she/her
-EMAIL:       zoeylee@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: Jason Lee

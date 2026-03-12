@@ -1,7 +1,0 @@
-NAME:        Lukas Söderström
-PRONOUNS:    he/him
-EMAIL:       lukas.soderstrom@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      18
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: Anna Söderström

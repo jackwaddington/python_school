@@ -1,7 +1,0 @@
-NAME:        Sara Hassan
-PRONOUNS:    she/her
-EMAIL:       sara.hassan@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ahmed Hassan', 'relationship': 'Father'}

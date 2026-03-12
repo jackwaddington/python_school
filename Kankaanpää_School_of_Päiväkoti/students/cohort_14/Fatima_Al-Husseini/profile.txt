@@ -1,7 +1,0 @@
-NAME:        Fatima Al-Husseini
-PRONOUNS:    she/her
-EMAIL:       fatima.al-husseini@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mohammad', 'last_name': 'Al-Husseini'}

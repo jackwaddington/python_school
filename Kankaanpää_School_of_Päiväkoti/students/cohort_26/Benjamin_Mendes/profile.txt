@@ -1,7 +1,0 @@
-NAME:        Benjamin Mendes
-PRONOUNS:    he/him
-EMAIL:       benjamin.mendes@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      26
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Carlos Mendes', 'relationship': 'Father'}

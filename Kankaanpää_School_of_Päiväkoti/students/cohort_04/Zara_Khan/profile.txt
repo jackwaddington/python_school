@@ -1,7 +1,0 @@
-NAME:        Zara Khan
-PRONOUNS:    she/her
-EMAIL:       zara.khan@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Khan

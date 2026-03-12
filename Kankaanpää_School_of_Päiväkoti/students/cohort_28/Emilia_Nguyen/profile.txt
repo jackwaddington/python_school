@@ -1,7 +1,0 @@
-NAME:        Emilia Nguyen
-PRONOUNS:    she/her
-EMAIL:       emilia.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: Anh Nguyen

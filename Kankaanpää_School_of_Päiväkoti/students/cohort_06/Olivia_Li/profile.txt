@@ -1,7 +1,0 @@
-NAME:        Olivia Li
-PRONOUNS:    she/her
-EMAIL:       olivia.li@kankaanpaavakoulusopimukoti.school.com
-COHORT:      6
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: James Lee (father) - james.lee@gmail.com

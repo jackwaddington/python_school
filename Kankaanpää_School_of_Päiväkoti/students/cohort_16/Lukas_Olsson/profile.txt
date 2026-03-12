@@ -1,7 +1,0 @@
-NAME:        Lukas Olsson
-PRONOUNS:    he/him
-EMAIL:       lukas.olsson@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.54
-ALLERGIES:   None
-NEXT OF KIN: Anna Olsson

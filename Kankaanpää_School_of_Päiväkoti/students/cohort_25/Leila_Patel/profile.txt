@@ -1,7 +1,0 @@
-NAME:        Leila Patel
-PRONOUNS:    she/her
-EMAIL:       leilapatel@kankaanpaaschoolofpavikoti.com
-COHORT:      25
-ABILITY:     0.2
-ALLERGIES:   None
-NEXT OF KIN: Rahul Patel (Father)

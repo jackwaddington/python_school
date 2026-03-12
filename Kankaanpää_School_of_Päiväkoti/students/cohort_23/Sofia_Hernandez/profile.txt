@@ -1,7 +1,0 @@
-NAME:        Sofia Hernandez
-PRONOUNS:    she/her
-EMAIL:       sofia.hernandez@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Carlos Hernandez', 'phone': '+358405678920'}

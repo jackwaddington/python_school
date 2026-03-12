@@ -1,7 +1,0 @@
-NAME:        Mohammad Ali
-PRONOUNS:    he/him
-EMAIL:       malii@kankaanpaavapaivakoti.school.com
-COHORT:      17
-ABILITY:     0.78
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Faten Ali', 'phone': '+962-79-1234-5678'}

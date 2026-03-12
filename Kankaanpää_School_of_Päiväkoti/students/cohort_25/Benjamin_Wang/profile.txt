@@ -1,7 +1,0 @@
-NAME:        Benjamin Wang
-PRONOUNS:    he/him
-EMAIL:       bwang@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.22
-ALLERGIES:   None
-NEXT OF KIN: Wei Wang

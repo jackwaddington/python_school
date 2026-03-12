@@ -1,7 +1,0 @@
-NAME:        Lakshmi Sharma
-PRONOUNS:    she/her
-EMAIL:       lakshmi.sharma@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Sita Patel <sitapatel@example.com>

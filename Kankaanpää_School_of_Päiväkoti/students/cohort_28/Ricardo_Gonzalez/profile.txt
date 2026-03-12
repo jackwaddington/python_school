@@ -1,7 +1,0 @@
-NAME:        Ricardo Gonzalez
-PRONOUNS:    he/him
-EMAIL:       rgonzalez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'González'}

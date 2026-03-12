@@ -1,7 +1,0 @@
-NAME:        Leila El-Basha
-PRONOUNS:    she/her
-EMAIL:       leila.elbasha@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Mohammed El-Basha

@@ -1,7 +1,0 @@
-NAME:        Ramiz Mondal
-PRONOUNS:    he/him
-EMAIL:       ramiz.mondal@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.81
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Sabina Mondal', 'phone': '+1-555-3456-7890', 'email': 'sabina.mondal@example.com'}

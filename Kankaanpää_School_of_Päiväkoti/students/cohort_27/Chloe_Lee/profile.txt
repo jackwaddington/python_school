@@ -1,7 +1,0 @@
-NAME:        Chloe Lee
-PRONOUNS:    she/her
-EMAIL:       chloe.lee@kankaanpaavakoulukoulutuskorea.school.com
-COHORT:      27
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

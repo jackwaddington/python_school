@@ -1,7 +1,0 @@
-NAME:        Taro Hirano
-PRONOUNS:    he/him
-EMAIL:       thirano@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: Yumi Hirano

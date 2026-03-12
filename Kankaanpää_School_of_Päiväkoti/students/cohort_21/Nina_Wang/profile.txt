@@ -1,7 +1,0 @@
-NAME:        Nina Wang
-PRONOUNS:    she/her
-EMAIL:       nina.wang@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Wang', 'relationship': 'Father'}

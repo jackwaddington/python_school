@@ -1,7 +1,0 @@
-NAME:        Fatima Benkhaldoun
-PRONOUNS:    she/her
-EMAIL:       fbenkhaldoun@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.65
-ALLERGIES:   None
-NEXT OF KIN: Mohamed Benkhaldoun

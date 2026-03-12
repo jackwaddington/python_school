@@ -1,7 +1,0 @@
-NAME:        Aisha Kamal
-PRONOUNS:    she/her
-EMAIL:       aisha.kamal@kankaanpaaschoolofpaivakoti.com
-COHORT:      5
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Kamal

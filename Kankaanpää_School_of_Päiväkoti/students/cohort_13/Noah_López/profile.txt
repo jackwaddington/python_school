@@ -1,7 +1,0 @@
-NAME:        Noah López
-PRONOUNS:    he/him
-EMAIL:       noah.lopez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      13
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'López'}

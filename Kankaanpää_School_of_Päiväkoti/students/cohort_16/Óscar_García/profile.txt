@@ -1,7 +1,0 @@
-NAME:        Óscar García
-PRONOUNS:    he/him
-EMAIL:       oscar.garcia@kankaanpaaschoolofpavikoti.com
-COHORT:      16
-ABILITY:     0.54
-ALLERGIES:   None
-NEXT OF KIN: María García (mother) - maria.garcia@example.com

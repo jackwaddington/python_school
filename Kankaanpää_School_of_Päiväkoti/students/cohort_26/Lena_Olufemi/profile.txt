@@ -1,7 +1,0 @@
-NAME:        Lena Olufemi
-PRONOUNS:    she/her
-EMAIL:       lenaolufemi@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Adebayo Olufemi', 'relationship': 'Father'}

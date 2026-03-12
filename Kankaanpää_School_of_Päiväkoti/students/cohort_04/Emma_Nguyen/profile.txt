@@ -1,7 +1,0 @@
-NAME:        Emma Nguyen
-PRONOUNS:    she/her
-EMAIL:       emma.nguyen@kankaanpaavakouluofpivakoti.school.com
-COHORT:      4
-ABILITY:     0.57
-ALLERGIES:   None
-NEXT OF KIN: Hoa Nguyen (Mother) - hoa.nguyen@example.com

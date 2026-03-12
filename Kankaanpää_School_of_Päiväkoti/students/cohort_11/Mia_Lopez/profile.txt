@@ -1,7 +1,0 @@
-NAME:        Mia Lopez
-PRONOUNS:    she/her
-EMAIL:       mia.lopez@kankaanpaavakoulu.school.com
-COHORT:      11
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Jose', 'last_name': 'Lopez'}

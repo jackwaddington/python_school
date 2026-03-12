@@ -1,7 +1,0 @@
-NAME:        Lukas Oluwole
-PRONOUNS:    he/him
-EMAIL:       lukasoluwole@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Adenike', 'last_name': 'Oluwole'}

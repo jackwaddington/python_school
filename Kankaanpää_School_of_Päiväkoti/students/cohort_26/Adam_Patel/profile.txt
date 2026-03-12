@@ -1,7 +1,0 @@
-NAME:        Adam Patel
-PRONOUNS:    he/him
-EMAIL:       adam.patel@kankaanpaevakoti.school.com
-COHORT:      26
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: meena.patel@gmail.com

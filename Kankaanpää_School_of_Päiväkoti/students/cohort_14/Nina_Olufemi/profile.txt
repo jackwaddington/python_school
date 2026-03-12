@@ -1,7 +1,0 @@
-NAME:        Nina Olufemi
-PRONOUNS:    she/her
-EMAIL:       nina.olufemi@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.85
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Oluwatobi', 'last_name': 'Olufemi'}

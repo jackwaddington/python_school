@@ -1,7 +1,0 @@
-NAME:        Ahmed Mohammed
-PRONOUNS:    he/him
-EMAIL:       ahmed.mohammed@kankaanpaavakoulukeskus.school.com
-COHORT:      3
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Amina', 'last_name': 'Mohammed'}

@@ -1,7 +1,0 @@
-NAME:        Fatih Ozdemir
-PRONOUNS:    he/him
-EMAIL:       fatih.ozdemir@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ayse Ozdemir', 'relation': 'mother', 'phone': '+358-40-1234-5679', 'email': 'ayse.ozdemir@personal.com'}

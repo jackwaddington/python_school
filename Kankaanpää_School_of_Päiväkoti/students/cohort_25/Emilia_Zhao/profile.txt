@@ -1,7 +1,0 @@
-NAME:        Emilia Zhao
-PRONOUNS:    she/her
-EMAIL:       ezhao@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.1
-ALLERGIES:   None
-NEXT OF KIN: Li Zhao

@@ -1,7 +1,0 @@
-NAME:        Marlon Dos Santos
-PRONOUNS:    he/him
-EMAIL:       marlon.dos-santos@kankaanpaavakouluofpivakoti.school.com
-COHORT:      11
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: Maria Silva <maria.silva@example.com>

@@ -1,7 +1,0 @@
-NAME:        Ibrahim Abdullah
-PRONOUNS:    he/him
-EMAIL:       ibrahim.abdullah@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      29
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Abdullah'}

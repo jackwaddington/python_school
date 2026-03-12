@@ -1,7 +1,0 @@
-NAME:        Yuna Nakamura
-PRONOUNS:    she/her
-EMAIL:       yuna.nakamura@kankaanpaavakoulukoulutusjapani.school.com
-COHORT:      27
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Nakamura'}

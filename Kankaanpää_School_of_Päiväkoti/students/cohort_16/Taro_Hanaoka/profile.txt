@@ -1,7 +1,0 @@
-NAME:        Taro Hanaoka
-PRONOUNS:    he/him
-EMAIL:       taro.hanaoka@kankaanpaavakooliolosopaivakoti.school.com
-COHORT:      16
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: Yumi Hanaoka

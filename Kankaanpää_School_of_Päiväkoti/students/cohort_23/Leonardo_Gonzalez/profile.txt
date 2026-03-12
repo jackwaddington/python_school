@@ -1,7 +1,0 @@
-NAME:        Leonardo Gonzalez
-PRONOUNS:    he/him
-EMAIL:       leonardogonzaleznear@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'Gonzalez'}

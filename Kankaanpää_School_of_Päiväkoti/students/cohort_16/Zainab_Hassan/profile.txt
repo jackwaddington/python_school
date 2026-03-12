@@ -1,7 +1,0 @@
-NAME:        Zainab Hassan
-PRONOUNS:    she/her
-EMAIL:       zhassan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Hassan <mohammed.hassan@example.com>

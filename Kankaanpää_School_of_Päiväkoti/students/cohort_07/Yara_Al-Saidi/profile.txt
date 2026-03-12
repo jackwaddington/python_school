@@ -1,7 +1,0 @@
-NAME:        Yara Al-Saidi
-PRONOUNS:    she/her
-EMAIL:       yara.al-saidi@kankaanpaaschoolofpavikoti.com
-COHORT:      7
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: Ali Al-Saidi

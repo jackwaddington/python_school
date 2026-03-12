@@ -1,7 +1,0 @@
-NAME:        Sofia Patel
-PRONOUNS:    she/her
-EMAIL:       sofia.patel@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.75
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Rahul Patel', 'relationship': 'Father', 'phone': '+358-40-1111-2222'}

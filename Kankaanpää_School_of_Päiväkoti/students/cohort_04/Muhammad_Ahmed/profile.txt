@@ -1,7 +1,0 @@
-NAME:        Muhammad Ahmed
-PRONOUNS:    he/him
-EMAIL:       muhammad.ahmed@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Aisha Ahmed', 'relationship': 'Mother', 'phone': '+20 109 876 5432'}

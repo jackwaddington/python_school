@@ -1,7 +1,0 @@
-NAME:        Sebastian Lopez
-PRONOUNS:    he/him
-EMAIL:       sebastian.lopez@kankaanpaavakouluofpivakoti.school.com
-COHORT:      4
-ABILITY:     0.54
-ALLERGIES:   None
-NEXT OF KIN: Juan Lopez (Father) - juan.lopez@example.com

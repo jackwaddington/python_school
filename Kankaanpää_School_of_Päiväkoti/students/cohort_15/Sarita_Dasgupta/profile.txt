@@ -1,7 +1,0 @@
-NAME:        Sarita Dasgupta
-PRONOUNS:    she/her
-EMAIL:       sarita.dasgupta@kankaanpaavakoulutuspaivakoti.school.com
-COHORT:      15
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Rajat', 'last_name': 'Dasgupta'}

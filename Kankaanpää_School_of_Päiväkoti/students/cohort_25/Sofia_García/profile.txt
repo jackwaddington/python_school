@@ -1,7 +1,0 @@
-NAME:        Sofia García
-PRONOUNS:    she/her
-EMAIL:       sgarcia@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.25
-ALLERGIES:   None
-NEXT OF KIN: Juan García

@@ -1,7 +1,0 @@
-NAME:        Taro Nakamura
-PRONOUNS:    he/him
-EMAIL:       tnakamura@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: Yumi Nakamura <ynakamura@example.com>

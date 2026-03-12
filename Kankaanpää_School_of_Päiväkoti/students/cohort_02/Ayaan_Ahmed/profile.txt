@@ -1,7 +1,0 @@
-NAME:        Ayaan Ahmed
-PRONOUNS:    she/her
-EMAIL:       ayaan.ahmed@kankaanpaavalipasila.school.com
-COHORT:      2
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Abdullah Ahmed', 'relationship': 'Father', 'phone': '+358 40 0123 4567', 'email': 'abdullah.ahmed@example.com'}

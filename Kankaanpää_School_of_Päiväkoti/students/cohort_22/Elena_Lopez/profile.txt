@@ -1,7 +1,0 @@
-NAME:        Elena Lopez
-PRONOUNS:    she/her
-EMAIL:       elena.lopez@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.71
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Lopez', 'phone': '+358-6456789015', 'relation': 'Father'}

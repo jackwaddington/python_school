@@ -1,7 +1,0 @@
-NAME:        Shingo Tanaka
-PRONOUNS:    he/him
-EMAIL:       shingo.tanaka@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      29
-ABILITY:     0.65
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Tanaka'}

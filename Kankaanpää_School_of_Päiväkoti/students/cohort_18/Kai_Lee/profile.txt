@@ -1,7 +1,0 @@
-NAME:        Kai Lee
-PRONOUNS:    he/him
-EMAIL:       kaillee@kankaanpaaschoolofpaivakaoti.com
-COHORT:      18
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Jin', 'last_name': 'Lee'}

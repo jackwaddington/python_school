@@ -1,7 +1,0 @@
-NAME:        Oliver Nguyen
-PRONOUNS:    he/him
-EMAIL:       oliver.nguyen@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      20
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Hoa Nguyen

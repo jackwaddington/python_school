@@ -1,7 +1,0 @@
-NAME:        Ramesh Kumar
-PRONOUNS:    he/him
-EMAIL:       rkumar@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Geeta Kumar

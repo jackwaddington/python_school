@@ -1,7 +1,0 @@
-NAME:        Iman Bey
-PRONOUNS:    she/her
-EMAIL:       iman.bey@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      1
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Beyoncé Knowles-Carter', 'relation': 'mother', 'phone': '+19876543210', 'email': 'beyonce@example.com'}

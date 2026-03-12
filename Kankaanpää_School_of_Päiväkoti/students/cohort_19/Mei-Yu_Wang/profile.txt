@@ -1,7 +1,0 @@
-NAME:        Mei-Yu Wang
-PRONOUNS:    she/her
-EMAIL:       mwang@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: Li Zhang <lzhang@example.com>

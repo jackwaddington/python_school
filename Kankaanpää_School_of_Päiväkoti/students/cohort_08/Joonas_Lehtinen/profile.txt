@@ -1,7 +1,0 @@
-NAME:        Joonas Lehtinen
-PRONOUNS:    he/him
-EMAIL:       joonas.lehtinen@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Sanna', 'last_name': 'Lehtinen'}

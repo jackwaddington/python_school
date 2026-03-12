@@ -1,7 +1,0 @@
-NAME:        Lukas Mendoza
-PRONOUNS:    he/him
-EMAIL:       lukas.mendoza@kankaanpaaschoolofpavikoti.school.com
-COHORT:      11
-ABILITY:     0.57
-ALLERGIES:   None
-NEXT OF KIN: Laura Taylor <laurataylor@example.com>

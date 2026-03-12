@@ -1,7 +1,0 @@
-NAME:        Noah Li
-PRONOUNS:    he/him
-EMAIL:       noah.li@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Mei Li (Mother) - mei.li@example.com

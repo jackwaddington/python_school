@@ -1,7 +1,0 @@
-NAME:        Mia Zhao
-PRONOUNS:    she/her
-EMAIL:       mia.zhao@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Xiaoming Zhao (Father) - xiaoming.zhao@example.com

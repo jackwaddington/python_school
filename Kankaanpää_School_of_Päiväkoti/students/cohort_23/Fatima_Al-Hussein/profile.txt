@@ -1,7 +1,0 @@
-NAME:        Fatima Al-Hussein
-PRONOUNS:    she/her
-EMAIL:       fatima.alhussein@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ali Al-Hussein', 'phone': '+1-555-3456', 'relationship': 'Father'}

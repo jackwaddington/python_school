@@ -1,7 +1,0 @@
-NAME:        Oliver Ngoma
-PRONOUNS:    he/him
-EMAIL:       oliver.ngoma@kankaanpaaschoolofpavikoti.com
-COHORT:      18
-ABILITY:     0.85
-ALLERGIES:   None
-NEXT OF KIN: Sophia Ngoma (mother), sophia.ngoma@example.com

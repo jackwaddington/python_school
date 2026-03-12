@@ -1,7 +1,0 @@
-NAME:        Yara Nakano
-PRONOUNS:    they/them
-EMAIL:       yaranakano@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.72
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Yumi Nakano', 'relationship': 'Mother'}

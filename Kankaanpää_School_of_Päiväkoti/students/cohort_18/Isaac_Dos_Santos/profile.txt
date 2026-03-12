@@ -1,7 +1,0 @@
-NAME:        Isaac Dos Santos
-PRONOUNS:    he/him
-EMAIL:       isaac.dossantos@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.56
-ALLERGIES:   ['gluten']
-NEXT OF KIN: {'name': 'Maria Dos Santos', 'relationship': 'Mother', 'phone': '+358-40-3456-7890'}

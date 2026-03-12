@@ -1,7 +1,0 @@
-NAME:        Zara Patel
-PRONOUNS:    she/her
-EMAIL:       zpatel@kankaanpaaschoolofpaivakoti.com
-COHORT:      1
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: Rajesh Patel

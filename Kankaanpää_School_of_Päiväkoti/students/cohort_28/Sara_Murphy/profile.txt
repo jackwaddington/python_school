@@ -1,7 +1,0 @@
-NAME:        Sara Murphy
-PRONOUNS:    she/her
-EMAIL:       sara.murphy@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.52
-ALLERGIES:   None
-NEXT OF KIN: Patrick Murphy

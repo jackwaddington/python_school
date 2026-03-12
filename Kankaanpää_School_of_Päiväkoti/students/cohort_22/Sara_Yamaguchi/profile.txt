@@ -1,7 +1,0 @@
-NAME:        Sara Yamaguchi
-PRONOUNS:    she/her
-EMAIL:       sarayamaguchi@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Hiroshi Yamaguchi

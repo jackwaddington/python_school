@@ -1,7 +1,0 @@
-NAME:        Juan García
-PRONOUNS:    he/him
-EMAIL:       juangarcia@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María García', 'relationship': 'Mother'}

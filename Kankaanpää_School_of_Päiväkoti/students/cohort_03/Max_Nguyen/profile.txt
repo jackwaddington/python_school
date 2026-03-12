@@ -1,7 +1,0 @@
-NAME:        Max Nguyen
-PRONOUNS:    he/him
-EMAIL:       max.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      3
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Hoang Nguyen', 'relationship': 'Mother', 'phone': '+358 40 7890 1234'}

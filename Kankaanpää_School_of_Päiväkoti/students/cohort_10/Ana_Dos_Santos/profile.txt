@@ -1,7 +1,0 @@
-NAME:        Ana Dos Santos
-PRONOUNS:    she/her
-EMAIL:       ana.dos-santos@kankaanpaavakooliopaivakoti.school.com
-COHORT:      10
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: João Dos Santos

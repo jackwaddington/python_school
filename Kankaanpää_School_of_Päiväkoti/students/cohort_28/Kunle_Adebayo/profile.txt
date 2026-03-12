@@ -1,7 +1,0 @@
-NAME:        Kunle Adebayo
-PRONOUNS:    he/him
-EMAIL:       kadebayo@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Funmilola', 'last_name': 'Adebayo'}

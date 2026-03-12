@@ -1,7 +1,0 @@
-NAME:        Julian Schmidt
-PRONOUNS:    he/him
-EMAIL:       julian.schmidt@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.32
-ALLERGIES:   ['gluten']
-NEXT OF KIN: Katharina Schmidt

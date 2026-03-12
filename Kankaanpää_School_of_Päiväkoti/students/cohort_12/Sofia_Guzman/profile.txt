@@ -1,7 +1,0 @@
-NAME:        Sofia Guzman
-PRONOUNS:    she/her
-EMAIL:       sofia.guzman@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      12
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Carlos', 'last_name': 'Guzman', 'relationship': 'Father'}

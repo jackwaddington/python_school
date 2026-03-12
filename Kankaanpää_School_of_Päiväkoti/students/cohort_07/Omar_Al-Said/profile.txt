@@ -1,7 +1,0 @@
-NAME:        Omar Al-Said
-PRONOUNS:    He/Him
-EMAIL:       omaralsaid@kankaanpaaschoolofpaivakoti.com
-COHORT:      7
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: Noura Al-Said (Mother)

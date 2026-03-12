@@ -1,7 +1,0 @@
-NAME:        Mohammad Ahmed
-PRONOUNS:    he/him
-EMAIL:       mohammad.ahmed@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Aisha Ahmed

@@ -1,7 +1,0 @@
-NAME:        Emilia Rodriguez
-PRONOUNS:    she/her
-EMAIL:       emilia.rodriguez@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: Juan Rodriguez (father)

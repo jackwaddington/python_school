@@ -1,7 +1,0 @@
-NAME:        Zara Al-Khateeb
-PRONOUNS:    she/her
-EMAIL:       zara.al-khateeb@kankaanpaavakouluofpivakoti.school.com
-COHORT:      11
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Ali <mohammed.ali@example.com>

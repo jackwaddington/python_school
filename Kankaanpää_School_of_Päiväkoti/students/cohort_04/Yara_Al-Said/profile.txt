@@ -1,7 +1,0 @@
-NAME:        Yara Al-Said
-PRONOUNS:    they/them
-EMAIL:       yara.al-said@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: Mohammad Al-Said

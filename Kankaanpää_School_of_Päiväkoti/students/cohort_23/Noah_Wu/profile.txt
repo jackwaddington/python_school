@@ -1,7 +1,0 @@
-NAME:        Noah Wu
-PRONOUNS:    he/him
-EMAIL:       noah.wu@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.37
-ALLERGIES:   ['gluten']
-NEXT OF KIN: {'name': 'Liang Wu', 'phone': '+35841076789250'}

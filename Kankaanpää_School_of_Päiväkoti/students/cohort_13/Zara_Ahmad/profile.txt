@@ -1,7 +1,0 @@
-NAME:        Zara Ahmad
-PRONOUNS:    she/her
-EMAIL:       zara.ahmad@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Mohammad Ahmad', 'relationship': 'Father', 'phone': '+92 1234-5678', 'email': 'mohammad.ahmad@kankaanpaaschoolofpaivakoti.com'}

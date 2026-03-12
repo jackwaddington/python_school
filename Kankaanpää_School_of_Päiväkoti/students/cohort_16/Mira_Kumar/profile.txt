@@ -1,7 +1,0 @@
-NAME:        Mira Kumar
-PRONOUNS:    she/her
-EMAIL:       mira.kumar@kankaanpaaschoolofpavikoti.com
-COHORT:      16
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: Raj Kumar (father) - raj.kumar@example.com

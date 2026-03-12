@@ -1,7 +1,0 @@
-NAME:        Max O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       maxosullivan@kankaanpaaschoolofpaivakaoti.com
-COHORT:      18
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Bridget', 'last_name': "O'Sullivan"}

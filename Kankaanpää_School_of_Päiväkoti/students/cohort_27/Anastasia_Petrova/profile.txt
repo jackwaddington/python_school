@@ -1,7 +1,0 @@
-NAME:        Anastasia Petrova
-PRONOUNS:    she/her
-EMAIL:       apetrova@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.41
-ALLERGIES:   None
-NEXT OF KIN: Ivan Petrov

@@ -1,7 +1,0 @@
-NAME:        Nathan Diaz
-PRONOUNS:    he/him
-EMAIL:       nathandiaz@kankaanpaavakooliopaivakoti.school.com
-COHORT:      6
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: Maria Diaz (mother) - maria.diaz@hotmail.it

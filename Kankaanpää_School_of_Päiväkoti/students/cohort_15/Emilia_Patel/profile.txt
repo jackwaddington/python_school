@@ -1,7 +1,0 @@
-NAME:        Emilia Patel
-PRONOUNS:    she/her
-EMAIL:       emiliapatel@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Rahul Patel (Father), rahul.patel@example.com

@@ -1,7 +1,0 @@
-NAME:        Hana Lee
-PRONOUNS:    she/her
-EMAIL:       hanelee@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: James Lee (Father) - jameslee@example.com

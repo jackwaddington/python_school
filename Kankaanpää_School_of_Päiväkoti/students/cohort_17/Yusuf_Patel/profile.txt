@@ -1,7 +1,0 @@
-NAME:        Yusuf Patel
-PRONOUNS:    he/him
-EMAIL:       yusuf.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      17
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Fatima Patel (mother)

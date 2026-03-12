@@ -1,7 +1,0 @@
-NAME:        Xiayun Li
-PRONOUNS:    she/her
-EMAIL:       xiayun.li@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: James Li

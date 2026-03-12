@@ -1,7 +1,0 @@
-NAME:        Isabella Lee
-PRONOUNS:    she/her
-EMAIL:       isabella.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'James Lee', 'relationship': 'Father', 'phone': '+1 898-7654', 'email': 'james.lee@kankaanpaaschoolofpaivakoti.com'}

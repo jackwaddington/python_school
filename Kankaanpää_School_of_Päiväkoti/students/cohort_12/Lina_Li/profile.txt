@@ -1,7 +1,0 @@
-NAME:        Lina Li
-PRONOUNS:    she/her
-EMAIL:       lli@kankaanpaavakouluofpainikoti.school.com
-COHORT:      12
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: Zhang Li

@@ -1,7 +1,0 @@
-NAME:        Oliver Williams
-PRONOUNS:    he/him
-EMAIL:       oliver.williams@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.18
-ALLERGIES:   None
-NEXT OF KIN: Linda Williams

@@ -1,7 +1,0 @@
-NAME:        Ana Gomez
-PRONOUNS:    she/her
-EMAIL:       ana.gomez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Gomez'}

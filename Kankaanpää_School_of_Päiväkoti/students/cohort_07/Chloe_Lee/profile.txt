@@ -1,7 +1,0 @@
-NAME:        Chloe Lee
-PRONOUNS:    she/her
-EMAIL:       chloe.lee@kankaanpaavakoulunpivaikotilaskenta.school.com
-COHORT:      7
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: James Lee

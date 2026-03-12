@@ -1,7 +1,0 @@
-NAME:        Youssef El-Masri
-PRONOUNS:    he/him
-EMAIL:       youssef.elmasri@kankaanpaavakoulusopimukoti.school.com
-COHORT:      6
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: Fatima Ben Ali (mother) - fatima.benali@gmail.com

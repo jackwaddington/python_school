@@ -1,7 +1,0 @@
-NAME:        Sophia García
-PRONOUNS:    she/her
-EMAIL:       sgarcia@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Juan García <juan@example.com>

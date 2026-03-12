@@ -1,7 +1,0 @@
-NAME:        Lukas Nguyen
-PRONOUNS:    he/him
-EMAIL:       lnguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: Thi Nguyen <thinguyen@example.com>

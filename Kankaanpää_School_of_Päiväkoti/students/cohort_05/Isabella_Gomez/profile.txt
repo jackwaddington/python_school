@@ -1,7 +1,0 @@
-NAME:        Isabella Gomez
-PRONOUNS:    she/her
-EMAIL:       isabella.gomez@kankaanpaaschoolofpavikoti.com
-COHORT:      5
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Gomez'}

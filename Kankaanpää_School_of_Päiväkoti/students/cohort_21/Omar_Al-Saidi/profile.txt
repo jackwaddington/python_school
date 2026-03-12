@@ -1,7 +1,0 @@
-NAME:        Omar Al-Saidi
-PRONOUNS:    he/him
-EMAIL:       omar.al-saidi@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hayat', 'last_name': 'Al-Saidi'}

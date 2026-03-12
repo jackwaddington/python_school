@@ -1,7 +1,0 @@
-NAME:        Leonardo Ribeiro
-PRONOUNS:    he/him
-EMAIL:       leonardoribeiro@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: Carla Ribeiro

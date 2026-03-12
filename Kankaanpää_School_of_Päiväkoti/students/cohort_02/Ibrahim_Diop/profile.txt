@@ -1,7 +1,0 @@
-NAME:        Ibrahim Diop
-PRONOUNS:    he/him
-EMAIL:       ibrahim.diop@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Aminata Diop (mother)

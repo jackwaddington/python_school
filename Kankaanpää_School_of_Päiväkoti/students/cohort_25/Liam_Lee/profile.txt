@@ -1,7 +1,0 @@
-NAME:        Liam Lee
-PRONOUNS:    he/him
-EMAIL:       llee@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      25
-ABILITY:     0.21
-ALLERGIES:   None
-NEXT OF KIN: Hana Lee

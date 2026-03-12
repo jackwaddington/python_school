@@ -1,7 +1,0 @@
-NAME:        Lukas Müller
-PRONOUNS:    he/him
-EMAIL:       lukas.muller@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      6
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: Anna Müller

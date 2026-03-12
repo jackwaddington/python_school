@@ -1,7 +1,0 @@
-NAME:        Yara Guzman
-PRONOUNS:    she/her
-EMAIL:       yara.guzman@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Guzman', 'relationship': 'Father', 'phone': '+52 55 5678 9012'}

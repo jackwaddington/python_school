@@ -1,7 +1,0 @@
-NAME:        Sara Ocampo
-PRONOUNS:    she/her
-EMAIL:       sara.ocampo@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: Juan Pérez <juanperez@example.com>

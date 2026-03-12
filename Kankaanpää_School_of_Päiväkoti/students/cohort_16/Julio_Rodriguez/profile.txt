@@ -1,7 +1,0 @@
-NAME:        Julio Rodriguez
-PRONOUNS:    he/him
-EMAIL:       julio.rodriguez@kankaanpaavakooliolosopaivakoti.school.com
-COHORT:      16
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: María Rodríguez

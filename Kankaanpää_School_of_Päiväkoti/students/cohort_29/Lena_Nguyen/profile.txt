@@ -1,7 +1,0 @@
-NAME:        Lena Nguyen
-PRONOUNS:    she/her
-EMAIL:       lena.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.46
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'first_name': 'Hoang', 'last_name': 'Nguyen'}

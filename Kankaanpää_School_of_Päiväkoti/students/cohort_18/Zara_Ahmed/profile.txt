@@ -1,7 +1,0 @@
-NAME:        Zara Ahmed
-PRONOUNS:    she/her
-EMAIL:       zara.ahmed@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Mohammed Ahmed', 'relationship': 'Father', 'phone': '+358-40-8901-2345'}

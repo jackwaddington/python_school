@@ -1,7 +1,0 @@
-NAME:        Sofia Rodriguez
-PRONOUNS:    she/her
-EMAIL:       sofiarodriguez@kankaanpaaschoolofpavikoti.com
-COHORT:      25
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Juan Rodriguez (Father)

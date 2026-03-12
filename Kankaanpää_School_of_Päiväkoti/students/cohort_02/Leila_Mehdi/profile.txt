@@ -1,7 +1,0 @@
-NAME:        Leila Mehdi
-PRONOUNS:    she/her
-EMAIL:       leila.mehdi@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: Mohammad Mehdi (father)

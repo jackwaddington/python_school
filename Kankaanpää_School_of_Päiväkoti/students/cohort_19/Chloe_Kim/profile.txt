@@ -1,7 +1,0 @@
-NAME:        Chloe Kim
-PRONOUNS:    she/her
-EMAIL:       chloe.kim@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Joon Kim

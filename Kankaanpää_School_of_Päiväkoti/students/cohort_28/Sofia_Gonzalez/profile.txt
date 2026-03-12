@@ -1,7 +1,0 @@
-NAME:        Sofia Gonzalez
-PRONOUNS:    she/her
-EMAIL:       sofia.gonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.65
-ALLERGIES:   None
-NEXT OF KIN: Carlos Gonzalez

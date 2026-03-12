@@ -1,7 +1,0 @@
-NAME:        Sofia Lee
-PRONOUNS:    she/her
-EMAIL:       sofia.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      17
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: Jennifer Lee (mother)

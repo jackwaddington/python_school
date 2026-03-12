@@ -1,7 +1,0 @@
-NAME:        Lukas Gonzalez
-PRONOUNS:    he/him
-EMAIL:       lukas.gonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      11
-ABILITY:     0.41
-ALLERGIES:   None
-NEXT OF KIN: Maria Gonzalez

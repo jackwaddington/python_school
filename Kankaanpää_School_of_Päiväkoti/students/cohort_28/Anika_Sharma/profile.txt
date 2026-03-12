@@ -1,7 +1,0 @@
-NAME:        Anika Sharma
-PRONOUNS:    she/her
-EMAIL:       asharma@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.33
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'first_name': 'Rajesh', 'last_name': 'Sharma'}

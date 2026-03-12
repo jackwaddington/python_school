@@ -1,7 +1,0 @@
-NAME:        Yara Nakano
-PRONOUNS:    she/her
-EMAIL:       yaranakano@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Nakamura'}

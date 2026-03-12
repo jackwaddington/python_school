@@ -1,7 +1,0 @@
-NAME:        Jonathan Lee
-PRONOUNS:    he/him
-EMAIL:       jonathan.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Helen Lee', 'relationship': 'Mother', 'phone': '+44 1234-5678', 'email': 'helen.lee@kankaanpaaschoolofpaivakoti.com'}

@@ -1,7 +1,0 @@
-NAME:        Isabella Mendes
-PRONOUNS:    she/her
-EMAIL:       isabella.mendes@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: Miguel Mendes (father), miguel.mendes@example.com

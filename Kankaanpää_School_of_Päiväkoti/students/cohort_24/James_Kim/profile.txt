@@ -1,7 +1,0 @@
-NAME:        James Kim
-PRONOUNS:    he/him
-EMAIL:       james.kim@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      24
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: Soon Kim (mother)
