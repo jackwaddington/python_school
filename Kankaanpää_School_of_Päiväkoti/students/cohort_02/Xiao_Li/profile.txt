@@ -1,0 +1,7 @@
+NAME:        Xiao Li
+PRONOUNS:    they/them
+EMAIL:       xiao.li@kankaanpaavakouluofpavikoti.school.com
+COHORT:      2
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Wei Li

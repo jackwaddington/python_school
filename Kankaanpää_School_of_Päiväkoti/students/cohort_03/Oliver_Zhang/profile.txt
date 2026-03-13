@@ -1,0 +1,7 @@
+NAME:        Oliver Zhang
+PRONOUNS:    he/him
+EMAIL:       oliver.zhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Xin Zhang', 'relationship': 'Father', 'phone': '+358 40 3456 7890'}

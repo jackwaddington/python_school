@@ -1,0 +1,7 @@
+NAME:        Ismail Ahmed
+PRONOUNS:    he/him
+EMAIL:       ismail.ahmed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Ahmed'}

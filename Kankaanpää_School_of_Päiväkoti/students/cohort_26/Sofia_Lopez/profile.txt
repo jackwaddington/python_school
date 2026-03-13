@@ -1,0 +1,7 @@
+NAME:        Sofia Lopez
+PRONOUNS:    she/her
+EMAIL:       sofia.lopez@kankaanpaavakouluofpainivaltakoti.school.com
+COHORT:      26
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Lopez'}

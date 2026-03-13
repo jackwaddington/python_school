@@ -1,0 +1,17 @@
+EXAM: Tyre Change Basics
+────────────────────────────────────────
+
+Q1: What is the definition of tires?
+  A) Flexible rubber covers that encase a wheel's rim to enable vehicle movement by adhering to a road surface
+  B) Circular, rigid metal covers that encase a wheel's rim for vehicle movement
+  C) Soft cushions placed on the seat for comfort during travel
+  D) Electric motors used for propulsion
+Answer: A
+
+Q2: What does the recommended tire pressure for a typical passenger car usually equal at room temperature (in psi or bar)?
+  A) 32 psi or 2.2 bar
+  B) 45 psi or 3 bar
+  C) 20 psi or 1.4 bar
+  D) 60 psi or 4.1 bar
+Answer: A
+

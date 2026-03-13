@@ -1,0 +1,7 @@
+NAME:        Zainab Mohammed
+PRONOUNS:    she/her
+EMAIL:       zainab.mohammed@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Abdul Mohammed', 'phone': '+358 40 7890 1234'}

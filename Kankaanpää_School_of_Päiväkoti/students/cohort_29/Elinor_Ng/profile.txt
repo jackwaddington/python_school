@@ -1,0 +1,7 @@
+NAME:        Elinor Ng
+PRONOUNS:    she/her
+EMAIL:       elinator.ng@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      29
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Winston', 'last_name': 'Ng'}

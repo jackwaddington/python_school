@@ -1,0 +1,7 @@
+NAME:        Anna Wang
+PRONOUNS:    she/her
+EMAIL:       anna.wang@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Li', 'last_name': 'Wang'}

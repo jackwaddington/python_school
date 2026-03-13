@@ -1,0 +1,7 @@
+NAME:        Omar Al-Khateeb
+PRONOUNS:    he/him
+EMAIL:       omar.alkhateeb@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Nadia Al-Khateeb (mother), nadia.alkhateeb@example.com

@@ -1,0 +1,7 @@
+NAME:        Noah Lee
+PRONOUNS:    he/him
+EMAIL:       noah.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ji-Young', 'last_name': 'Lee'}

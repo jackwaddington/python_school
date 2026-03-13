@@ -1,0 +1,7 @@
+NAME:        Sami Saarinen
+PRONOUNS:    he/him
+EMAIL:       sami.saarinen@helsinkischooloftyrechanging.school.com
+COHORT:      1
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: Anne Saarinen

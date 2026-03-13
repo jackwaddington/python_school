@@ -1,0 +1,7 @@
+NAME:        Chloe Park
+PRONOUNS:    she/her
+EMAIL:       chloe.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: Jin Park (Father) - jin.park@example.com

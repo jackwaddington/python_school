@@ -1,0 +1,7 @@
+NAME:        Yara Ngosa
+PRONOUNS:    she/her
+EMAIL:       yara.ngosa@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Pierre', 'last_name': 'Ngosa'}

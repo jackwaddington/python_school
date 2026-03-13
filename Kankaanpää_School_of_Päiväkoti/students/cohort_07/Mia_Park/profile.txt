@@ -1,0 +1,7 @@
+NAME:        Mia Park
+PRONOUNS:    she/her
+EMAIL:       mia.park@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Young Park', 'phone': '+358-40-890134', 'relationship': 'Mother'}

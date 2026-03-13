@@ -1,0 +1,7 @@
+NAME:        Juan Gonzalez
+PRONOUNS:    he/him
+EMAIL:       juan.gonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzalez

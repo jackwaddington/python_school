@@ -1,0 +1,7 @@
+NAME:        Liam Li
+PRONOUNS:    he/him
+EMAIL:       liam.li@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Jin', 'relationship': 'Mother', 'phone': '+86 13579012345'}

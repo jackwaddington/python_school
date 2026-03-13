@@ -1,0 +1,7 @@
+NAME:        Zara Wilson
+PRONOUNS:    she/her
+EMAIL:       zara.wilson@kankaanpaevakoti.school.com
+COHORT:      26
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: richard.wilson@gmail.com

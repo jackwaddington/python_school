@@ -1,0 +1,7 @@
+NAME:        Sarah Lee
+PRONOUNS:    she/her
+EMAIL:       sarah.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

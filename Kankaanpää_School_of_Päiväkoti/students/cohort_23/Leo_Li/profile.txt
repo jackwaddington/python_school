@@ -1,0 +1,7 @@
+NAME:        Leo Li
+PRONOUNS:    he/him
+EMAIL:       leo.li@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.56
+ALLERGIES:   ['wheat']
+NEXT OF KIN: {'name': 'Hui Li', 'phone': '+35840876789230'}

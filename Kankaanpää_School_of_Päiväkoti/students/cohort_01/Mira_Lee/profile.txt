@@ -1,0 +1,7 @@
+NAME:        Mira Lee
+PRONOUNS:    she/her
+EMAIL:       mira.lee@kankaanpaavakouluofpivakioto.com
+COHORT:      1
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: James Lee

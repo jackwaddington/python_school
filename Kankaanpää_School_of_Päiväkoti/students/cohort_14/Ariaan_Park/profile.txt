@@ -1,0 +1,7 @@
+NAME:        Ariaan Park
+PRONOUNS:    they/them
+EMAIL:       ariaan.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Minji', 'last_name': 'Park'}

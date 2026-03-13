@@ -1,0 +1,7 @@
+NAME:        Yara Gomez
+PRONOUNS:    she/her
+EMAIL:       yara.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.39
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Juan Gomez', 'relation': 'father', 'phone': '+521234567890', 'email': 'juan.gomez@example.com'}

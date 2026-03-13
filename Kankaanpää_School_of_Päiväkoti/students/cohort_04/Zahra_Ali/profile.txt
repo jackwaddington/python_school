@@ -1,0 +1,7 @@
+NAME:        Zahra Ali
+PRONOUNS:    she/her
+EMAIL:       zahra.ali@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: Hassan Ali <hassan.ali@example.com>

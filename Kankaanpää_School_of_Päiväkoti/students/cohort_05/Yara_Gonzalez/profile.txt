@@ -1,0 +1,7 @@
+NAME:        Yara Gonzalez
+PRONOUNS:    she/her
+EMAIL:       yara.gonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Gonzales'}

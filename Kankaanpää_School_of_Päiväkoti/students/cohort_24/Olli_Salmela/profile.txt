@@ -1,0 +1,7 @@
+NAME:        Olli Salmela
+PRONOUNS:    he/him
+EMAIL:       osalmela@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anna-Liisa', 'last_name': 'Salmela'}

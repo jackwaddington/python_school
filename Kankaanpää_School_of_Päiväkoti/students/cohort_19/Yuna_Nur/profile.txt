@@ -1,0 +1,7 @@
+NAME:        Yuna Nur
+PRONOUNS:    she/her
+EMAIL:       ynur@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Aziz Ahmad <azaahmad@example.com>

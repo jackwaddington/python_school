@@ -1,0 +1,7 @@
+NAME:        Ahmed Mohammed
+PRONOUNS:    he/him
+EMAIL:       ahmed.mohammed@kankaanpaaschoolofpaivakoti.com
+COHORT:      12
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Aisha Mohammed (mother)

@@ -1,0 +1,7 @@
+NAME:        Anais Rodriguez
+PRONOUNS:    she/her
+EMAIL:       arodriguez@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Rodriguez'}

@@ -1,0 +1,7 @@
+NAME:        Mehdi Ali
+PRONOUNS:    he/him
+EMAIL:       mehdi.ali@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fatima', 'last_name': 'Ali', 'relationship': 'Mother'}

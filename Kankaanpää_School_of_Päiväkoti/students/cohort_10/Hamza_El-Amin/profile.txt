@@ -1,0 +1,7 @@
+NAME:        Hamza El-Amin
+PRONOUNS:    he/him
+EMAIL:       hamza.el-amin@kankaanpaavaliskoulu.school.com
+COHORT:      10
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima El-Amin', 'phone': '+358404567890', 'email': 'fatima.el-amin@kankaanpaavaliskoulu.school.com'}

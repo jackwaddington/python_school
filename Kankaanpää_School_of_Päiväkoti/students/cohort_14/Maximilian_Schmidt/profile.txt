@@ -1,0 +1,7 @@
+NAME:        Maximilian Schmidt
+PRONOUNS:    he/him
+EMAIL:       maximilianschmidt@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anna', 'last_name': 'Schmidt'}

@@ -1,0 +1,7 @@
+NAME:        Youssef Benali
+PRONOUNS:    he/him
+EMAIL:       youssef.benali@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Noura Benali', 'phone': '+358 40 8901 2345'}

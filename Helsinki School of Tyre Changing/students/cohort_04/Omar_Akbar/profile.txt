@@ -1,0 +1,7 @@
+NAME:        Omar Akbar
+PRONOUNS:    he/him
+EMAIL:       omar.akbar@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Nafisa', 'last_name': 'Akbar'}

@@ -1,0 +1,7 @@
+NAME:        Emilia López
+PRONOUNS:    she/her
+EMAIL:       emilia.lopez@kankaanpaavakoulusopimiskoti.school.com
+COHORT:      18
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan López', 'relationship': 'Father', 'phone': '+358-40-4567-8901'}

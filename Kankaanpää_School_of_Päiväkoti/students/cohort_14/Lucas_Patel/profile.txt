@@ -1,0 +1,7 @@
+NAME:        Lucas Patel
+PRONOUNS:    he/him
+EMAIL:       lpatel@kankaanpaavakoulu.school.com
+COHORT:      14
+ABILITY:     0.78
+ALLERGIES:   wheat
+NEXT OF KIN: Rupal Patel <rupalpatel@example.com>

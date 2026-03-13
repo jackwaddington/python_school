@@ -1,0 +1,7 @@
+NAME:        Yara Lee
+PRONOUNS:    they/them
+EMAIL:       yara.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Mark Kim <mark.kim@example.com>

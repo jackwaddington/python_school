@@ -1,0 +1,7 @@
+NAME:        Charlotte Dos Santos
+PRONOUNS:    she/her
+EMAIL:       charlotte.dossantos@kankaanpaavakouluofpainivaltakoti.school.com
+COHORT:      26
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Antonio', 'last_name': 'Dos Santos'}

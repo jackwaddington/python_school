@@ -1,0 +1,7 @@
+NAME:        Ziya Aksoy
+PRONOUNS:    he/him
+EMAIL:       ziya.aksoy@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Sema Aksoy <sema.aksoy@example.com>

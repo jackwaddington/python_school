@@ -1,0 +1,7 @@
+NAME:        Leon Lee
+PRONOUNS:    he/him
+EMAIL:       leon.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: Linda Lee <linda.lee@example.com>

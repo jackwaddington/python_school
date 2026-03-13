@@ -1,0 +1,7 @@
+NAME:        Luis Gonzales
+PRONOUNS:    he/him
+EMAIL:       luis.gonzales@kankaanpaaschoolofpavikoti.com
+COHORT:      7
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzales

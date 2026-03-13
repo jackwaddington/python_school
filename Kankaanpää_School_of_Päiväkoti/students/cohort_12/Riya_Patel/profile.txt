@@ -1,0 +1,7 @@
+NAME:        Riya Patel
+PRONOUNS:    she/her
+EMAIL:       riya.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hitesh Patel', 'relationship': 'father'}

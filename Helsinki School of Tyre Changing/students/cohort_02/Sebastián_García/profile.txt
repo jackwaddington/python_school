@@ -1,0 +1,7 @@
+NAME:        Sebastián García
+PRONOUNS:    he/him
+EMAIL:       sebastian.garcia@helsinkischooloftyrechanging.com
+COHORT:      2
+ABILITY:     0.25
+ALLERGIES:   None
+NEXT OF KIN: María García

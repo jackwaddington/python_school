@@ -1,0 +1,7 @@
+NAME:        Noura Eldar
+PRONOUNS:    she/her
+EMAIL:       nedlar@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ahmed', 'last_name': 'Eldar'}

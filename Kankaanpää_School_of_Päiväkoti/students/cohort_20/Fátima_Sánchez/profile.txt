@@ -1,0 +1,7 @@
+NAME:        Fátima Sánchez
+PRONOUNS:    she/her
+EMAIL:       fsanchez@kankaanpaavakoulukohtainen.school.com
+COHORT:      20
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'José', 'last_name': 'Sánchez'}

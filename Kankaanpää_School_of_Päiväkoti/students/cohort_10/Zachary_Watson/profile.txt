@@ -1,0 +1,7 @@
+NAME:        Zachary Watson
+PRONOUNS:    he/him
+EMAIL:       zachary.watson@kankaanpaavaliskoulu.school.com
+COHORT:      10
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Laura Watson', 'phone': '+358410789016', 'email': 'laura.watson@kankaanpaavaliskoulu.school.com'}

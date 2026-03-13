@@ -1,0 +1,7 @@
+NAME:        Zara Patel
+PRONOUNS:    she/her
+EMAIL:       zara.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Raj Patel', 'relation': 'father', 'phone': '+358-40-9876-5433', 'email': 'raj.patel@personal.com'}

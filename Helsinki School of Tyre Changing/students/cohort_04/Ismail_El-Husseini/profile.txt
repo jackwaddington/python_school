@@ -1,0 +1,7 @@
+NAME:        Ismail El-Husseini
+PRONOUNS:    he/him
+EMAIL:       ismail.el-husseini@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'El-Husseini'}

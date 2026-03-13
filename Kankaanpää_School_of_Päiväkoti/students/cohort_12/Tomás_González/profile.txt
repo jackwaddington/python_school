@@ -1,0 +1,7 @@
+NAME:        Tomás González
+PRONOUNS:    he/him
+EMAIL:       tomas.gonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María González', 'relationship': 'mother'}

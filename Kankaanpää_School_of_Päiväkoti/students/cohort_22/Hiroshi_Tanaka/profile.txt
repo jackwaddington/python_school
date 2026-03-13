@@ -1,0 +1,7 @@
+NAME:        Hiroshi Tanaka
+PRONOUNS:    he/him
+EMAIL:       hiroshi.tanaka@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      22
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: Yuki Mizuno <yuki.mizuno@example.com>

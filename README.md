@@ -73,6 +73,18 @@ In **full auto**, the minimum input is: city, subject, and press Enter for every
 
 ---
 
+## Sample Output
+
+The `Helsinki School of Tyre Changing/` folder is a complete example run:
+
+- **200 weeks** (~4 years)
+- **3 courses**: Tyre Change Basics, Tyre Mounting and Dismounting Skills, Advanced Tyre Swap Techniques
+- **4 cohorts**, 120 students enrolled across the simulation
+- **200 weekly newsletters** + 46 monthly newsletters
+- `students.csv`, `weekly_stats.csv`, `simulation_report.png`
+
+---
+
 ## Parameters
 
 ### Always asked

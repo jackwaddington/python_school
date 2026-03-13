@@ -1,0 +1,7 @@
+NAME:        Emma Mendoza
+PRONOUNS:    she/her
+EMAIL:       emma.mendoza@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Mendoza'}

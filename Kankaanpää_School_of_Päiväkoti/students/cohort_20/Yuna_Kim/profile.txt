@@ -1,0 +1,7 @@
+NAME:        Yuna Kim
+PRONOUNS:    she/her
+EMAIL:       yuna.kim@kankaanpaaschoolofpavikoti.com
+COHORT:      20
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Kim', 'relationship': 'Father', 'phone': '+358 40 6789 0123'}

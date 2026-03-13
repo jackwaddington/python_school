@@ -1,0 +1,7 @@
+NAME:        Liam Huang
+PRONOUNS:    he/him
+EMAIL:       liam.huang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Mei Huang (Mother) - mei.huang@example.com

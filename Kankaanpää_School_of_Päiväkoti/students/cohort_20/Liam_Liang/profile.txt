@@ -1,0 +1,7 @@
+NAME:        Liam Liang
+PRONOUNS:    he/him
+EMAIL:       liam.liang@kankaanpaaschoolofpaivakoti.com
+COHORT:      20
+ABILITY:     0.74
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Mei Liang', 'phone': '+358 40 2345 6789', 'relation': 'Mother'}

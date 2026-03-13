@@ -1,0 +1,7 @@
+NAME:        Emilie Ngô
+PRONOUNS:    she/her
+EMAIL:       emilie.ngo@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Thomas', 'last_name': 'Ngô'}

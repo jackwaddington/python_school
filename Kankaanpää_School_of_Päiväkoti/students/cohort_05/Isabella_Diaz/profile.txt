@@ -1,0 +1,7 @@
+NAME:        Isabella Diaz
+PRONOUNS:    she/her
+EMAIL:       isabella.diaz@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: Juan Diaz (Father) - juan.diaz@example.com

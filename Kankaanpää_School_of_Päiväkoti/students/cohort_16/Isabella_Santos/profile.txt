@@ -1,0 +1,7 @@
+NAME:        Isabella Santos
+PRONOUNS:    she/her
+EMAIL:       isabella.santos@kankaanpaaschoolofpavikoti.com
+COHORT:      16
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: Carlos Santos (father) - carlos.santos@example.com

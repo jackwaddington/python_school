@@ -1,0 +1,7 @@
+NAME:        Taro Yamada
+PRONOUNS:    he/him
+EMAIL:       taro.yamada@kankaanpaavakouluofpainikoti.school.com
+COHORT:      29
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Yumi Yamada', 'phone': '6789012345', 'relation': 'Mother'}

@@ -1,0 +1,7 @@
+NAME:        Rafael Gonzalez
+PRONOUNS:    he/him
+EMAIL:       rafael.gonzalez@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzalez

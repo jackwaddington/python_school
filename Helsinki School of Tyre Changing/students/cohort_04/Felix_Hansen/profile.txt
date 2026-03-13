@@ -1,0 +1,7 @@
+NAME:        Felix Hansen
+PRONOUNS:    he/him
+EMAIL:       felix.hansen@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anne-Marie', 'last_name': 'Hansen'}

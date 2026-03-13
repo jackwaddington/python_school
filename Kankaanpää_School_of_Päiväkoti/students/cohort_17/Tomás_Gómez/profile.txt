@@ -1,0 +1,7 @@
+NAME:        Tomás Gómez
+PRONOUNS:    he/him
+EMAIL:       tgomez@kankaanpaavapaivakoti.school.com
+COHORT:      17
+ABILITY:     0.47
+ALLERGIES:   ['wheat']
+NEXT OF KIN: {'name': 'Ana Gómez', 'phone': '+34-91-1234-5678'}

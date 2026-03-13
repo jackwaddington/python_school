@@ -1,0 +1,7 @@
+NAME:        Mateo Dias
+PRONOUNS:    he/him
+EMAIL:       mateo.dias@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Dias'}

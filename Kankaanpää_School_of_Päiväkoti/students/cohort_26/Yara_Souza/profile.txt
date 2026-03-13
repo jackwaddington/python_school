@@ -1,0 +1,7 @@
+NAME:        Yara Souza
+PRONOUNS:    she/her
+EMAIL:       ysouza@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Pedro Souza', 'phone': '+551122334455', 'email': 'psouza_senior@example.com'}

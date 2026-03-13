@@ -1,0 +1,7 @@
+NAME:        Mia Pereira
+PRONOUNS:    she/her
+EMAIL:       miapereira@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Pedro', 'last_name': 'Pereira'}

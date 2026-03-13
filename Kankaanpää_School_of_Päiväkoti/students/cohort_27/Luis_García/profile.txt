@@ -1,0 +1,7 @@
+NAME:        Luis García
+PRONOUNS:    he/him
+EMAIL:       luis.garcia@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: María García

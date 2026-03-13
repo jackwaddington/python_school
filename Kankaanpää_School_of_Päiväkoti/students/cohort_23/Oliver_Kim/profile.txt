@@ -1,0 +1,7 @@
+NAME:        Oliver Kim
+PRONOUNS:    he/him
+EMAIL:       oliver.kim@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.88
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: {'name': 'Mi Kyung Kim', 'phone': '+358406789210'}

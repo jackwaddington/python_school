@@ -1,0 +1,7 @@
+NAME:        Leo Nguyen
+PRONOUNS:    he/him
+EMAIL:       lnguyen@kankaanpaaschoolofpivakoti.com
+COHORT:      5
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Anh Nguyen (Mother), anh.nguyen@example.com

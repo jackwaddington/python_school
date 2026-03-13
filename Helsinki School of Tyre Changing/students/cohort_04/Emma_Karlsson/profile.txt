@@ -1,0 +1,7 @@
+NAME:        Emma Karlsson
+PRONOUNS:    she/her
+EMAIL:       emma.karlsson@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: John Karlsson

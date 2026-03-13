@@ -1,0 +1,7 @@
+NAME:        Lars Pettersen
+PRONOUNS:    he/him
+EMAIL:       lars.pettersen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      9
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: Ingrid Pettersen

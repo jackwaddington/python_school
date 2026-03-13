@@ -1,0 +1,7 @@
+NAME:        Daniyar Kozyrev
+PRONOUNS:    he/him
+EMAIL:       dkozyrev@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Elena', 'last_name': 'Kozyreva'}

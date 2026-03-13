@@ -1,0 +1,7 @@
+NAME:        Mia Patel
+PRONOUNS:    she/her
+EMAIL:       mia.patel@kankaanpaavakoulusopimukoti.school.com
+COHORT:      6
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: Rahul Patel (father) - rahul.patel@gmail.com

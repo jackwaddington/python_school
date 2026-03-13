@@ -1,0 +1,7 @@
+NAME:        Ivan Kim
+PRONOUNS:    he/him
+EMAIL:       ivan.kim@kankaanpaaschoolofpavikoti.school.com
+COHORT:      11
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Emily Davis <emilydavis@example.com>

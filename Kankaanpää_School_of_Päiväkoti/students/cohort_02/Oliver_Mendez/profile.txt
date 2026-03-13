@@ -1,0 +1,7 @@
+NAME:        Oliver Mendez
+PRONOUNS:    he/him
+EMAIL:       oliver.mendez@kankaanpaavakouluofpavikoti.school.com
+COHORT:      2
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Isabella Mendez

@@ -1,0 +1,7 @@
+NAME:        Óscar García
+PRONOUNS:    he/him
+EMAIL:       oscar.garcia@kankaanpaavakouluofpivakioto.com
+COHORT:      1
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: Ana García

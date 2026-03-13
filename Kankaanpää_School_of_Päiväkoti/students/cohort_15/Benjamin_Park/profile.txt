@@ -1,0 +1,7 @@
+NAME:        Benjamin Park
+PRONOUNS:    he/him
+EMAIL:       benjaminpark@kankaanpaaschoolofpaivakaoti.com
+COHORT:      15
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: Ji-Yeon Park (Mother), jiyeon.park@example.com

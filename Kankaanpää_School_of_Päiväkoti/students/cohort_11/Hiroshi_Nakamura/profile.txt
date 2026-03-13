@@ -1,0 +1,7 @@
+NAME:        Hiroshi Nakamura
+PRONOUNS:    he/him
+EMAIL:       hiroshi.nakamura@kankaanpaavakouluofpivakoti.school.com
+COHORT:      11
+ABILITY:     0.9
+ALLERGIES:   None
+NEXT OF KIN: Yumi Yamada <yumi.yamada@example.com>

@@ -1,0 +1,7 @@
+NAME:        Isabella Rodriguez
+PRONOUNS:    she/her
+EMAIL:       isabella.rodriguez@kankaanpaaschoolofpäiväkoti.com
+COHORT:      10
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Carlos Rodriguez

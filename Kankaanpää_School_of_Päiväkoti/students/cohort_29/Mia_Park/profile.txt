@@ -1,0 +1,7 @@
+NAME:        Mia Park
+PRONOUNS:    she/her
+EMAIL:       mia.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.74
+ALLERGIES:   ['gluten']
+NEXT OF KIN: {'first_name': 'Joon-Gyu', 'last_name': 'Park'}

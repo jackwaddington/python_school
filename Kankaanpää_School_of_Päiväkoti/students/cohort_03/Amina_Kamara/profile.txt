@@ -1,0 +1,7 @@
+NAME:        Amina Kamara
+PRONOUNS:    she/her
+EMAIL:       amina.kamara@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ali Kamara', 'phone': '+1-555-1234'}

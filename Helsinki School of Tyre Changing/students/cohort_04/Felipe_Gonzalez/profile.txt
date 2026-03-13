@@ -1,0 +1,7 @@
+NAME:        Felipe Gonzalez
+PRONOUNS:    he/him
+EMAIL:       felipe.gonzalez@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: María González

@@ -1,0 +1,7 @@
+NAME:        Noah Nguyen
+PRONOUNS:    he/him
+EMAIL:       noah.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Phuong', 'last_name': 'Nguyen'}

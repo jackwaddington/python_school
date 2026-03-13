@@ -1,0 +1,7 @@
+NAME:        Sophia Patel
+PRONOUNS:    she/her
+EMAIL:       sophia.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: Raj Patel (father), raj.patel@example.com

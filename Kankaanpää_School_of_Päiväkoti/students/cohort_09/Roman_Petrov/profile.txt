@@ -1,0 +1,7 @@
+NAME:        Roman Petrov
+PRONOUNS:    he/him
+EMAIL:       romanpetrov@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.19
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Elena', 'last_name': 'Petrov'}

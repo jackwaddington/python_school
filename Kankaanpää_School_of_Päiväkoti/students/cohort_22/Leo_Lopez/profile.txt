@@ -1,0 +1,7 @@
+NAME:        Leo Lopez
+PRONOUNS:    he/him
+EMAIL:       leolopez@kankaanpaaschoolofpavikoti.com
+COHORT:      22
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: Maria Lopez

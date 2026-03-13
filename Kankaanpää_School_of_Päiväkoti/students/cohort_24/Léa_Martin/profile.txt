@@ -1,0 +1,7 @@
+NAME:        Léa Martin
+PRONOUNS:    she/her
+EMAIL:       lea.martin@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.49
+ALLERGIES:   ['gluten']
+NEXT OF KIN: {'name': 'Sébastien Martin', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Leila Gonzalez
+PRONOUNS:    she/her
+EMAIL:       leila.gonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Carlos Gonzalez

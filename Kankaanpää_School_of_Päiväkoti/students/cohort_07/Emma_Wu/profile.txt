@@ -1,0 +1,7 @@
+NAME:        Emma Wu
+PRONOUNS:    she/her
+EMAIL:       emma.wu@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wu', 'phone': '+358-40-6789012', 'relationship': 'Mother'}

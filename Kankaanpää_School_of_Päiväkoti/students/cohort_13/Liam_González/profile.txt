@@ -1,0 +1,7 @@
+NAME:        Liam González
+PRONOUNS:    he/him
+EMAIL:       liam.gonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      13
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'González'}

@@ -1,0 +1,7 @@
+NAME:        Juan Diaz
+PRONOUNS:    he/him
+EMAIL:       juan.diaz@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.38
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'first_name': 'María', 'last_name': 'González'}

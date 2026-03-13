@@ -1,0 +1,7 @@
+NAME:        Zoe Li
+PRONOUNS:    she/her
+EMAIL:       zoe.li@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: Hong Li (father) - hong.li@example.com

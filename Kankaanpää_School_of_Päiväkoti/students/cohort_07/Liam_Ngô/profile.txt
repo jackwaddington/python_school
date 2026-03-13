@@ -1,0 +1,7 @@
+NAME:        Liam Ngô
+PRONOUNS:    he/him
+EMAIL:       liam.ngo@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Nguyen Ngô', 'phone': '+358-40-3456789', 'relationship': 'Father'}

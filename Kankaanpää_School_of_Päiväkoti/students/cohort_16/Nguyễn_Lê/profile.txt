@@ -1,0 +1,7 @@
+NAME:        Nguyễn Lê
+PRONOUNS:    he/him
+EMAIL:       nguyen.le@kankaanpaaschoolofpavikoti.com
+COHORT:      16
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: Phương Lê (mother) - phuong.le@example.com

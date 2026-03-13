@@ -1,0 +1,7 @@
+NAME:        Sara Park
+PRONOUNS:    she/her
+EMAIL:       sara.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      21
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Park', 'relation': 'Father', 'phone': '+358 40 9012 3456', 'email': 'jin.park@kankaanpaaschoolofpaivakoti.school.com'}

@@ -1,0 +1,7 @@
+NAME:        Chloe Jeong
+PRONOUNS:    she/her
+EMAIL:       chloejeong@kankaanpaaschoolofpaivakaoti.com
+COHORT:      18
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jaehoon', 'last_name': 'Jeong'}

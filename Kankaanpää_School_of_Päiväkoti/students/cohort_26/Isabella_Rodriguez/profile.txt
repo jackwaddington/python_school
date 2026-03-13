@@ -1,0 +1,7 @@
+NAME:        Isabella Rodriguez
+PRONOUNS:    she/her
+EMAIL:       irodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Rodriguez', 'phone': '+549876543210', 'email': 'crodriquez_senior@example.com'}

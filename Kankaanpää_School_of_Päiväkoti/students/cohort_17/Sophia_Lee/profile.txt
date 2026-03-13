@@ -1,0 +1,7 @@
+NAME:        Sophia Lee
+PRONOUNS:    she/her
+EMAIL:       slee@kankaanpaavapaivakoti.school.com
+COHORT:      17
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'James Lee', 'phone': '+1-650-1234'}

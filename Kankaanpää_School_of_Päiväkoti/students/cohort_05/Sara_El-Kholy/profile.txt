@@ -1,0 +1,7 @@
+NAME:        Sara El-Kholy
+PRONOUNS:    she/her
+EMAIL:       sara.el-kholy@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Ahmed El-Kholy

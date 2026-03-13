@@ -1,0 +1,7 @@
+NAME:        Yara Park
+PRONOUNS:    she/her
+EMAIL:       yara.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jae-min', 'last_name': 'Park'}

@@ -1,0 +1,7 @@
+NAME:        Mohammad Ahmed
+PRONOUNS:    he/him
+EMAIL:       mahmed@kankaanpaaschoolofpivakoti.com
+COHORT:      5
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Aisha Ahmed (Mother), aisha.ahmed@example.com

@@ -1,0 +1,7 @@
+NAME:        Raj Patel
+PRONOUNS:    he/him
+EMAIL:       raj.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rupal Patel', 'relationship': 'Mother', 'phone': '+358 40 5678 9012'}

@@ -1,0 +1,7 @@
+NAME:        Hina Khan
+PRONOUNS:    she/her
+EMAIL:       hina.khan@kankaanpaaschoolofpaivakoti.com
+COHORT:      29
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Faisal', 'last_name': 'Khan'}

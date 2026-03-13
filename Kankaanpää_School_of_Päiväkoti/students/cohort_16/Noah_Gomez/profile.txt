@@ -1,0 +1,7 @@
+NAME:        Noah Gomez
+PRONOUNS:    he/him
+EMAIL:       noah.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María Gómez', 'relationship': 'Mother', 'phone': '+358-40-4444-5555'}

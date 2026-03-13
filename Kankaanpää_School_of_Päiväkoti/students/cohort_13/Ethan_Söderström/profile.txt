@@ -1,0 +1,7 @@
+NAME:        Ethan Söderström
+PRONOUNS:    he/him
+EMAIL:       ethan.soderstrom@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anna Söderström', 'relationship': 'Mother', 'phone_number': '+46-12345678'}

@@ -1,0 +1,7 @@
+NAME:        Juan Garcia
+PRONOUNS:    He/Him
+EMAIL:       Juan.Garcia@helsinkischooloftyrechanging.school.com
+COHORT:      2
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Maria Garcia

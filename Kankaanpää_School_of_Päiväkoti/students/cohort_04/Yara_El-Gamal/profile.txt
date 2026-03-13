@@ -1,0 +1,7 @@
+NAME:        Yara El-Gamal
+PRONOUNS:    she/her
+EMAIL:       yara.elgamal@kankaanpaavakouluofpivakoti.school.com
+COHORT:      4
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: Ahmed El-Gamal (Father) - ahmed.elgamal@example.com

@@ -1,0 +1,7 @@
+NAME:        Marcus Gonzalez
+PRONOUNS:    he/him
+EMAIL:       marcus.gonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      12
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzalez

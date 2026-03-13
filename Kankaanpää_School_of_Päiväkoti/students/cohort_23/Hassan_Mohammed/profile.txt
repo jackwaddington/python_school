@@ -1,0 +1,7 @@
+NAME:        Hassan Mohammed
+PRONOUNS:    he/him
+EMAIL:       hassan.mohammed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      23
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Aisha Mohammed', 'phone': '+1-555-8901', 'relationship': 'Mother'}

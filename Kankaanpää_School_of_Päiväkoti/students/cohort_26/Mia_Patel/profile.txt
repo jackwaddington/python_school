@@ -1,0 +1,7 @@
+NAME:        Mia Patel
+PRONOUNS:    she/her
+EMAIL:       miapatel@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rakesh Patel', 'relationship': 'Father'}

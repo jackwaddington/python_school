@@ -1,0 +1,7 @@
+NAME:        Rania Al-Mansour
+PRONOUNS:    she/her
+EMAIL:       ralmansour@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Al-Mansour <mohammed.almansour@example.com>

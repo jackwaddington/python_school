@@ -1,0 +1,7 @@
+NAME:        Mahmoud El-Saadi
+PRONOUNS:    he/him
+EMAIL:       mahmoud.el-saadi@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.36
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: {'name': 'Nour El-Saadi', 'relationship': 'Mother'}

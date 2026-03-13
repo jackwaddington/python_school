@@ -1,0 +1,7 @@
+NAME:        Mia Gómez
+PRONOUNS:    she/her
+EMAIL:       mia.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: Juan Gómez

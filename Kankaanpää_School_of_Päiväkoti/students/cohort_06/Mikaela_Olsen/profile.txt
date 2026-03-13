@@ -1,0 +1,7 @@
+NAME:        Mikaela Olsen
+PRONOUNS:    she/her
+EMAIL:       mikaela.olsen@kankaanpaaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: Jannicke Olsen

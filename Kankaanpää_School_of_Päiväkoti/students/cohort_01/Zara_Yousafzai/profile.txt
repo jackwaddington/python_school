@@ -1,0 +1,7 @@
+NAME:        Zara Yousafzai
+PRONOUNS:    she/her
+EMAIL:       zara.yousafzai@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.59
+ALLERGIES:   ['dairy']
+NEXT OF KIN: {'name': 'Ziauddin Yousafzai', 'relation': 'father', 'phone': '+923123456789', 'email': 'ziauddinyousafzai@example.com'}

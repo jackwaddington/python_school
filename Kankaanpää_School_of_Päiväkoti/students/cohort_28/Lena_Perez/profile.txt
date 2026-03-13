@@ -1,0 +1,7 @@
+NAME:        Lena Perez
+PRONOUNS:    she/her
+EMAIL:       lperez@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      28
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Perez'}

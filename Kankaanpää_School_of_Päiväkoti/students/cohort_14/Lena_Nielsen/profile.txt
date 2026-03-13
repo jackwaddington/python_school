@@ -1,0 +1,7 @@
+NAME:        Lena Nielsen
+PRONOUNS:    she/her
+EMAIL:       lena.nielsen@kankaanpaavakouluofpivakoti.school.com
+COHORT:      14
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Peter', 'last_name': 'Nielsen'}

@@ -1,0 +1,7 @@
+NAME:        Ibrahim Akbar
+PRONOUNS:    he/him
+EMAIL:       ibrahim.akbar@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Nafisa Akbar', 'relationship': 'Mother', 'phone': '+91 98765 43210'}

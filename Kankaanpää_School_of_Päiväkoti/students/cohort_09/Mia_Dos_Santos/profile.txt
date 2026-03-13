@@ -1,0 +1,7 @@
+NAME:        Mia Dos Santos
+PRONOUNS:    she/her
+EMAIL:       mia.dos-santos@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: João Dos Santos (father), joao.dos-santos@example.com

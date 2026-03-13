@@ -1,0 +1,7 @@
+NAME:        Leonardo Gonzalez
+PRONOUNS:    he/him
+EMAIL:       lgonzalez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: Beatriz Lopez <blopez@example.com>

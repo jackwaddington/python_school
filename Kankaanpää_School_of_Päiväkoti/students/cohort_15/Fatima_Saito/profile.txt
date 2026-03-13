@@ -1,0 +1,7 @@
+NAME:        Fatima Saito
+PRONOUNS:    she/her
+EMAIL:       fatimasaito@kankaanpaaschoolofpaivakaoti.com
+COHORT:      15
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Hiroshi Saito (Father), hiroshi.saito@example.com

@@ -1,0 +1,7 @@
+NAME:        Maxim Kuznetsov
+PRONOUNS:    he/him
+EMAIL:       maxim.kuznetsov@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: Olga Kuznetsova (mother) - olga.kuznetsova@example.com

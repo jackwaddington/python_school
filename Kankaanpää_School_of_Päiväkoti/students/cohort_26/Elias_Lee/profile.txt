@@ -1,0 +1,7 @@
+NAME:        Elias Lee
+PRONOUNS:    he/him
+EMAIL:       eliaslee@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.54
+ALLERGIES:   ['dairy']
+NEXT OF KIN: {'name': 'Jane Lee', 'relationship': 'Mother'}

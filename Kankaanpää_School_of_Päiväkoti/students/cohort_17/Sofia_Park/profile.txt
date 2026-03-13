@@ -1,0 +1,7 @@
+NAME:        Sofia Park
+PRONOUNS:    she/her
+EMAIL:       sofia.park@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      17
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Park', 'relationship': 'Mother', 'phone': '+82 10-1234-5678'}

@@ -1,0 +1,7 @@
+NAME:        Eduardo Gonzalez
+PRONOUNS:    he/him
+EMAIL:       eduardo.gonzalez@kankaanpaevakoti.school.com
+COHORT:      4
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Marcela Gonzalez (mother), mob: 456-789013

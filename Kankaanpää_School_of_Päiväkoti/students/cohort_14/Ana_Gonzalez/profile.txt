@@ -1,0 +1,7 @@
+NAME:        Ana Gonzalez
+PRONOUNS:    she/her
+EMAIL:       anagonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Ramon Gonzalez

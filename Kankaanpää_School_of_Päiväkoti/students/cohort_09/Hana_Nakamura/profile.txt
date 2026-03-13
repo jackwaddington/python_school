@@ -1,0 +1,7 @@
+NAME:        Hana Nakamura
+PRONOUNS:    she/her
+EMAIL:       hananakamura@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.1
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Kazuki', 'last_name': 'Nakamura'}

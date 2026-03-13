@@ -1,0 +1,7 @@
+NAME:        Ahmed El-Masri
+PRONOUNS:    he/him
+EMAIL:       ahmed.el-masri@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: Noura El-Masri (mother) - noura.el-masri@example.com

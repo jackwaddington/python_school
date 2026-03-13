@@ -1,0 +1,7 @@
+NAME:        Raquel Silva
+PRONOUNS:    she/her
+EMAIL:       raquel.silva@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'João Silva', 'relation': 'Father', 'phone': '+358-045678908', 'email': 'joao.silva@example.com'}

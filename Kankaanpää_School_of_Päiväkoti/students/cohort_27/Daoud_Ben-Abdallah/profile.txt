@@ -1,0 +1,7 @@
+NAME:        Daoud Ben-Abdallah
+PRONOUNS:    he/him
+EMAIL:       daoudben-abdallah@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: Fatima Ben-Abdallah (Mother) - fatimaben-abdallah@example.com

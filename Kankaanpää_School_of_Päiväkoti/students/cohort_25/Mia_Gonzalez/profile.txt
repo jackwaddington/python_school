@@ -1,0 +1,7 @@
+NAME:        Mia Gonzalez
+PRONOUNS:    she/her
+EMAIL:       miagonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.1
+ALLERGIES:   None
+NEXT OF KIN: Ramon Gonzalez (father) - ramongonzalez@example.com

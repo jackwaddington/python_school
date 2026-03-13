@@ -1,0 +1,7 @@
+NAME:        Mikael Karlsson
+PRONOUNS:    he/him
+EMAIL:       mikael.karlsson@kankaanpaavakouluofpivakoti.school.com
+COHORT:      11
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: Anna Svensson <anna.svensson@example.com>

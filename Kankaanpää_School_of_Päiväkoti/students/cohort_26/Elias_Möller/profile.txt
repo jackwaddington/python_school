@@ -1,0 +1,7 @@
+NAME:        Elias Möller
+PRONOUNS:    he/him
+EMAIL:       emoller@kankaanpaaschoolofpaivakoti.com
+COHORT:      26
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anne Möller', 'phone': '+491576543210', 'email': 'amoller_senior@example.com'}

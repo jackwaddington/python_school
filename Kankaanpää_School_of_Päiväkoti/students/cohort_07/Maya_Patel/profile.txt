@@ -1,0 +1,7 @@
+NAME:        Maya Patel
+PRONOUNS:    she/her
+EMAIL:       maya.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ravi', 'last_name': 'Patel'}

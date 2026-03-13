@@ -1,0 +1,7 @@
+NAME:        Omar Al-Khateeb
+PRONOUNS:    he/him
+EMAIL:       oal-khateeb@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      28
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Al-Khateeb'}

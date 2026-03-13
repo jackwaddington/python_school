@@ -1,0 +1,7 @@
+NAME:        Ayumi Tanaka
+PRONOUNS:    she/her
+EMAIL:       ayumi.tanaka@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Tanaka', 'relationship': 'Father'}

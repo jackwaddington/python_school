@@ -1,0 +1,7 @@
+NAME:        Taro Nakamura
+PRONOUNS:    he/him
+EMAIL:       taro.nakamura@kankaanpaaschoolofpavikoti.com
+COHORT:      16
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: Yumi Nakamura (mother) - yumi.nakamura@example.com

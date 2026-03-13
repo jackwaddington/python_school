@@ -1,0 +1,7 @@
+NAME:        Oliver Nguyen
+PRONOUNS:    he/him
+EMAIL:       oliver.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anh Nguyen', 'phone': '+358-7456789016', 'relation': 'Mother'}

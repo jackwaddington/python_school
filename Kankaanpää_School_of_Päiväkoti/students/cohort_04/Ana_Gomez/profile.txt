@@ -1,0 +1,7 @@
+NAME:        Ana Gomez
+PRONOUNS:    she/her
+EMAIL:       ana.gomez@kankaanpaavakouluofpivakoti.school.com
+COHORT:      4
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: Juan Gomez (Father) - juan.gomez@example.com

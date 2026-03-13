@@ -1,0 +1,7 @@
+NAME:        Rajeev Patel
+PRONOUNS:    he/him
+EMAIL:       rpatel@kankaanpaavakoulukohtainen.school.com
+COHORT:      20
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ritu', 'last_name': 'Patel'}

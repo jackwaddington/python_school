@@ -1,0 +1,7 @@
+NAME:        Fatima Alvarez
+PRONOUNS:    she/her
+EMAIL:       fatima.alvarez@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Alvarez', 'phone': '+358403456790'}

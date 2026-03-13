@@ -1,0 +1,7 @@
+NAME:        Lukas Schmidt
+PRONOUNS:    he/him
+EMAIL:       lschmidt@kankaanpaavakoulukohtainen.school.com
+COHORT:      20
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Svenja', 'last_name': 'Schmidt'}

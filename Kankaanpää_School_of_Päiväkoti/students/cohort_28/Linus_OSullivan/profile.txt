@@ -1,0 +1,7 @@
+NAME:        Linus O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       linus.o'sullivan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      28
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: Fiona O'Sullivan (Mother), fiona.o'sullivan@example.com

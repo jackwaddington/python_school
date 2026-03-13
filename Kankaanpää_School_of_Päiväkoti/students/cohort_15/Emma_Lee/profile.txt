@@ -1,0 +1,7 @@
+NAME:        Emma Lee
+PRONOUNS:    she/her
+EMAIL:       emma.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'David Lee', 'relationship': 'Father', 'phone': '+852987654321', 'email': 'david.lee@gmail.com'}

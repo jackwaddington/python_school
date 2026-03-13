@@ -1,0 +1,7 @@
+NAME:        Emma Nguyen
+PRONOUNS:    she/her
+EMAIL:       emma.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.68
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: {'name': 'Hoang Nguyen', 'relationship': 'Father', 'phone': '+358-40-3333-4444'}

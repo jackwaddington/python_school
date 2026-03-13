@@ -1,0 +1,7 @@
+NAME:        Yara Patel
+PRONOUNS:    she/her
+EMAIL:       yara.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      21
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ramesh Patel', 'relation': 'Father', 'phone': '+358 40 4567 8901', 'email': 'ramesh.patel@kankaanpaaschoolofpaivakoti.school.com'}

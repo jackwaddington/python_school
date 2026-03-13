@@ -1,0 +1,7 @@
+NAME:        Lukas Lehtinen
+PRONOUNS:    he/him
+EMAIL:       lukas.lehtinen@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anna Lehtinen', 'relationship': 'Mother'}

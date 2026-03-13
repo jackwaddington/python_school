@@ -1,0 +1,7 @@
+NAME:        Zara El-Beshbishy
+PRONOUNS:    she/her
+EMAIL:       zara.el-beshbishy@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: Mohamed El-Beshbishy (father), mohamed.el-beshbishy@example.com

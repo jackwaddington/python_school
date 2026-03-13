@@ -1,0 +1,7 @@
+NAME:        Noah González
+PRONOUNS:    he/him
+EMAIL:       noah.gonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos González', 'relationship': 'Father', 'phone_number': '+54-12345678'}

@@ -1,0 +1,7 @@
+NAME:        Johannes Olsen
+PRONOUNS:    he/him
+EMAIL:       jolsen@kankaanpaavakoulukohtainen.school.com
+COHORT:      20
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ingrid', 'last_name': 'Olsen'}

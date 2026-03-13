@@ -1,0 +1,7 @@
+NAME:        Sofia Gomez
+PRONOUNS:    she/her
+EMAIL:       sofia.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jose', 'last_name': 'Gomez'}

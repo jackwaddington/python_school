@@ -1,0 +1,7 @@
+NAME:        Noah Patel
+PRONOUNS:    he/him
+EMAIL:       noahpatel@kankaanpaaschoolofpaivakaoti.com
+COHORT:      18
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Rashmi', 'last_name': 'Patel'}

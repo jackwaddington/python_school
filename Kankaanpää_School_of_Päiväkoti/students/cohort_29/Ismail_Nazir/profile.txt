@@ -1,0 +1,7 @@
+NAME:        Ismail Nazir
+PRONOUNS:    he/him
+EMAIL:       ismail.nazir@kankaanpaavakouluofpainikoti.school.com
+COHORT:      29
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Aisha Nazir', 'phone': '4567890123', 'relation': 'Mother'}

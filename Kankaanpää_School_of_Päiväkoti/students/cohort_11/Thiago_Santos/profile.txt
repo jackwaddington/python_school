@@ -1,0 +1,7 @@
+NAME:        Thiago Santos
+PRONOUNS:    he/him
+EMAIL:       thiago.santos@kankaanpaavakouluofpivakoti.school.com
+COHORT:      11
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Isabella Silva <isabella.silva@example.com>

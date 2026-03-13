@@ -1,0 +1,7 @@
+NAME:        Oliver López
+PRONOUNS:    he/him
+EMAIL:       oliver.lopez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria López', 'relationship': 'mother'}

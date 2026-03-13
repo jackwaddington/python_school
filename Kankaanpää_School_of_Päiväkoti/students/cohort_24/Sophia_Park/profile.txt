@@ -1,0 +1,7 @@
+NAME:        Sophia Park
+PRONOUNS:    she/her
+EMAIL:       spark@kankaanpaaschoolofpaiväkoti.com
+COHORT:      24
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jung', 'last_name': 'Park'}

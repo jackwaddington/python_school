@@ -1,0 +1,7 @@
+NAME:        Amina Diop
+PRONOUNS:    she/her
+EMAIL:       amina.diop@helsinkischooloftyrechanging.school.com
+COHORT:      4
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Modou', 'last_name': 'Diop'}

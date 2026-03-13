@@ -1,0 +1,7 @@
+NAME:        Sara Khan
+PRONOUNS:    she/her
+EMAIL:       sara.khan@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.76
+ALLERGIES:   ['seafood']
+NEXT OF KIN: {'name': 'Ali Khan', 'phone': '+358 40 4567 8901'}

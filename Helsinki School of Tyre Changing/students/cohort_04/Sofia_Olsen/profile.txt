@@ -1,0 +1,7 @@
+NAME:        Sofia Olsen
+PRONOUNS:    she/her
+EMAIL:       sofia.olsen@helsinkischooloftyrechanging.com
+COHORT:      4
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: John Olsen

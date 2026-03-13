@@ -1,0 +1,7 @@
+NAME:        Tamara Nguyen
+PRONOUNS:    she/her
+EMAIL:       tamara.nguyen@kankaanpaaschoolofpavikoti.com
+COHORT:      28
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Vu Tran <vutran@example.com>

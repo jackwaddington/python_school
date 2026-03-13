@@ -1,0 +1,7 @@
+NAME:        Nina Li
+PRONOUNS:    she/her
+EMAIL:       nina.li@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jian Li', 'relationship': 'Father', 'phone': '+358-40-9876-5433'}

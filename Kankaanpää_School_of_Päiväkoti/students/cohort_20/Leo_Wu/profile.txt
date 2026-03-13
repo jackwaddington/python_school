@@ -1,0 +1,7 @@
+NAME:        Leo Wu
+PRONOUNS:    he/him
+EMAIL:       leo.wu@kankaanpaaschoolofpavikoti.com
+COHORT:      20
+ABILITY:     0.63
+ALLERGIES:   ['eggs']
+NEXT OF KIN: {'name': 'Li Wu', 'relationship': 'Mother', 'phone': '+358 40 7890 1234'}

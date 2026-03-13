@@ -1,0 +1,7 @@
+NAME:        Oliver Lee
+PRONOUNS:    he/him
+EMAIL:       oliver.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Liang Lee', 'relationship': 'Mother', 'phone_number': '+65-12345678'}

@@ -1,0 +1,7 @@
+NAME:        Liam Leong
+PRONOUNS:    he/him
+EMAIL:       liam.leong@kankaanpaaschoolofpavikoti.school.com
+COHORT:      11
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: Jane Smith <janesmith@example.com>

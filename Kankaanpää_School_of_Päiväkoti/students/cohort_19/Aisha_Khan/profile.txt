@@ -1,0 +1,7 @@
+NAME:        Aisha Khan
+PRONOUNS:    she/her
+EMAIL:       aisha.khan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      19
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammed Khan', 'relation': 'father', 'phone': '+358-40-1234-5678', 'email': 'mohammed.khan@personal.com'}

@@ -1,0 +1,132 @@
+Helsinki School of Tyre Changing
+Subject: Tyre Changing
+Seats: 20 | Courses to graduate: 3
+Intake every 52 weeks | Simulation: 200 weeks
+═══════════════════════════════════════════════════════
+
+COURSE: Tyre Change Basics
+Required passes to complete: 9 weeks
+────────────────────────────────────────
+MATERIAL:
+ Tyre Change Basics
+
+1. Tire Types and Identification:
+   - Definition: Tires are circular, flexible rubber covers that encase a wheel's rim to enable vehicle movement by adhering to a road surface. They come in various types such as radial, bias-ply, tubeless, and tubed tires.
+   - How they work: Radial tires have the cords running perpendicular to the direction of travel, improving fuel efficiency, handling, and comfort. Bias-ply tires have the cords at an angle to the direction of travel, providing better traction but less fuel efficiency. Tubeless tires do not require an inner tube, reducing the risk of punctures and allowing a larger rim diameter for improved performance.
+   - Concrete example: A typical passenger car uses radial tires with a size of P215/60R16, which means the tire has a width of 215 millimeters, an aspect ratio (height to width) of 60%, a rim diameter of 16 inches, and is a radial tire.
+
+2. Tire Changing Process:
+   - Definition: The procedure of removing and installing a tire from a wheel.
+   - How they work: Start by loosening the lug nuts with a wrench before lifting the vehicle using a jack to support it securely. Remove the lug nuts completely, then lift the tire off the ground and pull it away from the wheel. Reverse the process for installation while reapplying the lug nuts finger-tight before lowering the vehicle and tightening them further with the wrench.
+   - Concrete example: To change a flat tire on a car, first, place the jack under the frame near the tire you're going to work on. Loosen the lug nuts but do not remove them yet. Jack up the car until the tire is off the ground and remove the lug nuts. Lift the tire away from the wheel and replace it with the spare. Reverse the process, tightening the lug nuts finger-tight first before lowering the vehicle.
+
+3. Tire Pressure:
+   - Definition: The amount of air within a tire measured in pounds per square inch (psi) or kilopascals (kPa).
+   - How they work: Proper tire pressure ensures even tire wear, fuel efficiency, and safety. It can be checked using a tire gauge.
+   - Concrete example: For optimal performance, the recommended tire pressure for a typical passenger car is 32 psi or 2.2 bar (at room temperature).
+
+4. Wheel Balancing:
+   - Definition: The process of adjusting wheel weights to counteract unwanted vibrations and improve ride comfort caused by uneven weight distribution on the rim.
+   - How they work: During the balancing process, the tire and wheel are spun while measuring its vibration levels at various points. Additional weights are added to heavy spots to reduce imbalances.
+   - Concrete example: If a car's steering wheel is shaking after a tire change, it may require wheel balancing to eliminate the vibration. This can be done at an auto service center using specialized equipment designed for this purpose.
+
+EXAM QUESTIONS:
+  Q1: What is the definition of tires?
+       A) Flexible rubber covers that encase a wheel's rim to enable vehicle movement by adhering to a road surface
+       B) Circular, rigid metal covers that encase a wheel's rim for vehicle movement
+       C) Soft cushions placed on the seat for comfort during travel
+       D) Electric motors used for propulsion
+  Answer: A
+
+  Q2: What does the recommended tire pressure for a typical passenger car usually equal at room temperature (in psi or bar)?
+       A) 32 psi or 2.2 bar
+       B) 45 psi or 3 bar
+       C) 20 psi or 1.4 bar
+       D) 60 psi or 4.1 bar
+  Answer: A
+
+═══════════════════════════════════════════════════════
+
+COURSE: Advanced Tyre Swap Techniques
+Required passes to complete: 4 weeks
+────────────────────────────────────────
+MATERIAL:
+ Advanced Tyre Swap Techniques
+
+1. Run-Flat Tire Changeover Technique:
+   - Definition: A method to replace a punctured run-flat tire without the need for an external air source, allowing continued safe driving until the vehicle can be serviced.
+   - How it works: Run-flat tires have reinforced sidewalls that allow them to temporarily support the weight of the vehicle after a loss of air pressure. The wheel and tire are removed from the hub, the run-flat tire is deflated, and the new tire is mounted in its place without inflating it first. Once the wheel and new tire are in position, the tire is slowly inflated to the recommended pressure using an onboard inflation kit or a portable air compressor.
+   - Concrete example: In an emergency situation where a run-flat tire has been punctured, the vehicle's onboard tire-inflation kit is used to safely change the flat tire with a spare. After deflating the damaged run-flat tire and mounting the spare onto the wheel, the spare tire is gradually inflated until it reaches the recommended pressure.
+
+2. Tire Mounting Machine Operation:
+   - Definition: The use of specialized machinery to quickly and safely mount a new tire onto a wheel, ensuring accurate bead seating and proper alignment for optimal performance and safety.
+   - How it works: A tire mounting machine applies clamps to the rim of the wheel and the beads of the tire, stretching the tire over the rim using hydraulic force. The machine then inverts the wheel and tire assembly, seating the inner bead onto the rim before inflating the tire to its recommended pressure.
+   - Concrete example: During a routine tire change, a technician uses a tire mounting machine to quickly and safely install a new tire onto the vehicle's wheel, ensuring proper seating of the beads for efficient performance and reduced risk of air leaks or blowouts.
+
+3. TPMS (Tire Pressure Monitoring System) Recalibration:
+   - Definition: The process of updating tire pressure sensor data in a vehicle's TPMS to reflect new tire installations, ensuring accurate monitoring of tire pressures and temperature readings.
+   - How it works: After replacing one or more tires on a vehicle equipped with TPMS, the system must be recalibrated to recognize the new sensors and adjust sensor identifications as necessary. This is typically done using a diagnostic tool that communicates with the vehicle's onboard computer system.
+   - Concrete example: During a tire change, a technician recalibrates the TPMS on a vehicle by connecting a diagnostic tool to the OBD-II port, following the manufacturer's instructions to program the new tire sensors and ensure accurate monitoring of tire pressures and temperatures.
+
+4. Wheel Balancing Techniques:
+   - Definition: The process of ensuring that a wheel and tire assembly rotates evenly around its axle, reducing vibrations and improving ride comfort and tire life.
+   - How it works: A technician uses a wheel balancer to measure the weight distribution around the circumference of the tire and rim. The machine then adds or removes small weights to counteract any imbalances, ensuring even weight distribution and reduced vibration during operation.
+   - Concrete example: During a routine maintenance check-up, a technician uses a wheel balancer to measure the balance of a vehicle's tires and adds small weights to the rim as needed to eliminate any imbalances, improving ride comfort and reducing the risk of premature tire wear.
+
+EXAM QUESTIONS:
+  Q1: What method allows a vehicle to continue driving safely after a puncture in a run-flat tire without an external air source?
+       A) Tire Mounting Machine Operation
+       B) TPMS Recalibration
+       C) Wheel Balancing Techniques
+       D) Run-Flat Tire Changeover Technique
+  Answer: D
+
+  Q2: Which step is necessary when replacing one or more tires on a vehicle equipped with TPMS?
+       A) Mounting the new tire onto the wheel
+       B) Using a diagnostic tool to program the new tire sensors
+       C) Inflating the new tire to its recommended pressure
+       D) Removing the old tire from the hub
+  Answer: B
+
+═══════════════════════════════════════════════════════
+
+COURSE: Tyre Mounting and Dismounting Skills
+Required passes to complete: 9 weeks
+────────────────────────────────────────
+MATERIAL:
+ **Tyre Mounting and Dismounting Skills**
+
+1. **Mounting and Demounting Process:**
+   - Mounting: The process of placing a tyre onto a wheel rim so that it's ready for use on a vehicle.
+   - Demounting: The opposite process, removing the tyre from the wheel rim.
+   Example: To mount a tyre, first, ensure the wheel is off the vehicle. Then, align the beads with the rim, place the tyre onto the rim, and inflate it to seat the beads. To demount, deflate the tyre, break the bead's seal with a tyre iron, pull the bead over the rim, and remove the tyre.
+
+2. **Wheel Balancing:**
+   - Wheel balancing is the process of adjusting wheel weights to counteract the vibrations caused by an unbalanced tyre and wheel assembly.
+   Example: An unbalanced tyre can cause a "shimmy" or "shake" in the vehicle at higher speeds. Balancing reduces this by adding small weights to the rim where needed.
+
+3. **Tyre Seating:**
+   - Tyre seating is the process of forcing the beads onto the rim to form a tight, even seal.
+   Example: After mounting, inflate the tyre gradually while pressing it evenly against the rim until the bead seats fully. Over-inflation during this process can damage the tyre and under-inflation can lead to poor handling and faster wear.
+
+4. **Tyre Bead Breaker Use:**
+   - A tyre bead breaker is a tool used to break the seal between the tyre's bead and rim when demounting.
+   Example: If the tyre won't come off the rim, use a tyre bead breaker to pry the bead over the rim edge, breaking the seal and making it easier to remove. Always use caution when using this tool as it can cause damage if improperly used.
+
+EXAM QUESTIONS:
+  Q1: What is the process of placing a tyre onto a wheel rim so that it's ready for use on a vehicle?
+       A) Demounting
+       B) Tyre Seating
+       C) Wheel Balancing
+       D) Mounting
+  Answer: D) Mounting
+
+  Q2: Which tool is used to break the seal between the tyre's bead and rim when demounting?
+       A) Tyre Seating Tool
+       B) Wheel Balancing Tool
+       C) Tire Bead Breaker
+       D) Air Pressure Gauge
+  Answer: C) Tire Bead Breaker
+
+═══════════════════════════════════════════════════════
+

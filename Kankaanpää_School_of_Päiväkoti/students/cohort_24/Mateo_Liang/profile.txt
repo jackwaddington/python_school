@@ -1,0 +1,7 @@
+NAME:        Mateo Liang
+PRONOUNS:    he/him
+EMAIL:       mateo.liang@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Ling Liang (mother), ling.liang@example.com

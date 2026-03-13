@@ -1,0 +1,25 @@
+COURSE: Child Development in Päiväkoti
+Required passes to complete: 12
+────────────────────────────────────────
+
+ Title: Child Development in Päiväkoti
+
+1. **Early Childhood Education and Care (ECEC)**
+   - Definition: ECEC refers to organized activities for children from birth to school age that aim to support their development, learning, and welfare. In a päiväkoti context, it provides a structured environment outside the family home.
+   - Functioning: ECEC plays a crucial role in nurturing children's cognitive, social, emotional, and physical growth. It promotes equality of opportunities by offering high-quality education to all children, regardless of their background.
+   - Example: A päiväkoti implements play-based learning activities that promote language development, problem-solving skills, and teamwork in a group setting.
+
+2. **Attachment Theory**
+   - Definition: Attachment theory is a psychological framework focused on how children relate to their caregivers during the first few years of life. It explains the emotional bond that develops between a child and a primary caregiver.
+   - Functioning: The quality of attachment impacts children's emotional security, trust, and ability to form relationships later in life. Secure attachments are essential for healthy social and emotional development.
+   - Example: A child consistently turns to their päiväkoti teacher when distressed, demonstrating a secure attachment pattern.
+
+3. **Vygotsky's Zone of Proximal Development (ZPD)**
+   - Definition: ZPD is a theoretical concept in education that refers to the range of tasks a child can perform with assistance compared to what they can do independently. It emphasizes the importance of adult guidance and peer interaction in promoting learning.
+   - Functioning: Teachers use ZPD to plan activities that challenge children, encouraging them to reach their full potential while providing necessary support.
+   - Example: A päiväkoti teacher introduces a new puzzle to a child who struggles initially but, with guidance, gradually masters the task, demonstrating progress within their ZPD.
+
+4. **Holistic Approach**
+   - Definition: A holistic approach in child development acknowledges that children's growth encompasses cognitive, emotional, social, and physical domains. It emphasizes the interconnectedness of these aspects and focuses on promoting overall well-being.
+   - Functioning: In a päiväkoti setting, educators foster a positive environment that encourages exploration, creativity, self-expression, and physical activity.
+   - Example: A daily routine in a päiväkoti includes both structured learning activities and unstructured playtime, allowing for the holistic development of each child.

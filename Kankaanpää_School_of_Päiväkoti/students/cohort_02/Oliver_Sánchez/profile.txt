@@ -1,0 +1,7 @@
+NAME:        Oliver Sánchez
+PRONOUNS:    he/him
+EMAIL:       oliver.sanchez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'María', 'last_name': 'González'}

@@ -1,0 +1,7 @@
+NAME:        Raphael Ng
+PRONOUNS:    he/him
+EMAIL:       raphael.ng@kankaanpaaschoolofpavikoti.com
+COHORT:      28
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Ng'}

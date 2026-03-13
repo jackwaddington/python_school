@@ -1,0 +1,7 @@
+NAME:        Mateo Dos Santos
+PRONOUNS:    he/him
+EMAIL:       mateo.dos-santos@kankaanpaaschoolofpavikoti.com
+COHORT:      18
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Isabel Dos Santos (mother), isabel.dos-santos@example.com

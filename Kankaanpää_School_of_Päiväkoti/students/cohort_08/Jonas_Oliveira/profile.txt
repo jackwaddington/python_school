@@ -1,0 +1,7 @@
+NAME:        Jonas Oliveira
+PRONOUNS:    he/him
+EMAIL:       jonas.oliveira@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ana Oliveira', 'phone': '+1-555-3456-7890', 'email': 'ana.oliveira@example.com'}

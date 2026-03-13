@@ -1,0 +1,7 @@
+NAME:        Lukas O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       losullivan@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.75
+ALLERGIES:   nuts, shellfish
+NEXT OF KIN: Maria Silva <mariasilva@example.com>

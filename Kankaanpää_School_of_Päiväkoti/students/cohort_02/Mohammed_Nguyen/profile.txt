@@ -1,0 +1,7 @@
+NAME:        Mohammed Nguyen
+PRONOUNS:    he/him
+EMAIL:       mohammed.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hoa', 'last_name': 'Nguyen'}

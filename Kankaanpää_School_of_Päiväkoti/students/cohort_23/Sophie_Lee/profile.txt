@@ -1,0 +1,7 @@
+NAME:        Sophie Lee
+PRONOUNS:    she/her
+EMAIL:       sophie.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'James Lee', 'relationship': 'Father', 'phone': '+1239876543', 'email': 'james.lee@example.com'}

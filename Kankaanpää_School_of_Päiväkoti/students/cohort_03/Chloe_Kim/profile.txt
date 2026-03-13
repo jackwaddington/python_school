@@ -1,0 +1,7 @@
+NAME:        Chloe Kim
+PRONOUNS:    she/her
+EMAIL:       chloe.kim@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Min-Ji Kim', 'relationship': 'Father', 'phone': '+358 40 2345 6789'}

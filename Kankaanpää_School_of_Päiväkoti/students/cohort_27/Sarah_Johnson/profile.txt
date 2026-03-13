@@ -1,0 +1,7 @@
+NAME:        Sarah Johnson
+PRONOUNS:    she/her
+EMAIL:       sarah.johnson@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Michael Johnson

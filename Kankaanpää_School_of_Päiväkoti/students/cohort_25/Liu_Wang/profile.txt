@@ -1,0 +1,7 @@
+NAME:        Liu Wang
+PRONOUNS:    he/him
+EMAIL:       liu.wang@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Ping', 'relationship': 'Mother', 'phone': '+86-123-456-7890', 'email': 'li.ping@example.com'}

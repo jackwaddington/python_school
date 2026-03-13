@@ -1,0 +1,7 @@
+NAME:        Marcus Gómez
+PRONOUNS:    he/him
+EMAIL:       marcus.gomez@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.2
+ALLERGIES:   ['seafood']
+NEXT OF KIN: Isabel Gómez

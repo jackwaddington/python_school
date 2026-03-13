@@ -1,0 +1,7 @@
+NAME:        Emma Diaz
+PRONOUNS:    she/her
+EMAIL:       emma.diaz@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      20
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: Juan Diaz

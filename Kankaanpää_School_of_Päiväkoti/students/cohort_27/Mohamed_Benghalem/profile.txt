@@ -1,0 +1,7 @@
+NAME:        Mohamed Benghalem
+PRONOUNS:    he/him
+EMAIL:       mohamed.benghalem@kankaanpaavakoulukoulutusalgieria.school.com
+COHORT:      27
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fatima', 'last_name': 'Benghalem'}

@@ -1,0 +1,7 @@
+NAME:        Benjamin Ramirez
+PRONOUNS:    he/him
+EMAIL:       benjamin.ramirez@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: Ramon Ramirez (father), ramon.ramirez@example.com

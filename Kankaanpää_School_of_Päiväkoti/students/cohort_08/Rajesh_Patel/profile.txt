@@ -1,0 +1,7 @@
+NAME:        Rajesh Patel
+PRONOUNS:    he/him
+EMAIL:       rajesh.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sonia Patel', 'relationship': 'Mother'}

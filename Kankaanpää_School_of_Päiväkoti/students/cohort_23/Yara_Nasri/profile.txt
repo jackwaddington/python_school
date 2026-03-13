@@ -1,0 +1,7 @@
+NAME:        Yara Nasri
+PRONOUNS:    she/her
+EMAIL:       yara.nasri@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.58
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Samir Nasri', 'relationship': 'Father', 'phone': '+1345678901', 'email': 'samir.nasri@example.com'}

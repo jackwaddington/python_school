@@ -1,0 +1,7 @@
+NAME:        Oliver López
+PRONOUNS:    he/him
+EMAIL:       oliver.lopez@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan López', 'phone': '+358-40-5678901', 'relationship': 'Father'}

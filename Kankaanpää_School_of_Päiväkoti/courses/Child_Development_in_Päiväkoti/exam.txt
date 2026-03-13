@@ -1,0 +1,31 @@
+EXAM: Child Development in Päiväkoti
+────────────────────────────────────────
+
+Q1: Which of the following best describes Early Childhood Education and Care (ECEC) in a Päiväkoti context?
+  A) It refers to activities for children aimed at physical growth only.
+  B) It is a structured environment outside the family home that aims to support children's overall development, learning, and welfare.
+  C) It focuses on providing high-quality education to all children from school age.
+  D) It emphasizes independence in children without any adult guidance.
+Answer: B
+
+Q2: According to Attachment Theory, which quality of attachment impacts children's emotional security and ability to form relationships later in life?
+  A) Quality of learning environment.
+  B) Amount of structured activities.
+  C) Ability to solve problems.
+  D) Quality of the emotional bond between a child and a primary caregiver.
+Answer: D
+
+Q3: Which concept in education refers to the range of tasks a child can perform with assistance compared to what they can do independently?
+  A) Holistic approach.
+  B) Attachment theory.
+  C) Vygotsky's Zone of Proximal Development (ZPD).
+  D) ECEC.
+Answer: C
+
+Q4: In a Päiväkoti setting, a daily routine includes both structured learning activities and unstructured playtime to promote which aspect of child development?
+  A) Physical development only.
+  B) Emotional development only.
+  C) Holistic development.
+  D) Cognitive development only.
+Answer: C
+

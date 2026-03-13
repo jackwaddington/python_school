@@ -1,0 +1,7 @@
+NAME:        Júlia Silva
+PRONOUNS:    she/her
+EMAIL:       julia.silva@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Pedro Silva', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Sofia Diaz
+PRONOUNS:    she/her
+EMAIL:       sofia.diaz@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Diaz', 'relationship': 'Father', 'phone': '+358 40 4567 8901'}

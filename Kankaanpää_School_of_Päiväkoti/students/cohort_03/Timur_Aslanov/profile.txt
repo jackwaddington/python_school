@@ -1,0 +1,7 @@
+NAME:        Timur Aslanov
+PRONOUNS:    he/him
+EMAIL:       timur.aslanov@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Aysha Aslanova', 'phone': '+7-901-2345'}

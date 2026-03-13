@@ -1,0 +1,7 @@
+NAME:        Emil Ramirez
+PRONOUNS:    he/him
+EMAIL:       emil.ramirez@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.72
+ALLERGIES:   None
+NEXT OF KIN: María Ramírez (mother) - maria.ramirez@example.com

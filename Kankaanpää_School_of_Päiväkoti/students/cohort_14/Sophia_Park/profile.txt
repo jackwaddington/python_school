@@ -1,0 +1,7 @@
+NAME:        Sophia Park
+PRONOUNS:    she/her
+EMAIL:       spark@kankaanpaavakoulu.school.com
+COHORT:      14
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Joon Park <joonpark@example.com>

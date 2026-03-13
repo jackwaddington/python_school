@@ -1,0 +1,7 @@
+NAME:        Roberto Sánchez
+PRONOUNS:    he/him
+EMAIL:       roberto.sánchez@kankaanpaaschoolofpäiväkoti.com
+COHORT:      10
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: María Sánchez

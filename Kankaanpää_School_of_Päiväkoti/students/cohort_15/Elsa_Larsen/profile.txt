@@ -1,0 +1,7 @@
+NAME:        Elsa Larsen
+PRONOUNS:    she/her
+EMAIL:       elsa.larsen@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Søren Larsen', 'phone': '+358 40 9012 3456'}

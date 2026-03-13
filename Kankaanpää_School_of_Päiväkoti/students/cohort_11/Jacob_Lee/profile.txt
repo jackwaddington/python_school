@@ -1,0 +1,7 @@
+NAME:        Jacob Lee
+PRONOUNS:    he/him
+EMAIL:       jacob.lee@kankaanpaavakoulu.school.com
+COHORT:      11
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Lee'}

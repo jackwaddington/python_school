@@ -1,0 +1,7 @@
+NAME:        Aisha Patel
+PRONOUNS:    she/her
+EMAIL:       aisha.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ravi Patel', 'phone': '+358401234567'}

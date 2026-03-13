@@ -1,0 +1,7 @@
+NAME:        Sara Nakano
+PRONOUNS:    she/her
+EMAIL:       sara.nakano@kankaanpaaschoolofpavikoti.com
+COHORT:      21
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hiroshi Nakano', 'relationship': 'Father'}

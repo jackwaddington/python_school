@@ -1,0 +1,7 @@
+NAME:        Luis González
+PRONOUNS:    he/him
+EMAIL:       luis.gonzalez@kankaanpaaschoolofpavikoti.com
+COHORT:      16
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: María González (mother) - maria.gonzalez@example.com

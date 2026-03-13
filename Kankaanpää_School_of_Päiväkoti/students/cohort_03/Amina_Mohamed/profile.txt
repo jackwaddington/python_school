@@ -1,0 +1,7 @@
+NAME:        Amina Mohamed
+PRONOUNS:    she/her
+EMAIL:       amina.mohamed@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Mohamed'}

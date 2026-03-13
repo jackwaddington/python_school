@@ -1,0 +1,7 @@
+NAME:        Sara Park
+PRONOUNS:    she/her
+EMAIL:       spark@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: David Kim <davidkim@example.com>

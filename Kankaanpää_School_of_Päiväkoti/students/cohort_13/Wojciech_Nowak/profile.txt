@@ -1,0 +1,7 @@
+NAME:        Wojciech Nowak
+PRONOUNS:    he/him
+EMAIL:       wnowak@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: Anna Nowak <annanowak@example.com>

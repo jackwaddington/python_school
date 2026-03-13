@@ -1,0 +1,7 @@
+NAME:        Omar Ben-Hur
+PRONOUNS:    he/him
+EMAIL:       omar.benhur@kankaanpaavakouluopisto.school.com
+COHORT:      19
+ABILITY:     0.51
+ALLERGIES:   shellfish, nuts
+NEXT OF KIN: {'first_name': 'Laila', 'last_name': 'Ben-Hur'}

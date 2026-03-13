@@ -1,0 +1,7 @@
+NAME:        Marcus O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       marcus.osullivan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Siobhan', 'last_name': "O'Sullivan"}

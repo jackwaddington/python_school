@@ -1,0 +1,7 @@
+NAME:        Emilia Kim
+PRONOUNS:    she/her
+EMAIL:       ekim@kankaanpaaschoolofpivakoti.com
+COHORT:      5
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: Jae Kim (Father), jae.kim@example.com

@@ -1,0 +1,7 @@
+NAME:        Hanna Akbari
+PRONOUNS:    she/her
+EMAIL:       hanna.akbari@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.69
+ALLERGIES:   ['dairy']
+NEXT OF KIN: {'name': 'Hassan Akbari', 'relationship': 'Father'}

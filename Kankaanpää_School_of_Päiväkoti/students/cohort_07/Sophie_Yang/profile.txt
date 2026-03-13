@@ -1,0 +1,7 @@
+NAME:        Sophie Yang
+PRONOUNS:    she/her
+EMAIL:       sophie.yang@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Yang', 'phone': '+358-40-012345', 'relationship': 'Mother'}

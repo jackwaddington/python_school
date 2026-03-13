@@ -1,0 +1,7 @@
+NAME:        Oliver Mendez
+PRONOUNS:    he/him
+EMAIL:       oliver.mendez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      29
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ana', 'last_name': 'Mendez'}

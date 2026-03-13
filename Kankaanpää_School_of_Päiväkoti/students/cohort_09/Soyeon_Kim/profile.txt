@@ -1,0 +1,7 @@
+NAME:        Soyeon Kim
+PRONOUNS:    she/her
+EMAIL:       soyeon.kim@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      9
+ABILITY:     0.27
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ji-Hoon', 'last_name': 'Kim'}

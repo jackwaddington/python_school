@@ -1,0 +1,7 @@
+NAME:        Elias Zhang
+PRONOUNS:    he/him
+EMAIL:       elias.zhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      25
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mei Zhang', 'relationship': 'Mother', 'phone': '+86-123-456-7890', 'email': 'mei.zhang@example.com'}

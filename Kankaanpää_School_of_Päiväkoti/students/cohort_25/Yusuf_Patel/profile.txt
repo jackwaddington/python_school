@@ -1,0 +1,7 @@
+NAME:        Yusuf Patel
+PRONOUNS:    he/him
+EMAIL:       ypatel@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      25
+ABILITY:     0.16
+ALLERGIES:   None
+NEXT OF KIN: Meera Patel

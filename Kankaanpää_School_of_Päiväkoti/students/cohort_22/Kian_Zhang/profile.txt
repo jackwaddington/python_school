@@ -1,0 +1,7 @@
+NAME:        Kian Zhang
+PRONOUNS:    he/him
+EMAIL:       kian.zhang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      22
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: Li Zhang <li.zhang@example.com>

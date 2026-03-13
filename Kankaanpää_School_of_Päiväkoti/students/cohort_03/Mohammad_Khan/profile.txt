@@ -1,0 +1,7 @@
+NAME:        Mohammad Khan
+PRONOUNS:    he/him
+EMAIL:       mohammad.khan@kankaanpaaschoolofpaivakoti.com
+COHORT:      3
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Farishta', 'last_name': 'Khan'}

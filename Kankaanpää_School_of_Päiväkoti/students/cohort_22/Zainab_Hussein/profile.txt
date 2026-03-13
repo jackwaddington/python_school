@@ -1,0 +1,7 @@
+NAME:        Zainab Hussein
+PRONOUNS:    she/her
+EMAIL:       zainab.hussein@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Ali Mohammed <ali.mohammed@example.com>

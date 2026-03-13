@@ -1,0 +1,7 @@
+NAME:        Emilia O'Sullivan
+PRONOUNS:    she/her
+EMAIL:       emilia.osullivan@kankaanpaaschoolofpaivakoti.com
+COHORT:      24
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: {'name': "Conor O'Sullivan", 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Sofia Lopez
+PRONOUNS:    she/her
+EMAIL:       sofia.lopez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Lopez', 'relationship': 'Father', 'phone': '+34 678 901 2345'}

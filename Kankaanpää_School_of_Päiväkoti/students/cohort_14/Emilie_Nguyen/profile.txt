@@ -1,0 +1,7 @@
+NAME:        Emilie Nguyen
+PRONOUNS:    she/her
+EMAIL:       emilie.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anh', 'last_name': 'Nguyen'}

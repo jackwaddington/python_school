@@ -1,0 +1,7 @@
+NAME:        Mateo Gonzalez
+PRONOUNS:    he/him
+EMAIL:       mateo.gonzalez@kankaanpaavakoulukoulutusmexiko.school.com
+COHORT:      27
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'María', 'last_name': 'Gonzalez'}

@@ -1,0 +1,7 @@
+NAME:        Noura Al-Khateeb
+PRONOUNS:    she/her
+EMAIL:       noura.al-khateeb@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Abdul Al-Khateeb', 'relationship': 'Father', 'phone': '+966501234567', 'email': 'abdul.al-khateeb@gmail.com'}

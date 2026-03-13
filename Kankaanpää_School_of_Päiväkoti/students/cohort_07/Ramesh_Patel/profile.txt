@@ -1,0 +1,7 @@
+NAME:        Ramesh Patel
+PRONOUNS:    he/him
+EMAIL:       ramesh.patel@kankaanpaavakoulunpivaikotilaskenta.school.com
+COHORT:      7
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Rashmi Patel

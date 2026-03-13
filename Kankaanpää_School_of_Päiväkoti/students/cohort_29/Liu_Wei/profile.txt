@@ -1,0 +1,7 @@
+NAME:        Liu Wei
+PRONOUNS:    he/him
+EMAIL:       liu.wei@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      29
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Li', 'last_name': 'Zhou'}

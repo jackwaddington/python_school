@@ -1,0 +1,7 @@
+NAME:        Jun Yang
+PRONOUNS:    he/him
+EMAIL:       jun.yang@kankaanpaaschoolofpaivakoti.com
+COHORT:      23
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Liu'}

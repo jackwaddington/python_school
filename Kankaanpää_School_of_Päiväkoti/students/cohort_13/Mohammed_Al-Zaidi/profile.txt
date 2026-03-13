@@ -1,0 +1,7 @@
+NAME:        Mohammed Al-Zaidi
+PRONOUNS:    he/him
+EMAIL:       malzaidi@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Fatima Al-Zaidi <falzaidi@example.com>

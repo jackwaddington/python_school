@@ -1,0 +1,7 @@
+NAME:        Aisha Kamal
+PRONOUNS:    she/her
+EMAIL:       aisha.kamal@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammad Ali Kamal', 'phone': '+358 40 1234 5678'}

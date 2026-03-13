@@ -1,0 +1,7 @@
+NAME:        Juan Rodriguez
+PRONOUNS:    he/him
+EMAIL:       juanrodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Gonzalez'}

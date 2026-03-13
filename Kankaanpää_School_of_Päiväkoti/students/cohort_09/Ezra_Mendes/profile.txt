@@ -1,0 +1,7 @@
+NAME:        Ezra Mendes
+PRONOUNS:    he/him
+EMAIL:       ezra.mendes@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      9
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ana', 'last_name': 'Mendes'}

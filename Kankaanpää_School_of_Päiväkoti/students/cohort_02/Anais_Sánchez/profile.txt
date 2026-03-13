@@ -1,0 +1,7 @@
+NAME:        Anais Sánchez
+PRONOUNS:    she/her
+EMAIL:       anais.sanchez@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: Juan Sánchez (father)

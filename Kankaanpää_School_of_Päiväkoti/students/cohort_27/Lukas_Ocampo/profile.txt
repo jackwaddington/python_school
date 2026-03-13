@@ -1,0 +1,7 @@
+NAME:        Lukas Ocampo
+PRONOUNS:    he/him
+EMAIL:       lukas.ocampo@kankaanpaaschoolofpaivakoti.com
+COHORT:      27
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: Isabel Ocampo (mother) - isabel.ocampo@example.com

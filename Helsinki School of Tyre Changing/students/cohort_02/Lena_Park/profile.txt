@@ -1,0 +1,7 @@
+NAME:        Lena Park
+PRONOUNS:    she/her
+EMAIL:       lena.park@helsinkischooloftyrechanging.school.com
+COHORT:      2
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Joon Park

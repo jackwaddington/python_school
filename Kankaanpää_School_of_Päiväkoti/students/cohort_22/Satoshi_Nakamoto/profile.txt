@@ -1,0 +1,7 @@
+NAME:        Satoshi Nakamoto
+PRONOUNS:    he/him
+EMAIL:       satoshi.nakamoto@kankaanpaaschoolofpaivakoti.com
+COHORT:      22
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Yuki Miyamoto <yuki.miyamoto@example.com>

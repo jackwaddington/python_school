@@ -1,0 +1,7 @@
+NAME:        Yusuf Omar
+PRONOUNS:    he/him
+EMAIL:       yusuf.omar@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Aisha Omar', 'phone': '+254 712 1234 5678', 'relationship': 'Mother'}

@@ -1,0 +1,7 @@
+NAME:        Oliver Gomez
+PRONOUNS:    he/him
+EMAIL:       oliver.gomez@helsinkischooloftyrechanging.school.com
+COHORT:      1
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: Juan Gomez
