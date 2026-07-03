@@ -1,7 +1,0 @@
-NAME:        Hiroshi Nakamura
-PRONOUNS:    he/him
-EMAIL:       hiroshi.nakamura@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.26
-ALLERGIES:   None
-NEXT OF KIN: Yoshiko Nakamura

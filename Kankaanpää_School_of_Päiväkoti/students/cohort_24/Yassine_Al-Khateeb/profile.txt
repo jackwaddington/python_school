@@ -1,7 +1,0 @@
-NAME:        Yassine Al-Khateeb
-PRONOUNS:    he/him
-EMAIL:       yal-khateeb@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Fatima Al-Khateeb

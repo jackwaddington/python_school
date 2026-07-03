@@ -1,7 +1,0 @@
-NAME:        Ibrahim Kamara
-PRONOUNS:    he/him
-EMAIL:       ibrahim.kamara@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: Mariama Kamara (Mother), mariama.kamara@example.com

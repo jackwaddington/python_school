@@ -1,0 +1,7 @@
+NAME:        Mariana Ramírez
+PRONOUNS:    she/her
+EMAIL:       marianaramirez@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Ramírez', 'relationship': 'Father', 'phone': '+521234567890'}

@@ -1,0 +1,7 @@
+NAME:        Diego Ramirez
+PRONOUNS:    he/him
+EMAIL:       diego.ramirez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: Maria Ramirez

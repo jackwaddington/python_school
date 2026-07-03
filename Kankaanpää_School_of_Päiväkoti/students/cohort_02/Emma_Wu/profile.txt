@@ -1,7 +1,0 @@
-NAME:        Emma Wu
-PRONOUNS:    she/her
-EMAIL:       emma.wu@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Wu'}

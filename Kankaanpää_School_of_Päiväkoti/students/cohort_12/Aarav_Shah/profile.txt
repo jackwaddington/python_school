@@ -1,7 +1,0 @@
-NAME:        Aarav Shah
-PRONOUNS:    he/him
-EMAIL:       aarav.shah@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: Priya Shah

@@ -1,0 +1,7 @@
+NAME:        Sofia Ocampo
+PRONOUNS:    she/her
+EMAIL:       sofia.ocampo@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Ocampo'}

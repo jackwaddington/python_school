@@ -1,7 +1,7 @@
 NAME:        Sara Al-Khateeb
 PRONOUNS:    she/her
-EMAIL:       sara.al-khateeb@kankaanpaavakouluofpivakoti.school.com
+EMAIL:       sara.al-khateeb@kankaanpaaschoolofpaivakoti.com
 COHORT:      14
-ABILITY:     0.53
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'first_name': 'Mohammad', 'last_name': 'Al-Khateeb'}
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Al-Khateeb

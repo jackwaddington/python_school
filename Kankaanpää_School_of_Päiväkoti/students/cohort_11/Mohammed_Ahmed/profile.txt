@@ -1,0 +1,7 @@
+NAME:        Mohammed Ahmed
+PRONOUNS:    he/him
+EMAIL:       mohammed.ahmed@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Faduma Ahmed <faduma.ahmed@example.com>

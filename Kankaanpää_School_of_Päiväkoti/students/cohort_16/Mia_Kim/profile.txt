@@ -1,7 +1,0 @@
-NAME:        Mia Kim
-PRONOUNS:    she/her
-EMAIL:       mia.kim@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Jin Kim', 'relationship': 'Father', 'phone': '+358-40-5555-6666'}

@@ -1,0 +1,7 @@
+NAME:        Isaac O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       iosullivan@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.42
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: Laura O'Sullivan

@@ -1,0 +1,7 @@
+NAME:        Ricardo Santos
+PRONOUNS:    he/him
+EMAIL:       ricardo.santos@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Maria Santos

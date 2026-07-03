@@ -1,0 +1,7 @@
+NAME:        Sofia Park
+PRONOUNS:    she/her
+EMAIL:       sofia.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.2
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Park', 'relationship': 'Mother', 'phone': '+1 234-567-8902', 'email': 'jin.park@example.com'}

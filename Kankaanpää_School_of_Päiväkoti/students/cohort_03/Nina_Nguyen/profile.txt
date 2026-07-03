@@ -1,0 +1,7 @@
+NAME:        Nina Nguyen
+PRONOUNS:    she/her
+EMAIL:       nina.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hoang', 'last_name': 'Nguyen'}

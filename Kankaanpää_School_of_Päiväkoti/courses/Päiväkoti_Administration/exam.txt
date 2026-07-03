@@ -1,0 +1,17 @@
+EXAM: Päiväkoti Administration
+────────────────────────────────────────
+
+Q1: What is the definition of a Päiväkoti?
+  A) A school for children aged 0-6 years.
+  B) A grocery store where food is sold.
+  C) A child care facility that provides all-day care for children while their parents are working or attending school.
+  D) A hospital for the treatment of sick children.
+Answer: C
+
+Q2: What is the function of a curriculum in a Päiväkoti?
+  A) To guide teachers in planning activities that promote children's cognitive, physical, social, and emotional growth.
+  B) To sell educational materials to parents.
+  C) To determine the number of children each teacher can care for.
+  D) To decide the menu for the day.
+Answer: A
+

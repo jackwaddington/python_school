@@ -1,0 +1,7 @@
+NAME:        Hiroshi Nakamura
+PRONOUNS:    he/him
+EMAIL:       hiroshi.nakamura@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Emily Smith <emily.smith@example.com>

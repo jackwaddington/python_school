@@ -1,0 +1,7 @@
+NAME:        Lukas O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       lukasosullivan@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.27
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Abigail', 'last_name': "O'Sullivan"}

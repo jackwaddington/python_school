@@ -1,7 +1,0 @@
-NAME:        Isabella Nguyen
-PRONOUNS:    she/her
-EMAIL:       isabella.nguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.21
-ALLERGIES:   None
-NEXT OF KIN: Hoa Nguyen (mother), hoa.nguyen@example.com

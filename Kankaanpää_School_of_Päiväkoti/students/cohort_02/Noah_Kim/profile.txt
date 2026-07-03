@@ -1,0 +1,7 @@
+NAME:        Noah Kim
+PRONOUNS:    he/him
+EMAIL:       noah.kim@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ji-Hyun Kim', 'relationship': 'Mother'}

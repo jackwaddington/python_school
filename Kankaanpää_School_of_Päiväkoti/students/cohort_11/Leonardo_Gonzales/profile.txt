@@ -1,0 +1,7 @@
+NAME:        Leonardo Gonzales
+PRONOUNS:    he/him
+EMAIL:       leonardo.gonzales@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: María Gonzales <maria.gonzales@example.com>

@@ -1,0 +1,7 @@
+NAME:        Mia Doe
+PRONOUNS:    she/her
+EMAIL:       miadoe@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.26
+ALLERGIES:   None
+NEXT OF KIN: John Doe (father) - johndoe@hotmail.com

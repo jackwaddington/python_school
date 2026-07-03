@@ -1,0 +1,7 @@
+NAME:        Lukas Lee
+PRONOUNS:    he/him
+EMAIL:       llee@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Li', 'relationship': 'Mother', 'phone_number': '+358 40 2345 6789', 'email': 'llili@example.com'}

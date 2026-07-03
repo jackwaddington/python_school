@@ -1,0 +1,7 @@
+NAME:        Yusuf Khan
+PRONOUNS:    he/him
+EMAIL:       yusuf.khan@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Rukhsana Khan', 'relationship': 'Mother'}

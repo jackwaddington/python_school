@@ -1,0 +1,7 @@
+NAME:        Emilia Olmos
+PRONOUNS:    she/her
+EMAIL:       emilia.olmos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: Juan Olmos <juanoelmos@example.com>

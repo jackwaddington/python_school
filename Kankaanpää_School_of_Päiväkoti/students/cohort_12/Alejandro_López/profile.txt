@@ -1,7 +1,0 @@
-NAME:        Alejandro López
-PRONOUNS:    he/him
-EMAIL:       alopez@kankaanpaavakouluofpainikoti.school.com
-COHORT:      12
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: María López

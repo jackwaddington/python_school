@@ -1,7 +1,0 @@
-NAME:        Mira Lee
-PRONOUNS:    she/her
-EMAIL:       mlee@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: James Lee

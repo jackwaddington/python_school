@@ -1,0 +1,7 @@
+NAME:        Ismail Akter
+PRONOUNS:    he/him
+EMAIL:       ismail.akter@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: Mariam Akter (Mother) - mariam.akter@example.com

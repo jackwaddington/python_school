@@ -1,7 +1,0 @@
-NAME:        Aya Kim
-PRONOUNS:    she/her
-EMAIL:       aya.kim@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.52
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ji-Soo Kim', 'relation': 'Father', 'phone': '+358 40 3456 7890', 'email': 'ji-soo.kim@kankaanpaaschoolofpaivakoti.school.com'}

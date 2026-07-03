@@ -1,0 +1,7 @@
+NAME:        Zara Lee
+PRONOUNS:    she/her
+EMAIL:       zara.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: David Li <david.li@example.com>

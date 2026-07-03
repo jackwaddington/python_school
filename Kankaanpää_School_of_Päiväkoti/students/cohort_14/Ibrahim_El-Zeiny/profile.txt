@@ -1,0 +1,7 @@
+NAME:        Ibrahim El-Zeiny
+PRONOUNS:    he/him
+EMAIL:       ibrahim.el-zeiny@kankaanpaevakoti.school.com
+COHORT:      14
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Nour El-Zeiny (mother) - nour.el-zeiny@example.com

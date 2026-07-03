@@ -1,0 +1,25 @@
+COURSE: Health and Safety in Päiväkoti
+Required passes to complete: 9
+────────────────────────────────────────
+
+ Title: Health and Safety in Päiväkoti
+
+1. **Risk Assessment** (Avaaminen)
+   - Definition: A systematic process of identifying, evaluating, and controlling potential hazards to ensure a safe and healthy work environment.
+   - How it works: In the context of Päiväkoti, risk assessment involves identifying activities or situations that could potentially harm children or staff, assessing the level of risk, and implementing measures to mitigate or eliminate those risks.
+   - Concrete Example: A risk assessment might identify a tripping hazard in the play area due to loose floor tiles. The solution could be to either repair the tiles or cover the area with a protective mat until they can be repaired.
+
+2. **Infection Prevention and Control** (Infektiöiden estäminen ja hallinta)
+   - Definition: A set of practices designed to prevent infection in the Päiväkoti environment, including hand hygiene, use of personal protective equipment, and management of ill children.
+   - How it works: Infection prevention measures might include regular hand washing for staff and children, using gloves during diaper changes, and keeping sick children away from others until they are no longer contagious.
+   - Concrete Example: If a child develops a fever, they should be kept separate from other children to prevent the spread of illness. Staff should wear protective clothing and practice frequent hand hygiene when caring for the sick child.
+
+3. **Emergency Procedures** (Asteet urgoksi)
+   - Definition: A set of procedures designed to ensure a swift and effective response in case of an emergency, such as a fire or accident.
+   - How it works: Emergency procedures might include evacuation plans, first aid training for staff, and procedures for contacting emergency services.
+   - Concrete Example: In the event of a fire, children and staff should be evacuated to a designated meeting place outside the building. Staff should be trained in how to use fire extinguishers and call the emergency services.
+
+4. **Child Protection** (Lasten suojelu)
+   - Definition: Measures taken to ensure the physical, emotional, and sexual safety of children within the Päiväkoti environment.
+   - How it works: Child protection measures might include thorough background checks for staff, policies for reporting and investigating suspected abuse, and training for staff on recognizing signs of abuse and neglect.
+   - Concrete Example: A policy for child protection might state that any allegations of abuse must be reported to the appropriate authorities immediately, and that a thorough investigation will be conducted in accordance with local laws and regulations.

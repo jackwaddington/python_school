@@ -1,7 +1,0 @@
-NAME:        Ana Perez
-PRONOUNS:    she/her
-EMAIL:       ana.perez@kankaanpaavakouluopistopolku.school.com
-COHORT:      10
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Juan Perez

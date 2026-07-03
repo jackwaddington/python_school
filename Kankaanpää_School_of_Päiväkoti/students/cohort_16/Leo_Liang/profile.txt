@@ -1,7 +1,0 @@
-NAME:        Leo Liang
-PRONOUNS:    he/him
-EMAIL:       lliang@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: Jian Liang <jian.liang@example.com>

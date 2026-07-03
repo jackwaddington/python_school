@@ -1,0 +1,7 @@
+NAME:        Zeynab Sow
+PRONOUNS:    she/her
+EMAIL:       zsow@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Mama Sow <msow@example.com>

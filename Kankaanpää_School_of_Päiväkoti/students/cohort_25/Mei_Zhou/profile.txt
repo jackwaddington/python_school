@@ -1,7 +1,0 @@
-NAME:        Mei Zhou
-PRONOUNS:    she/her
-EMAIL:       mei.zhou@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.25
-ALLERGIES:   None
-NEXT OF KIN: Li Zhou

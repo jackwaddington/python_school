@@ -1,0 +1,7 @@
+NAME:        Leonardo Gomez
+PRONOUNS:    he/him
+EMAIL:       leonardo.gomez@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Carla Gomez

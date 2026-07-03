@@ -1,0 +1,7 @@
+NAME:        Nina Park
+PRONOUNS:    she/her
+EMAIL:       ninapark@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ji-Hye Park', 'relationship': 'Mother', 'phone': '+821234567890'}

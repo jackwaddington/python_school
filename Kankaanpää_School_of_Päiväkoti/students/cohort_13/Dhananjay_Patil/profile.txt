@@ -1,0 +1,7 @@
+NAME:        Dhananjay Patil
+PRONOUNS:    he/him
+EMAIL:       dpatil@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Pallavi Patil', 'relationship': 'Mother'}

@@ -1,7 +1,0 @@
-NAME:        Mateo Gonzalez
-PRONOUNS:    he/him
-EMAIL:       mateogonzalez@kankaanpaavakooliopaivakoti.school.com
-COHORT:      6
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: María Gonzalez (mother) - maria.gonzalez@hotmail.com

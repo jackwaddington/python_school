@@ -1,0 +1,7 @@
+NAME:        Oliver Diaz
+PRONOUNS:    he/him
+EMAIL:       oliver.diaz@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Maria Diaz

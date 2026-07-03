@@ -1,0 +1,7 @@
+NAME:        Mia Park
+PRONOUNS:    she/her
+EMAIL:       mia.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Joon', 'last_name': 'Park'}

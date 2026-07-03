@@ -1,0 +1,7 @@
+NAME:        Ibrahim Mohammad
+PRONOUNS:    he/him
+EMAIL:       ibrahim.mohammad@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      3
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Faten Mohammad (Mother), faten.mohammad@example.com

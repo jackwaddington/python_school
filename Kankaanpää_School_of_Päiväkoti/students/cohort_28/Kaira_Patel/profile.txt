@@ -1,7 +1,0 @@
-NAME:        Kaira Patel
-PRONOUNS:    she/her
-EMAIL:       kaira.patel@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Rahul Patel (Father), rahul.patel@example.com

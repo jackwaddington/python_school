@@ -1,7 +1,0 @@
-NAME:        Max García
-PRONOUNS:    he/him
-EMAIL:       maxgarcia@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: María García

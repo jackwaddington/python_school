@@ -1,0 +1,7 @@
+NAME:        Omar El-Said
+PRONOUNS:    he/him
+EMAIL:       omar.el-said@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Nora', 'last_name': 'El-Said'}

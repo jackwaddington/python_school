@@ -1,0 +1,7 @@
+NAME:        Noah Díaz
+PRONOUNS:    he/him
+EMAIL:       noah.diaz@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.78
+ALLERGIES:   ['wheat']
+NEXT OF KIN: {'name': 'Ana Díaz', 'phone': '+1-234-567-8907', 'relationship': 'Mother'}

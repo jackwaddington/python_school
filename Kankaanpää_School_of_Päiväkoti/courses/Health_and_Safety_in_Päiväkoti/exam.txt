@@ -1,0 +1,17 @@
+EXAM: Health and Safety in Päiväkoti
+────────────────────────────────────────
+
+Q1: What is a systematic process of identifying, evaluating, and controlling potential hazards to ensure a safe and healthy work environment?
+  A) Infection Prevention and Control
+  B) Risk Assessment
+  C) Child Protection
+  D) Emergency Procedures
+Answer: B
+
+Q2: Which of the following is a concrete example of Infection Prevention and Control?
+  A) If a child develops a fever, they should be kept separate from other children to prevent the spread of illness.
+  B) A risk assessment might identify a tripping hazard in the play area due to loose floor tiles.
+  C) In the event of a fire, children and staff should be evacuated to a designated meeting place outside the building.
+  D) A policy for child protection might state that any allegations of abuse must be reported to the appropriate authorities immediately.
+Answer: A
+

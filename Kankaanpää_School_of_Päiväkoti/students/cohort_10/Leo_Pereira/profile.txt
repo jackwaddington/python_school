@@ -1,0 +1,7 @@
+NAME:        Leo Pereira
+PRONOUNS:    he/him
+EMAIL:       leo.pereira@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: Carla Pereira (Mother) - carla.pereira@example.com

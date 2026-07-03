@@ -1,7 +1,0 @@
-NAME:        Elena Perez
-PRONOUNS:    she/her
-EMAIL:       elena.perez@kankaanpaavakouluofpavikoti.school.com
-COHORT:      2
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: Rafael Perez

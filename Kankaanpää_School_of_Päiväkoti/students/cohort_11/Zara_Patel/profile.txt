@@ -2,6 +2,6 @@ NAME:        Zara Patel
 PRONOUNS:    she/her
 EMAIL:       zara.patel@kankaanpaaschoolofpaivakoti.com
 COHORT:      11
-ABILITY:     0.75
+ABILITY:     0.46
 ALLERGIES:   None
-NEXT OF KIN: Mitul Patel
+NEXT OF KIN: Rahul Patel (father)

@@ -1,0 +1,7 @@
+NAME:        Oliver Adebayo
+PRONOUNS:    he/him
+EMAIL:       oliver.adebayo@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Funke', 'last_name': 'Adebayo', 'relationship': 'Mother'}

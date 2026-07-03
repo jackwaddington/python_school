@@ -1,0 +1,7 @@
+NAME:        Hanif Ahmed
+PRONOUNS:    he/him
+EMAIL:       hanif.ahmed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Zara', 'last_name': 'Ahmed'}

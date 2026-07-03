@@ -1,7 +1,0 @@
-NAME:        Mia Liu
-PRONOUNS:    she/her
-EMAIL:       mialiu@kankaanpaaschoolofpaivakaoti.com
-COHORT:      18
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Xin', 'last_name': 'Liu'}

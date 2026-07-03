@@ -1,0 +1,7 @@
+NAME:        Maximillian Nguyen
+PRONOUNS:    he/him
+EMAIL:       maximiliannguyen@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: Hoai Nguyen (Mother) - hoai.nguyen@example.com

@@ -1,0 +1,7 @@
+NAME:        Elias O'Connor
+PRONOUNS:    he/him
+EMAIL:       elias.oconnor@kankaanpaavakouluofpivakaoti.school.com
+COHORT:      9
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: Aoife O'Connor

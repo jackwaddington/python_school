@@ -1,7 +1,0 @@
-NAME:        Isabella Gonzalez
-PRONOUNS:    she/her
-EMAIL:       igonzalez@kankaanpaavapaivakoti.school.com
-COHORT:      17
-ABILITY:     0.57
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'name': 'Carlos Gonzalez', 'phone': '+1-555-9876'}

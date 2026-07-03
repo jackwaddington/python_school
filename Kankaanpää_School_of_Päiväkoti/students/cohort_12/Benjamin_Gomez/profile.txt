@@ -1,0 +1,7 @@
+NAME:        Benjamin Gomez
+PRONOUNS:    he/him
+EMAIL:       benjamin.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.63
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: Maria Gomez

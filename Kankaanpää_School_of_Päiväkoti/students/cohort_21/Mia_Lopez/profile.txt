@@ -1,7 +1,0 @@
-NAME:        Mia Lopez
-PRONOUNS:    she/her
-EMAIL:       mia.lopez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.47
-ALLERGIES:   None
-NEXT OF KIN: Juan Lopez

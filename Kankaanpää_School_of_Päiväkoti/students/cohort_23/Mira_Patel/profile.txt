@@ -1,7 +1,0 @@
-NAME:        Mira Patel
-PRONOUNS:    she/her
-EMAIL:       mira.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Rajesh', 'last_name': 'Patel'}

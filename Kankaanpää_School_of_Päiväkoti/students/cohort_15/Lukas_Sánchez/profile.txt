@@ -1,0 +1,7 @@
+NAME:        Lukas Sánchez
+PRONOUNS:    he/him
+EMAIL:       lsanchez@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.13
+ALLERGIES:   ['eggs']
+NEXT OF KIN: María Sánchez

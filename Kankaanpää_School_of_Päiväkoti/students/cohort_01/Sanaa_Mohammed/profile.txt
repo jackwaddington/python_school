@@ -1,0 +1,7 @@
+NAME:        Sanaa Mohammed
+PRONOUNS:    she/her
+EMAIL:       sanaa.mohammed@kankaanpaavaschoolofpaivakoti.com
+COHORT:      1
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Mohammed (father)

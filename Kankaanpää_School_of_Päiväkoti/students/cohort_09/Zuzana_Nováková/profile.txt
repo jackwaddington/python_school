@@ -1,7 +1,0 @@
-NAME:        Zuzana Nováková
-PRONOUNS:    she/her
-EMAIL:       zuzana.novakova@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.23
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Martin', 'last_name': 'Novák'}

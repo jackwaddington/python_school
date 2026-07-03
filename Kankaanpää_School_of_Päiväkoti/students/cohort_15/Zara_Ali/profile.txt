@@ -1,0 +1,7 @@
+NAME:        Zara Ali
+PRONOUNS:    she/her
+EMAIL:       zara.ali@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Muhammad Ali', 'phone': '+358-40-5678-9012', 'email': 'muhammad.ali@example.com'}

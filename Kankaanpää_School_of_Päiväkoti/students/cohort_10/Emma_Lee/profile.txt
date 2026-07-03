@@ -1,7 +1,0 @@
-NAME:        Emma Lee
-PRONOUNS:    she/her
-EMAIL:       emma.lee@kankaanpaavaliskoulu.school.com
-COHORT:      10
-ABILITY:     0.4
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'name': 'John Lee', 'phone': '+358405678901', 'email': 'john.lee@kankaanpaavaliskoulu.school.com'}

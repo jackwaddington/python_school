@@ -1,7 +1,0 @@
-NAME:        Charlotte Wu
-PRONOUNS:    she/her
-EMAIL:       charlotte.wu@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Liang Wu (Mother)

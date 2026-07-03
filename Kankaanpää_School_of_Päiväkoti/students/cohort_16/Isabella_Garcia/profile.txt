@@ -1,0 +1,7 @@
+NAME:        Isabella Garcia
+PRONOUNS:    she/her
+EMAIL:       igarcia@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Garcia', 'relationship': 'Father', 'phone_number': '+358 40 6789 0123', 'email': 'jgarcia@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Oliver Mendes
+PRONOUNS:    he/him
+EMAIL:       oliver.mendes@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Mendes'}

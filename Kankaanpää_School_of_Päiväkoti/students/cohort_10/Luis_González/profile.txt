@@ -1,7 +1,0 @@
-NAME:        Luis González
-PRONOUNS:    he/him
-EMAIL:       luis.gonzalez@kankaanpaaschoolofpäiväkoti.com
-COHORT:      10
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: María González

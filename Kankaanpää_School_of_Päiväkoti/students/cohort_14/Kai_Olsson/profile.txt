@@ -1,7 +1,0 @@
-NAME:        Kai Olsson
-PRONOUNS:    he/him
-EMAIL:       kai.olsson@kankaanpaavakouluofpivakoti.school.com
-COHORT:      14
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Anna', 'last_name': 'Olsson'}

@@ -1,0 +1,7 @@
+NAME:        Benjamin Patel
+PRONOUNS:    he/him
+EMAIL:       benjamin.patel@kankaanpaaschoolofpavikoti.com
+COHORT:      7
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Rahul Patel (Father), email: rahul.patel@kankaanpaaschoolofpavikoti.com

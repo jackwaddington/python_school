@@ -1,0 +1,7 @@
+NAME:        Elias Lee
+PRONOUNS:    he/him
+EMAIL:       eliaslee@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: Ji-Yeon Lee (Mother) - jiyeon.lee@example.com

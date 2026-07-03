@@ -1,0 +1,7 @@
+NAME:        Zuzanna Nowak
+PRONOUNS:    she/her
+EMAIL:       znowak@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anna Nowak', 'relationship': 'Mother'}

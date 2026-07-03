@@ -1,0 +1,7 @@
+NAME:        Elias Oluwatayo
+PRONOUNS:    he/him
+EMAIL:       eoluwatayo@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Funke Oluwatayo', 'relationship': 'Mother'}

@@ -1,7 +1,0 @@
-NAME:        Lukas Schmidt
-PRONOUNS:    he/him
-EMAIL:       lukas.schmidt@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.76
-ALLERGIES:   Nuts
-NEXT OF KIN: {'name': 'Maria Schmidt', 'relationship': 'Mother'}

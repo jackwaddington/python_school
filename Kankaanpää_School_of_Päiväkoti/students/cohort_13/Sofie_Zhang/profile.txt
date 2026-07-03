@@ -1,0 +1,7 @@
+NAME:        Sofie Zhang
+PRONOUNS:    she/her
+EMAIL:       sofie.zhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Zhang', 'relationship': 'Father'}

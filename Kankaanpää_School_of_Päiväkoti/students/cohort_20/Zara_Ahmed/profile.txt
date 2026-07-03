@@ -1,7 +1,0 @@
-NAME:        Zara Ahmed
-PRONOUNS:    she/her
-EMAIL:       zara.ahmed@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.57
-ALLERGIES:   ['eggs']
-NEXT OF KIN: {'name': 'Ali Ahmed', 'phone': '+358 40 9012 3456', 'relation': 'Father'}

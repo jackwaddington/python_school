@@ -1,7 +1,0 @@
-NAME:        Ahmed Das
-PRONOUNS:    he/him
-EMAIL:       adash@kankaanpaaschoolofpivakoti.com
-COHORT:      5
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: Rupa Das (Mother), rupa.das@example.com

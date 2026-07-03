@@ -1,0 +1,7 @@
+NAME:        Oliver Ocampo
+PRONOUNS:    he/him
+EMAIL:       oo campo@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.21
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Maria Ocampo

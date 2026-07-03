@@ -1,0 +1,7 @@
+NAME:        Hassan Khan
+PRONOUNS:    he/him
+EMAIL:       hassan.khan@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      9
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Faria Khan

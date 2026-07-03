@@ -1,0 +1,7 @@
+NAME:        Maria Patel
+PRONOUNS:    she/her
+EMAIL:       mpatel@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: Ravi Patel

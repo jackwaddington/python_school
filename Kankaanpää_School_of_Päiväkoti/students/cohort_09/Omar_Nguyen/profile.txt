@@ -1,0 +1,7 @@
+NAME:        Omar Nguyen
+PRONOUNS:    he/him
+EMAIL:       omar.nguyen@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      9
+ABILITY:     0.63
+ALLERGIES:   None
+NEXT OF KIN: Thao Nguyen

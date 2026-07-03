@@ -1,0 +1,7 @@
+NAME:        Lukas Lehto
+PRONOUNS:    he/him
+EMAIL:       lukas.lehto@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.46
+ALLERGIES:   shellfish
+NEXT OF KIN: Anna Mäki <anna.maki@example.com>

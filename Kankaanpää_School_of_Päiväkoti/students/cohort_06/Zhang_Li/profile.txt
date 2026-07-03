@@ -1,0 +1,7 @@
+NAME:        Zhang Li
+PRONOUNS:    he/him
+EMAIL:       zhangli@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Zhou'}

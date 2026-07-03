@@ -1,7 +1,0 @@
-NAME:        Ritvik Sharma
-PRONOUNS:    he/him
-EMAIL:       ritvik.sharma@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: Renu Sharma (mother)

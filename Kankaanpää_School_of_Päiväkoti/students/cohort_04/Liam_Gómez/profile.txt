@@ -1,0 +1,7 @@
+NAME:        Liam Gómez
+PRONOUNS:    he/him
+EMAIL:       liam.gomez@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.3
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'María Gómez', 'phone': '987-654-3210', 'relationship': 'Mother'}

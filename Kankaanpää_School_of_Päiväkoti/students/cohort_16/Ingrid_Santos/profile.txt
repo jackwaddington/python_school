@@ -1,0 +1,7 @@
+NAME:        Ingrid Santos
+PRONOUNS:    she/her
+EMAIL:       ingrid.santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'João', 'last_name': 'Santos'}

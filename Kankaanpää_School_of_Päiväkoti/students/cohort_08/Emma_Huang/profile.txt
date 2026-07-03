@@ -1,0 +1,7 @@
+NAME:        Emma Huang
+PRONOUNS:    she/her
+EMAIL:       emmahuang@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Zhang Huang

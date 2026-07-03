@@ -1,7 +1,0 @@
-NAME:        Mohammad Ahmed
-PRONOUNS:    he/him
-EMAIL:       mohammadahmed@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: Fatima Ahmed

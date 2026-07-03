@@ -1,7 +1,0 @@
-NAME:        Lukas O'Leary
-PRONOUNS:    he/him
-EMAIL:       lukas.oleary@kankaanpaavakouluopisto.school.com
-COHORT:      19
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Aine', 'last_name': "O'Leary"}

@@ -1,0 +1,7 @@
+NAME:        Diana Silva
+PRONOUNS:    she/her
+EMAIL:       dsilva@kankaanpaavakoulukoollisopaivakoti.school.com
+COHORT:      1
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: Carlos Santos <csantos@example.com>

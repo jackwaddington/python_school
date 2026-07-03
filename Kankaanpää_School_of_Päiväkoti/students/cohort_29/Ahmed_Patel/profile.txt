@@ -1,7 +1,0 @@
-NAME:        Ahmed Patel
-PRONOUNS:    he/him
-EMAIL:       ahmed.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Rita', 'last_name': 'Patel'}

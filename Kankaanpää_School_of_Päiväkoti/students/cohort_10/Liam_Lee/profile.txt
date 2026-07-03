@@ -1,7 +1,0 @@
-NAME:        Liam Lee
-PRONOUNS:    he/him
-EMAIL:       liam.lee@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      10
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Na', 'phone': '+86 139 1234 5678', 'relationship': 'Mother'}

@@ -1,0 +1,7 @@
+NAME:        Ahmed Abo-Hasan
+PRONOUNS:    he/him
+EMAIL:       ahmed.abo-hasan@kankaanpaevakoti.school.com
+COHORT:      14
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: Noura Abo-Hasan (mother) - noura.abo-hasan@example.com

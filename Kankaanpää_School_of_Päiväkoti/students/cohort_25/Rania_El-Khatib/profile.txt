@@ -1,7 +1,0 @@
-NAME:        Rania El-Khatib
-PRONOUNS:    she/her
-EMAIL:       rania.el-khatib@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.11
-ALLERGIES:   None
-NEXT OF KIN: Mohammad El-Khatib

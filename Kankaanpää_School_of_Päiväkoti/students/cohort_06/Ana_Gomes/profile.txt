@@ -1,7 +1,0 @@
-NAME:        Ana Gomes
-PRONOUNS:    she/her
-EMAIL:       anagomes@kankaanpaavakooliopaivakoti.school.com
-COHORT:      6
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: João Gomes (father) - joao.gomes@outlook.pt

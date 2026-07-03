@@ -1,0 +1,7 @@
+NAME:        Mehwish Ali
+PRONOUNS:    she/her
+EMAIL:       mehwish.ali@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.27
+ALLERGIES:   None
+NEXT OF KIN: Aamir Khan <aamir.khan@example.com>

@@ -1,0 +1,7 @@
+NAME:        Emma Lee
+PRONOUNS:    she/her
+EMAIL:       emma.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.18
+ALLERGIES:   None
+NEXT OF KIN: James Lee (father) - james.lee@example.com

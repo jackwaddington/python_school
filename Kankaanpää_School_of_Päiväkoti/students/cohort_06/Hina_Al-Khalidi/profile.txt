@@ -1,7 +1,0 @@
-NAME:        Hina Al-Khalidi
-PRONOUNS:    she/her
-EMAIL:       hina.al-khalidi@kankaanpaaschoolofpaivakoti.com
-COHORT:      6
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Ahmed Al-Khalidi

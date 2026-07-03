@@ -1,0 +1,7 @@
+NAME:        Oliver Johansson
+PRONOUNS:    he/him
+EMAIL:       oliver.johansson@kankaanpaaschoolofpäiväkoti.com
+COHORT:      7
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: Anna Johansson

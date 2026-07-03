@@ -1,0 +1,7 @@
+NAME:        Leonardo Santos
+PRONOUNS:    he/him
+EMAIL:       leonardosantos@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Santos', 'relation': 'Mother', 'phone': '+1267890456', 'email': 'mariasantos@example.com'}

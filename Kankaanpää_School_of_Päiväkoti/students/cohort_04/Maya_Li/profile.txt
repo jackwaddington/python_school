@@ -1,0 +1,7 @@
+NAME:        Maya Li
+PRONOUNS:    she/her
+EMAIL:       maya.li@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.16
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Xiaoming', 'last_name': 'Li', 'relationship': 'Father'}

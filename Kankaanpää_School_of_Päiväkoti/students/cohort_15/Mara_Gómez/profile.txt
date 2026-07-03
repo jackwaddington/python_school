@@ -1,0 +1,7 @@
+NAME:        Mara Gómez
+PRONOUNS:    she/her
+EMAIL:       mara.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Juan Pérez <juan.perez@example.com>

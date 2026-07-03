@@ -1,0 +1,7 @@
+NAME:        Nathan Park
+PRONOUNS:    he/him
+EMAIL:       nathan.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Ji-Young Lee <ji-young.lee@example.com>

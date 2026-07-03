@@ -1,0 +1,7 @@
+NAME:        Aaron Zhang
+PRONOUNS:    he/him
+EMAIL:       aaron.zhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      2
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Yi Zhang

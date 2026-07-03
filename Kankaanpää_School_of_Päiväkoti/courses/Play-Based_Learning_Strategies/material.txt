@@ -2,20 +2,24 @@ COURSE: Play-Based Learning Strategies
 Required passes to complete: 11
 ────────────────────────────────────────
 
- Play-Based Learning Strategies in Päiväkoti (Finnish Early Childhood Education and Care)
+ Play-Based Learning Strategies in Päiväkoti (Finnish Daycare)
 
-1. **Play as Learning**: This concept emphasizes the educational potential of play. Play is considered a natural means for children to explore, learn, and develop social skills. During play, children can experiment with ideas, solve problems, and interact with their environment in a non-threatening and enjoyable manner.
+1. **Free Play**
+   - Definition: Free play is an unstructured, self-directed learning activity where children are allowed to explore and interact with their environment freely, without adult intervention or predefined goals.
+   - How it works: In free play, children are encouraged to use their imagination, creativity, and problem-solving skills to engage in activities of their own choice. This fosters independence, self-regulation, and social skills.
+   - Concrete example: A child builds a tower using blocks without any specific instructions or end goal, learning about balance, structure, and creativity in the process.
 
-   Example: A child builds a tower using blocks, learning about balance, gravity, and problem-solving through the process.
+2. **Dramatic Play**
+   - Definition: Dramatic play, also known as role-play or make-believe, is a type of play where children act out scenarios, often pretending to be adults or characters from stories.
+   - How it works: Through dramatic play, children develop language skills, empathy, and understanding of social roles and relationships. It also encourages creativity and imagination.
+   - Concrete example: Children dress up as doctors and nurses in a pretend hospital, learning about medical roles while practicing communication and cooperation.
 
-2. **Child-Initiated Learning**: This strategy allows children to take the lead in choosing and directing their play activities. The teacher's role is to observe, support, and extend the child's learning rather than dictate it. This approach encourages self-directed learning and fosters independence.
+3. **Block Play**
+   - Definition: Block play involves constructing structures using various types of blocks or building toys. It is often categorized under construction play.
+   - How it works: Block play promotes spatial reasoning, problem-solving skills, and mathematical concepts like geometry, measurement, and estimation. It also encourages collaboration and social interaction.
+   - Concrete example: Children work together to build a city with different types of blocks, discussing shapes, sizes, and strategies for construction along the way.
 
-   Example: A teacher provides a variety of materials (paints, clay, dolls) and observes as children select and engage with them in their own way, promoting their individual interests and creativity.
-
-3. **Open-Ended Play**: Open-ended play activities have no specific outcome or end goal. Instead, they provide opportunities for children to express themselves creatively, experiment with different solutions, and develop problem-solving skills.
-
-   Example: Providing loose parts (wooden blocks, pine cones, fabric scraps) encourages children to combine materials in various ways, fostering creativity and inventiveness.
-
-4. **Loose Parts Play**: Loose parts are open-ended play materials that can be moved, carried, combined, redesigned, lined up, taken apart, and put back together in multiple ways. This type of play encourages children to think creatively, develop problem-solving skills, and engage in social interaction.
-
-   Example: A collection of pebbles, sticks, and plastic containers can be used by children to create imaginary landscapes, construct buildings, or design vehicles for role-play scenarios.
+4. **Sensory Play**
+   - Definition: Sensory play involves activities that stimulate a child's senses, particularly touch, smell, taste, sight, and hearing. It is often messy and open-ended.
+   - How it works: Sensory play helps children develop their senses, motor skills, and understanding of the world around them. It also promotes creativity and exploration.
+   - Concrete example: Children explore a tray filled with cornstarch and water (also known as "oobleck"), learning about its unique properties while using their hands to mold, squish, and shape it.

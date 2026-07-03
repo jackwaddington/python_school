@@ -1,7 +1,0 @@
-NAME:        Ivan Petrov
-PRONOUNS:    he/him
-EMAIL:       ivan.petrov@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.81
-ALLERGIES:   None
-NEXT OF KIN: Elena Petrov

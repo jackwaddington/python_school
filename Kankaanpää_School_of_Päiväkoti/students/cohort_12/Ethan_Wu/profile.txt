@@ -1,0 +1,7 @@
+NAME:        Ethan Wu
+PRONOUNS:    he/him
+EMAIL:       ethan.wu@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wu', 'phone': '+358 40 8901 2345', 'relationship': 'Mother'}

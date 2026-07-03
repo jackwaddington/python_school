@@ -1,0 +1,7 @@
+NAME:        Leila Al-Jabri
+PRONOUNS:    she/her
+EMAIL:       leila.al-jabri@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ahmed', 'last_name': 'Al-Jabri'}

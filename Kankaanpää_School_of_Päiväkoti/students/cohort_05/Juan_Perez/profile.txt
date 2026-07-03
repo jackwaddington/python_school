@@ -1,0 +1,7 @@
+NAME:        Juan Perez
+PRONOUNS:    he/him
+EMAIL:       juanperez@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: Maria Perez

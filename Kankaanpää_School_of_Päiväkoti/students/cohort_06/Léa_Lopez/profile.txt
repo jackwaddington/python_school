@@ -1,7 +1,0 @@
-NAME:        Léa Lopez
-PRONOUNS:    she/her
-EMAIL:       lea.lopez@kankaanpaaschoolofpaivakoti.com
-COHORT:      6
-ABILITY:     0.64
-ALLERGIES:   ['nuts']
-NEXT OF KIN: Marie Lopez

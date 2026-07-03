@@ -1,0 +1,7 @@
+NAME:        Leila Gomez
+PRONOUNS:    she/her
+EMAIL:       leilagomez@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.24
+ALLERGIES:   None
+NEXT OF KIN: Juan Gomez (Father) - juangomez@example.com

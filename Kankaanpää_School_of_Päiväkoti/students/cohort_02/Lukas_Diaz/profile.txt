@@ -1,7 +1,0 @@
-NAME:        Lukas Diaz
-PRONOUNS:    he/him
-EMAIL:       lukas.diaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Sofía', 'last_name': 'Díaz'}

@@ -1,0 +1,7 @@
+NAME:        Sophie Park
+PRONOUNS:    she/her
+EMAIL:       sophiepark@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'David', 'last_name': 'Park'}

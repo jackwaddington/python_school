@@ -1,7 +1,0 @@
-NAME:        Sora Lee
-PRONOUNS:    she/her
-EMAIL:       sora.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      24
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Joon Lee (mother)

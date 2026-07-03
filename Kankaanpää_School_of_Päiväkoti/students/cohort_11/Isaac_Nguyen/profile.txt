@@ -1,0 +1,7 @@
+NAME:        Isaac Nguyen
+PRONOUNS:    he/him
+EMAIL:       isaacnguyen@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Hoa Nguyen

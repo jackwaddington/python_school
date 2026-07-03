@@ -1,7 +1,0 @@
-NAME:        Yara Lee
-PRONOUNS:    they/them
-EMAIL:       yara.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.83
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Mei Lee', 'relationship': 'Mother'}

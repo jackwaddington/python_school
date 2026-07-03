@@ -1,7 +1,0 @@
-NAME:        Ana Rodrigues
-PRONOUNS:    she/her
-EMAIL:       ana.rodrigues@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: José Rodrigues

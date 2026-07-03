@@ -1,7 +1,0 @@
-NAME:        Ismail Hassan
-PRONOUNS:    he/him
-EMAIL:       ismail.hassan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Aisha Hassan', 'relation': 'Mother', 'phone': '+358 40 7890 1234', 'email': 'aisha.hassan@kankaanpaaschoolofpaivakoti.school.com'}

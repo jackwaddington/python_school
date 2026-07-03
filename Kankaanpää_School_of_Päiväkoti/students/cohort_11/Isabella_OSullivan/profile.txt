@@ -1,7 +1,0 @@
-NAME:        Isabella O'Sullivan
-PRONOUNS:    she/her
-EMAIL:       isabella.osullivan@kankaanpaaschoolofpavikoti.school.com
-COHORT:      11
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Michael Brown <michaelbrown@example.com>

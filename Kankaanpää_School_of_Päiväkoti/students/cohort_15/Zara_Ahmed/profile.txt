@@ -1,0 +1,7 @@
+NAME:        Zara Ahmed
+PRONOUNS:    she/her
+EMAIL:       zarahmed@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Ahmed (Father) - mohammed.ahmed@example.com

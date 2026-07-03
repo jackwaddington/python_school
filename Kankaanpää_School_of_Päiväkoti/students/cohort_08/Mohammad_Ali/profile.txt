@@ -1,0 +1,7 @@
+NAME:        Mohammad Ali
+PRONOUNS:    he/him
+EMAIL:       mohammadali@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: Faten Ali

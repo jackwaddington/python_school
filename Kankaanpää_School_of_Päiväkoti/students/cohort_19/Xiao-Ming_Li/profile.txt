@@ -1,7 +1,0 @@
-NAME:        Xiao-Ming Li
-PRONOUNS:    he/him
-EMAIL:       xiao-ming.li@kankaanpaavakouluofpivakoti.school.com
-COHORT:      19
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: Qiang Li (father)

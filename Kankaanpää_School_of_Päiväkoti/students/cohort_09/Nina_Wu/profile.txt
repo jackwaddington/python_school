@@ -1,7 +1,0 @@
-NAME:        Nina Wu
-PRONOUNS:    she/her
-EMAIL:       nina.wu@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.2
-ALLERGIES:   None
-NEXT OF KIN: Liang Wu

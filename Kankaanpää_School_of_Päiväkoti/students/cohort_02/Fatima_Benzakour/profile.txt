@@ -1,0 +1,7 @@
+NAME:        Fatima Benzakour
+PRONOUNS:    she/her
+EMAIL:       fatima.benzakour@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      2
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mohammed', 'last_name': 'Benzakour'}

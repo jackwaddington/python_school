@@ -1,7 +1,7 @@
 NAME:        Emma Lee
 PRONOUNS:    she/her
-EMAIL:       elee@kankaanpaaschoolofpaivakoti.com
+EMAIL:       emmalee@kankaanpaavakouluofpivakoti.school.com
 COHORT:      1
-ABILITY:     0.81
+ABILITY:     0.52
 ALLERGIES:   None
-NEXT OF KIN: James Lee
+NEXT OF KIN: {'name': 'James Lee', 'relationship': 'Father'}

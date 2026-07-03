@@ -1,0 +1,7 @@
+NAME:        Lena Zhang
+PRONOUNS:    she/her
+EMAIL:       lena.zhang@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jian Zhang', 'relationship': 'Mother'}

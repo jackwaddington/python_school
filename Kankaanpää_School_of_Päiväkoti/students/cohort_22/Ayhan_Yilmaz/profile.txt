@@ -1,7 +1,0 @@
-NAME:        Ayhan Yilmaz
-PRONOUNS:    he/him
-EMAIL:       ayhan.yilmaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      22
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: Zeynep Yilmaz <zeynep.yilmaz@example.com>

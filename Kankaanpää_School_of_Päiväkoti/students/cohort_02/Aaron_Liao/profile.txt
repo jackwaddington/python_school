@@ -1,0 +1,7 @@
+NAME:        Aaron Liao
+PRONOUNS:    he/him
+EMAIL:       aaron.liao@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      2
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Li', 'last_name': 'Liao'}

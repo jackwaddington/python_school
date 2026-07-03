@@ -1,7 +1,0 @@
-NAME:        Hiroshi Tanaka
-PRONOUNS:    he/him
-EMAIL:       htanaka@kankaanpaavapaivakoti.school.com
-COHORT:      17
-ABILITY:     0.58
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Yumi Tanaka', 'phone': '+81-90-1234-5678'}

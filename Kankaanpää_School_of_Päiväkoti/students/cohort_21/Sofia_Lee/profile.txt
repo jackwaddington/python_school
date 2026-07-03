@@ -1,7 +1,0 @@
-NAME:        Sofia Lee
-PRONOUNS:    she/her
-EMAIL:       sofia.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.76
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

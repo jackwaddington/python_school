@@ -1,7 +1,0 @@
-NAME:        Max Liang
-PRONOUNS:    he/him
-EMAIL:       max.liang@kankaanpaavalipasila.school.com
-COHORT:      2
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Liang', 'relationship': 'Mother', 'phone': '+358 40 9012 3456', 'email': 'li.liang@example.com'}

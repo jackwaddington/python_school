@@ -1,0 +1,7 @@
+NAME:        Liam Zhou
+PRONOUNS:    he/him
+EMAIL:       liam.zhou@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mei Zhou', 'phone': '+358 40 2345 6789', 'relationship': 'Mother'}

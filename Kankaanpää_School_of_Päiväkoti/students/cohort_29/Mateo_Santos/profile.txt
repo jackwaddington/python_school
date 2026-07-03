@@ -1,7 +1,0 @@
-NAME:        Mateo Santos
-PRONOUNS:    he/him
-EMAIL:       mateosantos@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.37
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Santiago'}

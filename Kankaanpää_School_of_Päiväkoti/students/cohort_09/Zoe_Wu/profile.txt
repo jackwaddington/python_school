@@ -1,0 +1,7 @@
+NAME:        Zoe Wu
+PRONOUNS:    she/her
+EMAIL:       zoe.wu@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Wei', 'last_name': 'Wu'}

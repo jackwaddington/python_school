@@ -1,7 +1,0 @@
-NAME:        Nora Liu
-PRONOUNS:    she/her
-EMAIL:       noraliurecent@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Liu'}

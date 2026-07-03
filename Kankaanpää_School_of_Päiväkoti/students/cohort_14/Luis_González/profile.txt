@@ -1,0 +1,7 @@
+NAME:        Luis González
+PRONOUNS:    he/him
+EMAIL:       lgonzalez@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: María González

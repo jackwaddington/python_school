@@ -1,7 +1,0 @@
-NAME:        Mia Lopes
-PRONOUNS:    she/her
-EMAIL:       mlopes@kankaanpaavakoulukohtainen.school.com
-COHORT:      20
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'António', 'last_name': 'Lopes'}

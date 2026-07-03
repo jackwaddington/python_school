@@ -1,0 +1,7 @@
+NAME:        Liang Zhang
+PRONOUNS:    he/him
+EMAIL:       liang.zhang@kankaanpaevakotischool.com
+COHORT:      10
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: Jing Zhang

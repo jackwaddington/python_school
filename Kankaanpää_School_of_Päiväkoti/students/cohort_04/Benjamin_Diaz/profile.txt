@@ -1,0 +1,7 @@
+NAME:        Benjamin Diaz
+PRONOUNS:    he/him
+EMAIL:       benjamin.diaz@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Diaz', 'phone': '987-654-3210', 'relationship': 'Mother'}

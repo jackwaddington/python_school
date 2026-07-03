@@ -1,0 +1,7 @@
+NAME:        Zoe Park
+PRONOUNS:    she/her
+EMAIL:       zoe.park@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      9
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: James Park

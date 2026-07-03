@@ -1,7 +1,0 @@
-NAME:        Santiago Ramirez
-PRONOUNS:    he/him
-EMAIL:       santiago.ramirez@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.54
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ana', 'last_name': 'Ramirez'}

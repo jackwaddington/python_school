@@ -1,0 +1,7 @@
+NAME:        Leo Mendez
+PRONOUNS:    he/him
+EMAIL:       leo.mendez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.49
+ALLERGIES:   ['eggs']
+NEXT OF KIN: Carlos Mendez

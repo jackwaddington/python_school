@@ -1,7 +1,0 @@
-NAME:        Oliver Li
-PRONOUNS:    he/him
-EMAIL:       oliverli@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: Mei Li (Mother), mei.li@example.com

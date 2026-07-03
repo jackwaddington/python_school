@@ -1,7 +1,0 @@
-NAME:        Aya Kamala
-PRONOUNS:    she/her
-EMAIL:       aya.kamala@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      18
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Abdul', 'last_name': 'Hassan'}

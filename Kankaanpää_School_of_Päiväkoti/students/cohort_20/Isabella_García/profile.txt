@@ -1,7 +1,0 @@
-NAME:        Isabella García
-PRONOUNS:    she/her
-EMAIL:       isabella.garcia@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.85
-ALLERGIES:   ['gluten']
-NEXT OF KIN: {'name': 'Juan García', 'phone': '+358 40 3456 7890', 'relation': 'Father'}

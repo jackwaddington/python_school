@@ -1,7 +1,0 @@
-NAME:        Yara El-Hajj
-PRONOUNS:    she/her
-EMAIL:       yara.el-hajj@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      15
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ahmed El-Hajj', 'relationship': 'Father', 'phone': '+201234567890', 'email': 'ahmed.el-hajj@gmail.com'}

@@ -1,7 +1,0 @@
-NAME:        Zara Ahmed
-PRONOUNS:    she/her
-EMAIL:       zara.ahmed@kankaanpaavakouluopisto.school.com
-COHORT:      19
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Khalid', 'last_name': 'Ahmed'}

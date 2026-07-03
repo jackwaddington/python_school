@@ -1,0 +1,7 @@
+NAME:        Ismail Kamara
+PRONOUNS:    he/him
+EMAIL:       ismail.kamara@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Kamara'}

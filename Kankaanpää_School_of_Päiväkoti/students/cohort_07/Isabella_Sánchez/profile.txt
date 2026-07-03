@@ -1,0 +1,7 @@
+NAME:        Isabella Sánchez
+PRONOUNS:    she/her
+EMAIL:       isabella.sanchez@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: Juan Sánchez

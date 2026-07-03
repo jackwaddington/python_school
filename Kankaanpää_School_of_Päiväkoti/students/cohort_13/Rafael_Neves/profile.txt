@@ -1,0 +1,7 @@
+NAME:        Rafael Neves
+PRONOUNS:    he/him
+EMAIL:       rafael.neves@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Neves', 'relationship': 'Mother'}

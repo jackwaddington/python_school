@@ -1,0 +1,7 @@
+NAME:        Emma Nguyen
+PRONOUNS:    she/her
+EMAIL:       emmanguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Thomas', 'last_name': 'Nguyen'}

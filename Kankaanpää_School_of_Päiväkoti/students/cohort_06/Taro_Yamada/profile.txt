@@ -1,0 +1,7 @@
+NAME:        Taro Yamada
+PRONOUNS:    he/him
+EMAIL:       taroyamada@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Nakamura'}

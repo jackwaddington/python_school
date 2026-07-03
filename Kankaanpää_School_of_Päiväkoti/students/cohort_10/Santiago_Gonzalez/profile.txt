@@ -1,7 +1,0 @@
-NAME:        Santiago Gonzalez
-PRONOUNS:    he/him
-EMAIL:       santiago.gonzalez@kankaanpaavakouluopistopolku.school.com
-COHORT:      10
-ABILITY:     0.52
-ALLERGIES:   None
-NEXT OF KIN: María González

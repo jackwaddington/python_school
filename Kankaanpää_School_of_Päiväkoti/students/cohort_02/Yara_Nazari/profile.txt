@@ -1,0 +1,7 @@
+NAME:        Yara Nazari
+PRONOUNS:    they/them
+EMAIL:       yara.nazari@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mehdi Nazari', 'relationship': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Yuna Nur
-PRONOUNS:    she/her
-EMAIL:       yuna.nur@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.47
-ALLERGIES:   None
-NEXT OF KIN: Zainab Nur

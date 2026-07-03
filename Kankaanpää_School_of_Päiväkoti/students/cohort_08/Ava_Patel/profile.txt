@@ -1,0 +1,7 @@
+NAME:        Ava Patel
+PRONOUNS:    she/her
+EMAIL:       ava.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ravi Patel', 'relationship': 'Father', 'phone': '+1 234-567-8908', 'email': 'ravi.patel@example.com'}

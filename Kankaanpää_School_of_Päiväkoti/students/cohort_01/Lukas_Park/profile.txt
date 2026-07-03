@@ -1,7 +1,0 @@
-NAME:        Lukas Park
-PRONOUNS:    he/him
-EMAIL:       lukas.park@kankaanpaavakouluofpivakioto.com
-COHORT:      1
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Ji-Yeon Park

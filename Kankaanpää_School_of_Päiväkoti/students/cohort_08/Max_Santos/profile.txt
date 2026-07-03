@@ -1,0 +1,7 @@
+NAME:        Max Santos
+PRONOUNS:    he/him
+EMAIL:       maxsantos@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: Maria Santos

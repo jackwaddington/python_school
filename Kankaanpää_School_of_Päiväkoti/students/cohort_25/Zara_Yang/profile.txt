@@ -1,7 +1,0 @@
-NAME:        Zara Yang
-PRONOUNS:    she/her
-EMAIL:       zarayang@kankaanpaaschoolofpavikoti.com
-COHORT:      25
-ABILITY:     0.4
-ALLERGIES:   None
-NEXT OF KIN: James Yang (Father)

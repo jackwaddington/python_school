@@ -1,0 +1,7 @@
+NAME:        Aaliyah Perez
+PRONOUNS:    she/her
+EMAIL:       aaliyah.perez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Perez', 'phone': '+1-234-567-8910', 'relationship': 'Father'}

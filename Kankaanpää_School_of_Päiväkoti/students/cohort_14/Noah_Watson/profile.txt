@@ -1,0 +1,7 @@
+NAME:        Noah Watson
+PRONOUNS:    he/him
+EMAIL:       noahwatson@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Emily', 'last_name': 'Watson'}

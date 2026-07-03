@@ -1,0 +1,7 @@
+NAME:        Kai Nguyen
+PRONOUNS:    he/him
+EMAIL:       kai.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Thu Pham <thupham@example.com>

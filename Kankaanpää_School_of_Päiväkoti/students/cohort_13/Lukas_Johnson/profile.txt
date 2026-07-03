@@ -1,0 +1,7 @@
+NAME:        Lukas Johnson
+PRONOUNS:    he/him
+EMAIL:       lukas.johnson@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Linda Johnson', 'relationship': 'Mother'}

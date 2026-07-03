@@ -1,0 +1,7 @@
+NAME:        Zara Lee
+PRONOUNS:    she/her
+EMAIL:       zara.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.47
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: David Lee <david.lee@example.com>

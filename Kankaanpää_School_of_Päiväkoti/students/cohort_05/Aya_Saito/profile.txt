@@ -1,0 +1,7 @@
+NAME:        Aya Saito
+PRONOUNS:    she/her
+EMAIL:       ayasaito@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Hiroshi Saito

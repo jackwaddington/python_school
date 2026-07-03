@@ -1,0 +1,7 @@
+NAME:        Linus Olufemi
+PRONOUNS:    he/him
+EMAIL:       linus.olufemi@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: Funmilayo Olufemi (Mother) - funmilayo.olufemi@example.com

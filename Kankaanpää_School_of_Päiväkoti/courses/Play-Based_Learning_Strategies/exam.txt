@@ -1,17 +1,17 @@
 EXAM: Play-Based Learning Strategies
 ────────────────────────────────────────
 
-Q1: Which strategy in Finnish early childhood education emphasizes the educational potential of play?
-  A) Child-Directed Learning
-  B) Structured Play
-  C) Play as Learning
-  D) Loose Parts Play
-Answer: C
+Q1: What is free play in the context of Play-Based Learning Strategies in Päiväkoti (Finnish Daycare)?
+  A) A structured, adult-led learning activity with predefined goals.
+  B) An unstructured, self-directed learning activity where children are allowed to explore and interact with their environment freely.
+  C) A type of play where children act out scenarios pretending to be adults or characters from stories.
+  D) A sensory play involving activities that stimulate a child's senses.
+Answer: B
 
-Q2: Which type of play provides opportunities for children to express themselves creatively and develop problem-solving skills?
-  A) Structured Play
-  B) Teacher-Directed Learning
-  C) Open-Ended Play
-  D) Loose Parts Play
-Answer: C
+Q2: What is one advantage of block play in the context of Play-Based Learning Strategies in Päiväkoti (Finnish Daycare)?
+  A) It promotes social interaction and collaboration.
+  B) It helps children develop their senses, motor skills, and understanding of the world around them.
+  C) It encourages creativity and imagination but does not promote spatial reasoning or problem-solving skills.
+  D) It develops language skills, empathy, and understanding of social roles and relationships.
+Answer: A
 

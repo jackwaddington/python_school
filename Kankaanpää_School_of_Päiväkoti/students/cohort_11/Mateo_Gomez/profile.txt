@@ -1,0 +1,7 @@
+NAME:        Mateo Gomez
+PRONOUNS:    he/him
+EMAIL:       mateo.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ana Gomez', 'relationship': 'Mother'}

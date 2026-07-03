@@ -1,0 +1,7 @@
+NAME:        Emma Nguyen
+PRONOUNS:    she/her
+EMAIL:       emma.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Thanh Nguyen', 'phone': '+1-234-567-8908', 'relationship': 'Father'}

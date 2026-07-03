@@ -1,7 +1,0 @@
-NAME:        Yusuf Omar
-PRONOUNS:    he/him
-EMAIL:       yomar@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: Aisha Omar

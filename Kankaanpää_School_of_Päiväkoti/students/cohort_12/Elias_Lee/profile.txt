@@ -1,0 +1,7 @@
+NAME:        Elias Lee
+PRONOUNS:    he/him
+EMAIL:       elias.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.56
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Jin Lee

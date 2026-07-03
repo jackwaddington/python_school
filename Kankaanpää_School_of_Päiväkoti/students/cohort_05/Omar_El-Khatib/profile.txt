@@ -1,0 +1,7 @@
+NAME:        Omar El-Khatib
+PRONOUNS:    he/him
+EMAIL:       omarelkhatib@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: Noura El-Khatib

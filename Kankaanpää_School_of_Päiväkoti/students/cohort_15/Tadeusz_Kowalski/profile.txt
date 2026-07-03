@@ -1,0 +1,7 @@
+NAME:        Tadeusz Kowalski
+PRONOUNS:    he/him
+EMAIL:       tkowalski@kankaanpaavalipasila.school.com
+COHORT:      15
+ABILITY:     0.19
+ALLERGIES:   None
+NEXT OF KIN: Anna Kowalska (mother)

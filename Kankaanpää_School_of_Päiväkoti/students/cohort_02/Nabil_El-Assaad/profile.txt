@@ -1,0 +1,7 @@
+NAME:        Nabil El-Assaad
+PRONOUNS:    he/him
+EMAIL:       nabil.el-assaad@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Amina', 'last_name': 'El-Assaad'}

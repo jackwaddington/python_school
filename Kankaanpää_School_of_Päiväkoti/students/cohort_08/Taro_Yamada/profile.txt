@@ -1,7 +1,7 @@
 NAME:        Taro Yamada
 PRONOUNS:    he/him
-EMAIL:       taro.yamada@kankaanpaaschoolofpaivakoti.com
+EMAIL:       taro.yamada@kankaanpaaschoolofpavikoti.com
 COHORT:      8
-ABILITY:     0.52
+ABILITY:     0.23
 ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Yamada'}
+NEXT OF KIN: Kazuko Yamada

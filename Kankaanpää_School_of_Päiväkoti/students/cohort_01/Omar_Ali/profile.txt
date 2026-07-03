@@ -1,0 +1,7 @@
+NAME:        Omar Ali
+PRONOUNS:    he/him
+EMAIL:       omarali@kankaanpaavakouluofpivakoti.school.com
+COHORT:      1
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima Ali', 'relationship': 'Mother'}

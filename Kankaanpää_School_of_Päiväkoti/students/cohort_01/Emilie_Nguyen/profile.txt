@@ -1,0 +1,7 @@
+NAME:        Emilie Nguyen
+PRONOUNS:    she/her
+EMAIL:       enguyen@kankaanpaavakoulukoollisopaivakoti.school.com
+COHORT:      1
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: Thomas Pham <tpham@example.com>

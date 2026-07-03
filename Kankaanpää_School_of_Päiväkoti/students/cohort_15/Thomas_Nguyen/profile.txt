@@ -1,0 +1,7 @@
+NAME:        Thomas Nguyen
+PRONOUNS:    he/him
+EMAIL:       thomas.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.16
+ALLERGIES:   None
+NEXT OF KIN: Anna Tran <anna.tran@example.com>

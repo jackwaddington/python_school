@@ -1,7 +1,0 @@
-NAME:        Ayaan Ahmed
-PRONOUNS:    they/them
-EMAIL:       ayaan.ahmed@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: Fatima Ahmed <fatima.ahmed@example.com>

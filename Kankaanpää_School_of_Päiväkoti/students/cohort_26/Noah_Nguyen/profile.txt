@@ -1,7 +1,0 @@
-NAME:        Noah Nguyen
-PRONOUNS:    he/him
-EMAIL:       noah.nguyen@kankaanpaavakouluofpainivaltakoti.school.com
-COHORT:      26
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Thuy', 'last_name': 'Nguyen'}

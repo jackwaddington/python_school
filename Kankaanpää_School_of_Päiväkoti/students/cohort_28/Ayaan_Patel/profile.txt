@@ -1,7 +1,0 @@
-NAME:        Ayaan Patel
-PRONOUNS:    she/her
-EMAIL:       ayan.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.46
-ALLERGIES:   None
-NEXT OF KIN: Ravi Patel

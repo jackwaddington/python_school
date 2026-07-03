@@ -1,0 +1,7 @@
+NAME:        Hiroshi Takahashi
+PRONOUNS:    he/him
+EMAIL:       hiroshitakahashi@kankaanpaavakouluofpivakoti.school.com
+COHORT:      1
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Yumi Takahashi', 'relationship': 'Mother'}

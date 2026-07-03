@@ -1,0 +1,7 @@
+NAME:        Sara Park
+PRONOUNS:    she/her
+EMAIL:       spark@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.53
+ALLERGIES:   ['nuts']
+NEXT OF KIN: James Park

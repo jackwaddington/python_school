@@ -1,0 +1,7 @@
+NAME:        Anna Kim
+PRONOUNS:    she/her
+EMAIL:       anna.kim@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jin Kim', 'phone': '+358-40-7890-1234', 'email': 'jin.kim@example.com'}

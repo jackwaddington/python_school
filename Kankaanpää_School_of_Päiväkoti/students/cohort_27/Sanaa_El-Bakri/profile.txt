@@ -1,7 +1,0 @@
-NAME:        Sanaa El-Bakri
-PRONOUNS:    she/her
-EMAIL:       selbakri@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Hassan El-Bakri

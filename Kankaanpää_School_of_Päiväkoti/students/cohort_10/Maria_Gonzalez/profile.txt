@@ -1,7 +1,0 @@
-NAME:        Maria Gonzalez
-PRONOUNS:    she/her
-EMAIL:       maria.gonzalez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      10
-ABILITY:     0.36
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Juan Gonzalez', 'phone': '+52 444 1234 5678', 'relationship': 'Father'}

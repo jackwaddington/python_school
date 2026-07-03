@@ -1,0 +1,7 @@
+NAME:        Benjamin Gómez
+PRONOUNS:    he/him
+EMAIL:       benjamin.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María Gómez', 'phone': '+358 40 1234 5678', 'relationship': 'Mother'}

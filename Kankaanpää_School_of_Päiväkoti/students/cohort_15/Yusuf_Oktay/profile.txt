@@ -1,0 +1,7 @@
+NAME:        Yusuf Oktay
+PRONOUNS:    he/him
+EMAIL:       yusuf.oktay@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Emine Oktay', 'phone': '+358-40-0123-4567', 'email': 'emine.oktay@example.com'}

@@ -1,7 +1,7 @@
 NAME:        Zara Patel
 PRONOUNS:    she/her
-EMAIL:       zpatel@kankaanpaaschoolofpaivakoti.com
+EMAIL:       zarapatel@kankaanpaavakouluofpivakoti.school.com
 COHORT:      1
-ABILITY:     0.84
+ABILITY:     0.85
 ALLERGIES:   None
-NEXT OF KIN: Rajesh Patel
+NEXT OF KIN: {'name': 'Raj Patel', 'relationship': 'Father'}

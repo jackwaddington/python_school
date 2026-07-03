@@ -1,0 +1,7 @@
+NAME:        Zuzanna Kowalski
+PRONOUNS:    she/her
+EMAIL:       zuzanna.kowalski@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Rafal', 'last_name': 'Kowalski'}

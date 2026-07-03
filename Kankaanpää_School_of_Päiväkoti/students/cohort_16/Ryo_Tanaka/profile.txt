@@ -1,0 +1,7 @@
+NAME:        Ryo Tanaka
+PRONOUNS:    he/him
+EMAIL:       ryo.tanaka@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Yoko Nakamura <ynakamura@example.com>

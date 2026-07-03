@@ -1,7 +1,0 @@
-NAME:        Ana Gonzales
-PRONOUNS:    she/her
-EMAIL:       ana.gonzales@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      13
-ABILITY:     0.56
-ALLERGIES:   None
-NEXT OF KIN: Juan Gonzalez <juan.gonzalez@example.com>

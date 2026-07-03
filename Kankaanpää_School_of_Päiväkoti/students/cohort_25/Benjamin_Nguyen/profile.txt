@@ -1,7 +1,0 @@
-NAME:        Benjamin Nguyen
-PRONOUNS:    he/him
-EMAIL:       benjamininguyen@kankaanpaaschoolofpavikoti.com
-COHORT:      25
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Trang Nguyen (Mother)

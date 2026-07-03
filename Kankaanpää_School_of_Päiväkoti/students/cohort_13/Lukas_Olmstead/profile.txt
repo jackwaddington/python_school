@@ -1,0 +1,7 @@
+NAME:        Lukas Olmstead
+PRONOUNS:    he/him
+EMAIL:       lukas.olmstead@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Elizabeth Olmstead', 'relationship': 'Mother'}

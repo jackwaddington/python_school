@@ -1,7 +1,0 @@
-NAME:        Lina Zhang
-PRONOUNS:    she/her
-EMAIL:       lina.zhang@kankaanpaavakouluofpivakoti.school.com
-COHORT:      4
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Li Zhang (Father) - li.zhang@example.com

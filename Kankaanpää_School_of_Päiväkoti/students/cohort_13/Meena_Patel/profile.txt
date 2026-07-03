@@ -1,0 +1,7 @@
+NAME:        Meena Patel
+PRONOUNS:    she/her
+EMAIL:       meena.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Ravi Patel

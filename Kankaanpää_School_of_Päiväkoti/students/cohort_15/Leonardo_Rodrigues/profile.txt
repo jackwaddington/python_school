@@ -1,0 +1,7 @@
+NAME:        Leonardo Rodrigues
+PRONOUNS:    he/him
+EMAIL:       lrodrigues@kankaanpaavalipasila.school.com
+COHORT:      15
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: Maria Rodriguez (mother)

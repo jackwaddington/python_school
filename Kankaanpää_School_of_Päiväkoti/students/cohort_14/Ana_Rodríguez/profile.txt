@@ -1,0 +1,7 @@
+NAME:        Ana Rodríguez
+PRONOUNS:    she/her
+EMAIL:       arodriguez@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: Juan Rodríguez

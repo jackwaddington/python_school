@@ -1,0 +1,7 @@
+NAME:        Sami Patel
+PRONOUNS:    he/him
+EMAIL:       sami.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Priya', 'last_name': 'Patel'}

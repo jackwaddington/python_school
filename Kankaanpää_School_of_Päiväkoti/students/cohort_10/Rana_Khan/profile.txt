@@ -1,0 +1,7 @@
+NAME:        Rana Khan
+PRONOUNS:    she/her
+EMAIL:       rana.khan@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Ali Khan <ali.khan@example.com>

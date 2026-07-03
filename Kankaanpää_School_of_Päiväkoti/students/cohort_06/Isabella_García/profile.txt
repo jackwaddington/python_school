@@ -1,7 +1,0 @@
-NAME:        Isabella García
-PRONOUNS:    she/her
-EMAIL:       isabella.garcia@kankaanpaavakoulusopimukoti.school.com
-COHORT:      6
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: Juan Pérez (father) - juan.perez@gmail.com

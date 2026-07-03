@@ -1,0 +1,7 @@
+NAME:        Lukas Rodriguez
+PRONOUNS:    he/him
+EMAIL:       lukas.rodriguez@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: Juan Rodriguez

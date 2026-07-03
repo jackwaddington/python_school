@@ -1,0 +1,7 @@
+NAME:        Sebastian Lee
+PRONOUNS:    he/him
+EMAIL:       sebastianlee@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: James Lee

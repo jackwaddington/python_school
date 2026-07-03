@@ -1,0 +1,7 @@
+NAME:        Laila Al-Khalili
+PRONOUNS:    she/her
+EMAIL:       lal-khalili@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammed Al-Khalili', 'relationship': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Li-Mei Zhang
-PRONOUNS:    she/her
-EMAIL:       lzhang@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Jin Zhang

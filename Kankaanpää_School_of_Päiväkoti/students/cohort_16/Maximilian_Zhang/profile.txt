@@ -1,0 +1,7 @@
+NAME:        Maximilian Zhang
+PRONOUNS:    he/him
+EMAIL:       mzhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.21
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Liang Zhang', 'relationship': 'Mother', 'phone_number': '+358 40 7890 1234', 'email': 'lzhang@example.com'}

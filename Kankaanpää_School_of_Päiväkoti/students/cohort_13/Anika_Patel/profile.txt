@@ -1,7 +1,0 @@
-NAME:        Anika Patel
-PRONOUNS:    she/her
-EMAIL:       apatel@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: Raj Patel <rajpatel@example.com>

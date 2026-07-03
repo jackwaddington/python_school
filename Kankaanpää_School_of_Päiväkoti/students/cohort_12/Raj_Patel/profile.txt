@@ -1,0 +1,7 @@
+NAME:        Raj Patel
+PRONOUNS:    he/him
+EMAIL:       raj.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: Smita Patel (Mother) - smita.patel@example.com

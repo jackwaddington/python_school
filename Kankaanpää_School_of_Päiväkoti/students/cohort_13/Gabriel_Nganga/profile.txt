@@ -1,0 +1,7 @@
+NAME:        Gabriel Ng'ang'a
+PRONOUNS:    he/him
+EMAIL:       gnganga@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.61
+ALLERGIES:   None
+NEXT OF KIN: {'name': "Maria Ng'ang'a", 'relationship': 'Mother'}

@@ -1,7 +1,0 @@
-NAME:        Sara Al-Khalili
-PRONOUNS:    she/her
-EMAIL:       sara.al-khalili@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Ahmed Al-Khalili <ahmed.al-khalili@example.com>

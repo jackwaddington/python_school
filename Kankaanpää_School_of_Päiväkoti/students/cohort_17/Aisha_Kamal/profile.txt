@@ -1,7 +1,0 @@
-NAME:        Aisha Kamal
-PRONOUNS:    she/her
-EMAIL:       aisha.kamal@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Omar', 'last_name': 'Kamal'}

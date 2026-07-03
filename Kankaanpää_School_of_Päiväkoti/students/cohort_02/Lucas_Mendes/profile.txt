@@ -1,0 +1,7 @@
+NAME:        Lucas Mendes
+PRONOUNS:    he/him
+EMAIL:       lucas.mendes@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Mendes', 'relationship': 'Mother'}

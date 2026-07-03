@@ -1,0 +1,7 @@
+NAME:        Yara Awad
+PRONOUNS:    she/her
+EMAIL:       yara.awad@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Mohamed El-Sayed <mohamed.elsayed@example.com>

@@ -1,0 +1,7 @@
+NAME:        Ana Santos
+PRONOUNS:    she/her
+EMAIL:       ana.santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Raul Santos (Father) - raul.santos@example.com

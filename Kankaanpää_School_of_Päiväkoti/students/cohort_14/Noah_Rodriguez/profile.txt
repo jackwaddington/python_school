@@ -1,7 +1,0 @@
-NAME:        Noah Rodriguez
-PRONOUNS:    he/him
-EMAIL:       nrodriguez@kankaanpaavakoulu.school.com
-COHORT:      14
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Maria Rodriguez <mariarodriguez@example.com>

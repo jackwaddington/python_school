@@ -1,0 +1,7 @@
+NAME:        Kai Svensson
+PRONOUNS:    he/him
+EMAIL:       kaisvensson@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Eva', 'last_name': 'Andersson'}

@@ -1,0 +1,7 @@
+NAME:        Lila Lee
+PRONOUNS:    she/her
+EMAIL:       lila.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.72
+ALLERGIES:   shellfish
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

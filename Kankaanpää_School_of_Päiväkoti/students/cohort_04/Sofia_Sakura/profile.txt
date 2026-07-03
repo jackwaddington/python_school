@@ -1,7 +1,0 @@
-NAME:        Sofia Sakura
-PRONOUNS:    she/her
-EMAIL:       sofia.sakura@kankaanpaevakoti.school.com
-COHORT:      4
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Hideki Sakura (father), mob: 345-6789012

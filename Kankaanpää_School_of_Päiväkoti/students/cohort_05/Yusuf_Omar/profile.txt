@@ -1,0 +1,7 @@
+NAME:        Yusuf Omar
+PRONOUNS:    he/him
+EMAIL:       yusuf.omar@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Omar'}

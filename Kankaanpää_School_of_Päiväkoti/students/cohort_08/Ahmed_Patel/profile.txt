@@ -1,0 +1,7 @@
+NAME:        Ahmed Patel
+PRONOUNS:    he/him
+EMAIL:       ahmedpatel@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: Rashid Patel

@@ -1,7 +1,0 @@
-NAME:        Noura El-Hassan
-PRONOUNS:    she/her
-EMAIL:       noura.el-hassan@kankaanpaevakoti.school.com
-COHORT:      4
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: Ahmed El-Hassan (father), mob: 789-016

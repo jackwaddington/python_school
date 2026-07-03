@@ -1,0 +1,7 @@
+NAME:        Mohammed Al-Hassan
+PRONOUNS:    he/him
+EMAIL:       mohammed.alhassan@kankaanpaavakouluofpivakoti.school.com
+COHORT:      3
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: Aisha Al-Hassan (mother)

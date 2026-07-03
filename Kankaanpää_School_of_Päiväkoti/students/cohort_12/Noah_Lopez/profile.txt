@@ -1,0 +1,7 @@
+NAME:        Noah Lopez
+PRONOUNS:    he/him
+EMAIL:       noah.lopez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.78
+ALLERGIES:   ['wheat']
+NEXT OF KIN: Maria Lopez

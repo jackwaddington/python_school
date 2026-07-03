@@ -1,0 +1,7 @@
+NAME:        Benjamin García
+PRONOUNS:    he/him
+EMAIL:       benjamingarcia@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María García', 'relationship': 'Mother', 'phone': '+541234567890'}

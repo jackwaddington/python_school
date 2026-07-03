@@ -1,7 +1,0 @@
-NAME:        Emilia Gómez
-PRONOUNS:    she/her
-EMAIL:       emilia.gomez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: Juan Gómez (Father), juan.gomez@example.com

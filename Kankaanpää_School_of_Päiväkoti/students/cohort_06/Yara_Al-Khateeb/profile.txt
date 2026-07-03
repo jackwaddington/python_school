@@ -1,0 +1,7 @@
+NAME:        Yara Al-Khateeb
+PRONOUNS:    she/her
+EMAIL:       yaralkhateeb@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.76
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ahmed Al-Khateeb', 'relationship': 'Father', 'phone': '+9711234567890'}

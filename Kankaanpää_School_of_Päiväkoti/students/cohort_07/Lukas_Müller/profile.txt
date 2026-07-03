@@ -1,0 +1,7 @@
+NAME:        Lukas Müller
+PRONOUNS:    he/him
+EMAIL:       lmueller@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Anna Schmidt <aschmidt@example.com>

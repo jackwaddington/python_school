@@ -1,0 +1,7 @@
+NAME:        Eduardo Santos
+PRONOUNS:    he/him
+EMAIL:       eduardo.santos@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: David Lee <dlee@example.com>

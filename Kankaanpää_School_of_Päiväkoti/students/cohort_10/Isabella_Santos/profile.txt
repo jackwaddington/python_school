@@ -1,0 +1,7 @@
+NAME:        Isabella Santos
+PRONOUNS:    she/her
+EMAIL:       isabella.santos@kankaanpaevakotischool.com
+COHORT:      10
+ABILITY:     0.7
+ALLERGIES:   None
+NEXT OF KIN: Joaquim Santos

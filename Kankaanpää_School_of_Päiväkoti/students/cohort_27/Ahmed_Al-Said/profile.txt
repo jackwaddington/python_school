@@ -1,7 +1,0 @@
-NAME:        Ahmed Al-Said
-PRONOUNS:    he/him
-EMAIL:       ahmedalsaid@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.75
-ALLERGIES:   None
-NEXT OF KIN: Noura Al-Said (Mother) - nouraal-said@example.com

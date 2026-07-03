@@ -1,0 +1,7 @@
+NAME:        Oliver Wang
+PRONOUNS:    he/him
+EMAIL:       owang@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.4
+ALLERGIES:   ['gluten']
+NEXT OF KIN: Lily Wang

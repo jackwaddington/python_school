@@ -1,7 +1,0 @@
-NAME:        Kai Li
-PRONOUNS:    they/them
-EMAIL:       kai.li@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Wei', 'relationship': 'Parent', 'phone': '+86 1234-5678', 'email': 'li.wei@kankaanpaaschoolofpaivakoti.com'}

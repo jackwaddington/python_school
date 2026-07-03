@@ -1,0 +1,7 @@
+NAME:        Oliver Wu
+PRONOUNS:    he/him
+EMAIL:       oliver.wu@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wu', 'relationship': 'Mother', 'phone': '+1 234-567-8905', 'email': 'li.wu@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Sophia Li
+PRONOUNS:    she/her
+EMAIL:       sophia.li@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Zhen Li', 'relationship': 'Father'}

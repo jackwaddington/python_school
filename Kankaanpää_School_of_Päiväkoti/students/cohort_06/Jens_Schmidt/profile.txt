@@ -1,0 +1,7 @@
+NAME:        Jens Schmidt
+PRONOUNS:    he/him
+EMAIL:       jensschmidt@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anna', 'last_name': 'Schneider'}

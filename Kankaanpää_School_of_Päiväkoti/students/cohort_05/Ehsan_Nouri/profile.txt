@@ -1,0 +1,7 @@
+NAME:        Ehsan Nouri
+PRONOUNS:    he/him
+EMAIL:       ehsan.nouri@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fatemeh', 'last_name': 'Nouri'}

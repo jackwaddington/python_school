@@ -1,0 +1,7 @@
+NAME:        Sara Nakamura
+PRONOUNS:    she/her
+EMAIL:       snakamura@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Yoshihiro Nakamura

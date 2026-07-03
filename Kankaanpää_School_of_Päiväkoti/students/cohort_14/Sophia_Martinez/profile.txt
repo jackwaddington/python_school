@@ -1,0 +1,7 @@
+NAME:        Sophia Martinez
+PRONOUNS:    she/her
+EMAIL:       sophia.martinez@kankaanpaavakoulukohtaopaivakoti.school.com
+COHORT:      14
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Martinez'}

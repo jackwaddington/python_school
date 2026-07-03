@@ -1,7 +1,0 @@
-NAME:        Dongyang Zhang
-PRONOUNS:    he/him
-EMAIL:       dongyang.zhang@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Li Mei <limei@example.com>

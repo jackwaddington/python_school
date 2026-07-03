@@ -1,0 +1,7 @@
+NAME:        Leo Pereira
+PRONOUNS:    he/him
+EMAIL:       leo.pereira@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: Ana Pereira

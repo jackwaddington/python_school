@@ -1,0 +1,7 @@
+NAME:        Marcos Gonzales
+PRONOUNS:    he/him
+EMAIL:       marcos.gonzales@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Sofia Rodriguez <sofia.rodriguez@example.com>

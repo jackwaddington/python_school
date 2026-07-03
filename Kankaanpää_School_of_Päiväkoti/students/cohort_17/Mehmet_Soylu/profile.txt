@@ -1,7 +1,0 @@
-NAME:        Mehmet Soylu
-PRONOUNS:    he/him
-EMAIL:       mehmet.soylu@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Ayse Soylu

@@ -1,0 +1,7 @@
+NAME:        Leila Benjamin
+PRONOUNS:    she/her
+EMAIL:       leila.benjamin@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Eli Benjamin', 'relationship': 'Father'}

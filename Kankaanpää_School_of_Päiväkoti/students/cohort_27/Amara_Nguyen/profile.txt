@@ -1,7 +1,0 @@
-NAME:        Amara Nguyen
-PRONOUNS:    she/her
-EMAIL:       amaranguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.89
-ALLERGIES:   None
-NEXT OF KIN: Anh Nguyen (Mother) - anhnguyen@example.com

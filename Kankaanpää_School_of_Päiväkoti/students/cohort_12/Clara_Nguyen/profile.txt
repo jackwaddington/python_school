@@ -1,0 +1,7 @@
+NAME:        Clara Nguyen
+PRONOUNS:    she/her
+EMAIL:       clara.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Thomas Nguyen (Father) - thomas.nguyen@example.com

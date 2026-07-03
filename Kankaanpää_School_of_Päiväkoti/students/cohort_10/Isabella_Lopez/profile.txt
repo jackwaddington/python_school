@@ -1,0 +1,7 @@
+NAME:        Isabella Lopez
+PRONOUNS:    she/her
+EMAIL:       isabella.lopez@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: Juan Lopez (Father) - juan.lopez@example.com

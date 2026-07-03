@@ -1,7 +1,0 @@
-NAME:        Yara Ramirez
-PRONOUNS:    she/her
-EMAIL:       yara.ramirez@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Ramirez', 'relationship': 'Father'}

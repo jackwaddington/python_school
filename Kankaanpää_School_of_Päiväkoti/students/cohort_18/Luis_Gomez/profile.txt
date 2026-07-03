@@ -1,7 +1,0 @@
-NAME:        Luis Gomez
-PRONOUNS:    he/him
-EMAIL:       luis.gomez@kankaanpaaschoolofpavikoti.com
-COHORT:      18
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: Maria Gomez (mother), maria.gomez@example.com

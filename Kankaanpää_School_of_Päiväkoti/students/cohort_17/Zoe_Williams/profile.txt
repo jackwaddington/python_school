@@ -1,7 +1,0 @@
-NAME:        Zoe Williams
-PRONOUNS:    she/her
-EMAIL:       zoe.williams@kankaanpaaschoolofpaivakoti.com
-COHORT:      17
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: Mark Williams (father)

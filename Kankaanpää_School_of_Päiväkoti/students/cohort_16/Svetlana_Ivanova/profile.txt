@@ -1,0 +1,7 @@
+NAME:        Svetlana Ivanova
+PRONOUNS:    she/her
+EMAIL:       svetlana.ivanova@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.26
+ALLERGIES:   None
+NEXT OF KIN: Anna Petrov <apetrov@example.com>

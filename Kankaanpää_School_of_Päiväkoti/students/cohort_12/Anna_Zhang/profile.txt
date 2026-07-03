@@ -1,0 +1,7 @@
+NAME:        Anna Zhang
+PRONOUNS:    she/her
+EMAIL:       anna.zhang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Wei', 'last_name': 'Zhang'}

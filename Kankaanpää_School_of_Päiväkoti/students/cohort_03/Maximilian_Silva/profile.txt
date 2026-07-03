@@ -1,7 +1,0 @@
-NAME:        Maximilian Silva
-PRONOUNS:    he/him
-EMAIL:       maximilian.silva@kankaanpaavakoulukeskus.school.com
-COHORT:      3
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Raquel', 'last_name': 'Silva'}

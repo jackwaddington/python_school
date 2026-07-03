@@ -1,0 +1,7 @@
+NAME:        Kwame Agyeman
+PRONOUNS:    he/him
+EMAIL:       kwame.agyeman@kankaanpaevakotischool.com
+COHORT:      10
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: Sarah Agyeman

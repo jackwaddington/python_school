@@ -1,0 +1,7 @@
+NAME:        Ana Gonzalez
+PRONOUNS:    she/her
+EMAIL:       ana.gonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.87
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Pedro Gonzalez <pedro.gonzalez@example.com>

@@ -1,7 +1,0 @@
-NAME:        Marcus Alvarez
-PRONOUNS:    he/him
-EMAIL:       marcus.alvarez@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Alvarez', 'relationship': 'Father', 'phone_number': '+52-12345678'}

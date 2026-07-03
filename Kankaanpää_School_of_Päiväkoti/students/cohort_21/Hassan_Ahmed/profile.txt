@@ -1,7 +1,0 @@
-NAME:        Hassan Ahmed
-PRONOUNS:    he/him
-EMAIL:       hassan.ahmed@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.88
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Fadwa Ahmed', 'relationship': 'Mother'}

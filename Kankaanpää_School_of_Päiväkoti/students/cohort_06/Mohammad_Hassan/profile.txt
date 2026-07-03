@@ -1,0 +1,7 @@
+NAME:        Mohammad Hassan
+PRONOUNS:    he/him
+EMAIL:       mohammadhassan@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima Hassan', 'relationship': 'Mother', 'phone': '+9661234567890'}

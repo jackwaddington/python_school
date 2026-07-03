@@ -1,0 +1,7 @@
+NAME:        Sofia Lopez
+PRONOUNS:    she/her
+EMAIL:       sofia.lopez@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Lopez', 'relationship': 'Mother'}

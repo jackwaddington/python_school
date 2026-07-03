@@ -1,0 +1,7 @@
+NAME:        Emma Nakamura
+PRONOUNS:    she/her
+EMAIL:       emma.nakamura@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hiroshi Nakamura', 'phone': '123-456-7890', 'relationship': 'Father'}

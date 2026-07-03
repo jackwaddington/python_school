@@ -1,0 +1,7 @@
+NAME:        Lev Ivanov
+PRONOUNS:    he/him
+EMAIL:       livanov@kankaanpaavalipasila.school.com
+COHORT:      15
+ABILITY:     0.25
+ALLERGIES:   None
+NEXT OF KIN: Elena Ivanova (mother)

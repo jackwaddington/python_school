@@ -1,0 +1,7 @@
+NAME:        Oliver Chow
+PRONOUNS:    he/him
+EMAIL:       oliverchow@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ling', 'last_name': 'Li'}

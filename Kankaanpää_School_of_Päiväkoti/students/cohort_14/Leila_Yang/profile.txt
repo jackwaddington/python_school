@@ -1,0 +1,7 @@
+NAME:        Leila Yang
+PRONOUNS:    she/her
+EMAIL:       leilayang@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.25
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Yang'}

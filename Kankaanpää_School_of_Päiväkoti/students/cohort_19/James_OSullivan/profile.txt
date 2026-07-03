@@ -1,7 +1,0 @@
-NAME:        James O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       josullivan@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: Mary Murphy <mmurphy@example.com>

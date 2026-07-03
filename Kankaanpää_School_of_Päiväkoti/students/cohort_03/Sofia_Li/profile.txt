@@ -1,7 +1,7 @@
 NAME:        Sofia Li
 PRONOUNS:    she/her
-EMAIL:       sofia.li@kankaanpaavakoulukeskus.school.com
+EMAIL:       sofia.li@kankaanpaavakouluofpivakoti.school.com
 COHORT:      3
-ABILITY:     0.37
+ABILITY:     0.72
 ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Jin', 'last_name': 'Li'}
+NEXT OF KIN: James Li (father)

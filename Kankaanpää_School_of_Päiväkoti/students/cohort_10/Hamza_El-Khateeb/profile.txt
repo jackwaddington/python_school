@@ -1,7 +1,0 @@
-NAME:        Hamza El-Khateeb
-PRONOUNS:    he/him
-EMAIL:       hamza.elkhateeb@kankaanpaavakouluopistopolku.school.com
-COHORT:      10
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: Mohammed El-Khateeb

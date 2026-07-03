@@ -1,0 +1,7 @@
+NAME:        Mia Park
+PRONOUNS:    she/her
+EMAIL:       mpark@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.22
+ALLERGIES:   None
+NEXT OF KIN: James Park

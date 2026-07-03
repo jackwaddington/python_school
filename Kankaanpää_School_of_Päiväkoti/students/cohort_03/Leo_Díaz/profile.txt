@@ -1,0 +1,7 @@
+NAME:        Leo Díaz
+PRONOUNS:    he/him
+EMAIL:       leo.diaz@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      3
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: Ana Díaz (Mother), ana.diaz@example.com

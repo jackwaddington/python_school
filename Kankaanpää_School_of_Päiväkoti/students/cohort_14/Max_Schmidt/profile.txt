@@ -1,0 +1,7 @@
+NAME:        Max Schmidt
+PRONOUNS:    he/him
+EMAIL:       max.schmidt@kankaanpaavakoulukohtaopaivakoti.school.com
+COHORT:      14
+ABILITY:     0.1
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Sophie', 'last_name': 'Schmidt'}

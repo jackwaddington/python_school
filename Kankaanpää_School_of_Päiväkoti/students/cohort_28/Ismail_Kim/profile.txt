@@ -1,7 +1,0 @@
-NAME:        Ismail Kim
-PRONOUNS:    he/him
-EMAIL:       ismail.kim@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Minji Kim

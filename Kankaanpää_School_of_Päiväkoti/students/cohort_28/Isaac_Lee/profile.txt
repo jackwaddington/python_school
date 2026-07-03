@@ -1,7 +1,0 @@
-NAME:        Isaac Lee
-PRONOUNS:    he/him
-EMAIL:       isaac.lee@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ji-Young', 'last_name': 'Lee'}

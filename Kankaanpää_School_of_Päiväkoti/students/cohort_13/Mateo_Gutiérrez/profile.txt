@@ -1,7 +1,0 @@
-NAME:        Mateo Gutiérrez
-PRONOUNS:    he/him
-EMAIL:       mateo.gutierrez@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.33
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'María Gutiérrez', 'relationship': 'Mother', 'phone': '+52 1234-5678', 'email': 'maria.gutierrez@kankaanpaaschoolofpaivakoti.com'}

@@ -1,7 +1,0 @@
-NAME:        James O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       james.osullivan@kankaanpaavaschoolofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: {'name': "Mary O'Sullivan", 'relationship': 'Mother', 'phone': '+353 87 654 3210'}

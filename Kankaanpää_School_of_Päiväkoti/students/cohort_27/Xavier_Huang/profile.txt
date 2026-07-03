@@ -1,7 +1,0 @@
-NAME:        Xavier Huang
-PRONOUNS:    he/him
-EMAIL:       xavierhuang@kankaanpaaschoolofpaivakoti.com
-COHORT:      27
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Li Huang (Father) - lihuang@example.com

@@ -1,0 +1,7 @@
+NAME:        Ahmed Hassan
+PRONOUNS:    he/him
+EMAIL:       ahmed.hassan@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      3
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: Noura Hassan (Mother), noura.hassan@example.com

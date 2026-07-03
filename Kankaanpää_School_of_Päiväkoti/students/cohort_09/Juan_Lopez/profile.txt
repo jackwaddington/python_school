@@ -1,0 +1,7 @@
+NAME:        Juan Lopez
+PRONOUNS:    he/him
+EMAIL:       juan.lopez@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      9
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: María López

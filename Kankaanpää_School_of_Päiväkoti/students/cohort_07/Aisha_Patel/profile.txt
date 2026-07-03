@@ -1,7 +1,0 @@
-NAME:        Aisha Patel
-PRONOUNS:    she/her
-EMAIL:       aisha.patel@kankaanpaaschoolofpavikoti.com
-COHORT:      7
-ABILITY:     0.66
-ALLERGIES:   None
-NEXT OF KIN: Raj Patel

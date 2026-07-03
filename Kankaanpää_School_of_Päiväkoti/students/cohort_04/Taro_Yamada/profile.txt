@@ -1,7 +1,0 @@
-NAME:        Taro Yamada
-PRONOUNS:    he/him
-EMAIL:       taro.yamada@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.82
-ALLERGIES:   ['milk']
-NEXT OF KIN: Yumi Nakamura <yumi.nakamura@example.com>

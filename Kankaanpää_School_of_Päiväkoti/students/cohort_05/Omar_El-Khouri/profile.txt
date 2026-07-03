@@ -1,0 +1,7 @@
+NAME:        Omar El-Khouri
+PRONOUNS:    he/him
+EMAIL:       omar.el-khouri@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Laila El-Khouri', 'relationship': 'Mother'}

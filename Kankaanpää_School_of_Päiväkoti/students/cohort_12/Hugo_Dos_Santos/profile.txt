@@ -1,0 +1,7 @@
+NAME:        Hugo Dos Santos
+PRONOUNS:    he/him
+EMAIL:       hugo.dos-santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Maria Dos Santos (Mother) - maria.dos-santos@example.com

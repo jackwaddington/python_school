@@ -1,7 +1,0 @@
-NAME:        Adam Gómez
-PRONOUNS:    he/him
-EMAIL:       adam.gomez@kankaanpaaschoolofpaivakoti.com
-COHORT:      3
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'María', 'last_name': 'Gómez'}

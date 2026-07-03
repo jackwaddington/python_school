@@ -1,0 +1,7 @@
+NAME:        Elias Lopez
+PRONOUNS:    he/him
+EMAIL:       elias.lopez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: María López

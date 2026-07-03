@@ -1,0 +1,7 @@
+NAME:        Mateo León
+PRONOUNS:    he/him
+EMAIL:       mateo.leon@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Carmen', 'last_name': 'León'}

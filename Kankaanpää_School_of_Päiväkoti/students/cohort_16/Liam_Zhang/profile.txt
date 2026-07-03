@@ -1,7 +1,7 @@
 NAME:        Liam Zhang
 PRONOUNS:    he/him
-EMAIL:       liam.zhang@kankaanpaaschoolofpaivakoti.school.com
+EMAIL:       liamzhang@kankaanpaaschoolofpaivakoti.com
 COHORT:      16
-ABILITY:     0.51
+ABILITY:     0.12
 ALLERGIES:   None
-NEXT OF KIN: {'name': 'Mei Zhang', 'relationship': 'Mother', 'phone': '+358-40-9876-5432'}
+NEXT OF KIN: Li Zhang (mother) - lizhang@163.com

@@ -1,0 +1,7 @@
+NAME:        Amina Karim
+PRONOUNS:    she/her
+EMAIL:       amina.karim@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Omar Karim', 'phone': '+358 40 1234 5678', 'relationship': 'Father'}

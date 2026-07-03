@@ -1,0 +1,7 @@
+NAME:        Anais Gomez
+PRONOUNS:    they/them
+EMAIL:       anais.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.81
+ALLERGIES:   ['gluten']
+NEXT OF KIN: {'first_name': 'Pedro', 'last_name': 'Gomez'}

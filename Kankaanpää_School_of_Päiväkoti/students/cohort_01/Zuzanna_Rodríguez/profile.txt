@@ -1,7 +1,0 @@
-NAME:        Zuzanna Rodríguez
-PRONOUNS:    she/her
-EMAIL:       zuzanna.rodriguez@kankaanpaavakouluofpivakioto.com
-COHORT:      1
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: Juan Rodríguez

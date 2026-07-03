@@ -1,0 +1,7 @@
+NAME:        Taliyah Nguyen
+PRONOUNS:    she/her
+EMAIL:       taliyah.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.51
+ALLERGIES:   None
+NEXT OF KIN: Phuc Tran <phuc.tran@example.com>

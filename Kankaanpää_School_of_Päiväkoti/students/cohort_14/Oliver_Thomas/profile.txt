@@ -1,0 +1,7 @@
+NAME:        Oliver Thomas
+PRONOUNS:    he/him
+EMAIL:       othomas@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.25
+ALLERGIES:   None
+NEXT OF KIN: Sarah Thomas

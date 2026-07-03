@@ -1,0 +1,7 @@
+NAME:        Yuna Ng
+PRONOUNS:    she/her
+EMAIL:       yunang@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Peter Ng', 'relation': 'Father', 'phone': '+1345678901', 'email': 'peterng@example.com'}

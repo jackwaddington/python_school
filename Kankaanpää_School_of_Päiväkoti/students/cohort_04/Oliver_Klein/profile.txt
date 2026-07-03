@@ -1,7 +1,0 @@
-NAME:        Oliver Klein
-PRONOUNS:    he/him
-EMAIL:       oliver.klein@kankaanpaevakoti.school.com
-COHORT:      4
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: Anna Klein (mother), mob: 890-17

@@ -1,0 +1,7 @@
+NAME:        Ibrahim Mohammed
+PRONOUNS:    he/him
+EMAIL:       imohammed@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima Mohammed', 'relationship': 'Mother', 'phone_number': '+358 40 5678 9012', 'email': 'fmohammed@example.com'}

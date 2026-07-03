@@ -1,0 +1,7 @@
+NAME:        Anna Lee
+PRONOUNS:    she/her
+EMAIL:       anna.lee@kankaanpaevakotischool.com
+COHORT:      10
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: James Lee

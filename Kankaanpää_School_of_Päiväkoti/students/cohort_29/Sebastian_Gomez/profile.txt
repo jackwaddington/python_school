@@ -1,7 +1,0 @@
-NAME:        Sebastian Gomez
-PRONOUNS:    he/him
-EMAIL:       sebastian.gomez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      29
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juanita', 'last_name': 'Gomez'}

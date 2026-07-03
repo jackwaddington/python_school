@@ -1,0 +1,7 @@
+NAME:        Juan Gonzales
+PRONOUNS:    he/him
+EMAIL:       jgonzales@kankaanpaavakoulukoollisopaivakoti.school.com
+COHORT:      1
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Maria Rodriguez <mrodriguez@example.com>

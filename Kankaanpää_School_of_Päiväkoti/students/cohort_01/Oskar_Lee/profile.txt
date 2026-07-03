@@ -1,0 +1,7 @@
+NAME:        Oskar Lee
+PRONOUNS:    he/him
+EMAIL:       oskar.lee@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Minjoo', 'last_name': 'Lee'}

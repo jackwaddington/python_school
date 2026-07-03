@@ -1,7 +1,0 @@
-NAME:        Yara Silva
-PRONOUNS:    she/her
-EMAIL:       yara.silva@kankaanpaaschoolofpavikoti.com
-COHORT:      16
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: João Silva (father) - joao.silva@example.com

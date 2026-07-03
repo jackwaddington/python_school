@@ -1,0 +1,7 @@
+NAME:        Emma Sánchez
+PRONOUNS:    she/her
+EMAIL:       emma.sanchez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.58
+ALLERGIES:   ['gluten']
+NEXT OF KIN: {'name': 'Carlos Sánchez', 'phone': '+358 40 7890 1234', 'relationship': 'Father'}

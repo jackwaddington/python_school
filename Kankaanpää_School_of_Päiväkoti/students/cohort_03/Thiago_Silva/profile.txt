@@ -1,0 +1,7 @@
+NAME:        Thiago Silva
+PRONOUNS:    he/him
+EMAIL:       thiago.silva@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: Maria Silva

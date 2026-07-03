@@ -1,0 +1,7 @@
+NAME:        Isabella Garcia
+PRONOUNS:    she/her
+EMAIL:       isabella.garcia@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      2
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Raul', 'last_name': 'Garcia'}

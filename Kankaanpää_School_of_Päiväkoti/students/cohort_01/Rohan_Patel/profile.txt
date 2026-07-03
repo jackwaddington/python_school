@@ -1,7 +1,0 @@
-NAME:        Rohan Patel
-PRONOUNS:    he/him
-EMAIL:       rohan.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      1
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Priya Patel', 'relationship': 'Mother'}

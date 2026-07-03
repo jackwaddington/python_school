@@ -1,7 +1,0 @@
-NAME:        Sarah Patel
-PRONOUNS:    she/her
-EMAIL:       sarah.patel@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.57
-ALLERGIES:   None
-NEXT OF KIN: Raj Patel <raj.patel@example.com>

@@ -1,7 +1,0 @@
-NAME:        Ali Mohammed
-PRONOUNS:    he/him
-EMAIL:       alimohammed@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.14
-ALLERGIES:   None
-NEXT OF KIN: Fatima Mohammed (mother) - fatima.mohammed@example.com

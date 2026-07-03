@@ -1,0 +1,7 @@
+NAME:        Sanaa El-Masri
+PRONOUNS:    she/her
+EMAIL:       sanaaelmasri@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'El-Sayed'}

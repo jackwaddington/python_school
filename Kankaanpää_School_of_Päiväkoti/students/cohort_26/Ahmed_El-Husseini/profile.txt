@@ -1,7 +1,0 @@
-NAME:        Ahmed El-Husseini
-PRONOUNS:    he/him
-EMAIL:       aelhusseini@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Nour El-Husseini', 'phone': '+201002233445', 'email': 'nelhusseini_senior@example.com'}

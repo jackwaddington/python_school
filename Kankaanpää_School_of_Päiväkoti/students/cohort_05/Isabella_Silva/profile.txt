@@ -1,0 +1,7 @@
+NAME:        Isabella Silva
+PRONOUNS:    she/her
+EMAIL:       isabella.silva@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'João', 'last_name': 'Silva'}

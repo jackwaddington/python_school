@@ -1,7 +1,0 @@
-NAME:        Tiago Santos
-PRONOUNS:    he/him
-EMAIL:       tiago.santos@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: Maria Santos <maria.santos@example.com>

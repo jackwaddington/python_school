@@ -1,7 +1,0 @@
-NAME:        Ayaan Waris
-PRONOUNS:    she/her
-EMAIL:       ayaan.waris@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      12
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Abdi', 'last_name': 'Waris', 'relationship': 'Father'}

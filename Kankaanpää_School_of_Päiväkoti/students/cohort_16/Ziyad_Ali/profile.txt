@@ -1,0 +1,7 @@
+NAME:        Ziyad Ali
+PRONOUNS:    he/him
+EMAIL:       ziyad.ali@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Amina', 'last_name': 'Ali'}

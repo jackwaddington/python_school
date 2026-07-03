@@ -1,7 +1,0 @@
-NAME:        Zuzana Nováčková
-PRONOUNS:    she/her
-EMAIL:       znovackova@kankaanpaavakouluofpivaikoti.school.com
-COHORT:      27
-ABILITY:     0.44
-ALLERGIES:   None
-NEXT OF KIN: Ján Nováček

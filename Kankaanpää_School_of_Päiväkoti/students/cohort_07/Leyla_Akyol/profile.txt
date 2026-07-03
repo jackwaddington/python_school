@@ -1,7 +1,0 @@
-NAME:        Leyla Akyol
-PRONOUNS:    she/her
-EMAIL:       leyla.akyol@kankaanpaaschoolofpavikoti.com
-COHORT:      7
-ABILITY:     0.85
-ALLERGIES:   None
-NEXT OF KIN: Emre Akyol

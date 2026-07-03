@@ -1,0 +1,7 @@
+NAME:        Sarita Raj
+PRONOUNS:    she/her
+EMAIL:       sarita.raj@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.49
+ALLERGIES:   ['nut']
+NEXT OF KIN: Ram Singh <ram.singh@example.com>

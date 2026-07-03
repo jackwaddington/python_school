@@ -1,0 +1,7 @@
+NAME:        Sara Kim
+PRONOUNS:    she/her
+EMAIL:       sara.kim@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.26
+ALLERGIES:   None
+NEXT OF KIN: Jin Kim (father) - jin.kim@example.com

@@ -1,0 +1,7 @@
+NAME:        Ella Park
+PRONOUNS:    she/her
+EMAIL:       ellapark@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: Joon Park

@@ -1,0 +1,7 @@
+NAME:        Oliver Rodriguez
+PRONOUNS:    he/him
+EMAIL:       oliver.rodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Carlos', 'last_name': 'Rodriguez'}

@@ -1,7 +1,0 @@
-NAME:        Noa Benjamin
-PRONOUNS:    they/them
-EMAIL:       noa.benjamin@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Sarah', 'last_name': 'Benjamin'}

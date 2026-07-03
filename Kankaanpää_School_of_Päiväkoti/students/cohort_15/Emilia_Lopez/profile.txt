@@ -1,0 +1,7 @@
+NAME:        Emilia Lopez
+PRONOUNS:    she/her
+EMAIL:       elopez@kankaanpaavalipasila.school.com
+COHORT:      15
+ABILITY:     0.12
+ALLERGIES:   None
+NEXT OF KIN: Juan Lopez (father)

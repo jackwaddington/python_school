@@ -1,7 +1,0 @@
-NAME:        Zara Ahmed
-PRONOUNS:    she/her
-EMAIL:       zara.ahmed@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      6
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Khalid Ahmed', 'relation': 'Father', 'phone': '+358-645678904', 'email': 'khalid.ahmed@example.com'}

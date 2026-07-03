@@ -1,0 +1,7 @@
+NAME:        Fatima El-Bashir
+PRONOUNS:    she/her
+EMAIL:       fatima.el-bashir@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammed El-Bashir', 'relationship': 'Father'}

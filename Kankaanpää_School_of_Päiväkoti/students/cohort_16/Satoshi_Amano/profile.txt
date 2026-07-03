@@ -1,7 +1,0 @@
-NAME:        Satoshi Amano
-PRONOUNS:    he/him
-EMAIL:       satoshi.amano@kankaanpaavakooliolosopaivakoti.school.com
-COHORT:      16
-ABILITY:     0.79
-ALLERGIES:   None
-NEXT OF KIN: Yumi Amano

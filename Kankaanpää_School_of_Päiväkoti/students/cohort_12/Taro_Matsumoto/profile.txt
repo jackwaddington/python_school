@@ -1,7 +1,0 @@
-NAME:        Taro Matsumoto
-PRONOUNS:    he/him
-EMAIL:       tmatsumoto@kankaanpaavakouluofpainikoti.school.com
-COHORT:      12
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: Yuki Matsumoto

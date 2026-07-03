@@ -1,7 +1,0 @@
-NAME:        Yara Al-Jaber
-PRONOUNS:    she/her
-EMAIL:       yaljaber@kankaanpaaschoolofpavikoti.com
-COHORT:      22
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Ahmed Al-Jaber

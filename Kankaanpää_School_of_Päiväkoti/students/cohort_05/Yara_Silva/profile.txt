@@ -1,0 +1,7 @@
+NAME:        Yara Silva
+PRONOUNS:    she/her
+EMAIL:       yara.silva@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.74
+ALLERGIES:   nuts
+NEXT OF KIN: {'first_name': 'Pedro', 'last_name': 'Silva'}

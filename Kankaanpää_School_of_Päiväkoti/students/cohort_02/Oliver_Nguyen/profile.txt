@@ -1,0 +1,7 @@
+NAME:        Oliver Nguyen
+PRONOUNS:    he/him
+EMAIL:       oliver.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      2
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: Tam Nguyen

@@ -1,0 +1,7 @@
+NAME:        Liu Wang
+PRONOUNS:    she/her
+EMAIL:       liu.wang@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: Mark Lee <mlee@example.com>

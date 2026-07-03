@@ -1,7 +1,0 @@
-NAME:        Maria Gonzalez
-PRONOUNS:    she/her
-EMAIL:       maria.gonzalez@kankaanpaavakouluopisto.school.com
-COHORT:      19
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Gonzalez'}

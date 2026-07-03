@@ -1,0 +1,7 @@
+NAME:        Fatima Hassan
+PRONOUNS:    she/her
+EMAIL:       fatima.hassan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hussein', 'last_name': 'Hassan'}

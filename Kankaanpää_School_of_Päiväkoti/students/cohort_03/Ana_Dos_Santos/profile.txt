@@ -1,0 +1,7 @@
+NAME:        Ana Dos Santos
+PRONOUNS:    she/her
+EMAIL:       ana.dossantos@kankaanpaavakouluofpivakoti.school.com
+COHORT:      3
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: Pedro Dos Santos (father)

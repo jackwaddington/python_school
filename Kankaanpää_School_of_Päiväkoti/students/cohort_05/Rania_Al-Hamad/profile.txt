@@ -1,0 +1,7 @@
+NAME:        Rania Al-Hamad
+PRONOUNS:    she/her
+EMAIL:       rania.al-hamad@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mohammed', 'last_name': 'Al-Hamad'}

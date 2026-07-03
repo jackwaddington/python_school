@@ -1,0 +1,7 @@
+NAME:        Mateo Díaz
+PRONOUNS:    he/him
+EMAIL:       mateo.diaz@kankaanpaavakouluofpivakaoti.school.com
+COHORT:      9
+ABILITY:     0.61
+ALLERGIES:   None
+NEXT OF KIN: Juan Díaz

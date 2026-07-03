@@ -1,0 +1,7 @@
+NAME:        Oliver Zhang
+PRONOUNS:    he/him
+EMAIL:       oliver.zhang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.72
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Zhang', 'relationship': 'Mother'}

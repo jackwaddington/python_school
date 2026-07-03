@@ -1,0 +1,7 @@
+NAME:        Taro Tanaka
+PRONOUNS:    he/him
+EMAIL:       taro.tanaka@kankaanpaevakoti.school.com
+COHORT:      14
+ABILITY:     0.24
+ALLERGIES:   None
+NEXT OF KIN: Yumi Tanaka (mother) - yumi.tanaka@example.com

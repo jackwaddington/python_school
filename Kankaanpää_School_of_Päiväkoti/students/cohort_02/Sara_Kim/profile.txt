@@ -1,0 +1,7 @@
+NAME:        Sara Kim
+PRONOUNS:    she/her
+EMAIL:       sara.kim@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ji-Yeon', 'last_name': 'Kim'}

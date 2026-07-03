@@ -1,0 +1,7 @@
+NAME:        Tomás González
+PRONOUNS:    he/him
+EMAIL:       tomas.gonzalez@kankaanpaevakotischool.com
+COHORT:      10
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: Raquel González

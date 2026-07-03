@@ -1,7 +1,0 @@
-NAME:        Oliver Li
-PRONOUNS:    he/him
-EMAIL:       oliver.li@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      13
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mei', 'last_name': 'Li'}

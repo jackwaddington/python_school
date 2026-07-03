@@ -1,0 +1,7 @@
+NAME:        Elias Olufemi
+PRONOUNS:    he/him
+EMAIL:       elias.olufemi@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Adeola Olufemi <adeola.olufemi@example.com>

@@ -1,0 +1,7 @@
+NAME:        Leila Huang
+PRONOUNS:    she/her
+EMAIL:       leila.huang@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Xin Huang', 'relationship': 'Father'}

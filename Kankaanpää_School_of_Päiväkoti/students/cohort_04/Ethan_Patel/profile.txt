@@ -1,0 +1,7 @@
+NAME:        Ethan Patel
+PRONOUNS:    he/him
+EMAIL:       ethan.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.28
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: {'name': 'Priya Patel', 'phone': '987-654-3210', 'relationship': 'Mother'}

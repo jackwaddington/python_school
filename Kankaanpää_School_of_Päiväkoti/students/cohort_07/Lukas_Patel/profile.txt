@@ -1,0 +1,7 @@
+NAME:        Lukas Patel
+PRONOUNS:    he/him
+EMAIL:       lukas.patel@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Nisha Patel

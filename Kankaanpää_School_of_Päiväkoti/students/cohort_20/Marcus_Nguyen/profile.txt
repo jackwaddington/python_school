@@ -1,7 +1,0 @@
-NAME:        Marcus Nguyen
-PRONOUNS:    he/him
-EMAIL:       marcus.nguyen@kankaanpaaschoolofpavikoti.com
-COHORT:      20
-ABILITY:     0.41
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'name': 'Hoa Nguyen', 'relationship': 'Mother', 'phone': '+358 40 3456 7890'}

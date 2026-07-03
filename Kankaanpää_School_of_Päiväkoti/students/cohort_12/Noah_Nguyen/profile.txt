@@ -1,0 +1,7 @@
+NAME:        Noah Nguyen
+PRONOUNS:    he/him
+EMAIL:       noah.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hoa Nguyen', 'phone': '+358 40 6789 0123', 'relationship': 'Mother'}

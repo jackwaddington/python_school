@@ -1,7 +1,0 @@
-NAME:        Mateo Díaz
-PRONOUNS:    he/him
-EMAIL:       mdiaz@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: Isabella Díaz <isabella.diaz@example.com>

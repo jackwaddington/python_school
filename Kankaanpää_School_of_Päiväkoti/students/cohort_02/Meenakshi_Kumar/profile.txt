@@ -1,0 +1,7 @@
+NAME:        Meenakshi Kumar
+PRONOUNS:    she/her
+EMAIL:       meenakshi.kumar@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Rajesh', 'last_name': 'Kumar'}

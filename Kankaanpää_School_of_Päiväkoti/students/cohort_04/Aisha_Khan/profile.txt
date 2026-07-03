@@ -1,7 +1,7 @@
 NAME:        Aisha Khan
 PRONOUNS:    she/her
-EMAIL:       aisha.khan@kankaanpaavakouluofpivakoti.school.com
+EMAIL:       aisha.khan@kankaanpaaschoolofpaivakoti.school.com
 COHORT:      4
-ABILITY:     0.33
+ABILITY:     0.31
 ALLERGIES:   None
-NEXT OF KIN: John Khan (Father) - john.khan@example.com
+NEXT OF KIN: Ali Khan (father), aaliyah.khan@kankaanpaaschoolofpaivakoti.school.com

@@ -1,7 +1,0 @@
-NAME:        Liam Huang
-PRONOUNS:    he/him
-EMAIL:       liam.huang@kankaanpaavakouluofpainivaltakoti.school.com
-COHORT:      26
-ABILITY:     0.77
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'XiaoMei', 'last_name': 'Hu'}

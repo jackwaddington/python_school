@@ -1,0 +1,7 @@
+NAME:        Lukas Sakamoto
+PRONOUNS:    he/him
+EMAIL:       lukassakamoto@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Yumi Sakamoto (Mother) - yumi.sakamoto@example.com

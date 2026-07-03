@@ -1,7 +1,0 @@
-NAME:        Lukas Sakai
-PRONOUNS:    he/him
-EMAIL:       lukassakai@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.3
-ALLERGIES:   None
-NEXT OF KIN: Yumi Sakai (mother) - yumisakai@example.com

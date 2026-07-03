@@ -1,7 +1,0 @@
-NAME:        Toshi Sakurai
-PRONOUNS:    he/him
-EMAIL:       toshi.sakurai@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      4
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yumi Sakurai', 'relationship': 'Mother', 'phone': '+81 90 1234 5678'}

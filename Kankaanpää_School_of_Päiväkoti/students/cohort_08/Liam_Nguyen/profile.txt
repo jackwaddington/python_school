@@ -1,0 +1,7 @@
+NAME:        Liam Nguyen
+PRONOUNS:    he/him
+EMAIL:       liam.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.12
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Trang Nguyen', 'relationship': 'Mother', 'phone': '+1 234-567-8903', 'email': 'trang.nguyen@example.com'}

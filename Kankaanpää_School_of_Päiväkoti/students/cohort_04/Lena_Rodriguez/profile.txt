@@ -1,0 +1,7 @@
+NAME:        Lena Rodriguez
+PRONOUNS:    she/her
+EMAIL:       lena.rodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Rodriguez', 'phone': '123-456-7890', 'relationship': 'Father'}

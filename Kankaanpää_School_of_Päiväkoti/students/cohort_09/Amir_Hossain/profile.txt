@@ -1,0 +1,7 @@
+NAME:        Amir Hossain
+PRONOUNS:    he/him
+EMAIL:       amir.hossain@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Rahim Hossain <rahim.hossain@example.com>

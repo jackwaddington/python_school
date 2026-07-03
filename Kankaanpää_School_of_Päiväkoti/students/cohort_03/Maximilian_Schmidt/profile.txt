@@ -1,0 +1,7 @@
+NAME:        Maximilian Schmidt
+PRONOUNS:    he/him
+EMAIL:       maximilian.schmidt@kankaanpaavakouluofpivakoti.school.com
+COHORT:      3
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: Anna Schmidt (mother)

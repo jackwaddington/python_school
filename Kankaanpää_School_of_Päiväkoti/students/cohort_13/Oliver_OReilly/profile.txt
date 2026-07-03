@@ -1,0 +1,7 @@
+NAME:        Oliver O'Reilly
+PRONOUNS:    he/him
+EMAIL:       oliver.oreilly@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: Aoife O'Reilly

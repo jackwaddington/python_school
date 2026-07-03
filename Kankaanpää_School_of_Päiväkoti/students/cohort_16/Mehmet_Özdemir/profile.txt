@@ -1,7 +1,0 @@
-NAME:        Mehmet Özdemir
-PRONOUNS:    he/him
-EMAIL:       mehmet.ozdemir@kankaanpaaschoolofpavikoti.com
-COHORT:      16
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Ayşe Özdemir (mother) - ayese.ozdemir@example.com

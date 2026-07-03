@@ -1,0 +1,7 @@
+NAME:        Elias Dos Santos
+PRONOUNS:    he/him
+EMAIL:       elias.dos-santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.85
+ALLERGIES:   ['wheat']
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Dos Santos'}

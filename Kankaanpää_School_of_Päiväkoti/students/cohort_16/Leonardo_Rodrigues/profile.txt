@@ -1,0 +1,7 @@
+NAME:        Leonardo Rodrigues
+PRONOUNS:    he/him
+EMAIL:       lrodrigues@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Rodrigues', 'relationship': 'Mother', 'phone_number': '+358 40 9012 3456', 'email': 'mrodrigues@example.com'}

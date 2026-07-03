@@ -1,7 +1,0 @@
-NAME:        Elias Said
-PRONOUNS:    he/him
-EMAIL:       elias.said@kankaanpaaschoolofpavikoti.com
-COHORT:      20
-ABILITY:     0.89
-ALLERGIES:   ['gluten']
-NEXT OF KIN: {'name': 'Nour Said', 'relationship': 'Mother', 'phone': '+358 40 9012 3456'}

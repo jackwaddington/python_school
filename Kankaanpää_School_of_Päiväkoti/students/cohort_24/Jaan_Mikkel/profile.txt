@@ -1,7 +1,0 @@
-NAME:        Jaan Mikkel
-PRONOUNS:    he/him
-EMAIL:       jmikkel@kankaanpaaschoolofpaiväkoti.com
-COHORT:      24
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Liisa', 'last_name': 'Mikkelsen'}

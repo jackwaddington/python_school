@@ -1,0 +1,7 @@
+NAME:        Aisha Kamal
+PRONOUNS:    she/her
+EMAIL:       aisha.kamal@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: John Doe <john.doe@example.com>

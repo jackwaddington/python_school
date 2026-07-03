@@ -1,0 +1,7 @@
+NAME:        Zara Al-Khalili
+PRONOUNS:    she/her
+EMAIL:       zara.al-khalili@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      2
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ahmad', 'last_name': 'Al-Khalili'}

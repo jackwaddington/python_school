@@ -1,0 +1,7 @@
+NAME:        Yara Gonzalez
+PRONOUNS:    she/her
+EMAIL:       ygonzalez@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Juan Gonzalez

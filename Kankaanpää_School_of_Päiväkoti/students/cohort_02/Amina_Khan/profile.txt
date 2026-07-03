@@ -1,7 +1,7 @@
 NAME:        Amina Khan
 PRONOUNS:    she/her
-EMAIL:       amina.khan@kankaanpaavakouluofpaivakoti.school.com
+EMAIL:       amina.khan@kankaanpaavakoulunpäiväkoti.school.com
 COHORT:      2
-ABILITY:     0.58
+ABILITY:     0.85
 ALLERGIES:   None
-NEXT OF KIN: Muhammad Khan (father)
+NEXT OF KIN: {'first_name': 'Omar', 'last_name': 'Khan'}

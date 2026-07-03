@@ -1,0 +1,7 @@
+NAME:        Noura El-Shamy
+PRONOUNS:    she/her
+EMAIL:       noura.elshamy@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.16
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Ahmed <mahmed@example.com>

@@ -1,7 +1,0 @@
-NAME:        Arnav Roy
-PRONOUNS:    he/him
-EMAIL:       arnav.roy@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      15
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Rita Roy', 'relationship': 'Mother', 'phone': '+917894561230', 'email': 'rita.roy@yahoo.in'}

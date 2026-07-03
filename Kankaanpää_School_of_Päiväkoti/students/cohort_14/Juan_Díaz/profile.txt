@@ -1,0 +1,7 @@
+NAME:        Juan Díaz
+PRONOUNS:    he/him
+EMAIL:       jdiaz@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: Juana Díaz

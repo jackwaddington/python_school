@@ -1,0 +1,7 @@
+NAME:        Mehmet Yilmaz
+PRONOUNS:    he/him
+EMAIL:       myilmaz@kankaanpaavakoulukoollisopaivakoti.school.com
+COHORT:      1
+ABILITY:     0.34
+ALLERGIES:   None
+NEXT OF KIN: Nuran Akbulut <nakbulut@example.com>

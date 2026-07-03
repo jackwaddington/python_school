@@ -1,7 +1,0 @@
-NAME:        Sofia Wu
-PRONOUNS:    she/her
-EMAIL:       sofia.wu@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Wei', 'last_name': 'Wu'}

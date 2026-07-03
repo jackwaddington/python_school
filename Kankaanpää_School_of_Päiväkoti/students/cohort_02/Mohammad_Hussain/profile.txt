@@ -1,0 +1,7 @@
+NAME:        Mohammad Hussain
+PRONOUNS:    he/him
+EMAIL:       mohammad.hussain@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      2
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'Hussain'}

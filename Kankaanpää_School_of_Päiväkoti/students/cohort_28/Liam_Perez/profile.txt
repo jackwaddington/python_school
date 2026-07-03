@@ -1,7 +1,0 @@
-NAME:        Liam Perez
-PRONOUNS:    he/him
-EMAIL:       liam.perez@kankaanpaaschoolofpaivakoti.com
-COHORT:      28
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: Carla Perez

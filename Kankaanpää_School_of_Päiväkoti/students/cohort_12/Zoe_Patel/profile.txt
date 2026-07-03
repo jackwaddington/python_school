@@ -1,0 +1,7 @@
+NAME:        Zoe Patel
+PRONOUNS:    she/her
+EMAIL:       zoe.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: Raj Patel

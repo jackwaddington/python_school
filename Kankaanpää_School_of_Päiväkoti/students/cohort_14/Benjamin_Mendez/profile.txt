@@ -1,0 +1,7 @@
+NAME:        Benjamin Mendez
+PRONOUNS:    he/him
+EMAIL:       benjaminmendez@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Maria', 'last_name': 'Méndez'}

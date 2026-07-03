@@ -1,0 +1,7 @@
+NAME:        Anna Lin
+PRONOUNS:    she/her
+EMAIL:       anna.lin@kankaanpaavakoulukohtaopaivakoti.school.com
+COHORT:      14
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Lin'}

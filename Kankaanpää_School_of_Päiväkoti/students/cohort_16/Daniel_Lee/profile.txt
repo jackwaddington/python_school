@@ -1,7 +1,0 @@
-NAME:        Daniel Lee
-PRONOUNS:    he/him
-EMAIL:       daniel.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      16
-ABILITY:     0.83
-ALLERGIES:   None
-NEXT OF KIN: Jennifer Lee

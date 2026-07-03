@@ -1,0 +1,7 @@
+NAME:        Sofia Park
+PRONOUNS:    she/her
+EMAIL:       sofia.park@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: James Park

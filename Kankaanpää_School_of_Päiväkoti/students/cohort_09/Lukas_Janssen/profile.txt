@@ -1,0 +1,7 @@
+NAME:        Lukas Janssen
+PRONOUNS:    he/him
+EMAIL:       lukas.janssen@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Anna Baumann <anna.baumann@example.com>

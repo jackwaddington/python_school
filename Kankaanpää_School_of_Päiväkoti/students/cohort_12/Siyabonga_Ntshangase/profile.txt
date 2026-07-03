@@ -1,7 +1,0 @@
-NAME:        Siyabonga Ntshangase
-PRONOUNS:    he/him
-EMAIL:       siyabonga.ntshangase@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      12
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Nomvula Ntshangase', 'relationship': 'mother'}

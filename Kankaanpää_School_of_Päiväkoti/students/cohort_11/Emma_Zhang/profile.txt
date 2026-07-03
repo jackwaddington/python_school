@@ -1,0 +1,7 @@
+NAME:        Emma Zhang
+PRONOUNS:    she/her
+EMAIL:       ezhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      11
+ABILITY:     0.69
+ALLERGIES:   None
+NEXT OF KIN: Liang Zhang

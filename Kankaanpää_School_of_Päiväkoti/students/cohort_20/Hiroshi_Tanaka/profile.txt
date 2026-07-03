@@ -1,7 +1,0 @@
-NAME:        Hiroshi Tanaka
-PRONOUNS:    he/him
-EMAIL:       htanaka@kankaanpaavakoulukohtainen.school.com
-COHORT:      20
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Tanaka'}

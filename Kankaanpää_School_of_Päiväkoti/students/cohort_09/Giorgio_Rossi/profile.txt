@@ -1,7 +1,0 @@
-NAME:        Giorgio Rossi
-PRONOUNS:    he/him
-EMAIL:       giorgio.rossi@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.15
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Laura', 'last_name': 'Rossi'}

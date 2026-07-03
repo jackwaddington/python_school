@@ -1,7 +1,7 @@
 NAME:        Taro Yamada
 PRONOUNS:    he/him
-EMAIL:       taro.yamada@kankaanpaavalipasila.school.com
+EMAIL:       taro.yamada@kankaanpaavakoulunpäiväkoti.school.com
 COHORT:      2
-ABILITY:     0.3
+ABILITY:     0.77
 ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yumi Yamada', 'relationship': 'Mother', 'phone': '+358 40 4567 8901', 'email': 'yumi.yamada@example.com'}
+NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Yamada'}

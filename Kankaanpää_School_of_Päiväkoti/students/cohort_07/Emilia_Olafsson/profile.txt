@@ -1,0 +1,7 @@
+NAME:        Emilia Olafsson
+PRONOUNS:    she/her
+EMAIL:       emilia.olafsson@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: Kári Olafsson

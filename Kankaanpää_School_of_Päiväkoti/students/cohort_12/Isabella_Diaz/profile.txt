@@ -1,0 +1,7 @@
+NAME:        Isabella Diaz
+PRONOUNS:    she/her
+EMAIL:       isabella.diaz@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.8
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Juan Diaz', 'phone': '+358 40 3456 7890', 'relationship': 'Father'}

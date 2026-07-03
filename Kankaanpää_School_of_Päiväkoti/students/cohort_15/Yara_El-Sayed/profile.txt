@@ -1,0 +1,7 @@
+NAME:        Yara El-Sayed
+PRONOUNS:    she/her
+EMAIL:       yara.elsayed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Hassan Mohammed <hassan.mohammed@example.com>

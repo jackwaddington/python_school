@@ -1,0 +1,7 @@
+NAME:        Joseph Lee
+PRONOUNS:    he/him
+EMAIL:       jlee@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.58
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Helen Lee

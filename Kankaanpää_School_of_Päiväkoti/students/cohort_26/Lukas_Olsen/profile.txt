@@ -1,7 +1,0 @@
-NAME:        Lukas Olsen
-PRONOUNS:    he/him
-EMAIL:       olsen@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.65
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Anna Olsen', 'phone': '+45678901234', 'email': 'aolsen_senior@example.com'}

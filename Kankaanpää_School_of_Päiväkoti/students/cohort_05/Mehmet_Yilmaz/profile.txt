@@ -1,0 +1,7 @@
+NAME:        Mehmet Yilmaz
+PRONOUNS:    he/him
+EMAIL:       mehmetyilmaz@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.57
+ALLERGIES:   None
+NEXT OF KIN: Ayse Yilmaz

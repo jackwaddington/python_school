@@ -1,0 +1,7 @@
+NAME:        Ziya Özdemir
+PRONOUNS:    he/him
+EMAIL:       ziya.ozdemir@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.3
+ALLERGIES:   None
+NEXT OF KIN: Fatma Özdemir <fatma.ozdemir@example.com>

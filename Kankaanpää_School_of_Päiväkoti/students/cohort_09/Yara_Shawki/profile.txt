@@ -1,0 +1,7 @@
+NAME:        Yara Shawki
+PRONOUNS:    she/her
+EMAIL:       yara.shawki@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.72
+ALLERGIES:   ['gluten']
+NEXT OF KIN: Mohamed El-Sayed <mohamed.elsayed@example.com>

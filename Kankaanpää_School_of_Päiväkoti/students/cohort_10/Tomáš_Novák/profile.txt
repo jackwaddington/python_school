@@ -1,0 +1,7 @@
+NAME:        Tomáš Novák
+PRONOUNS:    he/him
+EMAIL:       tomas.novak@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: Jana Novotná <jana.novotna@example.com>

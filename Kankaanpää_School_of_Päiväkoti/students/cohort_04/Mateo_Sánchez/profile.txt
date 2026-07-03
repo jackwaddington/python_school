@@ -1,0 +1,7 @@
+NAME:        Mateo Sánchez
+PRONOUNS:    he/him
+EMAIL:       mateo.sanchez@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'María', 'last_name': 'Rodríguez', 'relationship': 'Mother'}

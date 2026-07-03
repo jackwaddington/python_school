@@ -1,0 +1,7 @@
+NAME:        Satoshi Nakamoto
+PRONOUNS:    he/him
+EMAIL:       satoshi.nakamoto@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Yoshiko Nakamoto', 'phone': '+358-40-4567-8901', 'email': 'yoshiko.nakamoto@example.com'}

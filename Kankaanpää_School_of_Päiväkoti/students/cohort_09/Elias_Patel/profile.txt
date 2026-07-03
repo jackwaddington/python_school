@@ -1,0 +1,7 @@
+NAME:        Elias Patel
+PRONOUNS:    he/him
+EMAIL:       elias.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mitali', 'last_name': 'Patel'}

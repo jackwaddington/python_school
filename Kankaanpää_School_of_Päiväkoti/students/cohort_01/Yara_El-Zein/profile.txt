@@ -1,0 +1,7 @@
+NAME:        Yara El-Zein
+PRONOUNS:    she/her
+EMAIL:       yaraelzein@kankaanpaavakouluofpivakoti.school.com
+COHORT:      1
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ahmed El-Zein', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Eduardo Rodriguez
+PRONOUNS:    he/him
+EMAIL:       eduardo.rodriguez@kankaanpaavaschoolofpaivakoti.com
+COHORT:      1
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: María Rodríguez (mother)

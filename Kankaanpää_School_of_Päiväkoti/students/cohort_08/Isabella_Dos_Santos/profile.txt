@@ -1,7 +1,0 @@
-NAME:        Isabella Dos Santos
-PRONOUNS:    she/her
-EMAIL:       isabella.dossantos@kankaanpaaschoolofpaivakoti.com
-COHORT:      8
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: Joaquim Dos Santos (Father)

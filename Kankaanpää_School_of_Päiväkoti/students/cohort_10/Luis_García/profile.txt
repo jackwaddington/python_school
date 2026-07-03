@@ -1,7 +1,0 @@
-NAME:        Luis García
-PRONOUNS:    he/him
-EMAIL:       luis.garcia@kankaanpaavaliskoulu.school.com
-COHORT:      10
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'María García', 'phone': '+358402345678', 'email': 'maria.garcia@kankaanpaavaliskoulu.school.com'}

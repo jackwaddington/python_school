@@ -1,0 +1,7 @@
+NAME:        Yoann Biyombo
+PRONOUNS:    he/him
+EMAIL:       yoann.biyombo@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: Anne Mwanga <anne.mwanga@example.com>

@@ -1,0 +1,7 @@
+NAME:        Yara Sakai
+PRONOUNS:    they/them
+EMAIL:       ysakai@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.14
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Yoshida Sakai', 'relationship': 'Father', 'phone_number': '+358 40 3456 7890', 'email': 'ysakai@example.com'}

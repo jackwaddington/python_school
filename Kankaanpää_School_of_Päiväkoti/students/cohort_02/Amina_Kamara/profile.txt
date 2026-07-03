@@ -1,7 +1,7 @@
 NAME:        Amina Kamara
 PRONOUNS:    she/her
-EMAIL:       amina.kamara@kankaanpaavakouluofpavikoti.school.com
+EMAIL:       amina.kamara@kankaanpaaschoolofpavikoti.com
 COHORT:      2
-ABILITY:     0.57
+ABILITY:     0.46
 ALLERGIES:   None
-NEXT OF KIN: Ahmed Kamara
+NEXT OF KIN: {'first_name': 'Mohammed', 'last_name': 'Kamal'}

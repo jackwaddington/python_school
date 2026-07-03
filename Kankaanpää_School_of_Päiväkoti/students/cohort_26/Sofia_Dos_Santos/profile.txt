@@ -1,7 +1,0 @@
-NAME:        Sofia Dos Santos
-PRONOUNS:    she/her
-EMAIL:       sofiadossantos@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.43
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'name': 'Miguel Dos Santos', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Yara Sharif
+PRONOUNS:    she/her
+EMAIL:       yara.sharif@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Sharif (father) - ahmed.sharif@example.com

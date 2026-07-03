@@ -1,7 +1,0 @@
-NAME:        Rizwan Ahmed
-PRONOUNS:    he/him
-EMAIL:       rizwan.ahmed@kankaanpaavakoulu.school.com
-COHORT:      11
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Mariam', 'last_name': 'Ahmed'}

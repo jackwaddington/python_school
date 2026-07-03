@@ -1,7 +1,0 @@
-NAME:        Lukas Nakagawa
-PRONOUNS:    he/him
-EMAIL:       lukas.nakagawa@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.72
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Yumi Nakagawa', 'phone': '+358402345678'}

@@ -1,7 +1,0 @@
-NAME:        Elias Olsson
-PRONOUNS:    he/him
-EMAIL:       elias.olsson@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Anna Olsson', 'relationship': 'Mother'}

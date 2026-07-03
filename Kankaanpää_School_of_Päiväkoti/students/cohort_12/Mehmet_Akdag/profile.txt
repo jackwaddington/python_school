@@ -1,0 +1,7 @@
+NAME:        Mehmet Akdag
+PRONOUNS:    he/him
+EMAIL:       mehmet.akdag@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.75
+ALLERGIES:   ['dairy']
+NEXT OF KIN: {'first_name': 'Aysenur', 'last_name': 'Akdag'}

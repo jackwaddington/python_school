@@ -1,7 +1,0 @@
-NAME:        Renato Dos Santos
-PRONOUNS:    he/him
-EMAIL:       renato.dos-santos@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.36
-ALLERGIES:   None
-NEXT OF KIN: Maria Dos Santos

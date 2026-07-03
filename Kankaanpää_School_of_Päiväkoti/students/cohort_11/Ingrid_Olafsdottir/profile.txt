@@ -1,0 +1,7 @@
+NAME:        Ingrid Olafsdottir
+PRONOUNS:    she/her
+EMAIL:       ingridolafsdottir@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: Johann Olafsson

@@ -1,0 +1,7 @@
+NAME:        Elena Kim
+PRONOUNS:    she/her
+EMAIL:       elena.kim@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.6
+ALLERGIES:   None
+NEXT OF KIN: Jin Kim (Father) - jin.kim@example.com

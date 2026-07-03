@@ -1,0 +1,7 @@
+NAME:        Hana Nakano
+PRONOUNS:    she/her
+EMAIL:       hana.nakano@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: Yuka Nakano <yuka.nakano@example.com>

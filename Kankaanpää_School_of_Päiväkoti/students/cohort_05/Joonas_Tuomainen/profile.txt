@@ -1,0 +1,7 @@
+NAME:        Joonas Tuomainen
+PRONOUNS:    he/him
+EMAIL:       joonas.tuomainen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Heli Tuomainen (Mother) - heli.tuomainen@example.com

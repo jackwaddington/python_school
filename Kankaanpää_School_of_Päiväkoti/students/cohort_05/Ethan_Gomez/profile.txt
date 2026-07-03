@@ -1,7 +1,0 @@
-NAME:        Ethan Gomez
-PRONOUNS:    he/him
-EMAIL:       ethan.gomez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Maria Gomez (Mother) - maria.gomez@example.com

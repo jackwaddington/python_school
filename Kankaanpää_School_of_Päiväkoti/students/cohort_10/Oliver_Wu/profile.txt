@@ -1,0 +1,7 @@
+NAME:        Oliver Wu
+PRONOUNS:    he/him
+EMAIL:       oliver.wu@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.9
+ALLERGIES:   None
+NEXT OF KIN: Li Wu (Mother) - li.wu@example.com

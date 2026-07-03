@@ -1,0 +1,7 @@
+NAME:        Juliana González
+PRONOUNS:    she/her
+EMAIL:       jgonzalez@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Pedro González <pgonzalez@example.com>

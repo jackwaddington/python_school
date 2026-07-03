@@ -1,0 +1,7 @@
+NAME:        Hannah Gómez
+PRONOUNS:    she/her
+EMAIL:       hannah.gomez@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.88
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fernando', 'last_name': 'Gómez'}

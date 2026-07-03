@@ -1,7 +1,0 @@
-NAME:        Leo Lee
-PRONOUNS:    he/him
-EMAIL:       leo.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      26
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'James Lee', 'relationship': 'Father'}

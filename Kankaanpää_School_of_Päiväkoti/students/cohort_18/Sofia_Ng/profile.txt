@@ -1,7 +1,0 @@
-NAME:        Sofia Ng
-PRONOUNS:    she/her
-EMAIL:       sofiang@kankaanpaaschoolofpaivakaoti.com
-COHORT:      18
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yue', 'last_name': 'Ng'}

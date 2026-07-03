@@ -1,0 +1,7 @@
+NAME:        Noa Gonzales
+PRONOUNS:    she/her
+EMAIL:       noa.gonzales@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.79
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Gonzales', 'relationship': 'Father'}

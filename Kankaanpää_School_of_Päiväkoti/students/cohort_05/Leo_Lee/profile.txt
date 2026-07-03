@@ -1,0 +1,7 @@
+NAME:        Leo Lee
+PRONOUNS:    he/him
+EMAIL:       leolee@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Jenny Lee

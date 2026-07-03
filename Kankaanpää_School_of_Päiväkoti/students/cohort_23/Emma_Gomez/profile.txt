@@ -1,7 +1,0 @@
-NAME:        Emma Gomez
-PRONOUNS:    she/her
-EMAIL:       emma.gomez@kankaanpaaschoolofpaivakoti.com
-COHORT:      23
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Jose Gomez', 'phone': '+35840976789240'}

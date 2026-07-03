@@ -1,0 +1,7 @@
+NAME:        Sofia Wang
+PRONOUNS:    she/her
+EMAIL:       sofiawang@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Li Wang', 'relationship': 'Father', 'phone': '+861234567890'}

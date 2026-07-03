@@ -1,0 +1,7 @@
+NAME:        Lila Zhao
+PRONOUNS:    she/her
+EMAIL:       lila.zhao@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Liang', 'last_name': 'Wang', 'relationship': 'Father'}

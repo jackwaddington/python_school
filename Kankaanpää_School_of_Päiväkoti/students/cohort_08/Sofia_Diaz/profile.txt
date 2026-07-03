@@ -1,0 +1,7 @@
+NAME:        Sofia Diaz
+PRONOUNS:    she/her
+EMAIL:       sofia.diaz@kankaanpaaschoolofpavikoti.com
+COHORT:      8
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Juan Diaz

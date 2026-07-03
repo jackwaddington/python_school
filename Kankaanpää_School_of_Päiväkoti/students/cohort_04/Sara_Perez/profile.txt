@@ -1,0 +1,7 @@
+NAME:        Sara Perez
+PRONOUNS:    she/her
+EMAIL:       sara.perez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: Juan Perez (father), juan.perez@kankaanpaaschoolofpaivakoti.school.com

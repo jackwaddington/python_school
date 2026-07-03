@@ -1,0 +1,7 @@
+NAME:        Yara Gómez
+PRONOUNS:    she/her
+EMAIL:       yara.gomez@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      3
+ABILITY:     0.72
+ALLERGIES:   None
+NEXT OF KIN: Carlos Gómez (Father), carlos.gomez@example.com

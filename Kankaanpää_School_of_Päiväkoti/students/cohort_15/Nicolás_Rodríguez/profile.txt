@@ -1,0 +1,7 @@
+NAME:        Nicolás Rodríguez
+PRONOUNS:    he/him
+EMAIL:       nicolas.rodriguez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.27
+ALLERGIES:   None
+NEXT OF KIN: Ana García <ana.garcia@example.com>

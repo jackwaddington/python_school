@@ -1,7 +1,0 @@
-NAME:        Marcus Park
-PRONOUNS:    he/him
-EMAIL:       marcus.park@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: Ji Yeon Park

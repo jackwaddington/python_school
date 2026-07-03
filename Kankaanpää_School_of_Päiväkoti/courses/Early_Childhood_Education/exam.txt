@@ -1,17 +1,17 @@
 EXAM: Early Childhood Education
 ────────────────────────────────────────
 
-Q1: Which teaching approach encourages children to learn through free and self-directed play?
-  A) Play-Based Learning
-  B) Child-Centered Approach
-  C) Whole-Child Development
-  D) Reggio Emilia Approach
+Q1: What is play-based learning?
+  A) An approach that encourages children to learn through active engagement in work activities
+  B) An approach that focuses on the overall growth and development of a child
+  C) An approach that recognizes the importance of incorporating students' cultural backgrounds into the learning process
+  D) A pedagogy that emphasizes building strong, positive relationships between teachers and children
 Answer: A
 
-Q2: An educational approach that values the potential of every child as strong, capable, curious, and rich in potential is known as?
-  A) Play-Based Learning
-  B) Child-Centered Approach
-  C) Whole-Child Development
-  D) Reggio Emilia Approach
-Answer: D
+Q2: Which of the following is NOT a core concept in early childhood education in Päiväkoti?
+  A) Whole-child development
+  B) Play-based learning
+  C) Work-based learning
+  D) Relationship-based pedagogy
+Answer: C
 

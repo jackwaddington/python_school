@@ -1,7 +1,0 @@
-NAME:        Sarah Li
-PRONOUNS:    she/her
-EMAIL:       sarah.li@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Qi Li', 'phone': '+1-555-2345', 'relationship': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Maliha Ahmed
-PRONOUNS:    she/her
-EMAIL:       mahmed@kankaanpaaschoolofpaivakoti.com
-COHORT:      24
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Ahmed

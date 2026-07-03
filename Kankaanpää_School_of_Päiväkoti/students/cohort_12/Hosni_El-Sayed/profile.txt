@@ -1,7 +1,0 @@
-NAME:        Hosni El-Sayed
-PRONOUNS:    he/him
-EMAIL:       hosni.el-sayed@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      12
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'El-Sayed', 'relationship': 'Mother'}

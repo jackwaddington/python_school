@@ -1,7 +1,0 @@
-NAME:        Ivan Kim
-PRONOUNS:    he/him
-EMAIL:       ivan.kim@kankaanpaavakouluopisto.school.com
-COHORT:      19
-ABILITY:     0.69
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yeon-Joo', 'last_name': 'Kim'}

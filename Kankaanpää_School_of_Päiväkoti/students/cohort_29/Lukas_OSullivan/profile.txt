@@ -1,7 +1,0 @@
-NAME:        Lukas O'Sullivan
-PRONOUNS:    he/him
-EMAIL:       lukas.osullivan@kankaanpaavakouluofpainikoti.school.com
-COHORT:      29
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: {'name': "Siobhan O'Sullivan", 'phone': '2345678901', 'relation': 'Mother'}

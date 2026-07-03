@@ -1,7 +1,0 @@
-NAME:        Layla Ali
-PRONOUNS:    she/her
-EMAIL:       laylali@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.81
-ALLERGIES:   None
-NEXT OF KIN: Omar Ali

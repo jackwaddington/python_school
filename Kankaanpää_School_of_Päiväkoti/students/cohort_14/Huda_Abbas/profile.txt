@@ -1,7 +1,0 @@
-NAME:        Huda Abbas
-PRONOUNS:    she/her
-EMAIL:       hudaa Abbas@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.53
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Abbas

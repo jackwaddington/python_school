@@ -1,7 +1,0 @@
-NAME:        Isabella Gonzalez
-PRONOUNS:    she/her
-EMAIL:       isabella.gonzalez@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      22
-ABILITY:     0.33
-ALLERGIES:   None
-NEXT OF KIN: Carlos Gonzalez <carlos.gonzalez@example.com>

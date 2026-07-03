@@ -1,7 +1,0 @@
-NAME:        Hana Murakami
-PRONOUNS:    she/her
-EMAIL:       hana.murakami@helsinkischooloftyrechanging.com
-COHORT:      4
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: Kazuhiro Murakami

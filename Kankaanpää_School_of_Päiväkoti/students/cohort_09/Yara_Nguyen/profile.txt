@@ -1,0 +1,7 @@
+NAME:        Yara Nguyen
+PRONOUNS:    she/her
+EMAIL:       yara.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hoa', 'last_name': 'Nguyen'}

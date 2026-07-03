@@ -1,0 +1,7 @@
+NAME:        Lukas Rodriguez
+PRONOUNS:    he/him
+EMAIL:       lukas.rodriguez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.68
+ALLERGIES:   None
+NEXT OF KIN: María Rodríguez (Mother) - maria.rodriguez@example.com

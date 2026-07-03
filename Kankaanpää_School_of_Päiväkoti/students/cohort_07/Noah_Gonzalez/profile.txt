@@ -1,0 +1,7 @@
+NAME:        Noah Gonzalez
+PRONOUNS:    he/him
+EMAIL:       noah.gonzalez@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: María Gonzalez

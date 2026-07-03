@@ -1,0 +1,7 @@
+NAME:        Taro Sato
+PRONOUNS:    he/him
+EMAIL:       tarosato@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Aiko Sato', 'relation': 'Mother', 'phone': '+1267890456', 'email': 'aikosato@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Ryan Nguyen
+PRONOUNS:    he/him
+EMAIL:       ryannguyen@kankaanpaavaschoolofpaivakoti.com
+COHORT:      1
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Anh Nguyen

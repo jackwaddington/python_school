@@ -1,7 +1,0 @@
-NAME:        Yara Osuagwu
-PRONOUNS:    she/her
-EMAIL:       yara.osuagwu@kankaanpaavaliskoulu.school.com
-COHORT:      10
-ABILITY:     0.34
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'Chukwuma Osuagwu', 'phone': '+358403456789', 'email': 'chukwuma.osuagwu@kankaanpaavaliskoulu.school.com'}

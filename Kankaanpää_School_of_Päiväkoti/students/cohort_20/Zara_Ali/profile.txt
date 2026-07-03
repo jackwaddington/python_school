@@ -1,7 +1,0 @@
-NAME:        Zara Ali
-PRONOUNS:    she/her
-EMAIL:       zali@kankaanpaavakoulukohtainen.school.com
-COHORT:      20
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Hassan', 'last_name': 'Ali'}

@@ -1,7 +1,7 @@
 NAME:        Mia Lee
 PRONOUNS:    she/her
-EMAIL:       mlee@kankaanpaavakoulu.school.com
+EMAIL:       mia.lee@kankaanpaevakoti.school.com
 COHORT:      14
-ABILITY:     0.64
+ABILITY:     0.35
 ALLERGIES:   None
-NEXT OF KIN: Jin Lee <jinlee@example.com>
+NEXT OF KIN: James Lee (father) - james.lee@example.com

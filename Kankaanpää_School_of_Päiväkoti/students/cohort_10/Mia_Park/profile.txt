@@ -1,7 +1,7 @@
 NAME:        Mia Park
 PRONOUNS:    she/her
-EMAIL:       mia.park@kankaanpaavaliskoulu.school.com
+EMAIL:       mia.park@kankaanpaevakotischool.com
 COHORT:      10
-ABILITY:     0.61
-ALLERGIES:   ['eggs']
-NEXT OF KIN: {'name': 'James Park', 'phone': '+358408789014', 'email': 'james.park@kankaanpaavaliskoulu.school.com'}
+ABILITY:     0.75
+ALLERGIES:   None
+NEXT OF KIN: Jin Park

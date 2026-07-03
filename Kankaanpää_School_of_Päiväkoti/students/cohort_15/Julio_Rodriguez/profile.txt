@@ -1,0 +1,7 @@
+NAME:        Julio Rodriguez
+PRONOUNS:    he/him
+EMAIL:       julio.rodriguez@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Inés Rodríguez', 'phone': '+358-40-6789-0123', 'email': 'ines.rodriguez@example.com'}

@@ -1,0 +1,7 @@
+NAME:        Luis Garcia
+PRONOUNS:    he/him
+EMAIL:       luisgarcia@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María García', 'relation': 'Mother', 'phone': '+1987654321', 'email': 'mariagarcia@example.com'}

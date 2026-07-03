@@ -1,0 +1,7 @@
+NAME:        Elias Miller
+PRONOUNS:    he/him
+EMAIL:       elias.miller@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Sarah Miller

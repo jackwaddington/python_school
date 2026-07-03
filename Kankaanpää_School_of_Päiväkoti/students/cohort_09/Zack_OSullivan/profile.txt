@@ -1,0 +1,7 @@
+NAME:        Zack O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       zack.osullivan@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Mary O'Sullivan <mary.osullivan@example.com>

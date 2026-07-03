@@ -1,0 +1,7 @@
+NAME:        Emily Lee
+PRONOUNS:    she/her
+EMAIL:       emily.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

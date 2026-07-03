@@ -1,0 +1,7 @@
+NAME:        Yara O'Sullivan
+PRONOUNS:    she/her
+EMAIL:       yara.osullivan@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Conor O'Sullivan (Father) - conor.osullivan@example.com

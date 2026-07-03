@@ -1,0 +1,7 @@
+NAME:        Mariam Diop
+PRONOUNS:    she/her
+EMAIL:       mdiop@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.44
+ALLERGIES:   None
+NEXT OF KIN: Abdoul Diop <adiop@example.com>

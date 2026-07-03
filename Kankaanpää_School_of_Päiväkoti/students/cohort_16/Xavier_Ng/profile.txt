@@ -1,0 +1,7 @@
+NAME:        Xavier Ng
+PRONOUNS:    he/him
+EMAIL:       xavier.ng@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Li Mei <li.mei@example.com>

@@ -1,0 +1,7 @@
+NAME:        Hannah Patel
+PRONOUNS:    she/her
+EMAIL:       hannah.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.58
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ravi Patel', 'relationship': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Oskar Andersson
-PRONOUNS:    he/him
-EMAIL:       oskar.andersson@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.39
-ALLERGIES:   ['eggs']
-NEXT OF KIN: Anna Andersson

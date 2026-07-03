@@ -1,0 +1,7 @@
+NAME:        Eva Nguyen
+PRONOUNS:    she/her
+EMAIL:       eva.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      11
+ABILITY:     0.83
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Tan Nguyen', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Hana Park
+PRONOUNS:    she/her
+EMAIL:       hpark@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.12
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Joon Park', 'relationship': 'Father', 'phone_number': '+358 40 0123 4567', 'email': 'jpark@example.com'}

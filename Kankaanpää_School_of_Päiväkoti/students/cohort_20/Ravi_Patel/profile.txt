@@ -1,7 +1,0 @@
-NAME:        Ravi Patel
-PRONOUNS:    he/him
-EMAIL:       rpatel@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: Priya Patel <priya@example.com>

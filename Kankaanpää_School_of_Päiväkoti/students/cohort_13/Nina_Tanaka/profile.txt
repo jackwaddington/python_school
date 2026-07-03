@@ -1,0 +1,7 @@
+NAME:        Nina Tanaka
+PRONOUNS:    she/her
+EMAIL:       ntanaka@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Hiroshi Tanaka', 'relationship': 'Father'}

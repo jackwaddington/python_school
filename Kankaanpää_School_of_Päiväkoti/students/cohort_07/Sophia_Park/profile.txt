@@ -1,0 +1,7 @@
+NAME:        Sophia Park
+PRONOUNS:    she/her
+EMAIL:       sophia.park@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: Jin Park

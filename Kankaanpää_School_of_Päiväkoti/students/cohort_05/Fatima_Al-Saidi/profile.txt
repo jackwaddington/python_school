@@ -1,7 +1,0 @@
-NAME:        Fatima Al-Saidi
-PRONOUNS:    she/her
-EMAIL:       fatima.al-saidi@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Ali', 'last_name': 'Al-Said'}

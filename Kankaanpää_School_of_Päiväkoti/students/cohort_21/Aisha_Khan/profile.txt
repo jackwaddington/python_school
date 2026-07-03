@@ -1,7 +1,0 @@
-NAME:        Aisha Khan
-PRONOUNS:    she/her
-EMAIL:       aishakhan@kankaanpaavaloschoolofpaivakoti.com
-COHORT:      21
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: Raj Khan

@@ -1,0 +1,7 @@
+NAME:        Rafael Sanchez
+PRONOUNS:    he/him
+EMAIL:       rafael.sanchez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'María', 'last_name': 'Sánchez'}

@@ -1,0 +1,7 @@
+NAME:        Sofia Gutierrez
+PRONOUNS:    she/her
+EMAIL:       sofiagutierrez@kankaanpaavakoulunpäiväkoti.school.com
+COHORT:      6
+ABILITY:     0.55
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Juan', 'last_name': 'Rodriguez'}

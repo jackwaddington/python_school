@@ -1,7 +1,0 @@
-NAME:        Mohammed Hassan
-PRONOUNS:    he/him
-EMAIL:       mhassan@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      28
-ABILITY:     0.82
-ALLERGIES:   ['shellfish']
-NEXT OF KIN: {'first_name': 'Fatima', 'last_name': 'Hassan'}

@@ -1,7 +1,0 @@
-NAME:        Mehmet Yılmaz
-PRONOUNS:    he/him
-EMAIL:       mehmetyilmazcurrent@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      23
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Aysel', 'last_name': 'Yılmaz'}

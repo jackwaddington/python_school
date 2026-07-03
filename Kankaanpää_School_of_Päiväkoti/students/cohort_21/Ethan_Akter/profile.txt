@@ -1,7 +1,0 @@
-NAME:        Ethan Akter
-PRONOUNS:    he/him
-EMAIL:       ethan.akter@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      21
-ABILITY:     0.47
-ALLERGIES:   None
-NEXT OF KIN: Rahim Akter

@@ -1,7 +1,0 @@
-NAME:        Taro Yamada
-PRONOUNS:    he/him
-EMAIL:       taro.yamada@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      9
-ABILITY:     0.22
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Yamashita'}

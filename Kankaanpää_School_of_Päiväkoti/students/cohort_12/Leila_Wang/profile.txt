@@ -1,0 +1,7 @@
+NAME:        Leila Wang
+PRONOUNS:    she/her
+EMAIL:       leila.wang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.82
+ALLERGIES:   None
+NEXT OF KIN: Qi Wang (Mother) - qi.wang@example.com

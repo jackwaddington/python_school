@@ -1,7 +1,7 @@
 NAME:        Aisha Kumar
 PRONOUNS:    she/her
-EMAIL:       aisha.kumar@kankaanpaaschoolofpaivakoti.com
+EMAIL:       aishakumar@kankaanpaavaschoolofpaivakoti.com
 COHORT:      6
-ABILITY:     0.5
+ABILITY:     0.48
 ALLERGIES:   None
-NEXT OF KIN: Rajesh Kumar
+NEXT OF KIN: {'name': 'Rajesh Kumar', 'relationship': 'Father', 'phone': '+1234567890'}

@@ -1,0 +1,7 @@
+NAME:        Aisha Kamara
+PRONOUNS:    she/her
+EMAIL:       aisha.kamara@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Mohammed', 'last_name': 'Kamal', 'relationship': 'Father'}

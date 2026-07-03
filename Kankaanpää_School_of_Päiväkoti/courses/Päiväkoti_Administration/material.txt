@@ -1,0 +1,25 @@
+COURSE: Päiväkoti Administration
+Required passes to complete: 10
+────────────────────────────────────────
+
+ Päiväkoti Administration: Core Concepts
+
+1. **Päiväkoti (Daycare Center)**
+   - Definition: A child care facility that provides all-day care for children while their parents are working or attending school.
+   - Function: To provide a safe, nurturing environment for children, promote early childhood development, and support the needs of working parents.
+   - Example: Helsinki City Daycare Center is a Päiväkoti that offers care for infants, toddlers, and preschool-aged children. It follows the national curriculum and employs qualified staff to ensure high-quality care.
+
+2. **Curriculum**
+   - Definition: A planned sequence of experiences designed to help children learn and develop in a structured, organized way.
+   - Function: To guide teachers in planning activities that promote children's cognitive, physical, social, and emotional growth.
+   - Example: The Finnish National Core Curriculum for Early Childhood Education and Care outlines learning goals and outcomes for children aged 0-6 years. It focuses on areas such as wellbeing, learning to learn, and competence in various subject areas.
+
+3. **Risk Assessment**
+   - Definition: The systematic identification and evaluation of risks or potential hazards within a Päiväkoti and the implementation of strategies to mitigate these risks.
+   - Function: To ensure the safety and wellbeing of children, staff, and visitors in the daycare center.
+   - Example: Conducting regular fire drills, ensuring that all play equipment is age-appropriate and safe, implementing strict hygiene protocols, and providing first aid training for staff are examples of risk assessment strategies in a Päiväkoti.
+
+4. **Parental Involvement**
+   - Definition: The active participation of parents in the daycare center's activities, decision-making processes, and their child's learning and development.
+   - Function: To foster open communication between parents and teachers, promote a sense of community, and ensure that the needs of each child are being met.
+   - Example: Regular parent-teacher meetings, sharing children's work and progress reports with parents, and inviting parents to participate in school events are ways to encourage parental involvement in a Päiväkoti.

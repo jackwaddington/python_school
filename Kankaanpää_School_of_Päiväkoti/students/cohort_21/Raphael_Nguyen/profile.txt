@@ -1,7 +1,0 @@
-NAME:        Raphael Nguyen
-PRONOUNS:    he/him
-EMAIL:       raphaelnguyen@kankaanpaavaloschoolofpaivakoti.com
-COHORT:      21
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: Thuy Nguyen

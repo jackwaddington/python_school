@@ -1,0 +1,7 @@
+NAME:        Nina Patel
+PRONOUNS:    she/her
+EMAIL:       nina.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ravi Patel', 'phone': '+358-40-9012-3456', 'email': 'ravi.patel@example.com'}

@@ -1,7 +1,0 @@
-NAME:        Noah Nakamura
-PRONOUNS:    he/him
-EMAIL:       noah.nakamura@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.18
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Yumi Nakamura', 'relationship': 'Mother', 'phone': '+81-123-456-7890', 'email': 'yumi.nakamura@example.com'}

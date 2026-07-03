@@ -1,0 +1,7 @@
+NAME:        Julius Lee
+PRONOUNS:    he/him
+EMAIL:       julius.lee@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.56
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Minji Lee', 'relationship': 'Mother'}

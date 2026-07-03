@@ -1,0 +1,7 @@
+NAME:        Osman Ozturk
+PRONOUNS:    he/him
+EMAIL:       osman.ozturk@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.18
+ALLERGIES:   None
+NEXT OF KIN: Nancy Kim <nkim@example.com>

@@ -1,0 +1,7 @@
+NAME:        Leonardo Garcia
+PRONOUNS:    he/him
+EMAIL:       leonardo.garcia@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.52
+ALLERGIES:   ['nuts']
+NEXT OF KIN: {'name': 'Maria Garcia', 'phone': '+1-234-567-8903', 'relationship': 'Mother'}

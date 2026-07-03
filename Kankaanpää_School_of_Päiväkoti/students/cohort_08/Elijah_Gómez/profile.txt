@@ -1,0 +1,7 @@
+NAME:        Elijah Gómez
+PRONOUNS:    he/him
+EMAIL:       elijah.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.17
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Gómez', 'relationship': 'Father', 'phone': '+1 234-567-8907', 'email': 'juan.gomez@example.com'}

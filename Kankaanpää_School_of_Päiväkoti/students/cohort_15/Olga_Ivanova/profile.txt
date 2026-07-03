@@ -1,0 +1,7 @@
+NAME:        Olga Ivanova
+PRONOUNS:    she/her
+EMAIL:       olga.ivanova@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: Alexei Petrov <alexei.petrov@example.com>

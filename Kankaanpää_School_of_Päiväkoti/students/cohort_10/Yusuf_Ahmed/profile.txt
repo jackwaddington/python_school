@@ -1,7 +1,0 @@
-NAME:        Yusuf Ahmed
-PRONOUNS:    he/him
-EMAIL:       yusuf.ahmed@kankaanpaaschoolofpäiväkoti.com
-COHORT:      10
-ABILITY:     0.64
-ALLERGIES:   None
-NEXT OF KIN: Amina Ahmed

@@ -1,0 +1,7 @@
+NAME:        Lukas Olsen
+PRONOUNS:    he/him
+EMAIL:       lukas.olsen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      2
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Anne Olsen', 'relationship': 'Mother'}

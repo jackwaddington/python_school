@@ -1,7 +1,0 @@
-NAME:        Isabella García
-PRONOUNS:    she/her
-EMAIL:       isabella.garcia@kankaanpaavakouluofpainivaltakoti.school.com
-COHORT:      26
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Juanito', 'last_name': 'García'}

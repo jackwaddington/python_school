@@ -1,7 +1,0 @@
-NAME:        Ethan Wu
-PRONOUNS:    he/him
-EMAIL:       ethan.wu@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.19
-ALLERGIES:   None
-NEXT OF KIN: Liang Wu (father), liang.wu@example.com

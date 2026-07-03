@@ -1,0 +1,7 @@
+NAME:        Zoe Park
+PRONOUNS:    she/her
+EMAIL:       zoe.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'James', 'last_name': 'Park', 'relationship': 'Father'}

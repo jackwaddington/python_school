@@ -1,0 +1,7 @@
+NAME:        Mariam Diop
+PRONOUNS:    she/her
+EMAIL:       mariam.diop@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.39
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mamadou Diop', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Aysha Patel
+PRONOUNS:    she/her
+EMAIL:       aysha.patel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.65
+ALLERGIES:   None
+NEXT OF KIN: Rahul Kapoor <rahul.kapoor@example.com>

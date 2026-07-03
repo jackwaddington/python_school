@@ -1,0 +1,7 @@
+NAME:        Ryuichi Tanaka
+PRONOUNS:    he/him
+EMAIL:       ryuichi.tanaka@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      1
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Akiko', 'last_name': 'Tanaka'}

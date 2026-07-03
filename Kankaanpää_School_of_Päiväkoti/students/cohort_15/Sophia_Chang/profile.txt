@@ -1,0 +1,7 @@
+NAME:        Sophia Chang
+PRONOUNS:    she/her
+EMAIL:       sophia.chang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: James Chen <james.chen@example.com>

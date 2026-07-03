@@ -1,0 +1,7 @@
+NAME:        Rania Hassan
+PRONOUNS:    she/her
+EMAIL:       rania.hassan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: Mohamed El-Shafei <mohamed.el-shafei@example.com>

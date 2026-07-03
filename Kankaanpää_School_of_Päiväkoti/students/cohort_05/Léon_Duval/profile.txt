@@ -1,0 +1,7 @@
+NAME:        Léon Duval
+PRONOUNS:    he/him
+EMAIL:       leon.duval@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.8
+ALLERGIES:   None
+NEXT OF KIN: Marie Duval (Mother) - marie.duval@example.com

@@ -1,7 +1,0 @@
-NAME:        Amelia Park
-PRONOUNS:    she/her
-EMAIL:       ameliapark@kankaanpaavaloschoolofpaivakoti.com
-COHORT:      21
-ABILITY:     0.86
-ALLERGIES:   None
-NEXT OF KIN: James Park

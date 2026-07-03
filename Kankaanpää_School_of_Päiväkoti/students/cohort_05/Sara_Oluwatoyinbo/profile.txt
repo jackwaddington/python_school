@@ -1,0 +1,7 @@
+NAME:        Sara Oluwatoyinbo
+PRONOUNS:    she/her
+EMAIL:       sara.oluwatoyinbo@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.9
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Olufunke Oluwatoyinbo', 'relationship': 'Mother'}

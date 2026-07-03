@@ -1,7 +1,0 @@
-NAME:        Zachary Das
-PRONOUNS:    he/him
-EMAIL:       zacharydas@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.68
-ALLERGIES:   None
-NEXT OF KIN: Rani Das (Mother), rani.das@example.com

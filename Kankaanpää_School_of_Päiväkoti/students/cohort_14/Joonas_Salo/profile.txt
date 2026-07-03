@@ -1,0 +1,7 @@
+NAME:        Joonas Salo
+PRONOUNS:    he/him
+EMAIL:       joonas.salo@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.11
+ALLERGIES:   None
+NEXT OF KIN: Heli Salo

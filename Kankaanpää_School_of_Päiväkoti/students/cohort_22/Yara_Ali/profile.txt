@@ -1,7 +1,0 @@
-NAME:        Yara Ali
-PRONOUNS:    they/them
-EMAIL:       yara.ali@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.67
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ahmed Ali', 'phone': '+358-3456789012', 'relation': 'Father'}

@@ -1,7 +1,0 @@
-NAME:        Yara El-Assad
-PRONOUNS:    she/her
-EMAIL:       yara.el-assad@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.61
-ALLERGIES:   None
-NEXT OF KIN: Mohammed Ali <mohammedali@example.com>

@@ -1,7 +1,0 @@
-NAME:        Sara Liang
-PRONOUNS:    she/her
-EMAIL:       sara.liang@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.74
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Xin', 'last_name': 'Liang'}

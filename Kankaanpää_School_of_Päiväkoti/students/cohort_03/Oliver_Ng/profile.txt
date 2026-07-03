@@ -1,7 +1,0 @@
-NAME:        Oliver Ng
-PRONOUNS:    he/him
-EMAIL:       oliver.ng@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Linda Ng', 'phone': '+1-555-9876'}

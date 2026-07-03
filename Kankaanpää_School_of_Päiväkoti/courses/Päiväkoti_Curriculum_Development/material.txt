@@ -1,0 +1,25 @@
+COURSE: Päiväkoti Curriculum Development
+Required passes to complete: 19
+────────────────────────────────────────
+
+ Päiväkoti Curriculum Development
+
+1. Early Childhood Education (ECE) Philosophies:
+   - Reggio Emilia Approach: A child-centered, collaborative, and project-based learning approach that values children's potential and their role as active participants in the learning process. Example: A group project where children investigate and document their findings about caterpillars and their transformation into butterflies.
+   - Montessori Method: An individualized educational approach focusing on self-directed activity, hands-on learning, and collaborative play. Example: A child choosing to work with a set of manipulative materials for developing number skills, such as the number rods or sandpaper numbers.
+   - HighScope Approach: A research-based curriculum that encourages active learning, problem solving, and developmentally appropriate practices. Example: A teacher presents an objective, such as "building a tower," and the children plan, implement, and evaluate their solutions together.
+
+2. Developmentally Appropriate Practice (DAP):
+   - Definition: A framework that guides early childhood educators to design and implement learning experiences that are developmentally, culturally, linguistically, and individually appropriate for young children.
+   - How it works: Educators consider the age, stage of development, interests, and learning styles of each child when planning and implementing lessons, activities, and assessments.
+   - Concrete example: A teacher plans a nature walk that includes exploring different textures, shapes, and colors found in leaves, instead of simply leading the children on a walk without any specific focus or interactive elements.
+
+3. Child-Initiated and Adult-Supported Play:
+   - Definition: A balance between child-led exploration and adult guidance that encourages learning through play experiences while promoting social, emotional, cognitive, and physical development.
+   - How it works: Educators observe and engage in play with children, offering suggestions, questions, or materials to extend their play and support their learning without dictating the direction of the activity.
+   - Concrete example: A teacher observes a group of children playing with building blocks and suggests they create a bridge for their toy cars to cross a river made from a large plastic tub filled with water. The children design, build, and test their creation while practicing problem-solving skills, teamwork, and fine motor control.
+
+4. Emergent Curriculum:
+   - Definition: A flexible, responsive, and child-centered curriculum that evolves based on the interests, questions, and emerging needs of the children in a particular classroom.
+   - How it works: Educators observe children's play, interactions, and discussions to identify topics or themes that spark curiosity and motivation for learning. They then design lessons, activities, and assessments around these areas of interest.
+   - Concrete example: After observing that several children are interested in dinosaurs, a teacher creates a multi-week unit focusing on different types of dinosaurs, their habitats, and the geological time periods during which they lived. The curriculum may include various activities such as art projects, science experiments, and field trips to reinforce learning.

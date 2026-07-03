@@ -1,0 +1,7 @@
+NAME:        Ethan Patel
+PRONOUNS:    he/him
+EMAIL:       ethan.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      2
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: Nita Patel

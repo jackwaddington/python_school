@@ -1,7 +1,0 @@
-NAME:        Lena Perez
-PRONOUNS:    she/her
-EMAIL:       lena.perez@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.39
-ALLERGIES:   ['nuts']
-NEXT OF KIN: {'name': 'María Pérez', 'relationship': 'Mother', 'phone': '+1 555-5678', 'email': 'maria.perez@kankaanpaaschoolofpaivakoti.com'}

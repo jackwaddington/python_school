@@ -1,7 +1,0 @@
-NAME:        Mehmet Aksoy
-PRONOUNS:    he/him
-EMAIL:       mehmet.aksoy@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.9
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Senem Aksoy', 'relation': 'mother', 'phone': '+358-40-9876-5435', 'email': 'senem.aksoy@personal.com'}

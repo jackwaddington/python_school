@@ -1,0 +1,7 @@
+NAME:        Mohammad Al-Khateeb
+PRONOUNS:    he/him
+EMAIL:       mohammad.alkhateeb@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.18
+ALLERGIES:   None
+NEXT OF KIN: Hamida Rashid <hamida.rashid@example.com>

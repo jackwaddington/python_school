@@ -1,0 +1,7 @@
+NAME:        Lukas Garcia
+PRONOUNS:    he/him
+EMAIL:       lukas.garcia@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: María García (mother) - maria.garcia@example.com

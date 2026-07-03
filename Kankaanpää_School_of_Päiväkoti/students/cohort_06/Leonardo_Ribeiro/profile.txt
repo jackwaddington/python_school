@@ -1,0 +1,7 @@
+NAME:        Leonardo Ribeiro
+PRONOUNS:    he/him
+EMAIL:       leonardoribeiro@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.72
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Maria Ribeiro', 'relationship': 'Mother', 'phone': '+551234567890'}

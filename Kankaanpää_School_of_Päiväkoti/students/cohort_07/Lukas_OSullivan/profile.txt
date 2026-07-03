@@ -1,0 +1,7 @@
+NAME:        Lukas O'Sullivan
+PRONOUNS:    he/him
+EMAIL:       lukas.osullivan@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.52
+ALLERGIES:   ['shellfish']
+NEXT OF KIN: {'name': "Aisling O'Sullivan", 'phone': '+1-234-567-8905', 'relationship': 'Mother'}

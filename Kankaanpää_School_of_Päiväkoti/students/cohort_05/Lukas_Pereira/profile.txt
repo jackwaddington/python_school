@@ -1,7 +1,0 @@
-NAME:        Lukas Pereira
-PRONOUNS:    he/him
-EMAIL:       lpereira@kankaanpaaschoolofpivakoti.com
-COHORT:      5
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: Maria Pereira (Mother), maria.pereira@example.com

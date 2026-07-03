@@ -1,0 +1,7 @@
+NAME:        Omar Nguyen
+PRONOUNS:    he/him
+EMAIL:       omarnguyen@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.21
+ALLERGIES:   None
+NEXT OF KIN: Tran Nguyen

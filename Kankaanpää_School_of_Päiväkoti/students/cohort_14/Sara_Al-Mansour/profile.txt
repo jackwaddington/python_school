@@ -1,0 +1,7 @@
+NAME:        Sara Al-Mansour
+PRONOUNS:    she/her
+EMAIL:       sara.al-mansour@kankaanpaevakoti.school.com
+COHORT:      14
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: Fahad Al-Mansour (father) - fahad.al-mansour@example.com

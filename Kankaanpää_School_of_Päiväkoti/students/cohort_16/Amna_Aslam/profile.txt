@@ -1,0 +1,7 @@
+NAME:        Amna Aslam
+PRONOUNS:    she/her
+EMAIL:       amna.aslam@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: Michael Brown <mbrown@example.com>

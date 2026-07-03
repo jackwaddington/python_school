@@ -1,0 +1,7 @@
+NAME:        Noura Al-Johani
+PRONOUNS:    she/her
+EMAIL:       noura.al-johani@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.12
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Al-Saud <mohammed.alsaud@example.com>

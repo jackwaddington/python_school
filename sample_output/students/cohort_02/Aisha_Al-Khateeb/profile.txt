@@ -1,7 +1,0 @@
-NAME:        Aisha Al-Khateeb
-PRONOUNS:    she/her
-EMAIL:       aisha.al-khateeb@helsinkischooloftyrechanging.com
-COHORT:      2
-ABILITY:     0.13
-ALLERGIES:   None
-NEXT OF KIN: Ahmed Al-Khateeb

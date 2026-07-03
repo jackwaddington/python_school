@@ -1,0 +1,7 @@
+NAME:        Yair Ben-Zion
+PRONOUNS:    he/him
+EMAIL:       yben-zion@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.47
+ALLERGIES:   None
+NEXT OF KIN: Ana Ben-Zion <abenzion@example.com>

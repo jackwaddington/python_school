@@ -1,0 +1,7 @@
+NAME:        Mia Wu
+PRONOUNS:    she/her
+EMAIL:       miawu@kankaanpaavakouluofpainikoti.school.com
+COHORT:      5
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: David Wu

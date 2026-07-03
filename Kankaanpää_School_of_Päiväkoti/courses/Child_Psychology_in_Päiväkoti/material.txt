@@ -1,0 +1,25 @@
+COURSE: Child Psychology in Päiväkoti
+Required passes to complete: 17
+────────────────────────────────────────
+
+ Child Psychology in Päiväkoti:
+
+1. **Attachment Theory**
+   - Definition: Attachment theory is a concept in child psychology that explains an infant's emotional bond with their primary caregiver.
+   - How it works: The bond between an infant and their caregiver is formed through repeated interactions and experiences of comfort, safety, and love. This bond provides the child with a secure base from which to explore the world and a safe haven to return to when frightened or overwhelmed.
+   - Concrete example: A baby consistently seeks and responds positively to his mother's presence, indicating a secure attachment. When crying, he calms down quickly when she picks him up.
+
+2. **Egocentrism**
+   - Definition: Egocentrism is the inability of young children to understand another person's perspective or point of view.
+   - How it works: Children under the age of 7 or 8 years old tend to believe that everyone sees the world from their own perspective, unable to distinguish their thoughts from those of others.
+   - Concrete example: A child believes that if he closes his eyes, everything in the room also disappears because he cannot yet understand that his visual perception is subjective.
+
+3. **Cognitive Development**
+   - Definition: Cognitive development refers to changes and improvements in a child's ability to think, learn, and solve problems over time.
+   - How it works: Jean Piaget's theory of cognitive development suggests that children progress through four distinct stages (sensorimotor, preoperational, concrete operational, and formal operational) as they develop their reasoning skills.
+   - Concrete example: A preschooler in the preoperational stage struggles to conserve quantity when presented with two identical glasses filled with water, then poured into one taller glass, because he is unable to mentally manipulate the quantity of the liquid.
+
+4. **Social Development**
+   - Definition: Social development involves a child's ability to interact effectively and appropriately with others in various social contexts.
+   - How it works: Social development is influenced by factors such as family, peers, and cultural norms. Children learn social skills through interactions, observation, and feedback from others.
+   - Concrete example: A toddler in a Päiväkoti learns the concept of sharing toys with other children by observing and imitating their teachers' modeling behavior.

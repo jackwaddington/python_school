@@ -1,7 +1,0 @@
-NAME:        Sophie Park
-PRONOUNS:    she/her
-EMAIL:       sophie.park@kankaanpaavakoulusopimukoti.school.com
-COHORT:      6
-ABILITY:     0.49
-ALLERGIES:   None
-NEXT OF KIN: David Kim (father) - david.kim@gmail.com

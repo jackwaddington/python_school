@@ -1,0 +1,7 @@
+NAME:        Yara Awad
+PRONOUNS:    she/her
+EMAIL:       yara.awad@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.89
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Awad <mohammed.awad@example.com>

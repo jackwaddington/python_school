@@ -1,0 +1,7 @@
+NAME:        Kaira Nguyen
+PRONOUNS:    she/her
+EMAIL:       kaira.nguyen@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.62
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hoa', 'last_name': 'Nguyen'}

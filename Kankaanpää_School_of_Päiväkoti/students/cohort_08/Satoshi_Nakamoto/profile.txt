@@ -1,0 +1,7 @@
+NAME:        Satoshi Nakamoto
+PRONOUNS:    he/him
+EMAIL:       satoshi.nakamoto@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.24
+ALLERGIES:   None
+NEXT OF KIN: Yoshihiko Nakamoto (father) - yoshihiko.nakamoto@example.com

@@ -1,0 +1,7 @@
+NAME:        Ibrahim Oluwatomiwa
+PRONOUNS:    he/him
+EMAIL:       ibrahim.oluwatomiwa@kankaanpaaschoolofpavikoti.com
+COHORT:      2
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Funmilayo', 'last_name': 'Oluwatomiwa'}

@@ -1,0 +1,7 @@
+NAME:        Ibrahim Oluwatoyin
+PRONOUNS:    he/him
+EMAIL:       ibrahimoluwatoyin@kankaanpaavaschoolofpaivakoti.com
+COHORT:      6
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Funmilayo Oluwatoyin', 'relationship': 'Mother', 'phone': '+2341234567890'}

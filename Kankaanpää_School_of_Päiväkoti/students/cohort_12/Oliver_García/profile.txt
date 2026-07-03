@@ -1,0 +1,7 @@
+NAME:        Oliver García
+PRONOUNS:    he/him
+EMAIL:       oliver.garcia@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.71
+ALLERGIES:   None
+NEXT OF KIN: Juan García (Father) - juan.garcia@example.com

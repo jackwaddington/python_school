@@ -1,0 +1,7 @@
+NAME:        Ana Dias
+PRONOUNS:    she/her
+EMAIL:       ana.dias@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: João Dias <joao.dias@example.com>

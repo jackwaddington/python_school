@@ -1,7 +1,0 @@
-NAME:        Max Müller
-PRONOUNS:    he/him
-EMAIL:       max.muller@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      15
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Anna Müller', 'relationship': 'Mother', 'phone': '+49876543210', 'email': 'anna.muller@web.de'}

@@ -1,7 +1,0 @@
-NAME:        Óscar Gómez
-PRONOUNS:    he/him
-EMAIL:       oscar.gomez@kankaanpaaschoolofpavikoti.com
-COHORT:      28
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: María López <marialopez@example.com>

@@ -1,0 +1,7 @@
+NAME:        Ahmed Rashid
+PRONOUNS:    he/him
+EMAIL:       ahmed.rashid@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.38
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Noura', 'last_name': 'Al-Saidi', 'relationship': 'Mother'}

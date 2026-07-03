@@ -1,7 +1,0 @@
-NAME:        Mia Yang
-PRONOUNS:    she/her
-EMAIL:       mia.yang@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      20
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: Xiao Yang

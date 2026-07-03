@@ -1,0 +1,7 @@
+NAME:        Ismail Patel
+PRONOUNS:    he/him
+EMAIL:       ismailpatel@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      4
+ABILITY:     0.12
+ALLERGIES:   None
+NEXT OF KIN: Raza Patel

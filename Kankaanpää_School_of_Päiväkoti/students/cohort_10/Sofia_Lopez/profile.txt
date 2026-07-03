@@ -1,7 +1,0 @@
-NAME:        Sofia Lopez
-PRONOUNS:    she/her
-EMAIL:       sofia.lopez@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      10
-ABILITY:     0.51
-ALLERGIES:   ['seafood']
-NEXT OF KIN: {'name': 'Juan Lopez', 'phone': '+54 11 1234 5678', 'relationship': 'Father'}

@@ -1,0 +1,7 @@
+NAME:        Oliver Wilson
+PRONOUNS:    he/him
+EMAIL:       oliver.wilson@kankaanpaavakoulukohtaopaivakoti.school.com
+COHORT:      14
+ABILITY:     0.28
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Emily', 'last_name': 'Wilson'}

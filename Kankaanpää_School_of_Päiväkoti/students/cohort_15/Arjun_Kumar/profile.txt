@@ -1,0 +1,7 @@
+NAME:        Arjun Kumar
+PRONOUNS:    he/him
+EMAIL:       akumar@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.38
+ALLERGIES:   ['seafood']
+NEXT OF KIN: Renu Kumar

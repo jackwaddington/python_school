@@ -1,7 +1,0 @@
-NAME:        Ana Rodriguez
-PRONOUNS:    she/her
-EMAIL:       ana.rodriguez@kankaanpaavakouluofpainikoti.school.com
-COHORT:      29
-ABILITY:     0.9
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Juan Rodriguez', 'phone': '9012345678', 'relation': 'Father'}

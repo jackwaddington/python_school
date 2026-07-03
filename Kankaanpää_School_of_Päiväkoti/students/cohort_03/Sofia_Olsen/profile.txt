@@ -1,0 +1,7 @@
+NAME:        Sofia Olsen
+PRONOUNS:    she/her
+EMAIL:       sofiaolsen@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Kristian Olsen', 'relation': 'Father', 'phone': '+1543219876', 'email': 'kristianolsen@example.com'}

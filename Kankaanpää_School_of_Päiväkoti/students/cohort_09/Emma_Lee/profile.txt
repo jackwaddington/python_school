@@ -1,0 +1,7 @@
+NAME:        Emma Lee
+PRONOUNS:    she/her
+EMAIL:       emma.lee@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      9
+ABILITY:     0.86
+ALLERGIES:   None
+NEXT OF KIN: James Lee

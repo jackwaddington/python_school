@@ -1,7 +1,0 @@
-NAME:        Nina Lee
-PRONOUNS:    she/her
-EMAIL:       nina.lee@kankaanpaavakoulutuspaivakoti.school.com
-COHORT:      15
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'James', 'last_name': 'Lee'}

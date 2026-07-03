@@ -1,7 +1,0 @@
-NAME:        Emma Nguyen
-PRONOUNS:    she/her
-EMAIL:       emma.nguyen@kankaanpaavakooliopaivakoti.school.com
-COHORT:      10
-ABILITY:     0.39
-ALLERGIES:   None
-NEXT OF KIN: Thomas Nguyen

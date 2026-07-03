@@ -1,7 +1,0 @@
-NAME:        Elias Wu
-PRONOUNS:    he/him
-EMAIL:       elias.wu@kankaanpaavakoulusopimiskoti.school.com
-COHORT:      18
-ABILITY:     0.4
-ALLERGIES:   ['wheat']
-NEXT OF KIN: {'name': 'Liang Wu', 'relationship': 'Mother', 'phone': '+358-40-9012-3456'}

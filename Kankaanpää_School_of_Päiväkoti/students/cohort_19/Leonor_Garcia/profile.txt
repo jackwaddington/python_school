@@ -1,7 +1,0 @@
-NAME:        Leonor Garcia
-PRONOUNS:    she/her
-EMAIL:       leonor.garcia@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.72
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Maria Garcia', 'relation': 'mother', 'phone': '+358-40-1234-5680', 'email': 'maria.garcia@personal.com'}

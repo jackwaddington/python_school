@@ -1,7 +1,0 @@
-NAME:        Sofia Lee
-PRONOUNS:    she/her
-EMAIL:       sofia.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: James Lee (Father) - james.lee@example.com

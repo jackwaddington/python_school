@@ -1,0 +1,7 @@
+NAME:        Yoann Nguyen
+PRONOUNS:    he/him
+EMAIL:       yoann.nguyen@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.42
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Anh', 'last_name': 'Nguyen'}

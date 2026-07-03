@@ -1,0 +1,7 @@
+NAME:        Zara Ali
+PRONOUNS:    she/her
+EMAIL:       zara.ali@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: Faisal Ali (father) - faisal.ali@example.com

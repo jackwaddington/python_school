@@ -1,0 +1,7 @@
+NAME:        Noah Wu
+PRONOUNS:    he/him
+EMAIL:       noahwu@kankaanpaavakouluofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.29
+ALLERGIES:   None
+NEXT OF KIN: Hui-Li Wu (Mother) - huili.wu@example.com

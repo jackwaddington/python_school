@@ -1,0 +1,7 @@
+NAME:        Elias Avelar
+PRONOUNS:    he/him
+EMAIL:       elias.avelar@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.78
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Carlos Avelar', 'relationship': 'Father'}

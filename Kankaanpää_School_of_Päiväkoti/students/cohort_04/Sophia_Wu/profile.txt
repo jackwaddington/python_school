@@ -1,0 +1,7 @@
+NAME:        Sophia Wu
+PRONOUNS:    she/her
+EMAIL:       sophia.wu@kankaanpaaschoolofpaivakoti.com
+COHORT:      4
+ABILITY:     0.34
+ALLERGIES:   ['eggs']
+NEXT OF KIN: {'name': 'Liang Wu', 'phone': '123-456-7890', 'relationship': 'Father'}

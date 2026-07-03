@@ -1,7 +1,0 @@
-NAME:        Sara El-Zeiny
-PRONOUNS:    she/her
-EMAIL:       sara.el-zeiny@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      2
-ABILITY:     0.5
-ALLERGIES:   None
-NEXT OF KIN: Mohammed El-Zeiny (father)

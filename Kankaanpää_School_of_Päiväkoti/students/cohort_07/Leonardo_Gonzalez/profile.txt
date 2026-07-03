@@ -1,0 +1,7 @@
+NAME:        Leonardo Gonzalez
+PRONOUNS:    he/him
+EMAIL:       leonardo.gonzalez@kankaanpaaschoolofpäiväkoti.com
+COHORT:      7
+ABILITY:     0.8
+ALLERGIES:   ['dairy']
+NEXT OF KIN: Maria Gonzalez

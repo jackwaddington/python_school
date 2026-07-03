@@ -1,7 +1,0 @@
-NAME:        Ramy Al-Masri
-PRONOUNS:    he/him
-EMAIL:       ralmasri@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      19
-ABILITY:     0.45
-ALLERGIES:   None
-NEXT OF KIN: Sara Smith <sarasmith@example.com>

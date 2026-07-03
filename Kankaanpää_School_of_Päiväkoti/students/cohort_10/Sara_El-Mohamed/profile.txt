@@ -1,0 +1,7 @@
+NAME:        Sara El-Mohamed
+PRONOUNS:    she/her
+EMAIL:       sara.el-mohamed@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.54
+ALLERGIES:   None
+NEXT OF KIN: Ahmed Ahmed <ahmed.ahmed@example.com>

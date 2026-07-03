@@ -1,0 +1,7 @@
+NAME:        Mira Park
+PRONOUNS:    she/her
+EMAIL:       mira.park@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: James Kim <james.kim@example.com>

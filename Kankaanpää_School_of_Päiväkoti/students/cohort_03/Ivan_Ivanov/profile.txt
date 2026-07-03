@@ -1,0 +1,7 @@
+NAME:        Ivan Ivanov
+PRONOUNS:    he/him
+EMAIL:       ivan.ivanov@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.52
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Elena', 'last_name': 'Ivanova'}

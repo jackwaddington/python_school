@@ -1,0 +1,7 @@
+NAME:        Omar El-Gamal
+PRONOUNS:    he/him
+EMAIL:       omar.el-gamal@kankaanpaaschoolofpaivakoti.com
+COHORT:      8
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: Najwa El-Gamal (mother) - najwa.el-gamal@example.com

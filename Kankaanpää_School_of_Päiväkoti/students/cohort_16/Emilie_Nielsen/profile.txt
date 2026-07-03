@@ -1,0 +1,7 @@
+NAME:        Emilie Nielsen
+PRONOUNS:    she/her
+EMAIL:       enielsen@kankaanpaaschoolofpaivakoti.com
+COHORT:      16
+ABILITY:     0.27
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Peter Nielsen', 'relationship': 'Father', 'phone_number': '+358 40 4567 8901', 'email': 'pnielsen@example.com'}

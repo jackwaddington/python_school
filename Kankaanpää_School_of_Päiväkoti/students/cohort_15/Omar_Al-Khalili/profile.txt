@@ -1,7 +1,0 @@
-NAME:        Omar Al-Khalili
-PRONOUNS:    he/him
-EMAIL:       omaralkhalili@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.43
-ALLERGIES:   None
-NEXT OF KIN: Nour Al-Khalili

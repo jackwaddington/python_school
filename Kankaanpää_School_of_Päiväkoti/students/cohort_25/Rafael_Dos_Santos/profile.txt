@@ -1,7 +1,0 @@
-NAME:        Rafael Dos Santos
-PRONOUNS:    he/him
-EMAIL:       rafael.dos-santos@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      25
-ABILITY:     0.27
-ALLERGIES:   None
-NEXT OF KIN: Maria Dos Santos

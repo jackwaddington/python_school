@@ -1,0 +1,7 @@
+NAME:        Oskar Jansson
+PRONOUNS:    he/him
+EMAIL:       oskar.jansson@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      3
+ABILITY:     0.46
+ALLERGIES:   None
+NEXT OF KIN: Lisa Jansson

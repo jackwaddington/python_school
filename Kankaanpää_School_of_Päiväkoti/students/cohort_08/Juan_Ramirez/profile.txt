@@ -1,0 +1,7 @@
+NAME:        Juan Ramirez
+PRONOUNS:    he/him
+EMAIL:       juanramirez@kankaanpaavaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.32
+ALLERGIES:   None
+NEXT OF KIN: María Ramirez

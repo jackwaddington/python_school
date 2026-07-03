@@ -1,0 +1,7 @@
+NAME:        Isabella Gómez
+PRONOUNS:    she/her
+EMAIL:       isabella.gomez@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Carlos Rodriguez <carlosrodriguez@example.com>

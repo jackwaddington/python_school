@@ -1,0 +1,7 @@
+NAME:        Noah Park
+PRONOUNS:    he/him
+EMAIL:       noah.park@kankaanpaavakouluofpivakaoti.school.com
+COHORT:      9
+ABILITY:     0.43
+ALLERGIES:   None
+NEXT OF KIN: Jiyeon Park

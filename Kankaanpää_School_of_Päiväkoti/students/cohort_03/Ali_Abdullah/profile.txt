@@ -1,0 +1,7 @@
+NAME:        Ali Abdullah
+PRONOUNS:    he/him
+EMAIL:       aliamdullah@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Amina Abdullah', 'relation': 'Mother', 'phone': '+1897654321', 'email': 'aminaabdullah@example.com'}

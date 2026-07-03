@@ -1,0 +1,7 @@
+NAME:        Liam Zheng
+PRONOUNS:    he/him
+EMAIL:       liam.zheng@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.85
+ALLERGIES:   ['nuts']
+NEXT OF KIN: Mei Zheng

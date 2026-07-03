@@ -1,0 +1,7 @@
+NAME:        Emilia Park
+PRONOUNS:    she/her
+EMAIL:       emilia.park@kankaanpaavakouluofpivaikoti.school.com
+COHORT:      3
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Jin Park (Father), jin.park@example.com

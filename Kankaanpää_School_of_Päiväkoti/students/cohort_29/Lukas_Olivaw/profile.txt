@@ -1,7 +1,0 @@
-NAME:        Lukas Olivaw
-PRONOUNS:    he/him
-EMAIL:       lukasolivaw@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.58
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Marie', 'last_name': 'Olivier'}

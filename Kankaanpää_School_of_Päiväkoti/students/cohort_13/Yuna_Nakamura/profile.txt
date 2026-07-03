@@ -1,0 +1,7 @@
+NAME:        Yuna Nakamura
+PRONOUNS:    she/her
+EMAIL:       yuna.nakamura@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Takeshi Nakamura', 'relationship': 'Father'}

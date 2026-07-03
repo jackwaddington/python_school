@@ -1,0 +1,7 @@
+NAME:        Mia Li
+PRONOUNS:    she/her
+EMAIL:       mia.li@kankaanpaavakouluofpivakoti.school.com
+COHORT:      7
+ABILITY:     0.74
+ALLERGIES:   None
+NEXT OF KIN: Hong Li

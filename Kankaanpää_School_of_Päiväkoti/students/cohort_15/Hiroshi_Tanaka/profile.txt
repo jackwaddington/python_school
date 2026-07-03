@@ -1,0 +1,7 @@
+NAME:        Hiroshi Tanaka
+PRONOUNS:    he/him
+EMAIL:       hiroshi.tanaka@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      15
+ABILITY:     0.12
+ALLERGIES:   Shellfish
+NEXT OF KIN: Yumi Nakamura <yumi.nakamura@example.com>

@@ -1,7 +1,0 @@
-NAME:        Oliver Nakamura
-PRONOUNS:    he/him
-EMAIL:       oliver.nakamura@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      5
-ABILITY:     0.48
-ALLERGIES:   None
-NEXT OF KIN: Yumi Nakamura (Mother) - yumi.nakamura@example.com

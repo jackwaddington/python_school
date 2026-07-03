@@ -1,0 +1,7 @@
+NAME:        Aya Matsumoto
+PRONOUNS:    she/her
+EMAIL:       aya.matsumoto@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.81
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Hiroshi', 'last_name': 'Matsumoto'}

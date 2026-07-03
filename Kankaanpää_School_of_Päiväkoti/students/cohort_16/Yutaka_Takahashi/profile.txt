@@ -1,0 +1,7 @@
+NAME:        Yutaka Takahashi
+PRONOUNS:    he/him
+EMAIL:       yutaka.takahashi@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.1
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Yumi', 'last_name': 'Takahashi'}

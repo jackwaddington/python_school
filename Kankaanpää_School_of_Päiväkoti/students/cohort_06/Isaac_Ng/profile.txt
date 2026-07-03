@@ -1,7 +1,0 @@
-NAME:        Isaac Ng
-PRONOUNS:    he/him
-EMAIL:       isaac.ng@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      6
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Sin Ng', 'relation': 'Mother', 'phone': '+358-945678907', 'email': 'sin.ng@example.com'}

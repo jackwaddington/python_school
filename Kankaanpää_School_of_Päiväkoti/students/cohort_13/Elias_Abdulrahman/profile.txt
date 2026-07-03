@@ -1,0 +1,7 @@
+NAME:        Elias Abdulrahman
+PRONOUNS:    he/him
+EMAIL:       elias.abdulrahman@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Fatima Abdulrahman', 'relationship': 'Mother'}

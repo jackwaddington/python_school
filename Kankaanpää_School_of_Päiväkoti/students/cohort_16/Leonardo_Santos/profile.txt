@@ -1,0 +1,7 @@
+NAME:        Leonardo Santos
+PRONOUNS:    he/him
+EMAIL:       leonardo.santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      16
+ABILITY:     0.31
+ALLERGIES:   None
+NEXT OF KIN: Isabella Silva <isabella.silva@example.com>

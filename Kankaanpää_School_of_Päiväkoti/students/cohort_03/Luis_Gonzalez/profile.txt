@@ -1,0 +1,7 @@
+NAME:        Luis Gonzalez
+PRONOUNS:    he/him
+EMAIL:       luis.gonzalez@kankaanpaavakouluofpivakoti.school.com
+COHORT:      3
+ABILITY:     0.49
+ALLERGIES:   None
+NEXT OF KIN: Maria Gonzalez (mother)

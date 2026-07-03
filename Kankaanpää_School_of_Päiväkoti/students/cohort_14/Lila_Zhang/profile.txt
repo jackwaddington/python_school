@@ -1,0 +1,7 @@
+NAME:        Lila Zhang
+PRONOUNS:    she/her
+EMAIL:       lilazhang@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Jackie', 'last_name': 'Zhang'}

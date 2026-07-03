@@ -1,0 +1,7 @@
+NAME:        Leila Hassan
+PRONOUNS:    she/her
+EMAIL:       leila.hassan@kankaanpaavakoulu.school.com
+COHORT:      10
+ABILITY:     0.72
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Ali <mohammed.ali@example.com>

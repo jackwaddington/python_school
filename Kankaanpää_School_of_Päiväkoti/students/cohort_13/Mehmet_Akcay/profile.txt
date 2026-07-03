@@ -1,7 +1,0 @@
-NAME:        Mehmet Akcay
-PRONOUNS:    he/him
-EMAIL:       macay@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.73
-ALLERGIES:   None
-NEXT OF KIN: Fatma Acay <fatmaacay@example.com>

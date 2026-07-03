@@ -1,0 +1,7 @@
+NAME:        Max Kumar
+PRONOUNS:    he/him
+EMAIL:       max.kumar@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.87
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Raj Kumar', 'relationship': 'Father'}

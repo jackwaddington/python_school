@@ -1,7 +1,0 @@
-NAME:        Mia Patel
-PRONOUNS:    she/her
-EMAIL:       mia.patel@kankaanpaaschoolofpaivakoti.com
-COHORT:      13
-ABILITY:     0.34
-ALLERGIES:   ['dairy']
-NEXT OF KIN: {'name': 'Ravi Patel', 'relationship': 'Father', 'phone_number': '+91-98765432'}

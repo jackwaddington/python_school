@@ -1,0 +1,7 @@
+NAME:        Amy Park
+PRONOUNS:    she/her
+EMAIL:       amy.park@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: James Park

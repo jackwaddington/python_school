@@ -1,0 +1,7 @@
+NAME:        Mohammad Ahmed
+PRONOUNS:    he/him
+EMAIL:       mohammad.ahmed@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.59
+ALLERGIES:   None
+NEXT OF KIN: Amina Ahmed

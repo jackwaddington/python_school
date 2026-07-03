@@ -1,0 +1,7 @@
+NAME:        Sara El-Amin
+PRONOUNS:    she/her
+EMAIL:       sara.el-amin@kankaanpaaschoolofpäiväkoti.com
+COHORT:      7
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: Ahmed El-Amin

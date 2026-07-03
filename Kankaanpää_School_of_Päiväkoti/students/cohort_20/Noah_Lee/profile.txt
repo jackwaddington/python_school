@@ -1,7 +1,0 @@
-NAME:        Noah Lee
-PRONOUNS:    he/him
-EMAIL:       noah.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      20
-ABILITY:     0.31
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Ji Lee', 'phone': '+358 40 6789 0123', 'relation': 'Mother'}

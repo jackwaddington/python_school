@@ -1,7 +1,0 @@
-NAME:        Tamara Bakare
-PRONOUNS:    she/her
-EMAIL:       tamara.bakare@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.84
-ALLERGIES:   None
-NEXT OF KIN: Olufemi Bakare <olufemi.bakare@example.com>

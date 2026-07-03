@@ -1,0 +1,7 @@
+NAME:        Thomasina Taylor
+PRONOUNS:    she/her
+EMAIL:       ttaylor@kankaanpaaschoolofpaivakoti.com
+COHORT:      7
+ABILITY:     0.36
+ALLERGIES:   None
+NEXT OF KIN: James Taylor <jtaylor@example.com>

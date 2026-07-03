@@ -1,0 +1,7 @@
+NAME:        Santiago Lopez
+PRONOUNS:    he/him
+EMAIL:       santiago.lopez@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.77
+ALLERGIES:   None
+NEXT OF KIN: Maria Garcia <maria.garcia@example.com>

@@ -1,7 +1,0 @@
-NAME:        Mohammed El-Said
-PRONOUNS:    he/him
-EMAIL:       mohammed.el-said@kankaanpaaschoolofpaivakoti.com
-COHORT:      29
-ABILITY:     0.51
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Aisha', 'last_name': 'El-Said'}

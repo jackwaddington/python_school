@@ -1,0 +1,7 @@
+NAME:        Oliver Mendes
+PRONOUNS:    he/him
+EMAIL:       oliver.mendes@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      7
+ABILITY:     0.47
+ALLERGIES:   ['eggs']
+NEXT OF KIN: {'name': 'Maria Mendes', 'phone': '+1-234-567-8909', 'relationship': 'Mother'}

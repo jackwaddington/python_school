@@ -1,0 +1,7 @@
+NAME:        Victoria Lee
+PRONOUNS:    she/her
+EMAIL:       vlee@kankaanpaaschoolofpaivakoti.com
+COHORT:      13
+ABILITY:     0.53
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Sung Lee', 'relationship': 'Father'}

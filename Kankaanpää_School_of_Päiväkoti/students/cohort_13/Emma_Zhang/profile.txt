@@ -1,0 +1,7 @@
+NAME:        Emma Zhang
+PRONOUNS:    she/her
+EMAIL:       emma.zhang@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      13
+ABILITY:     0.84
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Jian Zhang', 'relationship': 'Father'}

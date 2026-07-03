@@ -1,7 +1,0 @@
-NAME:        Leo Lee
-PRONOUNS:    he/him
-EMAIL:       leo.lee@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      1
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Li Mei Lee', 'relation': 'mother', 'phone': '+6598765432', 'email': 'limeilee@example.com'}

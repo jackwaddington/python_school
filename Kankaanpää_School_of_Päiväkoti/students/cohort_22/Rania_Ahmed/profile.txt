@@ -1,7 +1,0 @@
-NAME:        Rania Ahmed
-PRONOUNS:    she/her
-EMAIL:       rania.ahmed@kankaanpaaschoolofpaivakoti.com
-COHORT:      22
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: Mohamed Ahmed <mohamed.ahmed@example.com>

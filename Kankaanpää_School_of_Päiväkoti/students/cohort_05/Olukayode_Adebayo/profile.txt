@@ -1,0 +1,7 @@
+NAME:        Olukayode Adebayo
+PRONOUNS:    he/him
+EMAIL:       olukayode.adebayo@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Toyin', 'last_name': 'Adebayo'}

@@ -1,0 +1,7 @@
+NAME:        Mohammad Ali
+PRONOUNS:    he/him
+EMAIL:       mohammad.ali@kankaanpaaschoolofpaivakoti.com
+COHORT:      9
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: John Smith <john.smith@example.com>

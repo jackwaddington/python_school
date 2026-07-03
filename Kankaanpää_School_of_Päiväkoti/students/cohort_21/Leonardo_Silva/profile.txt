@@ -1,7 +1,0 @@
-NAME:        Leonardo Silva
-PRONOUNS:    he/him
-EMAIL:       leonardo.silva@kankaanpaaschoolofpavikoti.com
-COHORT:      21
-ABILITY:     0.38
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Mariana Silva', 'relationship': 'Mother'}

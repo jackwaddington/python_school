@@ -1,0 +1,7 @@
+NAME:        Aisha Kumar
+PRONOUNS:    she/her
+EMAIL:       aisha.kumar@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.73
+ALLERGIES:   None
+NEXT OF KIN: John Doe <john.doe@example.com>

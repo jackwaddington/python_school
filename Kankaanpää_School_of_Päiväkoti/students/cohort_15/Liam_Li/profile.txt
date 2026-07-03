@@ -1,0 +1,7 @@
+NAME:        Liam Li
+PRONOUNS:    he/him
+EMAIL:       lli@kankaanpaaschoolofpaivakoti.com
+COHORT:      15
+ABILITY:     0.21
+ALLERGIES:   ['nuts']
+NEXT OF KIN: Mei Li

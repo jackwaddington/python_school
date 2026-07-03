@@ -1,7 +1,0 @@
-NAME:        Lukas Mendez
-PRONOUNS:    he/him
-EMAIL:       lukas.mendez@kankaanpaaschoolofpaivakoti.com
-COHORT:      12
-ABILITY:     0.62
-ALLERGIES:   None
-NEXT OF KIN: María Mendez (mother)

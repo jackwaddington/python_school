@@ -1,0 +1,7 @@
+NAME:        Hana Kamal
+PRONOUNS:    she/her
+EMAIL:       hana.kamal@kankaanpaevakoti.school.com
+COHORT:      14
+ABILITY:     0.23
+ALLERGIES:   None
+NEXT OF KIN: Mohammed Kamal (father) - mohammed.kamal@example.com

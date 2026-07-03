@@ -1,7 +1,0 @@
-NAME:        Sofia Gómez
-PRONOUNS:    she/her
-EMAIL:       sofiagomez@kankaanpaavaloschoolofpaivakoti.com
-COHORT:      21
-ABILITY:     0.6
-ALLERGIES:   None
-NEXT OF KIN: Juan Gómez

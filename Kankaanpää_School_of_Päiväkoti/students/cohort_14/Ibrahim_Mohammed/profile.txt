@@ -1,0 +1,7 @@
+NAME:        Ibrahim Mohammed
+PRONOUNS:    he/him
+EMAIL:       ibrahim.mohammed@kankaanpaavakoulukohtaopaivakoti.school.com
+COHORT:      14
+ABILITY:     0.37
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Fatima', 'last_name': 'Mohammed'}

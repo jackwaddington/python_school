@@ -1,7 +1,0 @@
-NAME:        Elias Raj
-PRONOUNS:    he/him
-EMAIL:       elias.raj@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.38
-ALLERGIES:   ['dairy']
-NEXT OF KIN: Priya Raj

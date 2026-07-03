@@ -1,7 +1,0 @@
-NAME:        Laura Duarte
-PRONOUNS:    she/her
-EMAIL:       laura.duarte@kankaanpaaschoolofpaivakoti.com
-COHORT:      25
-ABILITY:     0.32
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Jorge Duarte', 'relationship': 'Father', 'phone': '+55-123-456-7890', 'email': 'jorge.duarte@example.com'}

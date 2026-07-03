@@ -1,7 +1,0 @@
-NAME:        Ahmed Nguyen
-PRONOUNS:    he/him
-EMAIL:       ahmednguyen@kankaanpaaschoolofpaivakoti.com
-COHORT:      26
-ABILITY:     0.35
-ALLERGIES:   None
-NEXT OF KIN: {'name': 'Nguyet Nguyen', 'relationship': 'Mother'}

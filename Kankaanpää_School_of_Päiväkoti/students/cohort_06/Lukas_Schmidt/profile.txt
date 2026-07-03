@@ -1,0 +1,7 @@
+NAME:        Lukas Schmidt
+PRONOUNS:    he/him
+EMAIL:       lukas.schmidt@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.33
+ALLERGIES:   None
+NEXT OF KIN: Anna Schmidt

@@ -1,7 +1,0 @@
-NAME:        Lukas Söderlund
-PRONOUNS:    he/him
-EMAIL:       lukas.soderlund@kankaanpaavakoulunpivaikotilaskenta.school.com
-COHORT:      7
-ABILITY:     0.42
-ALLERGIES:   None
-NEXT OF KIN: Anna Söderlund

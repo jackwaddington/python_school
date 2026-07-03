@@ -1,7 +1,0 @@
-NAME:        Marcus Kim
-PRONOUNS:    he/him
-EMAIL:       marcus.kim@kankaanpaavakouluofpivakoti.school.com
-COHORT:      4
-ABILITY:     0.63
-ALLERGIES:   None
-NEXT OF KIN: Jin Kim (Mother) - jin.kim@example.com

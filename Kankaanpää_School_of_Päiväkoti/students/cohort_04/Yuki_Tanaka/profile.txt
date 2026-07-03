@@ -1,7 +1,0 @@
-NAME:        Yuki Tanaka
-PRONOUNS:    she/her
-EMAIL:       yuki.tanaka@kankaanpaavakouluofpivakovki.school.com
-COHORT:      4
-ABILITY:     0.8
-ALLERGIES:   None
-NEXT OF KIN: Takeshi Tanaka

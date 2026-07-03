@@ -1,0 +1,7 @@
+NAME:        Lukas Yang
+PRONOUNS:    he/him
+EMAIL:       lukas.yang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      10
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Sophia Lee <sophialeemail@example.com>

@@ -1,7 +1,7 @@
 NAME:        Aisha Kumar
 PRONOUNS:    she/her
-EMAIL:       aisha.kumar@kankaanpaaschoolofpaivakoti.school.com
+EMAIL:       aisha.kumar@kankaanpaaschoolofpavikoti.com
 COHORT:      2
-ABILITY:     0.42
+ABILITY:     0.68
 ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Raj', 'last_name': 'Kumari'}
+NEXT OF KIN: John Kumar

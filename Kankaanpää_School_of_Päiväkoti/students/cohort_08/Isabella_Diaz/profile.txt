@@ -1,0 +1,7 @@
+NAME:        Isabella Diaz
+PRONOUNS:    she/her
+EMAIL:       isabella.diaz@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      8
+ABILITY:     0.15
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Juan Diaz', 'relationship': 'Father', 'phone': '+1 234-567-8904', 'email': 'juan.diaz@example.com'}

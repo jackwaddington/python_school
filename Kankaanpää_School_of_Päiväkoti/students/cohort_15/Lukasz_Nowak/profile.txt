@@ -1,7 +1,0 @@
-NAME:        Lukasz Nowak
-PRONOUNS:    he/him
-EMAIL:       lukasznowak@kankaanpaaschoolofpaivakaoti.com
-COHORT:      15
-ABILITY:     0.7
-ALLERGIES:   None
-NEXT OF KIN: Anna Nowak

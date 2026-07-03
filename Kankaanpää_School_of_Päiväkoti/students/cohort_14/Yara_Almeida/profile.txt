@@ -1,0 +1,7 @@
+NAME:        Yara Almeida
+PRONOUNS:    she/her
+EMAIL:       yaraalmeida@kankaanpaaschoolofpaivakoti.com
+COHORT:      14
+ABILITY:     0.24
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Miguel', 'last_name': 'Almeida'}

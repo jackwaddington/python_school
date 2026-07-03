@@ -1,7 +1,0 @@
-NAME:        Omar El-Husseini
-PRONOUNS:    he/him
-EMAIL:       oelhussaini@kankaanpaavakouluofpainikoti.school.com
-COHORT:      12
-ABILITY:     0.55
-ALLERGIES:   None
-NEXT OF KIN: Rania El-Husseini

@@ -1,7 +1,0 @@
-NAME:        Noah Lee
-PRONOUNS:    he/him
-EMAIL:       noah.lee@kankaanpaaschoolofpaivakoti.com
-COHORT:      17
-ABILITY:     0.78
-ALLERGIES:   None
-NEXT OF KIN: David Lee (father)

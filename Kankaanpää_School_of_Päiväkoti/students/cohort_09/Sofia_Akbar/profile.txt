@@ -1,0 +1,7 @@
+NAME:        Sofia Akbar
+PRONOUNS:    she/her
+EMAIL:       sofia.akbar@kankaanpaavakouluofpivakaoti.school.com
+COHORT:      9
+ABILITY:     0.35
+ALLERGIES:   None
+NEXT OF KIN: Ali Akbar

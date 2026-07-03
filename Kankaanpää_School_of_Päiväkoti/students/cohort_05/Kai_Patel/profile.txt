@@ -1,0 +1,7 @@
+NAME:        Kai Patel
+PRONOUNS:    he/him
+EMAIL:       kai.patel@kankaanpaaschoolofpaivakoti.com
+COHORT:      5
+ABILITY:     0.67
+ALLERGIES:   None
+NEXT OF KIN: {'first_name': 'Ravi', 'last_name': 'Patel'}

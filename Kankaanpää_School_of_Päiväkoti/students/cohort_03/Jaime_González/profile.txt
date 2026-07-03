@@ -1,0 +1,7 @@
+NAME:        Jaime González
+PRONOUNS:    he/him
+EMAIL:       jaimegonzalez@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.85
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María González', 'relation': 'Mother', 'phone': '+1987654321', 'email': 'mariagonzalez@example.com'}

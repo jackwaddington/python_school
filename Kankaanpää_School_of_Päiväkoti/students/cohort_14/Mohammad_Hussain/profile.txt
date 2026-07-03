@@ -1,7 +1,0 @@
-NAME:        Mohammad Hussain
-PRONOUNS:    he/him
-EMAIL:       mohammad.hussain@kankaanpaaschoolofpaivakoti.com
-COHORT:      14
-ABILITY:     0.59
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Sara', 'last_name': 'Hussain'}

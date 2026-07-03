@@ -1,7 +1,0 @@
-NAME:        Jack Kim
-PRONOUNS:    he/him
-EMAIL:       jack.kim@kankaanpaavakouluofpaivakoti.school.com
-COHORT:      17
-ABILITY:     0.87
-ALLERGIES:   None
-NEXT OF KIN: {'first_name': 'Soo-Jin', 'last_name': 'Kim'}

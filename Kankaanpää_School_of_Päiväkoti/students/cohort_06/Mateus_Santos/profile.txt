@@ -1,0 +1,7 @@
+NAME:        Mateus Santos
+PRONOUNS:    he/him
+EMAIL:       mateus.santos@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: Rafaela Dias <rafaela.dias@example.com>

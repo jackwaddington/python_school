@@ -1,7 +1,0 @@
-NAME:        Oliver Gonzalez
-PRONOUNS:    he/him
-EMAIL:       oliver.gonzalez@kankaanpaaschoolofpaivakoti.com
-COHORT:      9
-ABILITY:     0.34
-ALLERGIES:   None
-NEXT OF KIN: Maria Gonzalez (mother), maria.gonzalez@example.com

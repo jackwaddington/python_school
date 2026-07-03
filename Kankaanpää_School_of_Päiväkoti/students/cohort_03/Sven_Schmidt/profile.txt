@@ -1,7 +1,0 @@
-NAME:        Sven Schmidt
-PRONOUNS:    he/him
-EMAIL:       sven.schmidt@kankaanpaaschoolofpaivakoti.school.com
-COHORT:      3
-ABILITY:     0.82
-ALLERGIES:   None
-NEXT OF KIN: Anna Schmidt <anna.schmidt@example.com>

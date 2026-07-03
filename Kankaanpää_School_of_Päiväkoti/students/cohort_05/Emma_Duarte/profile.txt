@@ -1,0 +1,7 @@
+NAME:        Emma Duarte
+PRONOUNS:    she/her
+EMAIL:       emma.duarte@kankaanpaavakouluofpivakoti.school.com
+COHORT:      5
+ABILITY:     0.64
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'María Duarte', 'relationship': 'Mother'}

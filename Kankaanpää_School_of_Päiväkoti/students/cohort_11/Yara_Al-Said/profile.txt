@@ -1,0 +1,7 @@
+NAME:        Yara Al-Said
+PRONOUNS:    they/them
+EMAIL:       yara.al-said@kankaanpaavakouluopisto.school.com
+COHORT:      11
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Abdulaziz Al-Said <abdulaziz.al-said@example.com>

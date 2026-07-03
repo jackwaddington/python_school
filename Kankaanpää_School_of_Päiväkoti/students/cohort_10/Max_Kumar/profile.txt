@@ -1,0 +1,7 @@
+NAME:        Max Kumar
+PRONOUNS:    he/him
+EMAIL:       max.kumar@kankaanpaaschoolofpavikoti.com
+COHORT:      10
+ABILITY:     0.66
+ALLERGIES:   None
+NEXT OF KIN: Raj Kumar

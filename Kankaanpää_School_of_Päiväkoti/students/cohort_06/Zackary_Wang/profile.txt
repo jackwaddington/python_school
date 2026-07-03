@@ -1,0 +1,7 @@
+NAME:        Zackary Wang
+PRONOUNS:    he/him
+EMAIL:       zackary.wang@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      6
+ABILITY:     0.41
+ALLERGIES:   None
+NEXT OF KIN: Li Mei <li.mei@example.com>

@@ -1,0 +1,7 @@
+NAME:        Aisha Khan
+PRONOUNS:    she/her
+EMAIL:       aishakhan@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.4
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Mohammad Ali Khan', 'relation': 'Father', 'phone': '+1234567890', 'email': 'mohammadali.khan@example.com'}

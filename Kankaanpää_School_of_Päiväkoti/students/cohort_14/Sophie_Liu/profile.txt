@@ -1,0 +1,7 @@
+NAME:        Sophie Liu
+PRONOUNS:    she/her
+EMAIL:       sliu@kankaanpaavakoulu-pivvakoti.school.com
+COHORT:      14
+ABILITY:     0.13
+ALLERGIES:   None
+NEXT OF KIN: Li Liu

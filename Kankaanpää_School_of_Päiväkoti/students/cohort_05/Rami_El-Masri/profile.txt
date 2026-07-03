@@ -1,0 +1,7 @@
+NAME:        Rami El-Masri
+PRONOUNS:    he/him
+EMAIL:       rami.elmasri@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      5
+ABILITY:     0.48
+ALLERGIES:   None
+NEXT OF KIN: Noura El-Masri (Mother) - noura.elmasri@example.com

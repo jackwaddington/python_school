@@ -1,0 +1,7 @@
+NAME:        Sanaa El-Khalili
+PRONOUNS:    she/her
+EMAIL:       sanaaelkhalili@kankaanpaavalaschoolofpavikoti.school.com
+COHORT:      3
+ABILITY:     0.5
+ALLERGIES:   None
+NEXT OF KIN: {'name': 'Ahmed El-Khalili', 'relation': 'Father', 'phone': '+1234567890', 'email': 'ahmedelkhalili@example.com'}

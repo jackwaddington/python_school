@@ -1,0 +1,26 @@
+EXAM: Päiväkoti Curriculum Development
+────────────────────────────────────────
+
+Q1: Which early childhood education philosophy emphasizes child-led, collaborative, and project-based learning?
+  A) Reggio Emilia Approach
+  B) Montessori Method
+  C) HighScope Approach
+Answer: A
+
+Q2: In Developmentally Appropriate Practice (DAP), educators consider the interests and learning styles of each child when planning lessons. True or False?
+  A) True
+  B) False
+Answer: A
+
+Q3: Child-initiated and adult-supported play encourages learning through play experiences while promoting social, emotional, cognitive, and physical development. How does this approach work?
+  A) Educators dictate the direction of the activity and provide suggestions for learning
+  B) Educators observe and engage in play with children, offering questions and materials to support their learning
+  C) Children are left to play without adult interaction
+Answer: B
+
+Q4: Emergent curriculum is based on the interests, questions, and emerging needs of the children in a particular classroom. What does this approach do?
+  A) Implements a fixed, pre-planned curriculum without considering the children's interests
+  B) Creates a flexible, responsive, and child-centered curriculum that evolves based on the children's interests
+  C) Focuses only on the teacher's interests and ignores the children's questions
+Answer: B
+

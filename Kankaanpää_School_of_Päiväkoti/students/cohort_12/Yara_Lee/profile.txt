@@ -1,0 +1,7 @@
+NAME:        Yara Lee
+PRONOUNS:    she/her
+EMAIL:       yara.lee@kankaanpaaschoolofpaivakoti.school.com
+COHORT:      12
+ABILITY:     0.45
+ALLERGIES:   None
+NEXT OF KIN: James Lee (Father) - james.lee@example.com
